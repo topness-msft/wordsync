@@ -3,7 +3,6 @@
 import copy
 import re
 import difflib
-import whisper
 
 
 def run_whisper(mp3_path, model_name="base"):
@@ -11,6 +10,7 @@ def run_whisper(mp3_path, model_name="base"):
 
     Returns list of {word, start, end} flattened from all segments.
     """
+    import whisper
     model = whisper.load_model(model_name)
     result = model.transcribe(
         mp3_path,
