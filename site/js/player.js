@@ -251,11 +251,14 @@
     seekingTouch = false;
   });
 
-  // Word click → translation
+  // Word click → seek + translation
   transcript.addEventListener('click', function (e) {
     const wordEl = e.target.closest('.word');
     if (wordEl) {
       e.stopPropagation();
+      audio.currentTime = parseFloat(wordEl.dataset.start);
+      updateProgress();
+      updateHighlight();
       showPopup(wordEl);
     }
   });
