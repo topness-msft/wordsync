@@ -541,6 +541,21 @@ body {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.speed-btn {
+  font-family: var(--display);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  color: var(--gelb);
+  background: rgba(241, 196, 15, 0.12);
+  border: 1px solid rgba(241, 196, 15, 0.25);
+  border-radius: 4px;
+  padding: 4px 10px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
 /* === Safe area for notched devices === */
 @supports (padding-bottom: env(safe-area-inset-bottom)) {
   .player-bar {

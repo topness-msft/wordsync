@@ -281,6 +281,17 @@
     }
   });
 
+  // --- Playback speed ---
+  const speeds = [0.5, 0.75, 1.0, 1.25, 1.5];
+  let speedIndex = 2; // start at 1.0×
+  const speedBtn = document.getElementById('speed-btn');
+
+  speedBtn.addEventListener('click', function () {
+    speedIndex = (speedIndex + 1) % speeds.length;
+    audio.playbackRate = speeds[speedIndex];
+    speedBtn.textContent = speeds[speedIndex] + '×';
+  });
+
   // --- Init ---
   document.addEventListener('DOMContentLoaded', loadEpisode);
 })();
