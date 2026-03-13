@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+build/tmp/
+build/*.mp3
+
+# Whisper model cache
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Translation cache should be committed (exception)
+!build/translation_cache.json
+
+# Test artifacts
+test/

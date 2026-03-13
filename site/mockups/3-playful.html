@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>WordSync — Playful Mockup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&family=Baloo+2:wght@700;800&display=swap" rel="stylesheet">
+<style>
+  /* ─── Reset & Base ─────────────────────────────────── */
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --green-bright: #58cc02;
+    --green-deep:   #46a302;
+    --green-pale:   #d7ffb8;
+    --yellow-warm:  #ffc800;
+    --yellow-light: #fff4cc;
+    --orange-pop:   #ff9600;
+    --red-soft:     #ff4b4b;
+    --blue-sky:     #1cb0f6;
+    --blue-pale:    #ddf4ff;
+    --purple-fun:   #ce82ff;
+    --bg-cream:     #fffbf0;
+    --bg-card:      #ffffff;
+    --ink:          #3c3c3c;
+    --ink-light:    #777777;
+    --ink-faint:    #b0a89a;
+    --shadow-sm:    0 2px 0 rgba(0,0,0,.08);
+    --shadow-md:    0 4px 12px rgba(0,0,0,.1);
+    --shadow-pop:   0 6px 20px rgba(0,0,0,.15);
+    --radius-sm:    10px;
+    --radius-md:    16px;
+    --radius-lg:    24px;
+    --radius-pill:  999px;
+  }
+
+  html { font-size: 16px; -webkit-tap-highlight-color: transparent; }
+
+  body {
+    font-family: 'Nunito', sans-serif;
+    background: var(--bg-cream);
+    color: var(--ink);
+    min-height: 100dvh;
+    display: flex;
+    justify-content: center;
+    overflow-x: hidden;
+  }
+
+  /* Subtle paper texture via repeating gradient */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 27px,
+        rgba(200,185,160,.07) 27px,
+        rgba(200,185,160,.07) 28px
+      );
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .phone-frame {
+    width: 100%;
+    max-width: 390px;
+    min-height: 100dvh;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px; /* room for player bar */
+  }
+
+  /* ─── Header ───────────────────────────────────────── */
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: var(--bg-cream);
+    padding: 14px 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2.5px solid rgba(0,0,0,.04);
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .brand-icon {
+    width: 36px;
+    height: 36px;
+    background: var(--green-bright);
+    border-radius: var(--radius-sm);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 3px 0 var(--green-deep);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .brand-icon svg { width: 20px; height: 20px; }
+
+  .brand-name {
+    font-family: 'Baloo 2', cursive;
+    font-size: 1.45rem;
+    font-weight: 800;
+    color: var(--ink);
+    letter-spacing: -.02em;
+    line-height: 1;
+  }
+
+  .brand-name span { color: var(--green-bright); }
+
+  .header-date {
+    font-size: .78rem;
+    font-weight: 700;
+    color: var(--ink-faint);
+    background: rgba(0,0,0,.04);
+    padding: 4px 12px;
+    border-radius: var(--radius-pill);
+    letter-spacing: .02em;
+  }
+
+  /* ─── Progress strip ───────────────────────────────── */
+  .progress-strip {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .progress-track {
+    flex: 1;
+    height: 12px;
+    background: #ede8df;
+    border-radius: var(--radius-pill);
+    overflow: hidden;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,.06);
+  }
+
+  .progress-fill {
+    height: 100%;
+    width: 35%;
+    background: linear-gradient(90deg, var(--green-bright), #7dd930);
+    border-radius: var(--radius-pill);
+    position: relative;
+    transition: width .6s cubic-bezier(.34,1.56,.64,1);
+  }
+
+  .progress-fill::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 6px;
+    right: 6px;
+    height: 4px;
+    background: rgba(255,255,255,.35);
+    border-radius: var(--radius-pill);
+  }
+
+  .progress-label {
+    font-size: .78rem;
+    font-weight: 800;
+    color: var(--green-bright);
+    white-space: nowrap;
+  }
+
+  /* ─── Transcript area ──────────────────────────────── */
+  .transcript {
+    padding: 8px 20px 20px;
+    flex: 1;
+  }
+
+  .article-block { margin-bottom: 18px; }
+
+  .article-headline {
+    font-family: 'Baloo 2', cursive;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.35;
+    margin-bottom: 6px;
+    padding: 8px 14px;
+    background: var(--yellow-light);
+    border-radius: var(--radius-md);
+    border-left: 4px solid var(--yellow-warm);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .article-body {
+    font-size: 1.05rem;
+    line-height: 1.85;
+    padding: 6px 4px 6px 14px;
+    color: var(--ink);
+  }
+
+  /* ─── Words ────────────────────────────────────────── */
+  .word {
+    display: inline;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 2px 1px;
+    margin: 0 -.5px;
+    transition:
+      background .15s ease,
+      color .15s ease,
+      transform .15s cubic-bezier(.34,1.56,.64,1);
+    position: relative;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .word:active {
+    transform: scale(.92);
+  }
+
+  /* Bounce animation on tap */
+  @keyframes wordBounce {
+    0%   { transform: scale(1); }
+    30%  { transform: scale(1.18) translateY(-2px); }
+    50%  { transform: scale(.95); }
+    70%  { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+
+  .word.tapped {
+    animation: wordBounce .45s cubic-bezier(.34,1.56,.64,1);
+  }
+
+  .word:hover {
+    background: rgba(88,204,2,.1);
+  }
+
+  /* Active / currently-playing word */
+  .word.active {
+    background: var(--green-bright);
+    color: #fff;
+    font-weight: 700;
+    border-radius: 6px;
+    padding: 2px 5px;
+    box-shadow: 0 2px 0 var(--green-deep), 0 4px 10px rgba(88,204,2,.3);
+  }
+
+  /* Previously spoken words — slight dim */
+  .word.spoken {
+    color: var(--ink-light);
+  }
+
+  /* Selected word (for translation) */
+  .word.selected {
+    background: var(--blue-sky);
+    color: #fff;
+    font-weight: 700;
+    border-radius: 6px;
+    padding: 2px 5px;
+    box-shadow: 0 2px 0 #0e8ecf, 0 4px 10px rgba(28,176,246,.3);
+  }
+
+  /* ─── Translation Bubble ───────────────────────────── */
+  .translation-bubble {
+    position: absolute;
+    z-index: 100;
+    background: var(--bg-card);
+    border: 2.5px solid var(--blue-sky);
+    border-radius: var(--radius-md);
+    padding: 12px 16px;
+    box-shadow: var(--shadow-pop);
+    min-width: 180px;
+    max-width: 280px;
+    pointer-events: auto;
+    animation: bubblePop .35s cubic-bezier(.34,1.56,.64,1);
+    transform-origin: bottom center;
+  }
+
+  .translation-bubble::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid var(--blue-sky);
+  }
+
+  .translation-bubble::before {
+    content: '';
+    position: absolute;
+    bottom: -7px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid var(--bg-card);
+    z-index: 1;
+  }
+
+  @keyframes bubblePop {
+    0%   { opacity: 0; transform: scale(.5) translateY(8px); }
+    60%  { transform: scale(1.05) translateY(-2px); }
+    100% { opacity: 1; transform: scale(1) translateY(0); }
+  }
+
+  .bubble-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6px;
+  }
+
+  .bubble-de {
+    font-weight: 800;
+    font-size: 1.05rem;
+    color: var(--ink);
+  }
+
+  .bubble-flag {
+    font-size: .85rem;
+    background: var(--blue-pale);
+    padding: 2px 8px;
+    border-radius: var(--radius-pill);
+    font-weight: 700;
+    color: var(--blue-sky);
+  }
+
+  .bubble-en {
+    font-size: 1rem;
+    color: var(--green-deep);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .bubble-en::before {
+    content: '→';
+    color: var(--ink-faint);
+    font-size: .9rem;
+  }
+
+  .bubble-note {
+    font-size: .78rem;
+    color: var(--ink-faint);
+    font-style: italic;
+    margin-top: 4px;
+  }
+
+  .bubble-close {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    width: 22px;
+    height: 22px;
+    border: none;
+    background: #f0f0f0;
+    border-radius: 50%;
+    font-size: .75rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ink-light);
+    font-weight: 800;
+    transition: background .15s;
+  }
+
+  .bubble-close:hover { background: #e0e0e0; }
+
+  /* ─── Static demo bubble (positioned inline for mockup) ── */
+  .demo-bubble-anchor {
+    position: relative;
+    display: inline;
+  }
+
+  .demo-bubble-anchor .translation-bubble {
+    position: absolute;
+    bottom: calc(100% + 14px);
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  /* ─── Audio Player Bar ─────────────────────────────── */
+  .player-bar {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 390px;
+    z-index: 80;
+    padding: 0 14px 16px;
+    background: linear-gradient(to top, var(--bg-cream) 75%, transparent);
+    pointer-events: none;
+  }
+
+  .player-inner {
+    pointer-events: auto;
+    background: var(--bg-card);
+    border-radius: var(--radius-lg);
+    padding: 12px 16px 14px;
+    box-shadow: 0 -2px 20px rgba(0,0,0,.1), 0 4px 0 rgba(0,0,0,.03);
+    border: 2px solid rgba(0,0,0,.05);
+  }
+
+  .player-waveform {
+    display: flex;
+    align-items: end;
+    gap: 2.5px;
+    height: 28px;
+    margin-bottom: 10px;
+    padding: 0 2px;
+  }
+
+  .wave-bar {
+    flex: 1;
+    border-radius: 3px;
+    min-height: 4px;
+    transition: background .2s;
+  }
+
+  .wave-bar.played {
+    background: var(--green-bright);
+  }
+
+  .wave-bar.unplayed {
+    background: #e0dcd4;
+  }
+
+  .wave-bar.current {
+    background: var(--yellow-warm);
+    animation: wavePulse 1s ease-in-out infinite;
+  }
+
+  @keyframes wavePulse {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: .5; }
+  }
+
+  .player-controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+
+  .player-time {
+    font-size: .75rem;
+    font-weight: 700;
+    color: var(--ink-faint);
+    min-width: 70px;
+    letter-spacing: .02em;
+  }
+
+  .player-time.right { text-align: right; }
+
+  .player-buttons {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .btn-player {
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform .15s cubic-bezier(.34,1.56,.64,1), box-shadow .15s;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .btn-player:active { transform: scale(.9) !important; }
+
+  .btn-skip {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #f5f0e8;
+    color: var(--ink-light);
+    font-size: .85rem;
+  }
+
+  .btn-skip:hover { background: #ece7de; }
+
+  .btn-play {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: var(--green-bright);
+    color: white;
+    font-size: 1.1rem;
+    box-shadow: 0 4px 0 var(--green-deep), 0 6px 16px rgba(88,204,2,.35);
+    position: relative;
+  }
+
+  .btn-play:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 0 var(--green-deep), 0 8px 20px rgba(88,204,2,.4);
+  }
+
+  .btn-speed {
+    width: 40px;
+    height: 40px;
+    border-radius: var(--radius-sm);
+    background: var(--yellow-light);
+    color: var(--orange-pop);
+    font-family: 'Nunito', sans-serif;
+    font-size: .72rem;
+    font-weight: 800;
+    border: 2px solid var(--yellow-warm);
+  }
+
+  .btn-speed:hover { background: #ffefb3; }
+
+  /* ─── Decorative doodles ───────────────────────────── */
+  .doodle {
+    position: absolute;
+    opacity: .06;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ─── Responsive ───────────────────────────────────── */
+  @media (min-width: 420px) {
+    body { background: #eee8dd; }
+    .phone-frame {
+      margin: 0 auto;
+      background: var(--bg-cream);
+      box-shadow: 0 0 40px rgba(0,0,0,.1);
+    }
+  }
+
+  /* ─── Scrollbar ────────────────────────────────────── */
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #d6d0c6; border-radius: 4px; }
+
+  /* ─── Streak badge ─────────────────────────────────── */
+  .streak-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: linear-gradient(135deg, var(--orange-pop), var(--yellow-warm));
+    color: white;
+    font-size: .75rem;
+    font-weight: 800;
+    padding: 4px 10px;
+    border-radius: var(--radius-pill);
+    margin: 6px 20px 2px;
+    box-shadow: 0 2px 0 rgba(200,120,0,.25);
+    width: fit-content;
+  }
+
+  .streak-badge svg { width: 14px; height: 14px; }
+</style>
+</head>
+<body>
+
+<div class="phone-frame">
+
+  <!-- ─── Header ──────────────────────────────────── -->
+  <header class="header">
+    <div class="brand">
+      <div class="brand-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round">
+          <path d="M3 18v-6a9 9 0 0 1 18 0v6"/>
+          <path d="M8 18v-4"/>
+          <path d="M12 18v-8"/>
+          <path d="M16 18v-5"/>
+        </svg>
+      </div>
+      <div class="brand-name">Word<span>Sync</span></div>
+    </div>
+    <div class="header-date">Mar 13, 2026</div>
+  </header>
+
+  <!-- ─── Streak badge ────────────────────────────── -->
+  <div class="streak-badge">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c.5 3.5-1 6-3 8 1 1.5 2.5 2.5 4 2.5-1 2-3 3.5-5 4 3 1 7 0 9-3 2.5-3.5 1-8-1-11-.5 2-2 3.5-4 3.5 0-2-.5-3-1-4z"/></svg>
+    3-day streak!
+  </div>
+
+  <!-- ─── Progress strip ─────────────────────────── -->
+  <div class="progress-strip">
+    <div class="progress-track">
+      <div class="progress-fill"></div>
+    </div>
+    <div class="progress-label">35%</div>
+  </div>
+
+  <!-- ─── Transcript ─────────────────────────────── -->
+  <div class="transcript">
+
+    <!-- Article 1 -->
+    <div class="article-block">
+      <div class="article-headline" id="h1"></div>
+      <div class="article-body" id="b1"></div>
+    </div>
+
+    <!-- Article 2 -->
+    <div class="article-block">
+      <div class="article-headline" id="h2"></div>
+      <div class="article-body" id="b2"></div>
+    </div>
+
+  </div><!-- /transcript -->
+
+</div><!-- /phone-frame -->
+
+<!-- ─── Audio Player Bar ──────────────────────────── -->
+<div class="player-bar">
+  <div class="player-inner">
+    <div class="player-waveform" id="waveform"></div>
+    <div class="player-controls">
+      <div class="player-time">0:27 / 1:18</div>
+      <div class="player-buttons">
+        <button class="btn-player btn-skip" title="Back 5s">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12.5 3a9 9 0 1 0 9 9h-2a7 7 0 1 1-7-7v4l5-5-5-5v4z"/><text x="9" y="16" font-size="7.5" font-weight="800" font-family="Nunito,sans-serif" fill="currentColor">5</text></svg>
+        </button>
+        <button class="btn-player btn-play" id="playBtn" title="Play / Pause">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" id="playIcon"><polygon points="6,3 20,12 6,21"/></svg>
+        </button>
+        <button class="btn-player btn-skip" title="Forward 5s">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M11.5 3a9 9 0 1 1-9 9h2a7 7 0 1 0 7-7v4l-5-5 5-5v4z"/><text x="8.5" y="16" font-size="7.5" font-weight="800" font-family="Nunito,sans-serif" fill="currentColor">5</text></svg>
+        </button>
+        <button class="btn-player btn-speed" title="Playback speed">0.6×</button>
+      </div>
+      <div class="player-time right">−0:51</div>
+    </div>
+  </div>
+</div>
+
+<!-- ─── Translation Bubble (positioned via JS) ──── -->
+<div class="translation-bubble" id="bubble" style="display:none; position:fixed; z-index:200;">
+  <button class="bubble-close" id="bubbleClose" aria-label="Close">✕</button>
+  <div class="bubble-header">
+    <span class="bubble-de" id="bubbleDe"></span>
+    <span class="bubble-flag">🇩🇪 → 🇬🇧</span>
+  </div>
+  <div class="bubble-en" id="bubbleEn"></div>
+  <div class="bubble-note" id="bubbleNote"></div>
+</div>
+
+<script>
+// ─── Data ─────────────────────────────────────────────
+const articles = [
+  {
+    headline: 'Französischer Soldat stirbt bei Angriff im Irak',
+    body: 'Bei einem iranischen Raketenangriff auf eine Militärbasis im Irak ist ein französischer Soldat getötet worden. Der Élysée-Palast in Paris bestätigte den Tod des Soldaten.'
+  },
+  {
+    headline: 'UN-Sicherheitsrat verurteilt Irans Attacken auf Nachbarstaaten',
+    body: 'Das höchste Gremium der Vereinten Nationen hat das sofortige Ende der iranischen Angriffe auf die umliegenden Golfstaaten gefordert.'
+  }
+];
+
+const translations = {
+  'französischer': { en: 'French', note: 'adj · masculine nominative' },
+  'soldat': { en: 'soldier', note: 'noun · der Soldat' },
+  'stirbt': { en: 'dies', note: 'verb · sterben (to die)' },
+  'bei': { en: 'at / during', note: 'preposition' },
+  'angriff': { en: 'attack', note: 'noun · der Angriff' },
+  'im': { en: 'in the', note: 'contraction · in + dem' },
+  'irak': { en: 'Iraq', note: 'proper noun' },
+  'einem': { en: 'a / an', note: 'article · dative' },
+  'iranischen': { en: 'Iranian', note: 'adj · dative' },
+  'raketenangriff': { en: 'missile attack', note: 'noun · der Raketenangriff' },
+  'auf': { en: 'on / upon', note: 'preposition' },
+  'eine': { en: 'a / an', note: 'article · feminine accusative' },
+  'militärbasis': { en: 'military base', note: 'noun · die Militärbasis' },
+  'ist': { en: 'is', note: 'verb · sein (to be)' },
+  'ein': { en: 'a / an', note: 'article · masculine nominative' },
+  'getötet': { en: 'killed', note: 'past participle · töten' },
+  'worden': { en: 'been', note: 'auxiliary · passive voice' },
+  'der': { en: 'the', note: 'article · masculine nominative' },
+  'élysée-palast': { en: 'Élysée Palace', note: 'proper noun · French presidential residence' },
+  'in': { en: 'in', note: 'preposition' },
+  'paris': { en: 'Paris', note: 'proper noun' },
+  'bestätigte': { en: 'confirmed', note: 'verb · bestätigen (past tense)' },
+  'den': { en: 'the', note: 'article · masculine accusative' },
+  'tod': { en: 'death', note: 'noun · der Tod' },
+  'des': { en: 'of the', note: 'article · masculine genitive' },
+  'soldaten': { en: 'soldier', note: 'noun · genitive/dative form' },
+  'un-sicherheitsrat': { en: 'UN Security Council', note: 'noun · der UN-Sicherheitsrat' },
+  'verurteilt': { en: 'condemns', note: 'verb · verurteilen' },
+  'irans': { en: "Iran's", note: 'genitive proper noun' },
+  'attacken': { en: 'attacks', note: 'noun · die Attacke (plural)' },
+  'nachbarstaaten': { en: 'neighbouring states', note: 'noun · die Nachbarstaaten' },
+  'das': { en: 'the', note: 'article · neuter nominative' },
+  'höchste': { en: 'highest', note: 'adj · superlative of hoch' },
+  'gremium': { en: 'body / committee', note: 'noun · das Gremium' },
+  'vereinten': { en: 'united', note: 'adj · past participle of vereinen' },
+  'nationen': { en: 'nations', note: 'noun · die Nation (plural)' },
+  'hat': { en: 'has', note: 'verb · haben (auxiliary)' },
+  'sofortige': { en: 'immediate', note: 'adj · sofortig' },
+  'ende': { en: 'end', note: 'noun · das Ende' },
+  'iranischen': { en: 'Iranian', note: 'adj · genitive plural' },
+  'angriffe': { en: 'attacks', note: 'noun · der Angriff (plural)' },
+  'die': { en: 'the', note: 'article · plural accusative' },
+  'umliegenden': { en: 'surrounding', note: 'adj · umliegend' },
+  'golfstaaten': { en: 'Gulf states', note: 'noun · die Golfstaaten' },
+  'gefordert': { en: 'demanded', note: 'past participle · fordern' }
+};
+
+// The word that is "currently playing"
+const ACTIVE_WORD_INDEX = 14; // "Militärbasis"
+// Words before the active one are "spoken"
+const SPOKEN_BEFORE = true;
+
+// ─── Render words ─────────────────────────────────────
+let globalWordIdx = 0;
+
+function renderWords(text, container, isHeadline) {
+  const words = text.split(/\s+/);
+  words.forEach((word, i) => {
+    const span = document.createElement('span');
+    span.className = 'word';
+    span.textContent = word;
+    span.dataset.idx = globalWordIdx;
+    span.dataset.clean = word.replace(/[.,;:!?"""„()]/g, '').toLowerCase();
+
+    if (SPOKEN_BEFORE && globalWordIdx < ACTIVE_WORD_INDEX) {
+      span.classList.add('spoken');
+    }
+    if (globalWordIdx === ACTIVE_WORD_INDEX) {
+      span.classList.add('active');
+    }
+
+    container.appendChild(span);
+    if (i < words.length - 1) container.appendChild(document.createTextNode(' '));
+    globalWordIdx++;
+  });
+}
+
+renderWords(articles[0].headline, document.getElementById('h1'), true);
+renderWords(articles[0].body, document.getElementById('b1'), false);
+renderWords(articles[1].headline, document.getElementById('h2'), true);
+renderWords(articles[1].body, document.getElementById('b2'), false);
+
+// ─── Waveform bars ────────────────────────────────────
+const waveEl = document.getElementById('waveform');
+const barCount = 48;
+const playedPct = 0.35;
+
+for (let i = 0; i < barCount; i++) {
+  const bar = document.createElement('div');
+  bar.className = 'wave-bar';
+
+  // Pseudo-random heights seeded by index
+  const h = 5 + Math.abs(Math.sin(i * 1.7 + 0.3) * 23);
+  bar.style.height = h + 'px';
+
+  const pct = i / barCount;
+  if (pct < playedPct - 0.02) bar.classList.add('played');
+  else if (pct < playedPct + 0.02) bar.classList.add('current');
+  else bar.classList.add('unplayed');
+
+  waveEl.appendChild(bar);
+}
+
+// ─── Tap interactions ─────────────────────────────────
+const bubble = document.getElementById('bubble');
+const bubbleDe = document.getElementById('bubbleDe');
+const bubbleEn = document.getElementById('bubbleEn');
+const bubbleNote = document.getElementById('bubbleNote');
+const bubbleClose = document.getElementById('bubbleClose');
+let selectedWord = null;
+
+function showBubble(wordEl) {
+  const clean = wordEl.dataset.clean;
+  const t = translations[clean];
+  if (!t) return;
+
+  // Remove previous selection
+  if (selectedWord) selectedWord.classList.remove('selected');
+  selectedWord = wordEl;
+  wordEl.classList.add('selected');
+
+  // Populate
+  bubbleDe.textContent = wordEl.textContent.replace(/[.,;:!?"""„()]/g, '');
+  bubbleEn.textContent = t.en;
+  bubbleNote.textContent = t.note || '';
+
+  // Position
+  const rect = wordEl.getBoundingClientRect();
+  bubble.style.display = 'block';
+
+  // Measure bubble
+  const bRect = bubble.getBoundingClientRect();
+
+  let left = rect.left + rect.width / 2 - bRect.width / 2;
+  let top = rect.top - bRect.height - 14;
+
+  // Clamp horizontally
+  if (left < 10) left = 10;
+  if (left + bRect.width > window.innerWidth - 10) left = window.innerWidth - bRect.width - 10;
+
+  // If no room on top, show below
+  if (top < 10) top = rect.bottom + 14;
+
+  bubble.style.left = left + 'px';
+  bubble.style.top = top + 'px';
+
+  // Re-trigger animation
+  bubble.style.animation = 'none';
+  bubble.offsetHeight; // reflow
+  bubble.style.animation = '';
+}
+
+function hideBubble() {
+  bubble.style.display = 'none';
+  if (selectedWord) {
+    selectedWord.classList.remove('selected');
+    selectedWord = null;
+  }
+}
+
+// Word click/tap
+document.querySelectorAll('.word').forEach(w => {
+  w.addEventListener('click', e => {
+    e.stopPropagation();
+
+    // Bounce animation
+    w.classList.remove('tapped');
+    void w.offsetWidth;
+    w.classList.add('tapped');
+
+    // If tapping the same selected word, toggle off
+    if (selectedWord === w) {
+      hideBubble();
+      return;
+    }
+
+    showBubble(w);
+  });
+});
+
+// Close bubble
+bubbleClose.addEventListener('click', e => { e.stopPropagation(); hideBubble(); });
+document.addEventListener('click', () => hideBubble());
+bubble.addEventListener('click', e => e.stopPropagation());
+
+// Play/pause toggle
+const playBtn = document.getElementById('playBtn');
+const playIcon = document.getElementById('playIcon');
+let playing = false;
+
+playBtn.addEventListener('click', () => {
+  playing = !playing;
+  if (playing) {
+    playIcon.innerHTML = '<rect x="5" y="3" width="4" height="18" rx="1"/><rect x="15" y="3" width="4" height="18" rx="1"/>';
+  } else {
+    playIcon.innerHTML = '<polygon points="6,3 20,12 6,21"/>';
+  }
+});
+
+// ─── Auto-show one translation on load for the demo ───
+window.addEventListener('load', () => {
+  // Find "Raketenangriff" and show its bubble
+  setTimeout(() => {
+    const target = document.querySelector('.word[data-clean="raketenangriff"]');
+    if (target) {
+      target.classList.add('tapped');
+      showBubble(target);
+    }
+  }, 600);
+});
+</script>
+
+</body>
+</html>

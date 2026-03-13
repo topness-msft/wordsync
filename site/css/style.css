@@ -1,0 +1,557 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
+/* === CSS Variables — Bauhaus primaries === */
+:root {
+  --rot:    #E63946;
+  --blau:   #1D3557;
+  --gelb:   #F1C40F;
+
+  --creme:  #FAF6ED;
+  --warm:   #F2ECDF;
+  --ink:    #1A1A1A;
+  --stone:  #6B6560;
+  --mist:   #D6D0C4;
+
+  --display: 'Bebas Neue', sans-serif;
+  --body:    'Jost', sans-serif;
+
+  --s1: 4px;  --s2: 8px;  --s3: 12px;  --s4: 16px;
+  --s5: 20px; --s6: 24px; --s7: 32px;  --s8: 48px;
+}
+
+/* === Reset & Base === */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--body);
+  font-weight: 400;
+  background: var(--creme);
+  color: var(--ink);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 var(--s5);
+}
+
+/* === Loading & Error === */
+.loading,
+.empty,
+.error {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--stone);
+  font-family: var(--body);
+}
+
+.error {
+  color: var(--rot);
+}
+
+/* ===================== */
+/*   INDEX – Header      */
+/* ===================== */
+
+.site-header {
+  background: var(--blau);
+  color: #fff;
+  padding: 0;
+  margin: 0 calc(-1 * var(--s5));
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Tricolor bar at top of header */
+.site-header::before {
+  content: '';
+  display: block;
+  height: 6px;
+  background: linear-gradient(to right, var(--rot) 0%, var(--rot) 50%, var(--gelb) 50%, var(--gelb) 80%, #fff 80%, #fff 100%);
+}
+
+.site-title {
+  font-family: var(--display);
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  color: #fff;
+  padding: var(--s4) var(--s5) var(--s1);
+}
+
+.site-subtitle {
+  font-family: var(--body);
+  font-weight: 500;
+  font-size: 0.85rem;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.65);
+  padding: 0 var(--s5) var(--s4);
+  margin-top: 0;
+}
+
+/* ===================== */
+/*   INDEX – Episode List */
+/* ===================== */
+
+.episode-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s3);
+  padding: var(--s6) 0 var(--s7);
+}
+
+.episode-card {
+  display: flex;
+  gap: 0;
+  background: #fff;
+  border: none;
+  border-left: 5px solid var(--blau);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.episode-card:hover {
+  border-left-color: var(--rot);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transform: translateY(-1px);
+}
+
+.episode-thumb {
+  width: 100px;
+  min-height: 80px;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: var(--warm);
+}
+
+.episode-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--s3) var(--s4);
+  min-width: 0;
+}
+
+.episode-date {
+  font-family: var(--display);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--stone);
+  display: block;
+}
+
+.episode-title {
+  font-family: var(--body);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--blau);
+  margin-top: var(--s1);
+  line-height: 1.3;
+}
+
+.episode-duration {
+  font-family: var(--body);
+  font-size: 0.8rem;
+  color: var(--stone);
+  margin-top: var(--s1);
+}
+
+/* Very small screens: stack card layout */
+@media (max-width: 360px) {
+  .episode-card {
+    flex-direction: column;
+    border-left: none;
+    border-top: 5px solid var(--blau);
+  }
+
+  .episode-card:hover {
+    border-left-color: unset;
+    border-top-color: var(--rot);
+  }
+
+  .episode-thumb {
+    width: 100%;
+    height: 140px;
+  }
+
+  .episode-info {
+    padding: var(--s3) var(--s4) var(--s4);
+  }
+}
+
+/* ===================== */
+/*   PLAYER PAGE         */
+/* ===================== */
+
+.player-page {
+  padding-bottom: 100px;
+}
+
+.player-header {
+  background: var(--blau);
+  color: #fff;
+  margin: 0 calc(-1 * var(--s5));
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Tricolor bar at top */
+.player-header::before {
+  content: '';
+  display: block;
+  height: 6px;
+  background: linear-gradient(to right, var(--rot) 0%, var(--rot) 50%, var(--gelb) 50%, var(--gelb) 80%, #fff 80%, #fff 100%);
+}
+
+.back-link {
+  display: inline-block;
+  font-family: var(--body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  padding: var(--s3) var(--s5) 0;
+}
+
+.back-link:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.episode-heading {
+  font-family: var(--display);
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  line-height: 1.2;
+  color: #fff;
+  padding: var(--s2) var(--s5) var(--s1);
+}
+
+.player-header .episode-date {
+  font-family: var(--body);
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.65);
+  display: block;
+  padding: 0 var(--s5) var(--s4);
+  margin-top: 0;
+}
+
+/* === Transcript === */
+.transcript {
+  padding: var(--s6) 0 var(--s7);
+}
+
+.transcript::-webkit-scrollbar { width: 3px; }
+.transcript::-webkit-scrollbar-track { background: transparent; }
+.transcript::-webkit-scrollbar-thumb { background: var(--mist); border-radius: 3px; }
+
+.paragraph {
+  font-family: var(--body);
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 2;
+  color: var(--ink);
+  margin-bottom: var(--s4);
+}
+
+.paragraph.headline {
+  font-family: var(--display);
+  font-size: 1.55rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  color: var(--blau);
+  margin-top: var(--s7);
+  margin-bottom: var(--s3);
+  padding-left: var(--s3);
+  border-left: 5px solid var(--rot);
+}
+
+/* Diamond divider before non-first headlines */
+.paragraph.headline:not(:first-child) {
+  margin-top: var(--s8);
+  position: relative;
+  padding-top: calc(var(--s6) + var(--s2));
+}
+
+.paragraph.headline:not(:first-child)::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: calc(-5px);
+  right: 0;
+  height: 2px;
+  background: var(--mist);
+}
+
+.paragraph.headline:not(:first-child)::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: calc(50% - 11px);
+  width: 12px;
+  height: 12px;
+  background: var(--gelb);
+  transform: rotate(45deg);
+  z-index: 1;
+}
+
+/* === Word Spans === */
+.word {
+  display: inline;
+  cursor: pointer;
+  position: relative;
+  transition: color 0.15s;
+  border-radius: 2px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.word:hover {
+  color: var(--blau);
+}
+
+/* Active word — currently being spoken */
+.word.active {
+  color: var(--blau);
+  font-weight: 600;
+}
+
+.word.active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 4px;
+  background: var(--rot);
+  border-radius: 1px;
+  animation: pulse-bar 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse-bar {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* Past words — already spoken */
+.word.past {
+  color: var(--stone);
+}
+
+/* Tapped word highlight */
+.word.tapped {
+  background: var(--gelb);
+  color: var(--ink);
+  padding: 0 2px;
+  margin: 0 -2px;
+  border-radius: 2px;
+}
+
+/* === Translation Popup — slide-up card === */
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 26, 26, 0.25);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  z-index: 100;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.popup-overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.translation-popup {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(100%);
+  width: 100%;
+  max-width: 700px;
+  z-index: 101;
+  transition: transform 0.3s cubic-bezier(0.22, 0.68, 0, 1.1);
+  pointer-events: none;
+}
+
+.translation-popup.visible {
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+
+.popup__card {
+  background: #fff;
+  margin: 0 var(--s4);
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  box-shadow: 0 -4px 32px rgba(0, 0, 0, 0.12);
+}
+
+/* Tricolor stripe header */
+.popup__bars {
+  display: flex;
+  height: 8px;
+}
+
+.popup__bars span:nth-child(1) { flex: 1; background: var(--rot); }
+.popup__bars span:nth-child(2) { flex: 1; background: var(--gelb); }
+.popup__bars span:nth-child(3) { flex: 1; background: var(--blau); }
+
+.popup__content {
+  padding: var(--s6) var(--s5) var(--s8);
+  position: relative;
+}
+
+.popup-word {
+  display: block;
+  font-family: var(--body);
+  font-weight: 700;
+  font-size: 1.65rem;
+  color: var(--blau);
+  line-height: 1.2;
+  margin-bottom: var(--s1);
+}
+
+.popup-translation {
+  display: block;
+  font-family: var(--body);
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: var(--stone);
+}
+
+.popup__close {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40px;
+  height: 5px;
+  background: var(--mist);
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* === Audio Player Bar === */
+.player-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: var(--blau);
+  color: #fff;
+}
+
+.player-progress-wrap {
+  width: 100%;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.12);
+  cursor: pointer;
+  position: relative;
+}
+
+.player-progress-wrap:hover {
+  height: 8px;
+}
+
+.player-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--rot), var(--gelb));
+  width: 0%;
+  transition: width 0.1s linear;
+  pointer-events: none;
+}
+
+.player-controls {
+  display: flex;
+  align-items: center;
+  gap: var(--s4);
+  padding: var(--s3) var(--s5);
+}
+
+.play-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border: none;
+  border-radius: 50%;
+  background: var(--rot);
+  color: #fff;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: transform 0.1s;
+}
+
+.play-btn:hover {
+  background: #cf2f3c;
+}
+
+.play-btn:active {
+  transform: scale(0.9);
+}
+
+.play-btn svg {
+  display: block;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.player-time {
+  font-family: var(--body);
+  font-weight: 500;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.04em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* === Safe area for notched devices === */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .player-bar {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .player-page {
+    padding-bottom: calc(100px + env(safe-area-inset-bottom));
+  }
+
+  .player-controls {
+    padding-bottom: calc(var(--s3) + env(safe-area-inset-bottom));
+  }
+}

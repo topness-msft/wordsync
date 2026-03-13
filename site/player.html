@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WordSync – Player</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="player-page">
+  <div class="container">
+    <header class="player-header">
+      <a href="index.html" class="back-link">← Episodes</a>
+      <h1 id="episode-title" class="episode-heading"></h1>
+      <time id="episode-date" class="episode-date"></time>
+    </header>
+    <main id="transcript" class="transcript">
+      <div class="loading">Loading transcript…</div>
+    </main>
+  </div>
+
+  <div class="popup-overlay" id="popup-overlay"></div>
+  <div id="translation-popup" class="translation-popup">
+    <div class="popup__card">
+      <div class="popup__bars"><span></span><span></span><span></span></div>
+      <div class="popup__content">
+        <strong class="popup-word"></strong>
+        <span class="popup-translation"></span>
+        <button class="popup__close" aria-label="Close"></button>
+      </div>
+    </div>
+  </div>
+
+  <div class="player-bar" id="player-bar">
+    <div class="player-progress-wrap" id="progress-wrap">
+      <div class="player-progress-fill" id="progress-fill"></div>
+    </div>
+    <div class="player-controls">
+      <button id="play-btn" class="play-btn" aria-label="Play">
+        <svg class="icon-play" viewBox="0 0 24 24" width="28" height="28"><polygon points="6,3 20,12 6,21" fill="currentColor"/></svg>
+        <svg class="icon-pause hidden" viewBox="0 0 24 24" width="28" height="28"><rect x="5" y="3" width="4" height="18" fill="currentColor"/><rect x="15" y="3" width="4" height="18" fill="currentColor"/></svg>
+      </button>
+      <div class="player-time">
+        <span id="current-time">0:00</span> / <span id="total-time">0:00</span>
+      </div>
+    </div>
+  </div>
+
+  <audio id="audio" preload="auto"></audio>
+  <script src="js/player.js"></script>
+</body>
+</html>

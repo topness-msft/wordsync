@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>WordSync — Dark Minimal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ── Reset ─────────────────────────────────────── */
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+  html { font-size: 16px; -webkit-tap-highlight-color: transparent; }
+
+  /* ── Dark Surface System ───────────────────────── */
+  :root {
+    --bg-void:    #0a0a0c;
+    --bg-base:    #101014;
+    --bg-raised:  #18181e;
+    --bg-surface: #1e1e26;
+
+    --text-primary:   rgba(235, 230, 220, 0.92);
+    --text-secondary: rgba(235, 230, 220, 0.52);
+    --text-tertiary:  rgba(235, 230, 220, 0.28);
+    --text-headline:  rgba(255, 248, 240, 0.96);
+
+    --glow-warm:     #d4a054;
+    --glow-warm-rgb: 212, 160, 84;
+    --glow-core:     #e8c080;
+    --glow-faint:    rgba(212, 160, 84, 0.06);
+
+    --accent:        #c49454;
+    --accent-dim:    rgba(196, 148, 84, 0.15);
+
+    --border-subtle: rgba(255, 255, 255, 0.04);
+    --border-light:  rgba(255, 255, 255, 0.08);
+
+    --font-body:    'Crimson Pro', Georgia, serif;
+    --font-ui:      'DM Sans', system-ui, sans-serif;
+
+    --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  body {
+    font-family: var(--font-body);
+    background: var(--bg-void);
+    color: var(--text-primary);
+    line-height: 1;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* ── Ambient background glow ───────────────────── */
+  body::before {
+    content: '';
+    position: fixed;
+    top: -40%;
+    left: -20%;
+    width: 140%;
+    height: 80%;
+    background: radial-gradient(
+      ellipse at 50% 0%,
+      rgba(var(--glow-warm-rgb), 0.025) 0%,
+      transparent 70%
+    );
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── Layout Shell ──────────────────────────────── */
+  .app-shell {
+    position: relative;
+    z-index: 1;
+    max-width: 390px;
+    margin: 0 auto;
+    min-height: 100vh;
+    padding-bottom: 100px;
+  }
+
+  /* ── Header ────────────────────────────────────── */
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    padding: 16px 24px 14px;
+    background: linear-gradient(
+      to bottom,
+      var(--bg-void) 0%,
+      var(--bg-void) 60%,
+      rgba(10, 10, 12, 0) 100%
+    );
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+
+  .logo {
+    font-family: var(--font-ui);
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--text-primary);
+  }
+
+  .logo span {
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  .header-date {
+    font-family: var(--font-ui);
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+  }
+
+  /* ── Transcript Area ───────────────────────────── */
+  .transcript {
+    padding: 12px 24px 40px;
+  }
+
+  /* ── Progress whisker ──────────────────────────── */
+  .progress-whisker {
+    width: 100%;
+    height: 1px;
+    background: var(--border-subtle);
+    margin-bottom: 32px;
+    position: relative;
+    border-radius: 1px;
+    overflow: hidden;
+  }
+
+  .progress-whisker::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 34%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      var(--glow-warm) 0%,
+      rgba(var(--glow-warm-rgb), 0.3) 100%
+    );
+    border-radius: 1px;
+  }
+
+  /* ── Headline blocks ───────────────────────────── */
+  .headline-block {
+    margin-bottom: 28px;
+  }
+
+  .headline-block + .headline-block {
+    margin-top: 44px;
+    padding-top: 36px;
+    border-top: 1px solid var(--border-subtle);
+  }
+
+  .headline-label {
+    font-family: var(--font-ui);
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    opacity: 0.6;
+    margin-bottom: 12px;
+    display: block;
+  }
+
+  h2.headline {
+    font-family: var(--font-body);
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.35;
+    color: var(--text-headline);
+    letter-spacing: -0.01em;
+    margin-bottom: 18px;
+  }
+
+  .body-text {
+    font-family: var(--font-body);
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 1.75;
+    color: var(--text-primary);
+    letter-spacing: 0.005em;
+  }
+
+  /* ── Individual Words ──────────────────────────── */
+  .word {
+    display: inline;
+    cursor: pointer;
+    padding: 2px 0;
+    border-radius: 3px;
+    transition: color 0.3s var(--ease-out),
+                background 0.4s var(--ease-out);
+    position: relative;
+  }
+
+  /* Spoken (past) words — slightly dimmer */
+  .word.spoken {
+    color: var(--text-secondary);
+  }
+
+  /* Future (not yet spoken) words */
+  .word.future {
+    color: var(--text-tertiary);
+  }
+
+  /* Tap feedback */
+  .word:active {
+    background: var(--accent-dim);
+  }
+
+  /* ── Active Word — The Warm Glow ───────────────── */
+  .word.active {
+    color: var(--glow-core);
+    position: relative;
+    z-index: 2;
+  }
+
+  .word.active::before {
+    content: '';
+    position: absolute;
+    inset: -3px -5px;
+    background: radial-gradient(
+      ellipse at center,
+      rgba(var(--glow-warm-rgb), 0.18) 0%,
+      rgba(var(--glow-warm-rgb), 0.06) 50%,
+      transparent 100%
+    );
+    border-radius: 6px;
+    z-index: -1;
+    animation: glow-breathe 3s ease-in-out infinite;
+  }
+
+  .word.active::after {
+    content: '';
+    position: absolute;
+    inset: -12px -16px;
+    background: radial-gradient(
+      ellipse at center,
+      rgba(var(--glow-warm-rgb), 0.06) 0%,
+      transparent 70%
+    );
+    border-radius: 50%;
+    z-index: -2;
+    animation: glow-breathe 3s ease-in-out infinite 0.5s;
+  }
+
+  @keyframes glow-breathe {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: 0.6; }
+  }
+
+  /* ── Translation Popup ─────────────────────────── */
+  .translation-anchor {
+    position: relative;
+    display: inline;
+  }
+
+  .popup {
+    position: absolute;
+    bottom: calc(100% + 14px);
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 200;
+    white-space: nowrap;
+    pointer-events: none;
+    animation: popup-in 0.35s var(--ease-out) both;
+  }
+
+  .popup-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-light);
+    border-radius: 12px;
+    padding: 10px 16px 11px;
+    box-shadow:
+      0 4px 24px rgba(0, 0, 0, 0.5),
+      0 0 0 1px rgba(var(--glow-warm-rgb), 0.04),
+      0 8px 40px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    text-align: center;
+  }
+
+  .popup-german {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--text-secondary);
+    margin-bottom: 4px;
+    letter-spacing: 0.01em;
+  }
+
+  .popup-english {
+    font-family: var(--font-ui);
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--glow-core);
+    letter-spacing: 0.01em;
+  }
+
+  .popup-arrow {
+    width: 12px;
+    height: 7px;
+    margin: -1px auto 0;
+    position: relative;
+  }
+
+  .popup-arrow::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid var(--border-light);
+  }
+
+  .popup-arrow::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid var(--bg-surface);
+  }
+
+  @keyframes popup-in {
+    from {
+      opacity: 0;
+      transform: translateX(-50%) translateY(6px) scale(0.96);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0) scale(1);
+    }
+  }
+
+  /* ── Player Bar ────────────────────────────────── */
+  .player-bar {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 390px;
+    z-index: 500;
+    background: linear-gradient(
+      to top,
+      var(--bg-void) 0%,
+      rgba(10, 10, 12, 0.97) 40%,
+      rgba(10, 10, 12, 0.92) 100%
+    );
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-top: 1px solid var(--border-subtle);
+    padding: 0 24px 0;
+    padding-bottom: calc(env(safe-area-inset-bottom, 8px) + 8px);
+  }
+
+  /* Waveform visualization */
+  .waveform-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    height: 24px;
+    padding: 8px 0 4px;
+    opacity: 0.35;
+  }
+
+  .waveform-bar .bar {
+    width: 2px;
+    border-radius: 1px;
+    background: var(--glow-warm);
+    animation: wave 1.4s ease-in-out infinite;
+  }
+
+  @keyframes wave {
+    0%, 100% { transform: scaleY(0.3); }
+    50%      { transform: scaleY(1); }
+  }
+
+  /* Player controls row */
+  .player-controls {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 6px 0 10px;
+  }
+
+  .player-time {
+    font-family: var(--font-ui);
+    font-size: 11px;
+    font-weight: 400;
+    color: var(--text-tertiary);
+    letter-spacing: 0.04em;
+    font-variant-numeric: tabular-nums;
+    min-width: 36px;
+  }
+
+  .player-time.current {
+    color: var(--text-secondary);
+  }
+
+  .player-track {
+    flex: 1;
+    height: 3px;
+    background: var(--border-light);
+    border-radius: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .player-track-fill {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 34%;
+    background: linear-gradient(90deg, var(--glow-warm), var(--glow-core));
+    border-radius: 2px;
+  }
+
+  .player-track-knob {
+    position: absolute;
+    top: 50%;
+    left: 34%;
+    transform: translate(-50%, -50%);
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: var(--glow-core);
+    box-shadow: 0 0 8px rgba(var(--glow-warm-rgb), 0.4);
+  }
+
+  /* Play/pause & speed buttons */
+  .btn-player {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn-play {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-light);
+    color: var(--glow-core);
+    flex-shrink: 0;
+  }
+
+  .btn-play svg {
+    width: 16px;
+    height: 16px;
+    fill: currentColor;
+    margin-left: 2px;
+  }
+
+  .btn-speed {
+    font-family: var(--font-ui);
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--accent);
+    opacity: 0.7;
+    letter-spacing: 0.02em;
+    flex-shrink: 0;
+    padding: 4px 6px;
+    border-radius: 6px;
+    border: 1px solid var(--accent-dim);
+    background: none;
+    cursor: pointer;
+  }
+
+  .player-bottom-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0 4px;
+  }
+
+  /* ── Utility ───────────────────────────────────── */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+  }
+
+  /* ── Desktop preview frame ─────────────────────── */
+  @media (min-width: 500px) {
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      padding: 32px 0;
+    }
+    .app-shell {
+      border: 1px solid var(--border-subtle);
+      border-radius: 20px;
+      min-height: calc(100vh - 64px);
+      overflow: hidden;
+      box-shadow:
+        0 0 80px rgba(0, 0, 0, 0.5),
+        0 0 1px rgba(var(--glow-warm-rgb), 0.05);
+    }
+    .player-bar {
+      border-radius: 0 0 20px 20px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="app-shell">
+
+  <!-- ── Header ──────────────────────────────────── -->
+  <header class="header">
+    <div class="logo">Word<span>Sync</span></div>
+    <time class="header-date" datetime="2026-03-13">March 13, 2026</time>
+  </header>
+
+  <!-- ── Transcript ──────────────────────────────── -->
+  <main class="transcript">
+    <div class="progress-whisker" role="progressbar" aria-valuenow="34" aria-valuemin="0" aria-valuemax="100"></div>
+
+    <!-- Story 1 -->
+    <article class="headline-block">
+      <span class="headline-label">Schlagzeile</span>
+      <h2 class="headline">
+        <span class="word spoken">Französischer</span>
+        <span class="word spoken">Soldat</span>
+        <span class="word spoken">stirbt</span>
+        <span class="word spoken">bei</span>
+        <span class="word spoken">Angriff</span>
+        <span class="word spoken">im</span>
+        <span class="word spoken">Irak</span>
+      </h2>
+      <p class="body-text">
+        <span class="word spoken">Bei</span>
+        <span class="word spoken">einem</span>
+        <span class="word spoken">iranischen</span>
+        <span class="translation-anchor"><span class="word active" data-en="rocket attack">Raketenangriff</span><div class="popup" role="tooltip"><div class="popup-card"><div class="popup-german">Raketenangriff</div><div class="popup-english">rocket attack</div></div><div class="popup-arrow"></div></div></span>
+        <span class="word future">auf</span>
+        <span class="word future">eine</span>
+        <span class="word future">Militärbasis</span>
+        <span class="word future">im</span>
+        <span class="word future">Irak</span>
+        <span class="word future">ist</span>
+        <span class="word future">ein</span>
+        <span class="word future">französischer</span>
+        <span class="word future">Soldat</span>
+        <span class="word future">getötet</span>
+        <span class="word future">worden.</span>
+        <span class="word future">Der</span>
+        <span class="word future">Élysée-Palast</span>
+        <span class="word future">in</span>
+        <span class="word future">Paris</span>
+        <span class="word future">bestätigte</span>
+        <span class="word future">den</span>
+        <span class="word future">Tod</span>
+        <span class="word future">des</span>
+        <span class="word future">Soldaten.</span>
+      </p>
+    </article>
+
+    <!-- Story 2 -->
+    <article class="headline-block">
+      <span class="headline-label">Schlagzeile</span>
+      <h2 class="headline">
+        <span class="word future">UN-Sicherheitsrat</span>
+        <span class="word future">verurteilt</span>
+        <span class="word future">Irans</span>
+        <span class="word future">Attacken</span>
+        <span class="word future">auf</span>
+        <span class="word future">Nachbarstaaten</span>
+      </h2>
+      <p class="body-text">
+        <span class="word future">Das</span>
+        <span class="word future">höchste</span>
+        <span class="word future">Gremium</span>
+        <span class="word future">der</span>
+        <span class="word future">Vereinten</span>
+        <span class="word future">Nationen</span>
+        <span class="word future">hat</span>
+        <span class="word future">das</span>
+        <span class="word future">sofortige</span>
+        <span class="word future">Ende</span>
+        <span class="word future">der</span>
+        <span class="word future">iranischen</span>
+        <span class="word future">Angriffe</span>
+        <span class="word future">auf</span>
+        <span class="word future">die</span>
+        <span class="word future">umliegenden</span>
+        <span class="word future">Golfstaaten</span>
+        <span class="word future">gefordert.</span>
+      </p>
+    </article>
+  </main>
+
+  <!-- ── Player Bar ──────────────────────────────── -->
+  <div class="player-bar" role="region" aria-label="Audio player">
+
+    <!-- Mini waveform -->
+    <div class="waveform-bar" aria-hidden="true"></div>
+
+    <!-- Scrubber row -->
+    <div class="player-controls">
+      <span class="player-time current">1:12</span>
+      <div class="player-track" role="slider" aria-label="Playback progress" aria-valuenow="34" aria-valuemin="0" aria-valuemax="100">
+        <div class="player-track-fill"></div>
+        <div class="player-track-knob"></div>
+      </div>
+      <span class="player-time">3:28</span>
+    </div>
+
+    <!-- Controls row -->
+    <div class="player-bottom-row">
+      <button class="btn-speed" aria-label="Playback speed 0.5x">0.5×</button>
+      <button class="btn-player btn-play" aria-label="Pause">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>
+      </button>
+      <button class="btn-speed" aria-label="Playback speed 0.8x" style="opacity:1; border-color: var(--accent);">0.8×</button>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  // Generate waveform bars
+  const waveformBar = document.querySelector('.waveform-bar');
+  const barCount = 48;
+  for (let i = 0; i < barCount; i++) {
+    const bar = document.createElement('div');
+    bar.classList.add('bar');
+    // Vary heights to look organic
+    const h = 6 + Math.random() * 14;
+    bar.style.height = h + 'px';
+    bar.style.animationDelay = (Math.random() * -2) + 's';
+    bar.style.animationDuration = (1 + Math.random() * 0.6) + 's';
+    // Fade out bars beyond playback position (~34%)
+    const pos = i / barCount;
+    if (pos > 0.38) {
+      bar.style.opacity = '0.25';
+      bar.style.animationPlayState = 'paused';
+    }
+    waveformBar.appendChild(bar);
+  }
+
+  // Word tap interaction (demo)
+  document.querySelectorAll('.word').forEach(word => {
+    word.addEventListener('click', function () {
+      // Remove existing popups (except the default one on Raketenangriff)
+      document.querySelectorAll('.popup-dynamic').forEach(p => p.remove());
+
+      const en = this.dataset.en;
+      if (!en) return;
+
+      // If this word already has a popup, toggle it off
+      const existing = this.parentElement.querySelector('.popup');
+      if (existing && !existing.classList.contains('popup-dynamic')) return;
+    });
+  });
+</script>
+
+</body>
+</html>

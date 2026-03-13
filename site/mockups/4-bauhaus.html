@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>WordSync — Bauhaus Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   RESET & FOUNDATIONS
+   ============================================================ */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  /* Bauhaus primaries */
+  --rot:    #E63946;
+  --blau:   #1D3557;
+  --gelb:   #F1C40F;
+
+  /* Neutrals */
+  --creme:  #FAF6ED;
+  --warm:   #F2ECDF;
+  --ink:    #1A1A1A;
+  --stone:  #6B6560;
+  --mist:   #D6D0C4;
+
+  /* Typography */
+  --display: 'Bebas Neue', sans-serif;
+  --body:    'Jost', sans-serif;
+
+  /* Spacing scale */
+  --s1: 4px;  --s2: 8px;  --s3: 12px;  --s4: 16px;
+  --s5: 20px; --s6: 24px; --s7: 32px;  --s8: 48px;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--body);
+  font-weight: 400;
+  color: var(--ink);
+  background: var(--creme);
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  justify-content: center;
+}
+
+/* ============================================================
+   PHONE FRAME (centering for desktop preview)
+   ============================================================ */
+.phone-frame {
+  width: 100%;
+  max-width: 390px;
+  min-height: 100vh;
+  min-height: 100dvh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: var(--creme);
+  overflow: hidden;
+}
+
+@media (min-width: 500px) {
+  body {
+    background: #E8E4DA;
+    padding: 24px 0;
+    align-items: flex-start;
+  }
+  .phone-frame {
+    min-height: calc(100vh - 48px);
+    border-radius: 20px;
+    box-shadow:
+      0 1px 3px rgba(0,0,0,.08),
+      0 8px 32px rgba(0,0,0,.12);
+  }
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.header {
+  position: relative;
+  padding: var(--s5) var(--s5) var(--s4);
+  background: var(--blau);
+  color: #fff;
+  overflow: hidden;
+}
+
+/* Decorative Bauhaus geometric bar across top */
+.header__geo-bar {
+  display: flex;
+  height: 6px;
+  margin-bottom: var(--s4);
+}
+.header__geo-bar span:nth-child(1) { flex: 3; background: var(--rot); }
+.header__geo-bar span:nth-child(2) { flex: 2; background: var(--gelb); }
+.header__geo-bar span:nth-child(3) { flex: 1; background: #fff; }
+
+.header__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__brand {
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+}
+
+.header__logo {
+  font-family: var(--display);
+  font-size: 2rem;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  color: #fff;
+}
+
+/* Kandinsky's three forms: red circle, yellow triangle, blue square */
+.header__shapes {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.shape-circle {
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: var(--rot);
+}
+.shape-triangle {
+  width: 0; height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 14px solid var(--gelb);
+}
+.shape-square {
+  width: 13px; height: 13px;
+  background: #457B9D;
+}
+
+.header__date {
+  font-family: var(--body);
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.65);
+}
+
+/* Decorative floating circle */
+.header__deco-circle {
+  position: absolute;
+  right: -28px;
+  top: -18px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 3px solid rgba(255,255,255,.08);
+  pointer-events: none;
+}
+
+/* ============================================================
+   LEVEL / SPEED INDICATOR
+   ============================================================ */
+.speed-bar {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+  padding: var(--s3) var(--s5);
+  background: var(--warm);
+  border-bottom: 2px solid var(--mist);
+}
+
+.speed-bar__label {
+  font-family: var(--display);
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--stone);
+}
+
+.speed-bar__dots {
+  display: flex;
+  gap: 5px;
+}
+.speed-bar__dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: var(--mist);
+  transition: background .2s;
+}
+.speed-bar__dot.active {
+  background: var(--rot);
+}
+
+.speed-bar__right {
+  margin-left: auto;
+  font-family: var(--body);
+  font-weight: 600;
+  font-size: 0.78rem;
+  color: var(--blau);
+  letter-spacing: 0.03em;
+  background: rgba(29,53,87,.08);
+  padding: 3px 10px;
+  border-radius: 3px;
+}
+
+/* ============================================================
+   TRANSCRIPT AREA
+   ============================================================ */
+.transcript {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--s6) var(--s5) 120px;
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar styling */
+.transcript::-webkit-scrollbar { width: 3px; }
+.transcript::-webkit-scrollbar-track { background: transparent; }
+.transcript::-webkit-scrollbar-thumb { background: var(--mist); border-radius: 3px; }
+
+/* Article block */
+.article {
+  margin-bottom: var(--s7);
+}
+
+.article__headline {
+  font-family: var(--display);
+  font-size: 1.55rem;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  color: var(--blau);
+  margin-bottom: var(--s3);
+  padding-left: var(--s3);
+  border-left: 5px solid var(--rot);
+}
+
+.article__body {
+  font-family: var(--body);
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 2;
+  color: var(--ink);
+}
+
+/* Geometric divider between articles */
+.divider {
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  margin: var(--s7) 0;
+  padding: 0 var(--s1);
+}
+.divider__line {
+  flex: 1;
+  height: 2px;
+  background: var(--mist);
+}
+.divider__shape {
+  width: 12px;
+  height: 12px;
+  background: var(--gelb);
+  transform: rotate(45deg);
+}
+
+/* ============================================================
+   WORD SPANS
+   ============================================================ */
+.word {
+  display: inline;
+  cursor: pointer;
+  position: relative;
+  transition: color .15s;
+  border-radius: 2px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.word:hover {
+  color: var(--blau);
+}
+
+/* Active word — the one currently being spoken */
+.word.active {
+  color: var(--blau);
+  font-weight: 600;
+}
+.word.active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 4px;
+  background: var(--rot);
+  border-radius: 1px;
+  animation: pulse-bar 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse-bar {
+  0%, 100% { opacity: 1; }
+  50% { opacity: .5; }
+}
+
+/* Past words — already spoken */
+.word.past {
+  color: var(--stone);
+}
+
+/* Tapped word highlight */
+.word.tapped {
+  background: var(--gelb);
+  color: var(--ink);
+  padding: 0 2px;
+  margin: 0 -2px;
+  border-radius: 2px;
+}
+
+/* ============================================================
+   TRANSLATION POPUP
+   ============================================================ */
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(26,26,26,.25);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  z-index: 100;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .2s;
+}
+.popup-overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.popup {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(100%);
+  width: 100%;
+  max-width: 390px;
+  z-index: 101;
+  transition: transform .3s cubic-bezier(.22,.68,0,1.1);
+}
+.popup.visible {
+  transform: translateX(-50%) translateY(0);
+}
+
+.popup__card {
+  background: #fff;
+  margin: 0 var(--s4) 0;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  box-shadow: 0 -4px 32px rgba(0,0,0,.12);
+}
+
+/* Colored header stripe — stacked Bauhaus bars */
+.popup__bars {
+  display: flex;
+  height: 8px;
+}
+.popup__bars span:nth-child(1) { flex: 1; background: var(--rot); }
+.popup__bars span:nth-child(2) { flex: 1; background: var(--gelb); }
+.popup__bars span:nth-child(3) { flex: 1; background: var(--blau); }
+
+.popup__content {
+  padding: var(--s6) var(--s5) var(--s8);
+  position: relative;
+}
+
+/* Decorative circle in popup */
+.popup__deco {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 3px solid var(--warm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popup__deco-inner {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--gelb);
+  opacity: .5;
+}
+
+.popup__pos {
+  font-family: var(--display);
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--rot);
+  margin-bottom: var(--s1);
+}
+
+.popup__german {
+  font-family: var(--body);
+  font-weight: 700;
+  font-size: 1.65rem;
+  color: var(--blau);
+  line-height: 1.2;
+  margin-bottom: var(--s1);
+}
+
+.popup__english {
+  font-family: var(--body);
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: var(--stone);
+  margin-bottom: var(--s4);
+}
+
+.popup__example {
+  font-family: var(--body);
+  font-size: 0.9rem;
+  color: var(--ink);
+  line-height: 1.5;
+  padding: var(--s3) var(--s4);
+  background: var(--warm);
+  border-left: 4px solid var(--gelb);
+  border-radius: 0 4px 4px 0;
+}
+.popup__example em {
+  font-style: italic;
+  color: var(--stone);
+}
+
+.popup__close {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40px;
+  height: 5px;
+  background: var(--mist);
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* ============================================================
+   AUDIO PLAYER BAR
+   ============================================================ */
+.player {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 390px;
+  z-index: 50;
+  background: var(--blau);
+  color: #fff;
+  padding: 0;
+}
+
+/* Progress bar */
+.player__progress-wrap {
+  width: 100%;
+  height: 6px;
+  background: rgba(255,255,255,.12);
+  cursor: pointer;
+  position: relative;
+}
+.player__progress {
+  height: 100%;
+  width: 34%;
+  background: linear-gradient(90deg, var(--rot), var(--gelb));
+  position: relative;
+  transition: width .3s linear;
+}
+.player__progress-knob {
+  position: absolute;
+  right: -6px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 4px rgba(0,0,0,.3);
+}
+
+.player__controls {
+  display: flex;
+  align-items: center;
+  padding: var(--s3) var(--s5);
+  gap: var(--s4);
+}
+
+.player__time {
+  font-family: var(--body);
+  font-weight: 500;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: rgba(255,255,255,.6);
+  min-width: 70px;
+}
+
+.player__btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform .1s;
+}
+.player__btn:active {
+  transform: scale(.9);
+}
+
+/* Play button — geometric circle */
+.player__btn--play {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--rot);
+  margin: 0 auto;
+  position: relative;
+  flex-shrink: 0;
+}
+.player__btn--play svg { margin-left: 3px; }
+.player__btn--play.paused svg { margin-left: 0; }
+
+.player__btn--skip {
+  width: 36px;
+  height: 36px;
+  opacity: .7;
+}
+.player__btn--skip:hover { opacity: 1; }
+
+.player__speed-toggle {
+  font-family: var(--display);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  color: var(--gelb);
+  background: rgba(241,196,15,.12);
+  border: 1px solid rgba(241,196,15,.25);
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+/* ============================================================
+   BAUHAUS DECORATIVE ACCENTS (floating geometry)
+   ============================================================ */
+.deco {
+  position: absolute;
+  pointer-events: none;
+  z-index: 0;
+}
+.deco--circle-1 {
+  width: 180px; height: 180px;
+  border-radius: 50%;
+  border: 2px solid rgba(230,57,70,.06);
+  right: -60px;
+  top: 280px;
+}
+.deco--line-1 {
+  width: 2px;
+  height: 120px;
+  background: rgba(241,196,15,.1);
+  left: 12px;
+  top: 350px;
+  transform: rotate(-15deg);
+}
+.deco--triangle-1 {
+  width: 0; height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 50px solid rgba(29,53,87,.04);
+  right: 20px;
+  bottom: 200px;
+}
+
+/* ============================================================
+   ANIMATIONS
+   ============================================================ */
+@keyframes word-enter {
+  from { background-color: rgba(241,196,15,.3); }
+  to   { background-color: transparent; }
+}
+
+.word.flash {
+  animation: word-enter .4s ease-out;
+}
+
+/* Subtle entrance for articles */
+.article {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: fade-up .5s ease forwards;
+}
+.article:nth-child(1) { animation-delay: .1s; }
+.article:nth-child(3) { animation-delay: .25s; }
+
+@keyframes fade-up {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================================================
+   SAFE AREA (iOS notch)
+   ============================================================ */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .player__controls {
+    padding-bottom: calc(var(--s3) + env(safe-area-inset-bottom));
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="phone-frame">
+
+  <!-- Decorative geometry -->
+  <div class="deco deco--circle-1"></div>
+  <div class="deco deco--line-1"></div>
+  <div class="deco deco--triangle-1"></div>
+
+  <!-- ======== HEADER ======== -->
+  <header class="header">
+    <div class="header__deco-circle"></div>
+    <div class="header__geo-bar">
+      <span></span><span></span><span></span>
+    </div>
+    <div class="header__top">
+      <div class="header__brand">
+        <span class="header__logo">WORDSYNC</span>
+        <div class="header__shapes">
+          <div class="shape-circle"></div>
+          <div class="shape-triangle"></div>
+          <div class="shape-square"></div>
+        </div>
+      </div>
+      <span class="header__date">13. März 2026</span>
+    </div>
+  </header>
+
+  <!-- ======== SPEED BAR ======== -->
+  <div class="speed-bar">
+    <span class="speed-bar__label">Tempo</span>
+    <div class="speed-bar__dots">
+      <div class="speed-bar__dot active"></div>
+      <div class="speed-bar__dot active"></div>
+      <div class="speed-bar__dot"></div>
+      <div class="speed-bar__dot"></div>
+      <div class="speed-bar__dot"></div>
+    </div>
+    <span class="speed-bar__right">B1 · Langsam</span>
+  </div>
+
+  <!-- ======== TRANSCRIPT ======== -->
+  <main class="transcript" id="transcript">
+
+    <!-- Article 1 -->
+    <article class="article" id="article-1">
+      <h2 class="article__headline" id="headline-1"></h2>
+      <p class="article__body" id="body-1"></p>
+    </article>
+
+    <!-- Geometric divider -->
+    <div class="divider">
+      <div class="divider__line"></div>
+      <div class="divider__shape"></div>
+      <div class="divider__line"></div>
+    </div>
+
+    <!-- Article 2 -->
+    <article class="article" id="article-2">
+      <h2 class="article__headline" id="headline-2"></h2>
+      <p class="article__body" id="body-2"></p>
+    </article>
+
+  </main>
+
+  <!-- ======== TRANSLATION POPUP ======== -->
+  <div class="popup-overlay" id="popupOverlay"></div>
+  <div class="popup" id="popup">
+    <div class="popup__card">
+      <div class="popup__bars"><span></span><span></span><span></span></div>
+      <div class="popup__content">
+        <div class="popup__deco"><div class="popup__deco-inner"></div></div>
+        <div class="popup__pos" id="popupPos">SUBSTANTIV</div>
+        <div class="popup__german" id="popupGerman">Angriff</div>
+        <div class="popup__english" id="popupEnglish">attack</div>
+        <div class="popup__example" id="popupExample">
+          <em>"bei einem Angriff im Irak"</em>
+        </div>
+        <button class="popup__close" id="popupClose" aria-label="Schließen"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== AUDIO PLAYER ======== -->
+  <div class="player">
+    <div class="player__progress-wrap" id="progressWrap">
+      <div class="player__progress" id="progress">
+        <div class="player__progress-knob"></div>
+      </div>
+    </div>
+    <div class="player__controls">
+
+      <!-- Rewind -->
+      <button class="player__btn player__btn--skip" aria-label="10s zurück">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="1 4 1 10 7 10"/>
+          <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/>
+        </svg>
+      </button>
+
+      <!-- Play/Pause -->
+      <button class="player__btn player__btn--play" id="playBtn" aria-label="Abspielen">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+          <polygon points="6,3 20,12 6,21"/>
+        </svg>
+      </button>
+
+      <!-- Forward -->
+      <button class="player__btn player__btn--skip" aria-label="10s vor">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="23 4 23 10 17 10"/>
+          <path d="M20.49 15a9 9 0 1 1-2.13-9.36L23 10"/>
+        </svg>
+      </button>
+
+      <span class="player__time">0:48 / 2:15</span>
+
+      <!-- Speed toggle -->
+      <button class="player__speed-toggle" id="speedToggle">0.6×</button>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ============================================================
+// DATA — Transcript text and dictionary
+// ============================================================
+const articles = [
+  {
+    headlineEl: 'headline-1',
+    bodyEl: 'body-1',
+    headline: 'Französischer Soldat stirbt bei Angriff im Irak',
+    body: 'Bei einem iranischen Raketenangriff auf eine Militärbasis im Irak ist ein französischer Soldat getötet worden. Der Élysée-Palast in Paris bestätigte den Tod des Soldaten.'
+  },
+  {
+    headlineEl: 'headline-2',
+    bodyEl: 'body-2',
+    headline: 'UN-Sicherheitsrat verurteilt Irans Attacken auf Nachbarstaaten',
+    body: 'Das höchste Gremium der Vereinten Nationen hat das sofortige Ende der iranischen Angriffe auf die umliegenden Golfstaaten gefordert.'
+  }
+];
+
+const dictionary = {
+  'französischer': { en: 'French', pos: 'Adjektiv', ex: '"ein französischer Soldat"' },
+  'soldat': { en: 'soldier', pos: 'Substantiv', ex: '"ein französischer Soldat"' },
+  'stirbt': { en: 'dies', pos: 'Verb', ex: '"Soldat stirbt bei Angriff"' },
+  'bei': { en: 'at, during', pos: 'Präposition', ex: '"bei einem Angriff im Irak"' },
+  'angriff': { en: 'attack', pos: 'Substantiv', ex: '"bei einem Angriff im Irak"' },
+  'irak': { en: 'Iraq', pos: 'Eigenname', ex: '"im Irak"' },
+  'einem': { en: 'a (dative)', pos: 'Artikel', ex: '"bei einem iranischen Raketenangriff"' },
+  'iranischen': { en: 'Iranian', pos: 'Adjektiv', ex: '"bei einem iranischen Raketenangriff"' },
+  'raketenangriff': { en: 'rocket attack', pos: 'Substantiv', ex: '"einem iranischen Raketenangriff"' },
+  'auf': { en: 'on, upon', pos: 'Präposition', ex: '"Angriff auf eine Militärbasis"' },
+  'eine': { en: 'a (accusative)', pos: 'Artikel', ex: '"auf eine Militärbasis"' },
+  'militärbasis': { en: 'military base', pos: 'Substantiv', ex: '"auf eine Militärbasis im Irak"' },
+  'ist': { en: 'is (has been)', pos: 'Hilfsverb', ex: '"ist … getötet worden"' },
+  'ein': { en: 'a', pos: 'Artikel', ex: '"ein französischer Soldat"' },
+  'getötet': { en: 'killed', pos: 'Partizip', ex: '"Soldat getötet worden"' },
+  'worden': { en: 'been (passive)', pos: 'Hilfsverb', ex: '"ist getötet worden"' },
+  'der': { en: 'the', pos: 'Artikel', ex: '"Der Élysée-Palast in Paris"' },
+  'élysée-palast': { en: 'Élysée Palace', pos: 'Eigenname', ex: '"Der Élysée-Palast in Paris"' },
+  'in': { en: 'in', pos: 'Präposition', ex: '"in Paris"' },
+  'paris': { en: 'Paris', pos: 'Eigenname', ex: '"in Paris"' },
+  'bestätigte': { en: 'confirmed', pos: 'Verb', ex: '"bestätigte den Tod des Soldaten"' },
+  'den': { en: 'the (accusative)', pos: 'Artikel', ex: '"den Tod des Soldaten"' },
+  'tod': { en: 'death', pos: 'Substantiv', ex: '"den Tod des Soldaten"' },
+  'des': { en: 'of the', pos: 'Artikel', ex: '"des Soldaten"' },
+  'soldaten': { en: 'soldier (genitive)', pos: 'Substantiv', ex: '"den Tod des Soldaten"' },
+  'un-sicherheitsrat': { en: 'UN Security Council', pos: 'Substantiv', ex: '"Der UN-Sicherheitsrat verurteilt…"' },
+  'verurteilt': { en: 'condemns', pos: 'Verb', ex: '"verurteilt Irans Attacken"' },
+  'irans': { en: "Iran's", pos: 'Eigenname', ex: '"Irans Attacken"' },
+  'attacken': { en: 'attacks', pos: 'Substantiv', ex: '"Irans Attacken auf Nachbarstaaten"' },
+  'nachbarstaaten': { en: 'neighboring states', pos: 'Substantiv', ex: '"Attacken auf Nachbarstaaten"' },
+  'das': { en: 'the (neuter)', pos: 'Artikel', ex: '"Das höchste Gremium"' },
+  'höchste': { en: 'highest', pos: 'Adjektiv', ex: '"das höchste Gremium"' },
+  'gremium': { en: 'body, committee', pos: 'Substantiv', ex: '"das höchste Gremium der Vereinten Nationen"' },
+  'vereinten': { en: 'united', pos: 'Adjektiv', ex: '"der Vereinten Nationen"' },
+  'nationen': { en: 'nations', pos: 'Substantiv', ex: '"der Vereinten Nationen"' },
+  'hat': { en: 'has', pos: 'Hilfsverb', ex: '"hat … gefordert"' },
+  'sofortige': { en: 'immediate', pos: 'Adjektiv', ex: '"das sofortige Ende"' },
+  'ende': { en: 'end', pos: 'Substantiv', ex: '"das sofortige Ende der Angriffe"' },
+  'angriffe': { en: 'attacks', pos: 'Substantiv', ex: '"der iranischen Angriffe"' },
+  'die': { en: 'the', pos: 'Artikel', ex: '"die umliegenden Golfstaaten"' },
+  'umliegenden': { en: 'surrounding', pos: 'Adjektiv', ex: '"die umliegenden Golfstaaten"' },
+  'golfstaaten': { en: 'Gulf states', pos: 'Substantiv', ex: '"die umliegenden Golfstaaten"' },
+  'gefordert': { en: 'demanded', pos: 'Partizip', ex: '"hat das Ende gefordert"' },
+  'im': { en: 'in the', pos: 'Präposition', ex: '"im Irak"' },
+};
+
+// ============================================================
+// RENDER — Build tappable word spans
+// ============================================================
+function renderWords(text, container, startIndex) {
+  const words = text.split(/\s+/);
+  container.innerHTML = '';
+  words.forEach((raw, i) => {
+    // Separate trailing punctuation
+    const match = raw.match(/^(.+?)([.,;:!?»«"]+)?$/);
+    const word = match ? match[1] : raw;
+    const punct = match && match[2] ? match[2] : '';
+
+    const span = document.createElement('span');
+    span.className = 'word';
+    span.textContent = word;
+    span.dataset.index = startIndex + i;
+    span.dataset.word = word;
+
+    container.appendChild(span);
+    if (punct) {
+      const pSpan = document.createElement('span');
+      pSpan.textContent = punct;
+      pSpan.className = 'punct';
+      container.appendChild(pSpan);
+    }
+    if (i < words.length - 1) {
+      container.appendChild(document.createTextNode(' '));
+    }
+  });
+  return words.length;
+}
+
+let globalIndex = 0;
+articles.forEach(a => {
+  const hEl = document.getElementById(a.headlineEl);
+  const bEl = document.getElementById(a.bodyEl);
+  globalIndex += renderWords(a.headline, hEl, globalIndex);
+  globalIndex += renderWords(a.body, bEl, globalIndex);
+});
+
+// ============================================================
+// ACTIVE WORD SIMULATION — highlight words in sequence
+// ============================================================
+const allWords = document.querySelectorAll('.word');
+let currentWordIndex = 0;
+let isPlaying = true;
+let wordInterval;
+
+function setActiveWord(index) {
+  allWords.forEach((w, i) => {
+    w.classList.remove('active');
+    if (i < index) w.classList.add('past');
+    else w.classList.remove('past');
+  });
+  if (allWords[index]) {
+    allWords[index].classList.add('active');
+    allWords[index].classList.remove('past');
+  }
+}
+
+// Start with a few words already "past" to show the effect
+currentWordIndex = 7;
+setActiveWord(currentWordIndex);
+
+function advanceWord() {
+  currentWordIndex++;
+  if (currentWordIndex >= allWords.length) currentWordIndex = 0;
+  setActiveWord(currentWordIndex);
+
+  // Update progress bar
+  const pct = (currentWordIndex / allWords.length) * 100;
+  document.getElementById('progress').style.width = pct + '%';
+}
+
+function startPlayback() {
+  wordInterval = setInterval(advanceWord, 1400);
+}
+
+function stopPlayback() {
+  clearInterval(wordInterval);
+}
+
+startPlayback();
+
+// ============================================================
+// PLAY / PAUSE
+// ============================================================
+const playBtn = document.getElementById('playBtn');
+playBtn.addEventListener('click', () => {
+  isPlaying = !isPlaying;
+  if (isPlaying) {
+    startPlayback();
+    playBtn.innerHTML = '<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><polygon points="6,3 20,12 6,21"/></svg>';
+    playBtn.classList.remove('paused');
+  } else {
+    stopPlayback();
+    playBtn.innerHTML = '<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="3" width="5" height="18" rx="1"/><rect x="14" y="3" width="5" height="18" rx="1"/></svg>';
+    playBtn.classList.add('paused');
+  }
+});
+
+// ============================================================
+// SPEED TOGGLE
+// ============================================================
+const speeds = ['0.4×', '0.6×', '0.8×', '1.0×'];
+const intervals = [2200, 1400, 1000, 700];
+let speedIndex = 1;
+const speedToggle = document.getElementById('speedToggle');
+const speedDots = document.querySelectorAll('.speed-bar__dot');
+
+speedToggle.addEventListener('click', () => {
+  speedIndex = (speedIndex + 1) % speeds.length;
+  speedToggle.textContent = speeds[speedIndex];
+  speedDots.forEach((d, i) => d.classList.toggle('active', i <= speedIndex));
+  if (isPlaying) {
+    stopPlayback();
+    wordInterval = setInterval(advanceWord, intervals[speedIndex]);
+  }
+});
+
+// ============================================================
+// WORD TAP → TRANSLATION POPUP
+// ============================================================
+const popup = document.getElementById('popup');
+const popupOverlay = document.getElementById('popupOverlay');
+const popupGerman = document.getElementById('popupGerman');
+const popupEnglish = document.getElementById('popupEnglish');
+const popupPos = document.getElementById('popupPos');
+const popupExample = document.getElementById('popupExample');
+const popupClose = document.getElementById('popupClose');
+let lastTapped = null;
+
+function openPopup(wordEl) {
+  const raw = wordEl.dataset.word;
+  const key = raw.toLowerCase().replace(/[.,;:!?»«"]/g, '');
+  const entry = dictionary[key];
+
+  if (lastTapped) lastTapped.classList.remove('tapped');
+  wordEl.classList.add('tapped');
+  lastTapped = wordEl;
+
+  // Pause playback while reading
+  if (isPlaying) {
+    stopPlayback();
+  }
+
+  if (entry) {
+    popupGerman.textContent = raw;
+    popupEnglish.textContent = entry.en;
+    popupPos.textContent = entry.pos.toUpperCase();
+    popupExample.innerHTML = '<em>' + entry.ex + '</em>';
+  } else {
+    popupGerman.textContent = raw;
+    popupEnglish.textContent = '—';
+    popupPos.textContent = 'WORT';
+    popupExample.innerHTML = '<em>Keine Übersetzung verfügbar</em>';
+  }
+
+  popup.classList.add('visible');
+  popupOverlay.classList.add('visible');
+}
+
+function closePopup() {
+  popup.classList.remove('visible');
+  popupOverlay.classList.remove('visible');
+  if (lastTapped) lastTapped.classList.remove('tapped');
+  lastTapped = null;
+
+  // Resume playback
+  if (isPlaying) startPlayback();
+}
+
+document.addEventListener('click', (e) => {
+  const wordEl = e.target.closest('.word');
+  if (wordEl) {
+    e.stopPropagation();
+    openPopup(wordEl);
+    return;
+  }
+});
+
+popupOverlay.addEventListener('click', closePopup);
+popupClose.addEventListener('click', closePopup);
+
+// Swipe down to dismiss
+let touchStartY = 0;
+popup.addEventListener('touchstart', (e) => {
+  touchStartY = e.touches[0].clientY;
+}, { passive: true });
+popup.addEventListener('touchmove', (e) => {
+  const dy = e.touches[0].clientY - touchStartY;
+  if (dy > 60) closePopup();
+}, { passive: true });
+
+// ============================================================
+// PROGRESS BAR SCRUBBING
+// ============================================================
+document.getElementById('progressWrap').addEventListener('click', (e) => {
+  const rect = e.currentTarget.getBoundingClientRect();
+  const pct = (e.clientX - rect.left) / rect.width;
+  currentWordIndex = Math.floor(pct * allWords.length);
+  setActiveWord(currentWordIndex);
+  document.getElementById('progress').style.width = (pct * 100) + '%';
+});
+</script>
+
+</body>
+</html>

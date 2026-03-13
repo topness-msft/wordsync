@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>WordSync — Warm Organic</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ─── Reset & Base ─── */
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --cream: #FFF8F0;
+    --cream-deep: #F5EBDD;
+    --amber: #D4920B;
+    --amber-light: #F5D78E;
+    --amber-glow: rgba(212, 146, 11, 0.18);
+    --terracotta: #C25E3E;
+    --terracotta-light: #E8A08A;
+    --brown-deep: #3D2B1F;
+    --brown-medium: #5C4033;
+    --warm-gray: #8B7D6B;
+    --warm-gray-light: #B8AD9E;
+    --parchment: #EDE3D4;
+    --highlight-bg: rgba(212, 146, 11, 0.22);
+    --highlight-border: rgba(212, 146, 11, 0.5);
+    --shadow-warm: rgba(61, 43, 31, 0.12);
+    --shadow-deep: rgba(61, 43, 31, 0.22);
+  }
+
+  html { font-size: 16px; -webkit-tap-highlight-color: transparent; }
+
+  body {
+    font-family: 'Literata', Georgia, serif;
+    background-color: var(--cream);
+    color: var(--brown-deep);
+    min-height: 100vh;
+    min-height: 100dvh;
+    overflow-x: hidden;
+    position: relative;
+  }
+
+  /* Paper grain texture overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1000;
+    opacity: 0.035;
+    background-image:
+      repeating-conic-gradient(var(--warm-gray) 0% 25%, transparent 0% 50%) 0 0 / 3px 3px,
+      repeating-conic-gradient(var(--warm-gray) 0% 25%, transparent 0% 50%) 1.5px 1.5px / 3px 3px;
+    mix-blend-mode: multiply;
+  }
+
+  /* Warm radial glow — like lamplight on the page */
+  body::after {
+    content: '';
+    position: fixed;
+    top: -20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 140%;
+    height: 70%;
+    background: radial-gradient(ellipse at center, rgba(245, 215, 142, 0.13) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ─── Layout Shell ─── */
+  .app-shell {
+    max-width: 390px;
+    margin: 0 auto;
+    min-height: 100vh;
+    min-height: 100dvh;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(180deg, var(--cream) 0%, var(--cream-deep) 100%);
+    box-shadow: -1px 0 0 var(--parchment), 1px 0 0 var(--parchment);
+  }
+
+  /* ─── Header ─── */
+  .header {
+    padding: 20px 24px 16px;
+    border-bottom: 1px solid var(--parchment);
+    position: relative;
+    background: linear-gradient(180deg, var(--cream) 0%, rgba(255, 248, 240, 0) 100%);
+  }
+
+  .header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+
+  .logo {
+    font-family: 'Literata', Georgia, serif;
+    font-size: 1.55rem;
+    font-weight: 700;
+    color: var(--brown-deep);
+    letter-spacing: -0.02em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .logo-icon {
+    width: 28px;
+    height: 28px;
+    background: linear-gradient(135deg, var(--amber) 0%, var(--terracotta) 100%);
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px var(--shadow-warm);
+  }
+
+  .logo-icon svg {
+    width: 16px;
+    height: 16px;
+    fill: var(--cream);
+  }
+
+  .header-level {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--cream);
+    background: var(--terracotta);
+    padding: 3px 10px;
+    border-radius: 20px;
+  }
+
+  .header-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .header-date {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 400;
+    color: var(--warm-gray);
+    letter-spacing: 0.01em;
+  }
+
+  .header-duration {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--warm-gray-light);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .header-duration svg {
+    width: 13px;
+    height: 13px;
+    fill: var(--warm-gray-light);
+  }
+
+  /* ─── Progress Bar (thin, warm) ─── */
+  .progress-strip {
+    height: 3px;
+    background: var(--parchment);
+    position: relative;
+  }
+
+  .progress-fill {
+    height: 100%;
+    width: 34%;
+    background: linear-gradient(90deg, var(--amber) 0%, var(--terracotta) 100%);
+    border-radius: 0 2px 2px 0;
+    position: relative;
+  }
+
+  .progress-fill::after {
+    content: '';
+    position: absolute;
+    right: -1px;
+    top: -2px;
+    width: 7px;
+    height: 7px;
+    background: var(--amber);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--amber-glow), 0 0 3px rgba(212, 146, 11, 0.4);
+  }
+
+  /* ─── Transcript ─── */
+  .transcript {
+    flex: 1;
+    padding: 24px 24px 160px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+  }
+
+  .article-block {
+    margin-bottom: 28px;
+  }
+
+  .article-block:last-child {
+    margin-bottom: 0;
+  }
+
+  .headline {
+    font-family: 'Literata', Georgia, serif;
+    font-size: 1.22rem;
+    font-weight: 700;
+    line-height: 1.42;
+    color: var(--brown-deep);
+    margin-bottom: 10px;
+    letter-spacing: -0.01em;
+  }
+
+  .body-text {
+    font-family: 'Literata', Georgia, serif;
+    font-size: 1.05rem;
+    font-weight: 400;
+    line-height: 1.82;
+    color: var(--brown-medium);
+    letter-spacing: 0.005em;
+  }
+
+  /* Divider between articles — like a section rule in a newspaper */
+  .article-divider {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 8px 0 28px;
+  }
+
+  .article-divider::before,
+  .article-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--warm-gray-light), transparent);
+  }
+
+  .article-divider .ornament {
+    color: var(--warm-gray-light);
+    font-size: 0.7rem;
+    line-height: 1;
+  }
+
+  /* ─── Word Spans ─── */
+  .word {
+    cursor: pointer;
+    padding: 1px 2px;
+    margin: 0 -1px;
+    border-radius: 3px;
+    transition: background-color 0.2s ease, color 0.15s ease, box-shadow 0.2s ease;
+    position: relative;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .word:active {
+    background-color: var(--amber-glow);
+  }
+
+  /* Past words — slightly warmer, "read" feeling */
+  .word.past {
+    color: var(--warm-gray);
+  }
+
+  /* Active word — warm amber lamplight glow */
+  .word.active {
+    background: linear-gradient(180deg, rgba(212, 146, 11, 0.12) 0%, rgba(212, 146, 11, 0.28) 100%);
+    color: var(--brown-deep);
+    font-weight: 600;
+    box-shadow:
+      0 0 0 2px var(--highlight-border),
+      0 2px 12px rgba(212, 146, 11, 0.18),
+      0 0 24px rgba(212, 146, 11, 0.08);
+    border-radius: 4px;
+    animation: glowPulse 2.2s ease-in-out infinite;
+  }
+
+  @keyframes glowPulse {
+    0%, 100% { box-shadow: 0 0 0 2px var(--highlight-border), 0 2px 12px rgba(212, 146, 11, 0.18), 0 0 24px rgba(212, 146, 11, 0.08); }
+    50% { box-shadow: 0 0 0 2px var(--highlight-border), 0 2px 16px rgba(212, 146, 11, 0.28), 0 0 32px rgba(212, 146, 11, 0.12); }
+  }
+
+  /* Tapped word — terracotta underline */
+  .word.tapped {
+    background-color: rgba(194, 94, 62, 0.08);
+    text-decoration: underline;
+    text-decoration-color: var(--terracotta-light);
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+  }
+
+  /* ─── Translation Popup ─── */
+  .translation-popup {
+    position: fixed;
+    z-index: 500;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(6px) scale(0.97);
+    transition: opacity 0.22s ease, transform 0.22s ease;
+  }
+
+  .translation-popup.visible {
+    pointer-events: auto;
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  .popup-card {
+    background: var(--cream);
+    border: 1px solid var(--parchment);
+    border-radius: 14px;
+    padding: 14px 18px;
+    box-shadow:
+      0 4px 20px var(--shadow-warm),
+      0 8px 40px rgba(61, 43, 31, 0.08);
+    min-width: 180px;
+    max-width: 280px;
+    position: relative;
+  }
+
+  /* Torn-paper top edge effect */
+  .popup-card::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 12px;
+    right: 12px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--amber), var(--terracotta));
+    border-radius: 3px 3px 0 0;
+  }
+
+  .popup-german {
+    font-family: 'Literata', Georgia, serif;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--brown-deep);
+    margin-bottom: 4px;
+  }
+
+  .popup-english {
+    font-family: 'Literata', Georgia, serif;
+    font-style: italic;
+    font-size: 1rem;
+    color: var(--terracotta);
+    line-height: 1.4;
+    margin-bottom: 6px;
+  }
+
+  .popup-grammar {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--warm-gray);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .popup-arrow {
+    position: absolute;
+    top: -7px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 14px;
+    height: 7px;
+    overflow: hidden;
+  }
+
+  .popup-arrow::before {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg);
+    width: 10px;
+    height: 10px;
+    background: var(--cream);
+    border: 1px solid var(--parchment);
+    border-radius: 1px;
+  }
+
+  /* ─── Audio Player Bar ─── */
+  .player-bar {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 390px;
+    z-index: 100;
+    padding: 0 16px 20px;
+    background: linear-gradient(180deg, rgba(255, 248, 240, 0) 0%, var(--cream) 20%);
+  }
+
+  .player-card {
+    background: linear-gradient(135deg, var(--brown-deep) 0%, var(--brown-medium) 100%);
+    border-radius: 18px;
+    padding: 14px 18px 16px;
+    box-shadow:
+      0 4px 24px var(--shadow-deep),
+      0 1px 0 rgba(255, 248, 240, 0.06) inset;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Subtle wood grain on player */
+  .player-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.04;
+    background:
+      repeating-linear-gradient(
+        92deg,
+        transparent,
+        transparent 8px,
+        rgba(255, 248, 240, 0.5) 8px,
+        rgba(255, 248, 240, 0.5) 9px
+      );
+    pointer-events: none;
+  }
+
+  .player-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+
+  .player-title {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--amber-light);
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+  }
+
+  .player-speed {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--warm-gray-light);
+    background: rgba(255, 248, 240, 0.08);
+    padding: 3px 10px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 248, 240, 0.08);
+  }
+
+  .player-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    margin-bottom: 14px;
+  }
+
+  .player-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .player-btn:active {
+    transform: scale(0.92);
+  }
+
+  .player-btn svg {
+    fill: var(--parchment);
+  }
+
+  .player-btn.secondary svg {
+    fill: var(--warm-gray-light);
+    width: 20px;
+    height: 20px;
+  }
+
+  .play-btn {
+    width: 52px;
+    height: 52px;
+    background: linear-gradient(135deg, var(--amber) 0%, var(--terracotta) 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 16px rgba(212, 146, 11, 0.35);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .play-btn:active {
+    transform: scale(0.94);
+    box-shadow: 0 2px 8px rgba(212, 146, 11, 0.25);
+  }
+
+  .play-btn svg {
+    fill: var(--cream);
+    width: 22px;
+    height: 22px;
+    margin-left: 2px;
+  }
+
+  .player-timeline {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .player-time {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--warm-gray-light);
+    min-width: 34px;
+  }
+
+  .player-time.right {
+    text-align: right;
+  }
+
+  .timeline-track {
+    flex: 1;
+    height: 4px;
+    background: rgba(255, 248, 240, 0.1);
+    border-radius: 2px;
+    position: relative;
+    overflow: visible;
+  }
+
+  .timeline-fill {
+    height: 100%;
+    width: 34%;
+    background: linear-gradient(90deg, var(--amber) 0%, var(--terracotta) 100%);
+    border-radius: 2px;
+    position: relative;
+  }
+
+  .timeline-fill::after {
+    content: '';
+    position: absolute;
+    right: -5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 12px;
+    height: 12px;
+    background: var(--cream);
+    border: 2.5px solid var(--amber);
+    border-radius: 50%;
+    box-shadow: 0 0 8px rgba(212, 146, 11, 0.3);
+  }
+
+  /* ─── Bookmark badge on headline ─── */
+  .headline-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.68rem;
+    font-weight: 600;
+    color: var(--terracotta);
+    background: rgba(194, 94, 62, 0.08);
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-left: 6px;
+    vertical-align: middle;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  .headline-badge svg {
+    width: 10px;
+    height: 10px;
+    fill: var(--terracotta);
+  }
+
+  /* ─── Scrollbar ─── */
+  .transcript::-webkit-scrollbar { width: 4px; }
+  .transcript::-webkit-scrollbar-track { background: transparent; }
+  .transcript::-webkit-scrollbar-thumb { background: var(--parchment); border-radius: 2px; }
+
+  /* ─── Selection ─── */
+  ::selection {
+    background: var(--amber-glow);
+    color: var(--brown-deep);
+  }
+</style>
+</head>
+<body>
+
+<div class="app-shell">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-top">
+      <div class="logo">
+        <div class="logo-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
+        </div>
+        WordSync
+      </div>
+      <span class="header-level">B1</span>
+    </div>
+    <div class="header-meta">
+      <span class="header-date">March 13, 2026</span>
+      <span class="header-duration">
+        <svg viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>
+        2:48
+      </span>
+    </div>
+  </header>
+
+  <!-- Progress -->
+  <div class="progress-strip">
+    <div class="progress-fill"></div>
+  </div>
+
+  <!-- Transcript -->
+  <main class="transcript" id="transcript">
+
+    <!-- Article 1 -->
+    <div class="article-block">
+      <h2 class="headline">
+        <span class="word past" data-de="Französischer" data-en="French" data-grammar="adj · nominative masculine">Französischer</span>
+        <span class="word past" data-de="Soldat" data-en="soldier" data-grammar="noun · masculine">Soldat</span>
+        <span class="word past" data-de="stirbt" data-en="dies" data-grammar="verb · 3rd person singular">stirbt</span>
+        <span class="word past" data-de="bei" data-en="in / during" data-grammar="preposition · dative">bei</span>
+        <span class="word past" data-de="Angriff" data-en="attack" data-grammar="noun · masculine">Angriff</span>
+        <span class="word past" data-de="im" data-en="in the" data-grammar="contraction · in + dem">im</span>
+        <span class="word past" data-de="Irak" data-en="Iraq" data-grammar="proper noun">Irak</span>
+      </h2>
+      <p class="body-text">
+        <span class="word past" data-de="Bei" data-en="During" data-grammar="preposition">Bei</span>
+        <span class="word past" data-de="einem" data-en="a / an" data-grammar="article · dative masculine">einem</span>
+        <span class="word past" data-de="iranischen" data-en="Iranian" data-grammar="adj · dative masculine">iranischen</span>
+        <span class="word past" data-de="Raketenangriff" data-en="rocket attack" data-grammar="noun · compound · masculine">Raketenangriff</span>
+        <span class="word past" data-de="auf" data-en="on" data-grammar="preposition · accusative">auf</span>
+        <span class="word past" data-de="eine" data-en="a" data-grammar="article · accusative feminine">eine</span>
+        <span class="word past" data-de="Militärbasis" data-en="military base" data-grammar="noun · compound · feminine">Militärbasis</span>
+        <span class="word past" data-de="im" data-en="in the" data-grammar="contraction · in + dem">im</span>
+        <span class="word past" data-de="Irak" data-en="Iraq" data-grammar="proper noun">Irak</span>
+        <span class="word past" data-de="ist" data-en="is" data-grammar="verb · auxiliary">ist</span>
+        <span class="word active" data-de="ein" data-en="a" data-grammar="article · nominative masculine">ein</span>
+        <span class="word" data-de="französischer" data-en="French" data-grammar="adj · nominative masculine">französischer</span>
+        <span class="word" data-de="Soldat" data-en="soldier" data-grammar="noun · masculine">Soldat</span>
+        <span class="word" data-de="getötet" data-en="killed" data-grammar="past participle">getötet</span>
+        <span class="word" data-de="worden." data-en="been (passive)" data-grammar="past participle · passive">worden.</span>
+        <span class="word" data-de="Der" data-en="The" data-grammar="article · nominative masculine">Der</span>
+        <span class="word tapped" data-de="Élysée-Palast" data-en="Élysée Palace" data-grammar="noun · proper · masculine">Élysée-Palast</span>
+        <span class="word" data-de="in" data-en="in" data-grammar="preposition · dative">in</span>
+        <span class="word" data-de="Paris" data-en="Paris" data-grammar="proper noun">Paris</span>
+        <span class="word" data-de="bestätigte" data-en="confirmed" data-grammar="verb · past tense">bestätigte</span>
+        <span class="word" data-de="den" data-en="the" data-grammar="article · accusative masculine">den</span>
+        <span class="word" data-de="Tod" data-en="death" data-grammar="noun · masculine">Tod</span>
+        <span class="word" data-de="des" data-en="of the" data-grammar="article · genitive masculine">des</span>
+        <span class="word" data-de="Soldaten." data-en="soldier" data-grammar="noun · genitive masculine (weak)">Soldaten.</span>
+      </p>
+    </div>
+
+    <!-- Divider -->
+    <div class="article-divider">
+      <span class="ornament">◆</span>
+    </div>
+
+    <!-- Article 2 -->
+    <div class="article-block">
+      <h2 class="headline">
+        <span class="word" data-de="UN-Sicherheitsrat" data-en="UN Security Council" data-grammar="noun · compound · masculine">UN-Sicherheitsrat</span>
+        <span class="word" data-de="verurteilt" data-en="condemns" data-grammar="verb · 3rd person singular">verurteilt</span>
+        <span class="word" data-de="Irans" data-en="Iran's" data-grammar="genitive · proper noun">Irans</span>
+        <span class="word" data-de="Attacken" data-en="attacks" data-grammar="noun · plural feminine">Attacken</span>
+        <span class="word" data-de="auf" data-en="on" data-grammar="preposition · accusative">auf</span>
+        <span class="word" data-de="Nachbarstaaten" data-en="neighboring states" data-grammar="noun · compound · plural">Nachbarstaaten</span>
+      </h2>
+      <p class="body-text">
+        <span class="word" data-de="Das" data-en="The" data-grammar="article · nominative neuter">Das</span>
+        <span class="word" data-de="höchste" data-en="highest" data-grammar="adj · superlative · nominative neuter">höchste</span>
+        <span class="word" data-de="Gremium" data-en="body / committee" data-grammar="noun · neuter">Gremium</span>
+        <span class="word" data-de="der" data-en="of the" data-grammar="article · genitive plural">der</span>
+        <span class="word" data-de="Vereinten" data-en="United" data-grammar="adj · genitive plural">Vereinten</span>
+        <span class="word" data-de="Nationen" data-en="Nations" data-grammar="noun · genitive plural">Nationen</span>
+        <span class="word" data-de="hat" data-en="has" data-grammar="verb · auxiliary · 3rd sg">hat</span>
+        <span class="word" data-de="das" data-en="the" data-grammar="article · accusative neuter">das</span>
+        <span class="word" data-de="sofortige" data-en="immediate" data-grammar="adj · accusative neuter">sofortige</span>
+        <span class="word" data-de="Ende" data-en="end" data-grammar="noun · neuter">Ende</span>
+        <span class="word" data-de="der" data-en="of the" data-grammar="article · genitive plural">der</span>
+        <span class="word" data-de="iranischen" data-en="Iranian" data-grammar="adj · genitive plural">iranischen</span>
+        <span class="word" data-de="Angriffe" data-en="attacks" data-grammar="noun · genitive plural">Angriffe</span>
+        <span class="word" data-de="auf" data-en="on" data-grammar="preposition · accusative">auf</span>
+        <span class="word" data-de="die" data-en="the" data-grammar="article · accusative plural">die</span>
+        <span class="word" data-de="umliegenden" data-en="surrounding" data-grammar="adj · accusative plural">umliegenden</span>
+        <span class="word" data-de="Golfstaaten" data-en="Gulf states" data-grammar="noun · compound · accusative plural">Golfstaaten</span>
+        <span class="word" data-de="gefordert." data-en="demanded" data-grammar="past participle">gefordert.</span>
+      </p>
+    </div>
+
+  </main>
+
+  <!-- Translation Popup (shown for "Élysée-Palast") -->
+  <div class="translation-popup visible" id="popup" style="bottom: 310px; left: 50%; transform: translateX(-50%);">
+    <div class="popup-card">
+      <div class="popup-arrow" style="left: 50%;"></div>
+      <div class="popup-german">Élysée-Palast</div>
+      <div class="popup-english">Élysée Palace</div>
+      <div class="popup-grammar">noun · proper · masculine</div>
+    </div>
+  </div>
+
+  <!-- Audio Player -->
+  <div class="player-bar">
+    <div class="player-card">
+      <div class="player-top">
+        <span class="player-title">Französischer Soldat stirbt bei…</span>
+        <span class="player-speed">0.6×</span>
+      </div>
+      <div class="player-controls">
+        <button class="player-btn secondary" aria-label="Rewind 5 seconds">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6h-2c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/><text x="9.5" y="16" font-size="7" font-family="sans-serif" fill="currentColor" font-weight="700">5</text></svg>
+        </button>
+        <button class="player-btn play-btn" aria-label="Pause">
+          <svg viewBox="0 0 24 24" width="22" height="22"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+        </button>
+        <button class="player-btn secondary" aria-label="Forward 5 seconds">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M12.01 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z"/><text x="9" y="16" font-size="7" font-family="sans-serif" fill="currentColor" font-weight="700">5</text></svg>
+        </button>
+      </div>
+      <div class="player-timeline">
+        <span class="player-time">0:57</span>
+        <div class="timeline-track">
+          <div class="timeline-fill"></div>
+        </div>
+        <span class="player-time right">2:48</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  // Translation data already in data attributes
+  const popup = document.getElementById('popup');
+  const words = document.querySelectorAll('.word');
+
+  function hidePopup() {
+    popup.classList.remove('visible');
+  }
+
+  function showPopup(wordEl) {
+    const de = wordEl.dataset.de;
+    const en = wordEl.dataset.en;
+    const grammar = wordEl.dataset.grammar;
+
+    popup.querySelector('.popup-german').textContent = de;
+    popup.querySelector('.popup-english').textContent = en;
+    popup.querySelector('.popup-grammar').textContent = grammar;
+
+    // Position near the word
+    const rect = wordEl.getBoundingClientRect();
+    const popupCard = popup.querySelector('.popup-card');
+
+    // Position above the word
+    popup.style.left = '';
+    popup.style.right = '';
+    popup.style.bottom = '';
+    popup.style.top = '';
+    popup.style.transform = '';
+
+    // Calculate position
+    const centerX = rect.left + rect.width / 2;
+    const appShell = document.querySelector('.app-shell');
+    const shellRect = appShell.getBoundingClientRect();
+
+    popup.style.position = 'fixed';
+    popup.style.bottom = (window.innerHeight - rect.top + 8) + 'px';
+
+    // Center horizontally relative to word, but clamp to screen
+    const popupWidth = 220;
+    let leftPos = centerX - popupWidth / 2;
+    leftPos = Math.max(shellRect.left + 12, Math.min(leftPos, shellRect.right - popupWidth - 12));
+    popup.style.left = leftPos + 'px';
+    popup.style.transform = 'none';
+
+    // Arrow position
+    const arrow = popup.querySelector('.popup-arrow');
+    const arrowOffset = centerX - leftPos;
+    arrow.style.left = Math.max(16, Math.min(arrowOffset, popupWidth - 16)) + 'px';
+
+    // Mark word
+    words.forEach(w => w.classList.remove('tapped'));
+    wordEl.classList.add('tapped');
+
+    popup.classList.add('visible');
+  }
+
+  words.forEach(word => {
+    word.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (word.classList.contains('tapped') && popup.classList.contains('visible')) {
+        hidePopup();
+        word.classList.remove('tapped');
+      } else {
+        showPopup(word);
+      }
+    });
+  });
+
+  // Tap outside to dismiss
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.word') && !e.target.closest('.popup-card')) {
+      hidePopup();
+      words.forEach(w => w.classList.remove('tapped'));
+    }
+  });
+
+  // Position the initial popup on load
+  window.addEventListener('DOMContentLoaded', () => {
+    const tappedWord = document.querySelector('.word.tapped');
+    if (tappedWord) {
+      // Small delay for layout
+      setTimeout(() => showPopup(tappedWord), 100);
+    }
+  });
+</script>
+
+</body>
+</html>

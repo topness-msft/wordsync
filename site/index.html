@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WordSync</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <h1 class="site-title">WordSync</h1>
+      <p class="site-subtitle">Follow along with slowly spoken German news</p>
+    </header>
+    <main>
+      <div id="episodes" class="episode-list">
+        <div class="loading">Loading episodes…</div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    function formatDate(dateStr) {
+      const d = new Date(dateStr + 'T00:00:00');
+      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    function formatDuration(seconds) {
+      const m = Math.floor(seconds / 60);
+      const s = Math.floor(seconds % 60);
+      return m + ':' + String(s).padStart(2, '0');
+    }
+
+    async function loadEpisodes() {
+      const container = document.getElementById('episodes');
+      try {
+        const res = await fetch('data/episodes.json');
+        if (!res.ok) throw new Error('Failed to load episodes');
+        const episodes = await res.json();
+
+        container.innerHTML = '';
+        if (episodes.length === 0) {
+          container.innerHTML = '<p class="empty">No episodes yet.</p>';
+          return;
+        }
+
+        for (const ep of episodes) {
+          const card = document.createElement('a');
+          card.href = 'player.html?id=' + encodeURIComponent(ep.id);
+          card.className = 'episode-card';
+
+          card.innerHTML =
+            '<img class="episode-thumb" src="' + ep.imageUrl + '" alt="">' +
+            '<div class="episode-info">' +
+              '<time class="episode-date">' + formatDate(ep.date) + '</time>' +
+              '<h2 class="episode-title">' + ep.title + '</h2>' +
+              '<span class="episode-duration">' + formatDuration(ep.duration) + '</span>' +
+            '</div>';
+
+          container.appendChild(card);
+        }
+      } catch (err) {
+        container.innerHTML = '<p class="error">Could not load episodes.</p>';
+        console.error(err);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadEpisodes);
+  </script>
+</body>
+</html>
