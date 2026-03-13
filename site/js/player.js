@@ -190,6 +190,8 @@
   }
 
   // --- Translation popup ---
+  let wasPlayingBeforePopup = false;
+
   function showPopup(wordEl) {
     var german = wordEl.textContent;
     var translation = wordEl.dataset.translation;
@@ -201,6 +203,9 @@
       popupTranslation.textContent = translation;
     }
 
+    wasPlayingBeforePopup = !audio.paused;
+    if (wasPlayingBeforePopup) audio.pause();
+
     popupOverlay.classList.add('visible');
     popup.classList.add('visible');
   }
@@ -208,6 +213,10 @@
   function hidePopup() {
     popupOverlay.classList.remove('visible');
     popup.classList.remove('visible');
+    if (wasPlayingBeforePopup) {
+      audio.play();
+      wasPlayingBeforePopup = false;
+    }
   }
 
   // --- Event listeners ---
