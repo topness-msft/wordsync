@@ -29,7 +29,7 @@ jobs:
       - name: Run build pipeline
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-        run: python build/build.py --model base
+        run: python build/build.py --model base --limit 5
 
       - name: Commit new episode data
         run: |
