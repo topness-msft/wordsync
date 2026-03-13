@@ -256,9 +256,12 @@
     const wordEl = e.target.closest('.word');
     if (wordEl) {
       e.stopPropagation();
-      audio.currentTime = parseFloat(wordEl.dataset.start);
-      updateProgress();
-      updateHighlight();
+      var startTime = parseFloat(wordEl.dataset.start);
+      if (isFinite(startTime) && audio.readyState >= 1) {
+        audio.currentTime = startTime;
+        updateProgress();
+        updateHighlight();
+      }
       showPopup(wordEl);
     }
   });
