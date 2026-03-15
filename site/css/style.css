@@ -566,6 +566,30 @@ body {
   -webkit-appearance: none;
 }
 
+.help-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 50%;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: var(--body);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  flex-shrink: 0;
+  -webkit-tap-highlight-color: transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.help-btn:hover {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
 .skip-btn {
   display: flex;
   align-items: center;

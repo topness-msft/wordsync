@@ -21,6 +21,7 @@
   const onboardingClose = document.getElementById('onboarding-close');
   const onboardingRemember = document.getElementById('onboarding-remember');
   const onboardingBackdrop = document.getElementById('onboarding-backdrop');
+  const helpBtn = document.getElementById('help-btn');
 
   // --- State ---
   let wordEntries = []; // { el, start, end }  sorted by start
@@ -413,6 +414,9 @@
 
   onboardingClose.addEventListener('click', dismissOnboarding);
   onboardingBackdrop.addEventListener('click', dismissOnboarding);
+  helpBtn.addEventListener('click', function () {
+    onboarding.classList.remove('hidden');
+  });
 
   // --- Init ---
   document.addEventListener('DOMContentLoaded', function () {
