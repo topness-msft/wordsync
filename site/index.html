@@ -11,8 +11,13 @@
 <body>
   <div class="container">
     <header class="site-header">
-      <h1 class="site-title">WordSync</h1>
-      <p class="site-subtitle">Follow along with slowly spoken German news <a href="#" id="how-link" class="how-link">? How it works</a></p>
+      <div class="site-header__row">
+        <div>
+          <h1 class="site-title">WordSync</h1>
+          <p class="site-subtitle">Follow along with slowly spoken German news</p>
+        </div>
+        <button id="how-link" class="header-help" aria-label="How it works">?</button>
+      </div>
     </header>
     <main>
       <div id="episodes" class="episode-list">
@@ -100,8 +105,7 @@
 
     // How it works popup
     var onboarding = document.getElementById('onboarding');
-    document.getElementById('how-link').addEventListener('click', function (e) {
-      e.preventDefault();
+    document.getElementById('how-link').addEventListener('click', function () {
       onboarding.classList.remove('hidden');
     });
     document.getElementById('onboarding-close').addEventListener('click', function () {
