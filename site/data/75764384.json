@@ -1,0 +1,3454 @@
+{
+  "id": 75764384,
+  "title": "02.02.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-02-02",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/89D7B8EF_2.mp3",
+  "duration": 480,
+  "imageUrl": "https://static.dw.com/image/75765389_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Verdi ruft zu Warnstreik im öffentlichen Nahverkehr auf",
+      "words": [
+        {
+          "word": "Verdi",
+          "start": 0.0,
+          "end": 17.56,
+          "translation": "Verdi"
+        },
+        {
+          "word": "ruft",
+          "start": 17.56,
+          "end": 18.14,
+          "translation": "calls"
+        },
+        {
+          "word": "zu",
+          "start": 18.14,
+          "end": 18.56,
+          "translation": "to"
+        },
+        {
+          "word": "Warnstreik",
+          "start": 18.56,
+          "end": 19.58,
+          "translation": "Warning strike"
+        },
+        {
+          "word": "im",
+          "start": 19.58,
+          "end": 19.86,
+          "translation": "in the"
+        },
+        {
+          "word": "öffentlichen",
+          "start": 19.86,
+          "end": 20.92,
+          "translation": "public"
+        },
+        {
+          "word": "Nahverkehr",
+          "start": 20.92,
+          "end": 21.74,
+          "translation": "Local traffic"
+        },
+        {
+          "word": "auf",
+          "start": 21.74,
+          "end": 22.34,
+          "translation": "on"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Wegen eines Warnstreiks der Gewerkschaft Verdi kommt es an diesem Montag in Deutschland zu massiven Einschränkungen im öffentlichen Nahverkehr. Busse, Straßen- und U-Bahnen bleiben bei vielen kommunalen Verkehrsunternehmen infolge des Arbeitskampfs in den Depots. Betroffen sind alle Bundesländer mit Ausnahme von Niedersachsen, wie Verdi mitteilte. Dort gilt noch die Friedenspflicht. Mit dem Ausstand will die Gewerkschaft den Druck in den Tarifverhandlungen erhöhen. Verdi fordert insbesondere deutlich bessere Arbeitsbedingungen.",
+      "words": [
+        {
+          "word": "Wegen",
+          "start": 23.34,
+          "end": 23.92,
+          "translation": "Because of"
+        },
+        {
+          "word": "eines",
+          "start": 23.92,
+          "end": 24.36,
+          "translation": "one"
+        },
+        {
+          "word": "Warnstreiks",
+          "start": 24.36,
+          "end": 25.52,
+          "translation": "Warning strikes"
+        },
+        {
+          "word": "der",
+          "start": 25.52,
+          "end": 25.8,
+          "translation": "the"
+        },
+        {
+          "word": "Gewerkschaft",
+          "start": 25.8,
+          "end": 26.7,
+          "translation": "Trade union"
+        },
+        {
+          "word": "Verdi",
+          "start": 26.7,
+          "end": 27.98,
+          "translation": "Verdi"
+        },
+        {
+          "word": "kommt",
+          "start": 27.98,
+          "end": 28.16,
+          "translation": "comes"
+        },
+        {
+          "word": "es",
+          "start": 28.16,
+          "end": 28.58,
+          "translation": "it"
+        },
+        {
+          "word": "an",
+          "start": 28.58,
+          "end": 28.84,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 28.84,
+          "end": 29.36,
+          "translation": "this"
+        },
+        {
+          "word": "Montag",
+          "start": 29.36,
+          "end": 30.44,
+          "translation": "Monday"
+        },
+        {
+          "word": "in",
+          "start": 30.44,
+          "end": 30.72,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland",
+          "start": 30.72,
+          "end": 31.46,
+          "translation": "Germany"
+        },
+        {
+          "word": "zu",
+          "start": 31.46,
+          "end": 32.16,
+          "translation": "to"
+        },
+        {
+          "word": "massiven",
+          "start": 32.16,
+          "end": 33.12,
+          "translation": "massive"
+        },
+        {
+          "word": "Einschränkungen",
+          "start": 33.12,
+          "end": 34.5,
+          "translation": "Restrictions"
+        },
+        {
+          "word": "im",
+          "start": 34.5,
+          "end": 35.22,
+          "translation": "in the"
+        },
+        {
+          "word": "öffentlichen",
+          "start": 35.22,
+          "end": 36.4,
+          "translation": "public"
+        },
+        {
+          "word": "Nahverkehr.",
+          "start": 36.4,
+          "end": 37.42,
+          "translation": "Local transportation."
+        },
+        {
+          "word": "Busse,",
+          "start": 38.34,
+          "end": 39.06,
+          "translation": "Buses,"
+        },
+        {
+          "word": "Straßen-",
+          "start": 39.48,
+          "end": 39.8,
+          "translation": "Road"
+        },
+        {
+          "word": "und",
+          "start": 39.8,
+          "end": 40.62,
+          "translation": "and"
+        },
+        {
+          "word": "U-Bahnen",
+          "start": 40.62,
+          "end": 41.96,
+          "translation": "Subways"
+        },
+        {
+          "word": "bleiben",
+          "start": 41.96,
+          "end": 42.22,
+          "translation": "stay"
+        },
+        {
+          "word": "bei",
+          "start": 42.22,
+          "end": 42.72,
+          "translation": "with"
+        },
+        {
+          "word": "vielen",
+          "start": 42.72,
+          "end": 43.28,
+          "translation": "many"
+        },
+        {
+          "word": "kommunalen",
+          "start": 43.28,
+          "end": 44.26,
+          "translation": "municipal"
+        },
+        {
+          "word": "Verkehrsunternehmen",
+          "start": 44.26,
+          "end": 45.82,
+          "translation": "Transport company"
+        },
+        {
+          "word": "infolge",
+          "start": 45.82,
+          "end": 46.82,
+          "translation": "as a result of"
+        },
+        {
+          "word": "des",
+          "start": 46.82,
+          "end": 47.08,
+          "translation": "of the"
+        },
+        {
+          "word": "Arbeitskampfs",
+          "start": 47.08,
+          "end": 48.54,
+          "translation": "Labor dispute"
+        },
+        {
+          "word": "in",
+          "start": 48.54,
+          "end": 49.0,
+          "translation": "in"
+        },
+        {
+          "word": "den",
+          "start": 49.0,
+          "end": 49.32,
+          "translation": "the"
+        },
+        {
+          "word": "Depots.",
+          "start": 49.32,
+          "end": 51.0,
+          "translation": "Deposits."
+        },
+        {
+          "word": "Betroffen",
+          "start": 51.0,
+          "end": 51.76,
+          "translation": "Affected"
+        },
+        {
+          "word": "sind",
+          "start": 51.76,
+          "end": 52.16,
+          "translation": "are"
+        },
+        {
+          "word": "alle",
+          "start": 52.16,
+          "end": 52.7,
+          "translation": "all"
+        },
+        {
+          "word": "Bundesländer",
+          "start": 52.7,
+          "end": 53.74,
+          "translation": "Federal states"
+        },
+        {
+          "word": "mit",
+          "start": 53.74,
+          "end": 54.34,
+          "translation": "with"
+        },
+        {
+          "word": "Ausnahme",
+          "start": 54.34,
+          "end": 55.08,
+          "translation": "Exception"
+        },
+        {
+          "word": "von",
+          "start": 55.08,
+          "end": 55.66,
+          "translation": "from"
+        },
+        {
+          "word": "Niedersachsen,",
+          "start": 55.66,
+          "end": 56.58,
+          "translation": "Lower Saxony,"
+        },
+        {
+          "word": "wie",
+          "start": 56.58,
+          "end": 57.38,
+          "translation": "like"
+        },
+        {
+          "word": "Verdi",
+          "start": 57.38,
+          "end": 58.04,
+          "translation": "Verdi"
+        },
+        {
+          "word": "mitteilte.",
+          "start": 58.04,
+          "end": 59.08,
+          "translation": "announced."
+        },
+        {
+          "word": "Dort",
+          "start": 59.9,
+          "end": 60.12,
+          "translation": "There"
+        },
+        {
+          "word": "gilt",
+          "start": 60.12,
+          "end": 60.5,
+          "translation": "applies"
+        },
+        {
+          "word": "noch",
+          "start": 60.5,
+          "end": 60.92,
+          "translation": "still"
+        },
+        {
+          "word": "die",
+          "start": 60.92,
+          "end": 61.3,
+          "translation": "the"
+        },
+        {
+          "word": "Friedenspflicht.",
+          "start": 61.3,
+          "end": 62.64,
+          "translation": "Duty of peace."
+        },
+        {
+          "word": "Mit",
+          "start": 63.72,
+          "end": 63.92,
+          "translation": "With"
+        },
+        {
+          "word": "dem",
+          "start": 63.92,
+          "end": 64.32,
+          "translation": "the"
+        },
+        {
+          "word": "Ausstand",
+          "start": 64.32,
+          "end": 65.26,
+          "translation": "Walkout"
+        },
+        {
+          "word": "will",
+          "start": 65.26,
+          "end": 65.7,
+          "translation": "wants"
+        },
+        {
+          "word": "die",
+          "start": 65.7,
+          "end": 65.98,
+          "translation": "the"
+        },
+        {
+          "word": "Gewerkschaft",
+          "start": 65.98,
+          "end": 66.8,
+          "translation": "Trade union"
+        },
+        {
+          "word": "den",
+          "start": 66.8,
+          "end": 67.32,
+          "translation": "the"
+        },
+        {
+          "word": "Druck",
+          "start": 67.32,
+          "end": 67.72,
+          "translation": "Print"
+        },
+        {
+          "word": "in",
+          "start": 67.72,
+          "end": 68.2,
+          "translation": "in"
+        },
+        {
+          "word": "den",
+          "start": 68.2,
+          "end": 68.46,
+          "translation": "the"
+        },
+        {
+          "word": "Tarifverhandlungen",
+          "start": 68.46,
+          "end": 70.0,
+          "translation": "Collective bargaining"
+        },
+        {
+          "word": "erhöhen.",
+          "start": 70.0,
+          "end": 71.14,
+          "translation": "increase."
+        },
+        {
+          "word": "Verdi",
+          "start": 71.14,
+          "end": 72.4,
+          "translation": "Verdi"
+        },
+        {
+          "word": "fordert",
+          "start": 72.4,
+          "end": 73.0,
+          "translation": "demands"
+        },
+        {
+          "word": "insbesondere",
+          "start": 73.0,
+          "end": 74.06,
+          "translation": "in particular"
+        },
+        {
+          "word": "deutlich",
+          "start": 74.06,
+          "end": 75.3,
+          "translation": "clear"
+        },
+        {
+          "word": "bessere",
+          "start": 75.3,
+          "end": 76.28,
+          "translation": "better"
+        },
+        {
+          "word": "Arbeitsbedingungen.",
+          "start": 76.28,
+          "end": 77.92,
+          "translation": "Working conditions."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Zehntausende Tschechen demonstrieren für Präsident Pavel",
+      "words": [
+        {
+          "word": "Zehntausende",
+          "start": 77.92,
+          "end": 80.03,
+          "translation": "Tens of thousands"
+        },
+        {
+          "word": "Tschechen",
+          "start": 80.03,
+          "end": 82.14,
+          "translation": "Czechs"
+        },
+        {
+          "word": "demonstrieren",
+          "start": 82.14,
+          "end": 83.5,
+          "translation": "demonstrate"
+        },
+        {
+          "word": "für",
+          "start": 83.5,
+          "end": 83.88,
+          "translation": "for"
+        },
+        {
+          "word": "Präsident",
+          "start": 83.88,
+          "end": 84.78,
+          "translation": "President"
+        },
+        {
+          "word": "Pavel",
+          "start": 84.78,
+          "end": 86.56,
+          "translation": "Pavel"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "In Tschechien sind Zehntausende Menschen auf die Straße gegangen, um sich hinter den pro-westlichen Präsidenten Petr Pavel zu stellen. Sie folgten einem Aufruf der Initiative „Millionen Augenblicke für Demokratie“ und versammelten sich am Sonntag im Zentrum der Hauptstadt Prag. Die Veranstalter sprachen von 80.000 bis 90.000 Teilnehmern. Hintergrund ist ein eskalierender Konflikt zwischen Pavel und der Regierung unter dem Milliardär und Rechtspopulisten Andrej Babiš. Beide Seiten streiten sich unter anderem wegen der Unterstützung der von Russland angegriffenen Ukraine. Zudem weigert sich Pavel, einen von Babiš nominierten umstrittenen Kandidaten von der Autofahrerpartei zum Umweltminister zu ernennen.",
+      "words": [
+        {
+          "word": "In",
+          "start": 86.56,
+          "end": 87.08,
+          "translation": "In"
+        },
+        {
+          "word": "Tschechien",
+          "start": 87.08,
+          "end": 88.02,
+          "translation": "Czech Republic"
+        },
+        {
+          "word": "sind",
+          "start": 88.02,
+          "end": 88.4,
+          "translation": "are"
+        },
+        {
+          "word": "Zehntausende",
+          "start": 88.4,
+          "end": 89.66,
+          "translation": "Tens of thousands"
+        },
+        {
+          "word": "Menschen",
+          "start": 89.66,
+          "end": 90.16,
+          "translation": "People"
+        },
+        {
+          "word": "auf",
+          "start": 90.16,
+          "end": 90.88,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 90.88,
+          "end": 91.16,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 91.16,
+          "end": 91.84,
+          "translation": "Street"
+        },
+        {
+          "word": "gegangen,",
+          "start": 91.84,
+          "end": 92.44,
+          "translation": "gone,"
+        },
+        {
+          "word": "um",
+          "start": 93.12,
+          "end": 93.38,
+          "translation": "to"
+        },
+        {
+          "word": "sich",
+          "start": 93.38,
+          "end": 93.82,
+          "translation": "itself"
+        },
+        {
+          "word": "hinter",
+          "start": 93.82,
+          "end": 94.38,
+          "translation": "behind"
+        },
+        {
+          "word": "den",
+          "start": 94.38,
+          "end": 94.92,
+          "translation": "the"
+        },
+        {
+          "word": "pro-westlichen",
+          "start": 94.92,
+          "end": 96.32,
+          "translation": "pro-western"
+        },
+        {
+          "word": "Präsidenten",
+          "start": 96.32,
+          "end": 97.8,
+          "translation": "Presidents"
+        },
+        {
+          "word": "Petr",
+          "start": 97.8,
+          "end": 98.66,
+          "translation": "Petr"
+        },
+        {
+          "word": "Pavel",
+          "start": 98.66,
+          "end": 99.52,
+          "translation": "Pavel"
+        },
+        {
+          "word": "zu",
+          "start": 99.52,
+          "end": 99.9,
+          "translation": "to"
+        },
+        {
+          "word": "stellen.",
+          "start": 99.9,
+          "end": 100.4,
+          "translation": "place."
+        },
+        {
+          "word": "Sie",
+          "start": 100.82,
+          "end": 101.52,
+          "translation": "You"
+        },
+        {
+          "word": "folgten",
+          "start": 101.52,
+          "end": 102.26,
+          "translation": "followed"
+        },
+        {
+          "word": "einem",
+          "start": 102.26,
+          "end": 102.74,
+          "translation": "one"
+        },
+        {
+          "word": "Aufruf",
+          "start": 102.74,
+          "end": 103.64,
+          "translation": "Call"
+        },
+        {
+          "word": "der",
+          "start": 103.64,
+          "end": 103.88,
+          "translation": "the"
+        },
+        {
+          "word": "Initiative",
+          "start": 103.88,
+          "end": 105.04,
+          "translation": "Initiative"
+        },
+        {
+          "word": "„Millionen",
+          "start": 105.98,
+          "end": 106.62,
+          "translation": "\"Millions"
+        },
+        {
+          "word": "Augenblicke",
+          "start": 106.62,
+          "end": 107.8,
+          "translation": "Moments"
+        },
+        {
+          "word": "für",
+          "start": 107.8,
+          "end": 108.18,
+          "translation": "for"
+        },
+        {
+          "word": "Demokratie“",
+          "start": 108.18,
+          "end": 109.52,
+          "translation": "Democracy\""
+        },
+        {
+          "word": "und",
+          "start": 109.52,
+          "end": 110.22,
+          "translation": "and"
+        },
+        {
+          "word": "versammelten",
+          "start": 110.22,
+          "end": 111.22,
+          "translation": "gathered"
+        },
+        {
+          "word": "sich",
+          "start": 111.22,
+          "end": 111.58,
+          "translation": "itself"
+        },
+        {
+          "word": "am",
+          "start": 111.58,
+          "end": 111.98,
+          "translation": "on"
+        },
+        {
+          "word": "Sonntag",
+          "start": 111.98,
+          "end": 112.66,
+          "translation": "Sunday"
+        },
+        {
+          "word": "im",
+          "start": 112.66,
+          "end": 113.06,
+          "translation": "in the"
+        },
+        {
+          "word": "Zentrum",
+          "start": 113.06,
+          "end": 113.94,
+          "translation": "Center"
+        },
+        {
+          "word": "der",
+          "start": 113.94,
+          "end": 114.22,
+          "translation": "the"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 114.22,
+          "end": 114.98,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Prag.",
+          "start": 114.98,
+          "end": 115.6,
+          "translation": "Prague."
+        },
+        {
+          "word": "Die",
+          "start": 116.32,
+          "end": 116.86,
+          "translation": "The"
+        },
+        {
+          "word": "Veranstalter",
+          "start": 116.86,
+          "end": 118.08,
+          "translation": "Organizer"
+        },
+        {
+          "word": "sprachen",
+          "start": 118.08,
+          "end": 118.8,
+          "translation": "languages"
+        },
+        {
+          "word": "von",
+          "start": 118.8,
+          "end": 119.12,
+          "translation": "from"
+        },
+        {
+          "word": "80.000",
+          "start": 119.12,
+          "end": 120.7,
+          "translation": "80.000"
+        },
+        {
+          "word": "bis",
+          "start": 120.7,
+          "end": 121.1,
+          "translation": "to"
+        },
+        {
+          "word": "90.000",
+          "start": 121.1,
+          "end": 122.66,
+          "translation": "90.000"
+        },
+        {
+          "word": "Teilnehmern.",
+          "start": 122.66,
+          "end": 123.88,
+          "translation": "Participants."
+        },
+        {
+          "word": "Hintergrund",
+          "start": 124.84,
+          "end": 125.54,
+          "translation": "Background"
+        },
+        {
+          "word": "ist",
+          "start": 125.54,
+          "end": 125.94,
+          "translation": "is"
+        },
+        {
+          "word": "ein",
+          "start": 125.94,
+          "end": 126.38,
+          "translation": "a"
+        },
+        {
+          "word": "eskalierender",
+          "start": 126.38,
+          "end": 127.44,
+          "translation": "escalating"
+        },
+        {
+          "word": "Konflikt",
+          "start": 127.44,
+          "end": 128.36,
+          "translation": "Conflict"
+        },
+        {
+          "word": "zwischen",
+          "start": 128.36,
+          "end": 129.18,
+          "translation": "between"
+        },
+        {
+          "word": "Pavel",
+          "start": 129.18,
+          "end": 129.88,
+          "translation": "Pavel"
+        },
+        {
+          "word": "und",
+          "start": 129.88,
+          "end": 130.64,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 130.64,
+          "end": 130.96,
+          "translation": "the"
+        },
+        {
+          "word": "Regierung",
+          "start": 130.96,
+          "end": 131.7,
+          "translation": "Government"
+        },
+        {
+          "word": "unter",
+          "start": 131.7,
+          "end": 132.4,
+          "translation": "under"
+        },
+        {
+          "word": "dem",
+          "start": 132.4,
+          "end": 132.88,
+          "translation": "the"
+        },
+        {
+          "word": "Milliardär",
+          "start": 132.88,
+          "end": 133.94,
+          "translation": "Billionaire"
+        },
+        {
+          "word": "und",
+          "start": 133.94,
+          "end": 134.6,
+          "translation": "and"
+        },
+        {
+          "word": "Rechtspopulisten",
+          "start": 134.6,
+          "end": 136.12,
+          "translation": "Right-wing populists"
+        },
+        {
+          "word": "Andrej",
+          "start": 136.12,
+          "end": 137.3,
+          "translation": "Andrei"
+        },
+        {
+          "word": "Babiš.",
+          "start": 137.3,
+          "end": 138.48,
+          "translation": "Babiš."
+        },
+        {
+          "word": "Beide",
+          "start": 138.48,
+          "end": 138.98,
+          "translation": "Both"
+        },
+        {
+          "word": "Seiten",
+          "start": 138.98,
+          "end": 139.62,
+          "translation": "Pages"
+        },
+        {
+          "word": "streiten",
+          "start": 139.62,
+          "end": 140.3,
+          "translation": "argue"
+        },
+        {
+          "word": "sich",
+          "start": 140.3,
+          "end": 140.66,
+          "translation": "itself"
+        },
+        {
+          "word": "unter",
+          "start": 140.66,
+          "end": 141.2,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 141.2,
+          "end": 141.9,
+          "translation": "other"
+        },
+        {
+          "word": "wegen",
+          "start": 141.9,
+          "end": 142.38,
+          "translation": "because of"
+        },
+        {
+          "word": "der",
+          "start": 142.38,
+          "end": 142.78,
+          "translation": "the"
+        },
+        {
+          "word": "Unterstützung",
+          "start": 142.78,
+          "end": 143.76,
+          "translation": "Support"
+        },
+        {
+          "word": "der",
+          "start": 143.76,
+          "end": 144.28,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 144.28,
+          "end": 144.58,
+          "translation": "from"
+        },
+        {
+          "word": "Russland",
+          "start": 144.58,
+          "end": 145.36,
+          "translation": "Russia"
+        },
+        {
+          "word": "angegriffenen",
+          "start": 145.36,
+          "end": 146.48,
+          "translation": "attacked"
+        },
+        {
+          "word": "Ukraine.",
+          "start": 146.48,
+          "end": 147.14,
+          "translation": "Ukraine."
+        },
+        {
+          "word": "Zudem",
+          "start": 147.14,
+          "end": 148.88,
+          "translation": "In addition"
+        },
+        {
+          "word": "weigert",
+          "start": 148.88,
+          "end": 149.46,
+          "translation": "refuses"
+        },
+        {
+          "word": "sich",
+          "start": 149.46,
+          "end": 149.78,
+          "translation": "itself"
+        },
+        {
+          "word": "Pavel,",
+          "start": 149.78,
+          "end": 150.28,
+          "translation": "Pavel,"
+        },
+        {
+          "word": "einen",
+          "start": 150.28,
+          "end": 151.12,
+          "translation": "one"
+        },
+        {
+          "word": "von",
+          "start": 151.12,
+          "end": 151.5,
+          "translation": "from"
+        },
+        {
+          "word": "Babiš",
+          "start": 151.5,
+          "end": 152.22,
+          "translation": "Babiš"
+        },
+        {
+          "word": "nominierten",
+          "start": 152.22,
+          "end": 153.12,
+          "translation": "nominated"
+        },
+        {
+          "word": "umstrittenen",
+          "start": 153.12,
+          "end": 154.36,
+          "translation": "controversial"
+        },
+        {
+          "word": "Kandidaten",
+          "start": 154.36,
+          "end": 155.3,
+          "translation": "Candidates"
+        },
+        {
+          "word": "von",
+          "start": 155.3,
+          "end": 155.66,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 155.66,
+          "end": 155.94,
+          "translation": "the"
+        },
+        {
+          "word": "Autofahrerpartei",
+          "start": 155.94,
+          "end": 157.62,
+          "translation": "Motorists' Party"
+        },
+        {
+          "word": "zum",
+          "start": 157.62,
+          "end": 158.38,
+          "translation": "to the"
+        },
+        {
+          "word": "Umweltminister",
+          "start": 158.38,
+          "end": 159.62,
+          "translation": "Environment Minister"
+        },
+        {
+          "word": "zu",
+          "start": 159.62,
+          "end": 160.12,
+          "translation": "to"
+        },
+        {
+          "word": "ernennen.",
+          "start": 160.12,
+          "end": 160.86,
+          "translation": "appoint."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Deutschland und Singapur wollen Partnerschaft vertiefen",
+      "words": [
+        {
+          "word": "Deutschland",
+          "start": 161.86,
+          "end": 163.4,
+          "translation": "Germany"
+        },
+        {
+          "word": "und",
+          "start": 163.4,
+          "end": 163.82,
+          "translation": "and"
+        },
+        {
+          "word": "Singapur",
+          "start": 163.82,
+          "end": 164.68,
+          "translation": "Singapore"
+        },
+        {
+          "word": "wollen",
+          "start": 164.68,
+          "end": 165.16,
+          "translation": "want"
+        },
+        {
+          "word": "Partnerschaft",
+          "start": 165.16,
+          "end": 166.1,
+          "translation": "Partnership"
+        },
+        {
+          "word": "vertiefen",
+          "start": 166.1,
+          "end": 167.3,
+          "translation": "deepen"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Zum Auftakt seiner Reise nach Südostasien und in die Pazifikregion macht Deutschlands Außenminister Johann Wadephul in Singapur Station. Dort vereinbarte er mit seinem Kollegen Vivian Balakrishnan, dass beide Seiten ihren gemeinsamen Einsatz für eine auf Regeln basierende internationale Zusammenarbeit verstärken. „Wir erleben aktuell geopolitische Verschiebungen und Unsicherheiten“, sagte Wadephul mit Blick auf die Machtpolitik von US-Präsident Donald Trump. Internationale Kooperationen und multilaterale Institutionen würden infrage gestellt. Die Wirtschaftsmetropole Singapur gilt als führender Finanz-, Technologie- und Logistikknotenpunkt in der Region. Rund 10.000 europäische Unternehmen sind dort tätig, darunter mehr als 2000 aus Deutschland.",
+      "words": [
+        {
+          "word": "Zum",
+          "start": 167.8,
+          "end": 168.16,
+          "translation": "To the"
+        },
+        {
+          "word": "Auftakt",
+          "start": 168.16,
+          "end": 168.9,
+          "translation": "Prelude"
+        },
+        {
+          "word": "seiner",
+          "start": 168.9,
+          "end": 169.34,
+          "translation": "his"
+        },
+        {
+          "word": "Reise",
+          "start": 169.34,
+          "end": 170.02,
+          "translation": "Journey"
+        },
+        {
+          "word": "nach",
+          "start": 170.02,
+          "end": 170.4,
+          "translation": "to"
+        },
+        {
+          "word": "Südostasien",
+          "start": 170.4,
+          "end": 171.84,
+          "translation": "Southeast Asia"
+        },
+        {
+          "word": "und",
+          "start": 171.84,
+          "end": 172.52,
+          "translation": "and"
+        },
+        {
+          "word": "in",
+          "start": 172.52,
+          "end": 172.9,
+          "translation": "in"
+        },
+        {
+          "word": "die",
+          "start": 172.9,
+          "end": 173.14,
+          "translation": "the"
+        },
+        {
+          "word": "Pazifikregion",
+          "start": 173.14,
+          "end": 174.78,
+          "translation": "Pacific region"
+        },
+        {
+          "word": "macht",
+          "start": 174.78,
+          "end": 175.44,
+          "translation": "makes"
+        },
+        {
+          "word": "Deutschlands",
+          "start": 175.44,
+          "end": 176.4,
+          "translation": "Germany"
+        },
+        {
+          "word": "Außenminister",
+          "start": 176.4,
+          "end": 177.62,
+          "translation": "Foreign Minister"
+        },
+        {
+          "word": "Johann",
+          "start": 177.62,
+          "end": 178.26,
+          "translation": "John"
+        },
+        {
+          "word": "Wadephul",
+          "start": 178.26,
+          "end": 179.36,
+          "translation": "Wadephul"
+        },
+        {
+          "word": "in",
+          "start": 179.36,
+          "end": 180.04,
+          "translation": "in"
+        },
+        {
+          "word": "Singapur",
+          "start": 180.04,
+          "end": 181.08,
+          "translation": "Singapore"
+        },
+        {
+          "word": "Station.",
+          "start": 181.08,
+          "end": 181.8,
+          "translation": "Station."
+        },
+        {
+          "word": "Dort",
+          "start": 182.46,
+          "end": 183.16,
+          "translation": "There"
+        },
+        {
+          "word": "vereinbarte",
+          "start": 183.16,
+          "end": 184.28,
+          "translation": "agreed"
+        },
+        {
+          "word": "er",
+          "start": 184.28,
+          "end": 184.66,
+          "translation": "he"
+        },
+        {
+          "word": "mit",
+          "start": 184.66,
+          "end": 185.0,
+          "translation": "with"
+        },
+        {
+          "word": "seinem",
+          "start": 185.0,
+          "end": 185.54,
+          "translation": "his"
+        },
+        {
+          "word": "Kollegen",
+          "start": 185.54,
+          "end": 186.28,
+          "translation": "Colleagues"
+        },
+        {
+          "word": "Vivian",
+          "start": 186.28,
+          "end": 187.41,
+          "translation": "Vivian"
+        },
+        {
+          "word": "Balakrishnan,",
+          "start": 187.41,
+          "end": 188.55,
+          "translation": "Balakrishnan,"
+        },
+        {
+          "word": "dass",
+          "start": 188.55,
+          "end": 189.68,
+          "translation": "that"
+        },
+        {
+          "word": "beide",
+          "start": 189.68,
+          "end": 190.26,
+          "translation": "both"
+        },
+        {
+          "word": "Seiten",
+          "start": 190.26,
+          "end": 190.92,
+          "translation": "Pages"
+        },
+        {
+          "word": "ihren",
+          "start": 190.92,
+          "end": 191.5,
+          "translation": "their"
+        },
+        {
+          "word": "gemeinsamen",
+          "start": 191.5,
+          "end": 192.68,
+          "translation": "common"
+        },
+        {
+          "word": "Einsatz",
+          "start": 192.68,
+          "end": 193.34,
+          "translation": "Use"
+        },
+        {
+          "word": "für",
+          "start": 193.34,
+          "end": 194.22,
+          "translation": "for"
+        },
+        {
+          "word": "eine",
+          "start": 194.22,
+          "end": 194.8,
+          "translation": "one"
+        },
+        {
+          "word": "auf",
+          "start": 194.8,
+          "end": 195.54,
+          "translation": "on"
+        },
+        {
+          "word": "Regeln",
+          "start": 195.54,
+          "end": 196.28,
+          "translation": "Rules"
+        },
+        {
+          "word": "basierende",
+          "start": 196.28,
+          "end": 197.02,
+          "translation": "based"
+        },
+        {
+          "word": "internationale",
+          "start": 197.02,
+          "end": 198.88,
+          "translation": "international"
+        },
+        {
+          "word": "Zusammenarbeit",
+          "start": 198.88,
+          "end": 200.22,
+          "translation": "Cooperation"
+        },
+        {
+          "word": "verstärken.",
+          "start": 200.22,
+          "end": 201.22,
+          "translation": "reinforce."
+        },
+        {
+          "word": "„Wir",
+          "start": 201.22,
+          "end": 202.18,
+          "translation": "\"We"
+        },
+        {
+          "word": "erleben",
+          "start": 202.18,
+          "end": 202.88,
+          "translation": "experience"
+        },
+        {
+          "word": "aktuell",
+          "start": 202.88,
+          "end": 203.68,
+          "translation": "current"
+        },
+        {
+          "word": "geopolitische",
+          "start": 203.68,
+          "end": 205.16,
+          "translation": "geopolitical"
+        },
+        {
+          "word": "Verschiebungen",
+          "start": 205.16,
+          "end": 206.08,
+          "translation": "Shifts"
+        },
+        {
+          "word": "und",
+          "start": 206.08,
+          "end": 206.62,
+          "translation": "and"
+        },
+        {
+          "word": "Unsicherheiten“,",
+          "start": 206.62,
+          "end": 207.86,
+          "translation": "Uncertainties\","
+        },
+        {
+          "word": "sagte",
+          "start": 208.36,
+          "end": 208.82,
+          "translation": "said"
+        },
+        {
+          "word": "Wadephul",
+          "start": 208.82,
+          "end": 209.8,
+          "translation": "Wadephul"
+        },
+        {
+          "word": "mit",
+          "start": 209.8,
+          "end": 210.18,
+          "translation": "with"
+        },
+        {
+          "word": "Blick",
+          "start": 210.18,
+          "end": 210.56,
+          "translation": "View"
+        },
+        {
+          "word": "auf",
+          "start": 210.56,
+          "end": 210.98,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 210.98,
+          "end": 211.24,
+          "translation": "the"
+        },
+        {
+          "word": "Machtpolitik",
+          "start": 211.24,
+          "end": 212.3,
+          "translation": "Power politics"
+        },
+        {
+          "word": "von",
+          "start": 212.3,
+          "end": 212.9,
+          "translation": "from"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 212.9,
+          "end": 214.28,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 214.28,
+          "end": 214.94,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump.",
+          "start": 214.94,
+          "end": 215.5,
+          "translation": "Trump."
+        },
+        {
+          "word": "Internationale",
+          "start": 216.5,
+          "end": 217.72,
+          "translation": "International"
+        },
+        {
+          "word": "Kooperationen",
+          "start": 217.72,
+          "end": 219.46,
+          "translation": "Cooperations"
+        },
+        {
+          "word": "und",
+          "start": 219.46,
+          "end": 220.06,
+          "translation": "and"
+        },
+        {
+          "word": "multilaterale",
+          "start": 220.06,
+          "end": 221.48,
+          "translation": "multilateral"
+        },
+        {
+          "word": "Institutionen",
+          "start": 221.48,
+          "end": 222.96,
+          "translation": "Institutions"
+        },
+        {
+          "word": "würden",
+          "start": 222.96,
+          "end": 223.28,
+          "translation": "would"
+        },
+        {
+          "word": "infrage",
+          "start": 223.28,
+          "end": 224.18,
+          "translation": "in question"
+        },
+        {
+          "word": "gestellt.",
+          "start": 224.18,
+          "end": 224.84,
+          "translation": "placed."
+        },
+        {
+          "word": "Die",
+          "start": 225.68,
+          "end": 225.98,
+          "translation": "The"
+        },
+        {
+          "word": "Wirtschaftsmetropole",
+          "start": 225.98,
+          "end": 227.48,
+          "translation": "Economic metropolis"
+        },
+        {
+          "word": "Singapur",
+          "start": 227.48,
+          "end": 228.36,
+          "translation": "Singapore"
+        },
+        {
+          "word": "gilt",
+          "start": 228.36,
+          "end": 228.92,
+          "translation": "applies"
+        },
+        {
+          "word": "als",
+          "start": 228.92,
+          "end": 229.42,
+          "translation": "as"
+        },
+        {
+          "word": "führender",
+          "start": 229.42,
+          "end": 230.0,
+          "translation": "leading"
+        },
+        {
+          "word": "Finanz-,",
+          "start": 230.0,
+          "end": 230.88,
+          "translation": "Financial,"
+        },
+        {
+          "word": "Technologie-",
+          "start": 231.3,
+          "end": 232.0,
+          "translation": "Technology"
+        },
+        {
+          "word": "und",
+          "start": 232.0,
+          "end": 232.82,
+          "translation": "and"
+        },
+        {
+          "word": "Logistikknotenpunkt",
+          "start": 232.82,
+          "end": 234.42,
+          "translation": "Logistics hub"
+        },
+        {
+          "word": "in",
+          "start": 234.42,
+          "end": 234.84,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 234.84,
+          "end": 235.06,
+          "translation": "the"
+        },
+        {
+          "word": "Region.",
+          "start": 235.06,
+          "end": 235.64,
+          "translation": "Region."
+        },
+        {
+          "word": "Rund",
+          "start": 235.64,
+          "end": 236.82,
+          "translation": "Round"
+        },
+        {
+          "word": "10.000",
+          "start": 236.82,
+          "end": 237.86,
+          "translation": "10.000"
+        },
+        {
+          "word": "europäische",
+          "start": 237.86,
+          "end": 238.76,
+          "translation": "european"
+        },
+        {
+          "word": "Unternehmen",
+          "start": 238.76,
+          "end": 239.36,
+          "translation": "The company"
+        },
+        {
+          "word": "sind",
+          "start": 239.36,
+          "end": 239.78,
+          "translation": "are"
+        },
+        {
+          "word": "dort",
+          "start": 239.78,
+          "end": 240.0,
+          "translation": "there"
+        },
+        {
+          "word": "tätig,",
+          "start": 240.0,
+          "end": 240.66,
+          "translation": "active,"
+        },
+        {
+          "word": "darunter",
+          "start": 241.08,
+          "end": 241.48,
+          "translation": "including"
+        },
+        {
+          "word": "mehr",
+          "start": 241.48,
+          "end": 241.98,
+          "translation": "more"
+        },
+        {
+          "word": "als",
+          "start": 241.98,
+          "end": 242.36,
+          "translation": "as"
+        },
+        {
+          "word": "2000",
+          "start": 242.36,
+          "end": 243.22,
+          "translation": "2000"
+        },
+        {
+          "word": "aus",
+          "start": 243.22,
+          "end": 243.86,
+          "translation": "from"
+        },
+        {
+          "word": "Deutschland.",
+          "start": 243.86,
+          "end": 244.58,
+          "translation": "Germany."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Trauer um ehemalige Bundestagspräsidentin Süssmuth",
+      "words": [
+        {
+          "word": "Trauer",
+          "start": 246.64,
+          "end": 247.34,
+          "translation": "Mourning"
+        },
+        {
+          "word": "um",
+          "start": 247.34,
+          "end": 247.8,
+          "translation": "to"
+        },
+        {
+          "word": "ehemalige",
+          "start": 247.8,
+          "end": 248.86,
+          "translation": "former"
+        },
+        {
+          "word": "Bundestagspräsidentin",
+          "start": 248.86,
+          "end": 251.02,
+          "translation": "President of the Bundestag"
+        },
+        {
+          "word": "Süssmuth",
+          "start": 251.02,
+          "end": 252.98,
+          "translation": "Süssmuth"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Bundespräsident Frank-Walter Steinmeier hat die verstorbene ehemalige Bundestagspräsidentin Rita Süssmuth als „großartige Frau und eine leidenschaftliche Kämpferin für die Demokratie“ gewürdigt. In einem Kondolenzschreiben an die Tochter der Verstorbenen heißt es: „Rita Süssmuth ist stets vorweg gegangen, war Vordenkerin, Vorkämpferin und Vorbild, insbesondere auch für viele Frauen.“ Der Bundespräsident erinnerte zudem an ihre Rolle im Kampf gegen Aids. Süssmuth starb am Sonntag im Alter von 88 Jahren. Die CDU-Politikerin gehörte dem Deutschen Bundestag von 1987 bis 2002 an und war von 1988 bis 1998 dessen Präsidentin. Von 1985 bis 1988 war sie Bundesministerin für Jugend, Familie und Gesundheit.",
+      "words": [
+        {
+          "word": "Bundespräsident",
+          "start": 252.98,
+          "end": 254.12,
+          "translation": "Federal President"
+        },
+        {
+          "word": "Frank-Walter",
+          "start": 254.12,
+          "end": 255.34,
+          "translation": "Frank-Walter"
+        },
+        {
+          "word": "Steinmeier",
+          "start": 255.34,
+          "end": 256.26,
+          "translation": "Steinmeier"
+        },
+        {
+          "word": "hat",
+          "start": 256.26,
+          "end": 256.8,
+          "translation": "has"
+        },
+        {
+          "word": "die",
+          "start": 256.8,
+          "end": 257.12,
+          "translation": "the"
+        },
+        {
+          "word": "verstorbene",
+          "start": 257.12,
+          "end": 258.3,
+          "translation": "deceased"
+        },
+        {
+          "word": "ehemalige",
+          "start": 258.3,
+          "end": 259.32,
+          "translation": "former"
+        },
+        {
+          "word": "Bundestagspräsidentin",
+          "start": 259.32,
+          "end": 261.6,
+          "translation": "President of the Bundestag"
+        },
+        {
+          "word": "Rita",
+          "start": 261.6,
+          "end": 262.02,
+          "translation": "Rita"
+        },
+        {
+          "word": "Süssmuth",
+          "start": 262.02,
+          "end": 263.02,
+          "translation": "Süssmuth"
+        },
+        {
+          "word": "als",
+          "start": 263.02,
+          "end": 263.56,
+          "translation": "as"
+        },
+        {
+          "word": "„großartige",
+          "start": 263.56,
+          "end": 265.22,
+          "translation": "\"great"
+        },
+        {
+          "word": "Frau",
+          "start": 265.22,
+          "end": 265.64,
+          "translation": "Woman"
+        },
+        {
+          "word": "und",
+          "start": 265.64,
+          "end": 266.12,
+          "translation": "and"
+        },
+        {
+          "word": "eine",
+          "start": 266.12,
+          "end": 266.54,
+          "translation": "one"
+        },
+        {
+          "word": "leidenschaftliche",
+          "start": 266.54,
+          "end": 267.84,
+          "translation": "passionate"
+        },
+        {
+          "word": "Kämpferin",
+          "start": 267.84,
+          "end": 268.74,
+          "translation": "Fighter"
+        },
+        {
+          "word": "für",
+          "start": 268.74,
+          "end": 269.04,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 269.04,
+          "end": 269.34,
+          "translation": "the"
+        },
+        {
+          "word": "Demokratie“",
+          "start": 269.34,
+          "end": 270.5,
+          "translation": "Democracy\""
+        },
+        {
+          "word": "gewürdigt.",
+          "start": 270.5,
+          "end": 271.6,
+          "translation": "honored."
+        },
+        {
+          "word": "In",
+          "start": 271.6,
+          "end": 272.54,
+          "translation": "In"
+        },
+        {
+          "word": "einem",
+          "start": 272.54,
+          "end": 272.98,
+          "translation": "one"
+        },
+        {
+          "word": "Kondolenzschreiben",
+          "start": 272.98,
+          "end": 274.14,
+          "translation": "Letter of condolence"
+        },
+        {
+          "word": "an",
+          "start": 274.14,
+          "end": 274.58,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 274.58,
+          "end": 274.78,
+          "translation": "the"
+        },
+        {
+          "word": "Tochter",
+          "start": 274.78,
+          "end": 275.26,
+          "translation": "Daughter"
+        },
+        {
+          "word": "der",
+          "start": 275.26,
+          "end": 275.64,
+          "translation": "the"
+        },
+        {
+          "word": "Verstorbenen",
+          "start": 275.64,
+          "end": 276.62,
+          "translation": "Deceased"
+        },
+        {
+          "word": "heißt",
+          "start": 276.62,
+          "end": 276.88,
+          "translation": "means"
+        },
+        {
+          "word": "es:",
+          "start": 276.88,
+          "end": 277.4,
+          "translation": "it:"
+        },
+        {
+          "word": "„Rita",
+          "start": 278.2,
+          "end": 278.42,
+          "translation": "\"Rita"
+        },
+        {
+          "word": "Süssmuth",
+          "start": 278.42,
+          "end": 279.16,
+          "translation": "Süssmuth"
+        },
+        {
+          "word": "ist",
+          "start": 279.16,
+          "end": 279.44,
+          "translation": "is"
+        },
+        {
+          "word": "stets",
+          "start": 279.44,
+          "end": 280.02,
+          "translation": "always"
+        },
+        {
+          "word": "vorweg",
+          "start": 280.02,
+          "end": 280.76,
+          "translation": "in advance"
+        },
+        {
+          "word": "gegangen,",
+          "start": 280.76,
+          "end": 281.5,
+          "translation": "gone,"
+        },
+        {
+          "word": "war",
+          "start": 281.5,
+          "end": 281.66,
+          "translation": "was"
+        },
+        {
+          "word": "Vordenkerin,",
+          "start": 281.66,
+          "end": 283.14,
+          "translation": "Mastermind,"
+        },
+        {
+          "word": "Vorkämpferin",
+          "start": 283.14,
+          "end": 284.4,
+          "translation": "Champion"
+        },
+        {
+          "word": "und",
+          "start": 284.4,
+          "end": 285.0,
+          "translation": "and"
+        },
+        {
+          "word": "Vorbild,",
+          "start": 285.0,
+          "end": 285.76,
+          "translation": "Role model,"
+        },
+        {
+          "word": "insbesondere",
+          "start": 286.34,
+          "end": 287.0,
+          "translation": "in particular"
+        },
+        {
+          "word": "auch",
+          "start": 287.0,
+          "end": 287.76,
+          "translation": "also"
+        },
+        {
+          "word": "für",
+          "start": 287.76,
+          "end": 288.12,
+          "translation": "for"
+        },
+        {
+          "word": "viele",
+          "start": 288.12,
+          "end": 288.68,
+          "translation": "many"
+        },
+        {
+          "word": "Frauen.“",
+          "start": 288.68,
+          "end": 289.24,
+          "translation": "Women.\""
+        },
+        {
+          "word": "Der",
+          "start": 289.82,
+          "end": 290.38,
+          "translation": "The"
+        },
+        {
+          "word": "Bundespräsident",
+          "start": 290.38,
+          "end": 291.48,
+          "translation": "Federal President"
+        },
+        {
+          "word": "erinnerte",
+          "start": 291.48,
+          "end": 292.4,
+          "translation": "reminded"
+        },
+        {
+          "word": "zudem",
+          "start": 292.4,
+          "end": 293.18,
+          "translation": "also"
+        },
+        {
+          "word": "an",
+          "start": 293.18,
+          "end": 293.36,
+          "translation": "on"
+        },
+        {
+          "word": "ihre",
+          "start": 293.36,
+          "end": 293.66,
+          "translation": "their"
+        },
+        {
+          "word": "Rolle",
+          "start": 293.66,
+          "end": 294.08,
+          "translation": "Role"
+        },
+        {
+          "word": "im",
+          "start": 294.08,
+          "end": 294.46,
+          "translation": "in the"
+        },
+        {
+          "word": "Kampf",
+          "start": 294.46,
+          "end": 295.0,
+          "translation": "Fight"
+        },
+        {
+          "word": "gegen",
+          "start": 295.0,
+          "end": 295.46,
+          "translation": "vs."
+        },
+        {
+          "word": "Aids.",
+          "start": 295.46,
+          "end": 296.04,
+          "translation": "Aids."
+        },
+        {
+          "word": "Süssmuth",
+          "start": 296.04,
+          "end": 297.66,
+          "translation": "Süssmuth"
+        },
+        {
+          "word": "starb",
+          "start": 297.66,
+          "end": 298.26,
+          "translation": "died"
+        },
+        {
+          "word": "am",
+          "start": 298.26,
+          "end": 298.52,
+          "translation": "on"
+        },
+        {
+          "word": "Sonntag",
+          "start": 298.52,
+          "end": 299.08,
+          "translation": "Sunday"
+        },
+        {
+          "word": "im",
+          "start": 299.08,
+          "end": 299.5,
+          "translation": "in the"
+        },
+        {
+          "word": "Alter",
+          "start": 299.5,
+          "end": 299.86,
+          "translation": "Age"
+        },
+        {
+          "word": "von",
+          "start": 299.86,
+          "end": 300.26,
+          "translation": "from"
+        },
+        {
+          "word": "88",
+          "start": 300.26,
+          "end": 301.2,
+          "translation": "88"
+        },
+        {
+          "word": "Jahren.",
+          "start": 301.2,
+          "end": 302.1,
+          "translation": "years."
+        },
+        {
+          "word": "Die",
+          "start": 302.66,
+          "end": 303.04,
+          "translation": "The"
+        },
+        {
+          "word": "CDU-Politikerin",
+          "start": 303.04,
+          "end": 304.84,
+          "translation": "CDU politician"
+        },
+        {
+          "word": "gehörte",
+          "start": 304.84,
+          "end": 305.52,
+          "translation": "belonged"
+        },
+        {
+          "word": "dem",
+          "start": 305.52,
+          "end": 305.86,
+          "translation": "the"
+        },
+        {
+          "word": "Deutschen",
+          "start": 305.86,
+          "end": 306.4,
+          "translation": "Germans"
+        },
+        {
+          "word": "Bundestag",
+          "start": 306.4,
+          "end": 307.42,
+          "translation": "Bundestag"
+        },
+        {
+          "word": "von",
+          "start": 307.42,
+          "end": 307.98,
+          "translation": "from"
+        },
+        {
+          "word": "1987",
+          "start": 307.98,
+          "end": 309.34,
+          "translation": "1987"
+        },
+        {
+          "word": "bis",
+          "start": 309.34,
+          "end": 310.82,
+          "translation": "to"
+        },
+        {
+          "word": "2002",
+          "start": 310.82,
+          "end": 312.02,
+          "translation": "2002"
+        },
+        {
+          "word": "an",
+          "start": 312.02,
+          "end": 312.8,
+          "translation": "on"
+        },
+        {
+          "word": "und",
+          "start": 312.8,
+          "end": 313.44,
+          "translation": "and"
+        },
+        {
+          "word": "war",
+          "start": 313.44,
+          "end": 313.7,
+          "translation": "was"
+        },
+        {
+          "word": "von",
+          "start": 313.7,
+          "end": 314.08,
+          "translation": "from"
+        },
+        {
+          "word": "1988",
+          "start": 314.08,
+          "end": 315.18,
+          "translation": "1988"
+        },
+        {
+          "word": "bis",
+          "start": 315.18,
+          "end": 316.44,
+          "translation": "to"
+        },
+        {
+          "word": "1998",
+          "start": 316.44,
+          "end": 317.48,
+          "translation": "1998"
+        },
+        {
+          "word": "dessen",
+          "start": 317.48,
+          "end": 319.08,
+          "translation": "whose"
+        },
+        {
+          "word": "Präsidentin.",
+          "start": 319.08,
+          "end": 320.28,
+          "translation": "President."
+        },
+        {
+          "word": "Von",
+          "start": 320.54,
+          "end": 320.94,
+          "translation": "From"
+        },
+        {
+          "word": "1985",
+          "start": 320.94,
+          "end": 322.22,
+          "translation": "1985"
+        },
+        {
+          "word": "bis",
+          "start": 322.22,
+          "end": 323.38,
+          "translation": "to"
+        },
+        {
+          "word": "1988",
+          "start": 323.38,
+          "end": 324.6,
+          "translation": "1988"
+        },
+        {
+          "word": "war",
+          "start": 324.6,
+          "end": 326.08,
+          "translation": "was"
+        },
+        {
+          "word": "sie",
+          "start": 326.08,
+          "end": 326.38,
+          "translation": "them"
+        },
+        {
+          "word": "Bundesministerin",
+          "start": 326.38,
+          "end": 327.86,
+          "translation": "Federal Minister"
+        },
+        {
+          "word": "für",
+          "start": 327.86,
+          "end": 328.22,
+          "translation": "for"
+        },
+        {
+          "word": "Jugend,",
+          "start": 328.22,
+          "end": 328.7,
+          "translation": "Youth,"
+        },
+        {
+          "word": "Familie",
+          "start": 329.14,
+          "end": 329.44,
+          "translation": "Family"
+        },
+        {
+          "word": "und",
+          "start": 329.44,
+          "end": 330.3,
+          "translation": "and"
+        },
+        {
+          "word": "Gesundheit.",
+          "start": 330.3,
+          "end": 331.0,
+          "translation": "Health."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Bad Bunny gewinnt Grammy für „Album des Jahres“",
+      "words": [
+        {
+          "word": "Bad",
+          "start": 332.0,
+          "end": 333.06,
+          "translation": "Bathroom"
+        },
+        {
+          "word": "Bunny",
+          "start": 333.06,
+          "end": 333.6,
+          "translation": "Bunny"
+        },
+        {
+          "word": "gewinnt",
+          "start": 333.6,
+          "end": 334.38,
+          "translation": "wins"
+        },
+        {
+          "word": "Grammy",
+          "start": 334.38,
+          "end": 334.84,
+          "translation": "Grammy"
+        },
+        {
+          "word": "für",
+          "start": 334.84,
+          "end": 335.22,
+          "translation": "for"
+        },
+        {
+          "word": "„Album",
+          "start": 335.22,
+          "end": 336.04,
+          "translation": "\"Album"
+        },
+        {
+          "word": "des",
+          "start": 336.04,
+          "end": 336.38,
+          "translation": "of the"
+        },
+        {
+          "word": "Jahres“",
+          "start": 336.38,
+          "end": 337.0,
+          "translation": "year\""
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "In Los Angeles sind bei einer feierlichen Gala die Grammy Awards verliehen worden. Sie gelten als wichtigster Musikpreis der Welt. Der US-Rapper Bad Bunny gewann mit „DeBÍ TiRAR MáS FOToS“ den Grammy für das „Beste Album“. Damit wurde erstmals ein Album ausgezeichnet, dessen Songtexte komplett auf Spanisch sind. Der aus Puerto Rico stammende Sänger mischt dabei moderne Beats mit traditionellen Musikstilen aus seiner Heimat. Der 31-Jährige, der mehrfach ausgezeichnet wurde, verband seine Dankesrede – wie auch andere Prominente – mit Kritik an der US-Einwanderungsbehörde ICE. Grammys erhielten auch die US-Musikerinnen Billie Eilish und Lady Gaga sowie der US-Rapper Kendrick Lamar.",
+      "words": [
+        {
+          "word": "In",
+          "start": 338.14,
+          "end": 338.48,
+          "translation": "In"
+        },
+        {
+          "word": "Los",
+          "start": 338.48,
+          "end": 338.76,
+          "translation": "Go"
+        },
+        {
+          "word": "Angeles",
+          "start": 338.76,
+          "end": 339.38,
+          "translation": "Angeles"
+        },
+        {
+          "word": "sind",
+          "start": 339.38,
+          "end": 339.92,
+          "translation": "are"
+        },
+        {
+          "word": "bei",
+          "start": 339.92,
+          "end": 340.24,
+          "translation": "with"
+        },
+        {
+          "word": "einer",
+          "start": 340.24,
+          "end": 340.62,
+          "translation": "one"
+        },
+        {
+          "word": "feierlichen",
+          "start": 340.62,
+          "end": 341.38,
+          "translation": "solemn"
+        },
+        {
+          "word": "Gala",
+          "start": 341.38,
+          "end": 342.0,
+          "translation": "Gala"
+        },
+        {
+          "word": "die",
+          "start": 342.0,
+          "end": 342.34,
+          "translation": "the"
+        },
+        {
+          "word": "Grammy",
+          "start": 342.34,
+          "end": 342.92,
+          "translation": "Grammy"
+        },
+        {
+          "word": "Awards",
+          "start": 342.92,
+          "end": 343.48,
+          "translation": "Awards"
+        },
+        {
+          "word": "verliehen",
+          "start": 343.48,
+          "end": 344.28,
+          "translation": "awarded"
+        },
+        {
+          "word": "worden.",
+          "start": 344.28,
+          "end": 344.64,
+          "translation": "been."
+        },
+        {
+          "word": "Sie",
+          "start": 345.2,
+          "end": 345.46,
+          "translation": "You"
+        },
+        {
+          "word": "gelten",
+          "start": 345.46,
+          "end": 346.04,
+          "translation": "apply"
+        },
+        {
+          "word": "als",
+          "start": 346.04,
+          "end": 346.46,
+          "translation": "as"
+        },
+        {
+          "word": "wichtigster",
+          "start": 346.46,
+          "end": 347.46,
+          "translation": "most important"
+        },
+        {
+          "word": "Musikpreis",
+          "start": 347.46,
+          "end": 348.52,
+          "translation": "Music prize"
+        },
+        {
+          "word": "der",
+          "start": 348.52,
+          "end": 348.78,
+          "translation": "the"
+        },
+        {
+          "word": "Welt.",
+          "start": 348.78,
+          "end": 349.26,
+          "translation": "World."
+        },
+        {
+          "word": "Der",
+          "start": 349.26,
+          "end": 350.44,
+          "translation": "The"
+        },
+        {
+          "word": "US-Rapper",
+          "start": 350.44,
+          "end": 351.88,
+          "translation": "US rapper"
+        },
+        {
+          "word": "Bad",
+          "start": 351.88,
+          "end": 352.6,
+          "translation": "Bathroom"
+        },
+        {
+          "word": "Bunny",
+          "start": 352.6,
+          "end": 353.14,
+          "translation": "Bunny"
+        },
+        {
+          "word": "gewann",
+          "start": 353.14,
+          "end": 354.0,
+          "translation": "won"
+        },
+        {
+          "word": "mit",
+          "start": 354.0,
+          "end": 354.56,
+          "translation": "with"
+        },
+        {
+          "word": "„DeBÍ",
+          "start": 354.56,
+          "end": 355.35,
+          "translation": "\"DeBÍ"
+        },
+        {
+          "word": "TiRAR",
+          "start": 355.35,
+          "end": 356.15,
+          "translation": "TiRAR"
+        },
+        {
+          "word": "MáS",
+          "start": 356.15,
+          "end": 356.94,
+          "translation": "MáS"
+        },
+        {
+          "word": "FOToS“",
+          "start": 356.94,
+          "end": 357.66,
+          "translation": "FOToS\""
+        },
+        {
+          "word": "den",
+          "start": 357.66,
+          "end": 358.0,
+          "translation": "the"
+        },
+        {
+          "word": "Grammy",
+          "start": 358.0,
+          "end": 358.48,
+          "translation": "Grammy"
+        },
+        {
+          "word": "für",
+          "start": 358.48,
+          "end": 358.88,
+          "translation": "for"
+        },
+        {
+          "word": "das",
+          "start": 358.88,
+          "end": 359.26,
+          "translation": "the"
+        },
+        {
+          "word": "„Beste",
+          "start": 359.26,
+          "end": 359.8,
+          "translation": "\"Best"
+        },
+        {
+          "word": "Album“.",
+          "start": 359.8,
+          "end": 360.42,
+          "translation": "Album\"."
+        },
+        {
+          "word": "Damit",
+          "start": 361.12,
+          "end": 361.6,
+          "translation": "So that"
+        },
+        {
+          "word": "wurde",
+          "start": 361.6,
+          "end": 362.08,
+          "translation": "was"
+        },
+        {
+          "word": "erstmals",
+          "start": 362.08,
+          "end": 362.88,
+          "translation": "for the first time"
+        },
+        {
+          "word": "ein",
+          "start": 362.88,
+          "end": 363.34,
+          "translation": "a"
+        },
+        {
+          "word": "Album",
+          "start": 363.34,
+          "end": 363.8,
+          "translation": "Album"
+        },
+        {
+          "word": "ausgezeichnet,",
+          "start": 363.8,
+          "end": 365.02,
+          "translation": "excellent,"
+        },
+        {
+          "word": "dessen",
+          "start": 365.42,
+          "end": 365.92,
+          "translation": "whose"
+        },
+        {
+          "word": "Songtexte",
+          "start": 365.92,
+          "end": 366.98,
+          "translation": "Lyrics"
+        },
+        {
+          "word": "komplett",
+          "start": 366.98,
+          "end": 367.52,
+          "translation": "complete"
+        },
+        {
+          "word": "auf",
+          "start": 367.52,
+          "end": 368.07,
+          "translation": "on"
+        },
+        {
+          "word": "Spanisch",
+          "start": 368.07,
+          "end": 368.62,
+          "translation": "Spanish"
+        },
+        {
+          "word": "sind.",
+          "start": 368.62,
+          "end": 369.1,
+          "translation": "are."
+        },
+        {
+          "word": "Der",
+          "start": 369.1,
+          "end": 370.04,
+          "translation": "The"
+        },
+        {
+          "word": "aus",
+          "start": 370.04,
+          "end": 370.44,
+          "translation": "from"
+        },
+        {
+          "word": "Puerto",
+          "start": 370.44,
+          "end": 370.88,
+          "translation": "Puerto"
+        },
+        {
+          "word": "Rico",
+          "start": 370.88,
+          "end": 371.6,
+          "translation": "Rico"
+        },
+        {
+          "word": "stammende",
+          "start": 371.6,
+          "end": 372.36,
+          "translation": "originating"
+        },
+        {
+          "word": "Sänger",
+          "start": 372.36,
+          "end": 372.86,
+          "translation": "Singers"
+        },
+        {
+          "word": "mischt",
+          "start": 372.86,
+          "end": 373.66,
+          "translation": "mixes"
+        },
+        {
+          "word": "dabei",
+          "start": 373.66,
+          "end": 374.1,
+          "translation": "thereby"
+        },
+        {
+          "word": "moderne",
+          "start": 374.1,
+          "end": 375.04,
+          "translation": "modern"
+        },
+        {
+          "word": "Beats",
+          "start": 375.04,
+          "end": 375.6,
+          "translation": "Beats"
+        },
+        {
+          "word": "mit",
+          "start": 375.6,
+          "end": 375.84,
+          "translation": "with"
+        },
+        {
+          "word": "traditionellen",
+          "start": 375.84,
+          "end": 376.92,
+          "translation": "traditional"
+        },
+        {
+          "word": "Musikstilen",
+          "start": 376.92,
+          "end": 378.02,
+          "translation": "music styles"
+        },
+        {
+          "word": "aus",
+          "start": 378.02,
+          "end": 378.44,
+          "translation": "from"
+        },
+        {
+          "word": "seiner",
+          "start": 378.44,
+          "end": 378.96,
+          "translation": "his"
+        },
+        {
+          "word": "Heimat.",
+          "start": 378.96,
+          "end": 379.48,
+          "translation": "Home."
+        },
+        {
+          "word": "Der",
+          "start": 380.26,
+          "end": 380.56,
+          "translation": "The"
+        },
+        {
+          "word": "31-Jährige,",
+          "start": 380.56,
+          "end": 382.82,
+          "translation": "31-year-old,"
+        },
+        {
+          "word": "der",
+          "start": 382.82,
+          "end": 382.96,
+          "translation": "the"
+        },
+        {
+          "word": "mehrfach",
+          "start": 382.96,
+          "end": 383.68,
+          "translation": "multiple times"
+        },
+        {
+          "word": "ausgezeichnet",
+          "start": 383.68,
+          "end": 384.84,
+          "translation": "excellent"
+        },
+        {
+          "word": "wurde,",
+          "start": 384.84,
+          "end": 385.36,
+          "translation": "was,"
+        },
+        {
+          "word": "verband",
+          "start": 385.86,
+          "end": 386.18,
+          "translation": "association"
+        },
+        {
+          "word": "seine",
+          "start": 386.18,
+          "end": 386.68,
+          "translation": "his"
+        },
+        {
+          "word": "Dankesrede",
+          "start": 386.68,
+          "end": 387.74,
+          "translation": "Acceptance speech"
+        },
+        {
+          "word": "–",
+          "start": 387.74,
+          "end": 387.96,
+          "translation": "-"
+        },
+        {
+          "word": "wie",
+          "start": 387.96,
+          "end": 388.28,
+          "translation": "like"
+        },
+        {
+          "word": "auch",
+          "start": 388.28,
+          "end": 388.64,
+          "translation": "also"
+        },
+        {
+          "word": "andere",
+          "start": 388.64,
+          "end": 389.2,
+          "translation": "other"
+        },
+        {
+          "word": "Prominente",
+          "start": 389.2,
+          "end": 390.12,
+          "translation": "Celebrities"
+        },
+        {
+          "word": "–",
+          "start": 390.12,
+          "end": 390.62,
+          "translation": "-"
+        },
+        {
+          "word": "mit",
+          "start": 390.62,
+          "end": 390.88,
+          "translation": "with"
+        },
+        {
+          "word": "Kritik",
+          "start": 390.88,
+          "end": 391.64,
+          "translation": "Criticism"
+        },
+        {
+          "word": "an",
+          "start": 391.64,
+          "end": 391.9,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 391.9,
+          "end": 392.1,
+          "translation": "the"
+        },
+        {
+          "word": "US-Einwanderungsbehörde",
+          "start": 392.1,
+          "end": 393.54,
+          "translation": "US immigration authorities"
+        },
+        {
+          "word": "ICE.",
+          "start": 393.54,
+          "end": 394.98,
+          "translation": "ICE."
+        },
+        {
+          "word": "Grammys",
+          "start": 394.98,
+          "end": 396.46,
+          "translation": "Grammys"
+        },
+        {
+          "word": "erhielten",
+          "start": 396.46,
+          "end": 397.2,
+          "translation": "received"
+        },
+        {
+          "word": "auch",
+          "start": 397.2,
+          "end": 397.48,
+          "translation": "also"
+        },
+        {
+          "word": "die",
+          "start": 397.48,
+          "end": 397.88,
+          "translation": "the"
+        },
+        {
+          "word": "US-Musikerinnen",
+          "start": 397.88,
+          "end": 398.89,
+          "translation": "US female musicians"
+        },
+        {
+          "word": "Billie",
+          "start": 398.89,
+          "end": 399.91,
+          "translation": "Billie"
+        },
+        {
+          "word": "Eilish",
+          "start": 399.91,
+          "end": 400.92,
+          "translation": "Eilish"
+        },
+        {
+          "word": "und",
+          "start": 400.92,
+          "end": 401.56,
+          "translation": "and"
+        },
+        {
+          "word": "Lady",
+          "start": 401.56,
+          "end": 402.02,
+          "translation": "Lady"
+        },
+        {
+          "word": "Gaga",
+          "start": 402.02,
+          "end": 402.54,
+          "translation": "Gaga"
+        },
+        {
+          "word": "sowie",
+          "start": 402.54,
+          "end": 403.44,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 403.44,
+          "end": 403.84,
+          "translation": "the"
+        },
+        {
+          "word": "US-Rapper",
+          "start": 403.84,
+          "end": 404.92,
+          "translation": "US rapper"
+        },
+        {
+          "word": "Kendrick",
+          "start": 404.92,
+          "end": 405.68,
+          "translation": "Kendrick"
+        },
+        {
+          "word": "Lamar.",
+          "start": 405.68,
+          "end": 406.34,
+          "translation": "Lamar."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Deutsche Handballer verlieren EM-Finale",
+      "words": [
+        {
+          "word": "Deutsche",
+          "start": 407.34,
+          "end": 408.42,
+          "translation": "German"
+        },
+        {
+          "word": "Handballer",
+          "start": 408.42,
+          "end": 409.54,
+          "translation": "Handball player"
+        },
+        {
+          "word": "verlieren",
+          "start": 409.54,
+          "end": 410.52,
+          "translation": "lose"
+        },
+        {
+          "word": "EM-Finale",
+          "start": 410.52,
+          "end": 412.48,
+          "translation": "European Championship final"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die deutsche Handball-Nationalmannschaft hat ihren dritten Titelgewinn bei einer Europameisterschaft verpasst. Die Auswahl von Bundestrainer Alfred Gíslason verlor das Finale gegen Topfavorit Dänemark mit 27:34. Vor 15.000 Zuschauern im dänischen Herning reichten eine starke Leistung von Torwart Andreas Wolff sowie jeweils fünf Tore von Deutschlands erfolgreichsten Werfern Johannes Golla, Juri Knorr und Marko Grgić nicht aus, um sich den Traum von Gold zu erfüllen. Das deutsche Handball-Team darf sich über Silber freuen.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 412.48,
+          "end": 412.88,
+          "translation": "The"
+        },
+        {
+          "word": "deutsche",
+          "start": 412.88,
+          "end": 413.4,
+          "translation": "German"
+        },
+        {
+          "word": "Handball-Nationalmannschaft",
+          "start": 413.4,
+          "end": 415.46,
+          "translation": "National handball team"
+        },
+        {
+          "word": "hat",
+          "start": 415.46,
+          "end": 416.06,
+          "translation": "has"
+        },
+        {
+          "word": "ihren",
+          "start": 416.06,
+          "end": 416.5,
+          "translation": "their"
+        },
+        {
+          "word": "dritten",
+          "start": 416.5,
+          "end": 417.12,
+          "translation": "third"
+        },
+        {
+          "word": "Titelgewinn",
+          "start": 417.12,
+          "end": 418.12,
+          "translation": "Title win"
+        },
+        {
+          "word": "bei",
+          "start": 418.12,
+          "end": 418.52,
+          "translation": "with"
+        },
+        {
+          "word": "einer",
+          "start": 418.52,
+          "end": 418.96,
+          "translation": "one"
+        },
+        {
+          "word": "Europameisterschaft",
+          "start": 418.96,
+          "end": 420.5,
+          "translation": "European Championship"
+        },
+        {
+          "word": "verpasst.",
+          "start": 420.5,
+          "end": 421.54,
+          "translation": "missed."
+        },
+        {
+          "word": "Die",
+          "start": 422.04,
+          "end": 422.44,
+          "translation": "The"
+        },
+        {
+          "word": "Auswahl",
+          "start": 422.44,
+          "end": 423.12,
+          "translation": "Selection"
+        },
+        {
+          "word": "von",
+          "start": 423.12,
+          "end": 423.42,
+          "translation": "from"
+        },
+        {
+          "word": "Bundestrainer",
+          "start": 423.42,
+          "end": 424.4,
+          "translation": "National coach"
+        },
+        {
+          "word": "Alfred",
+          "start": 424.4,
+          "end": 425.0,
+          "translation": "Alfred"
+        },
+        {
+          "word": "Gíslason",
+          "start": 425.0,
+          "end": 426.16,
+          "translation": "Gíslason"
+        },
+        {
+          "word": "verlor",
+          "start": 426.16,
+          "end": 427.08,
+          "translation": "lost"
+        },
+        {
+          "word": "das",
+          "start": 427.08,
+          "end": 427.56,
+          "translation": "the"
+        },
+        {
+          "word": "Finale",
+          "start": 427.56,
+          "end": 428.22,
+          "translation": "Final"
+        },
+        {
+          "word": "gegen",
+          "start": 428.22,
+          "end": 428.74,
+          "translation": "vs."
+        },
+        {
+          "word": "Topfavorit",
+          "start": 428.74,
+          "end": 430.04,
+          "translation": "Top favorite"
+        },
+        {
+          "word": "Dänemark",
+          "start": 430.04,
+          "end": 430.82,
+          "translation": "Denmark"
+        },
+        {
+          "word": "mit",
+          "start": 430.82,
+          "end": 431.68,
+          "translation": "with"
+        },
+        {
+          "word": "27:34.",
+          "start": 431.68,
+          "end": 435.25,
+          "translation": "27:34."
+        },
+        {
+          "word": "Vor",
+          "start": 435.25,
+          "end": 435.86,
+          "translation": "Before"
+        },
+        {
+          "word": "15.000",
+          "start": 435.86,
+          "end": 436.94,
+          "translation": "15.000"
+        },
+        {
+          "word": "Zuschauern",
+          "start": 436.94,
+          "end": 438.02,
+          "translation": "Spectators"
+        },
+        {
+          "word": "im",
+          "start": 438.02,
+          "end": 438.48,
+          "translation": "in the"
+        },
+        {
+          "word": "dänischen",
+          "start": 438.48,
+          "end": 439.2,
+          "translation": "Danish"
+        },
+        {
+          "word": "Herning",
+          "start": 439.2,
+          "end": 439.88,
+          "translation": "Herning"
+        },
+        {
+          "word": "reichten",
+          "start": 439.88,
+          "end": 440.94,
+          "translation": "reached"
+        },
+        {
+          "word": "eine",
+          "start": 440.94,
+          "end": 441.5,
+          "translation": "one"
+        },
+        {
+          "word": "starke",
+          "start": 441.5,
+          "end": 442.14,
+          "translation": "strong"
+        },
+        {
+          "word": "Leistung",
+          "start": 442.14,
+          "end": 442.86,
+          "translation": "Performance"
+        },
+        {
+          "word": "von",
+          "start": 442.86,
+          "end": 443.22,
+          "translation": "from"
+        },
+        {
+          "word": "Torwart",
+          "start": 443.22,
+          "end": 443.84,
+          "translation": "Goalkeeper"
+        },
+        {
+          "word": "Andreas",
+          "start": 443.84,
+          "end": 444.56,
+          "translation": "Andreas"
+        },
+        {
+          "word": "Wolff",
+          "start": 444.56,
+          "end": 445.18,
+          "translation": "Wolff"
+        },
+        {
+          "word": "sowie",
+          "start": 445.18,
+          "end": 446.24,
+          "translation": "and"
+        },
+        {
+          "word": "jeweils",
+          "start": 446.24,
+          "end": 447.08,
+          "translation": "each"
+        },
+        {
+          "word": "fünf",
+          "start": 447.08,
+          "end": 447.42,
+          "translation": "five"
+        },
+        {
+          "word": "Tore",
+          "start": 447.42,
+          "end": 448.06,
+          "translation": "Gates"
+        },
+        {
+          "word": "von",
+          "start": 448.06,
+          "end": 448.42,
+          "translation": "from"
+        },
+        {
+          "word": "Deutschlands",
+          "start": 448.42,
+          "end": 449.16,
+          "translation": "Germany"
+        },
+        {
+          "word": "erfolgreichsten",
+          "start": 449.16,
+          "end": 450.32,
+          "translation": "most successful"
+        },
+        {
+          "word": "Werfern",
+          "start": 450.32,
+          "end": 450.96,
+          "translation": "Throwers"
+        },
+        {
+          "word": "Johannes",
+          "start": 451.44,
+          "end": 451.9,
+          "translation": "John"
+        },
+        {
+          "word": "Golla,",
+          "start": 451.9,
+          "end": 452.59,
+          "translation": "Golla,"
+        },
+        {
+          "word": "Juri",
+          "start": 452.59,
+          "end": 453.29,
+          "translation": "Yuri"
+        },
+        {
+          "word": "Knorr",
+          "start": 453.29,
+          "end": 453.98,
+          "translation": "Knorr"
+        },
+        {
+          "word": "und",
+          "start": 453.98,
+          "end": 454.9,
+          "translation": "and"
+        },
+        {
+          "word": "Marko",
+          "start": 454.9,
+          "end": 455.58,
+          "translation": "Marko"
+        },
+        {
+          "word": "Grgić",
+          "start": 455.58,
+          "end": 456.26,
+          "translation": "Grgić"
+        },
+        {
+          "word": "nicht",
+          "start": 456.26,
+          "end": 456.56,
+          "translation": "not"
+        },
+        {
+          "word": "aus,",
+          "start": 456.56,
+          "end": 457.2,
+          "translation": "from,"
+        },
+        {
+          "word": "um",
+          "start": 457.7,
+          "end": 457.8,
+          "translation": "to"
+        },
+        {
+          "word": "sich",
+          "start": 457.8,
+          "end": 458.06,
+          "translation": "itself"
+        },
+        {
+          "word": "den",
+          "start": 458.06,
+          "end": 458.42,
+          "translation": "the"
+        },
+        {
+          "word": "Traum",
+          "start": 458.42,
+          "end": 458.96,
+          "translation": "Dream"
+        },
+        {
+          "word": "von",
+          "start": 458.96,
+          "end": 459.24,
+          "translation": "from"
+        },
+        {
+          "word": "Gold",
+          "start": 459.24,
+          "end": 459.62,
+          "translation": "Gold"
+        },
+        {
+          "word": "zu",
+          "start": 459.62,
+          "end": 460.14,
+          "translation": "to"
+        },
+        {
+          "word": "erfüllen.",
+          "start": 460.14,
+          "end": 460.84,
+          "translation": "fulfill."
+        },
+        {
+          "word": "Das",
+          "start": 460.84,
+          "end": 461.62,
+          "translation": "The"
+        },
+        {
+          "word": "deutsche",
+          "start": 461.62,
+          "end": 462.28,
+          "translation": "German"
+        },
+        {
+          "word": "Handball-Team",
+          "start": 462.28,
+          "end": 463.3,
+          "translation": "Handball team"
+        },
+        {
+          "word": "darf",
+          "start": 463.3,
+          "end": 464.06,
+          "translation": "may"
+        },
+        {
+          "word": "sich",
+          "start": 464.06,
+          "end": 464.46,
+          "translation": "itself"
+        },
+        {
+          "word": "über",
+          "start": 464.46,
+          "end": 464.98,
+          "translation": "about"
+        },
+        {
+          "word": "Silber",
+          "start": 464.98,
+          "end": 465.52,
+          "translation": "silver"
+        },
+        {
+          "word": "freuen.",
+          "start": 465.52,
+          "end": 466.02,
+          "translation": "look forward to."
+        }
+      ]
+    }
+  ]
+}
