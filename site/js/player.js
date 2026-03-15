@@ -402,12 +402,15 @@
   // --- Onboarding ---
   function showOnboarding() {
     if (localStorage.getItem('wordsync-onboarding-dismissed')) return;
+    if (sessionStorage.getItem('wordsync-onboarding-dismissed')) return;
     onboarding.classList.remove('hidden');
   }
 
   function dismissOnboarding() {
     if (onboardingRemember.checked) {
       localStorage.setItem('wordsync-onboarding-dismissed', '1');
+    } else {
+      sessionStorage.setItem('wordsync-onboarding-dismissed', '1');
     }
     onboarding.classList.add('hidden');
   }

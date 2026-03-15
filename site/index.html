@@ -113,12 +113,15 @@
     function dismissOnboarding() {
       if (onboardingRemember.checked) {
         localStorage.setItem('wordsync-onboarding-dismissed', '1');
+      } else {
+        sessionStorage.setItem('wordsync-onboarding-dismissed', '1');
       }
       onboarding.classList.add('hidden');
     }
 
     // Auto-show on first visit
-    if (!localStorage.getItem('wordsync-onboarding-dismissed')) {
+    if (!localStorage.getItem('wordsync-onboarding-dismissed') &&
+        !sessionStorage.getItem('wordsync-onboarding-dismissed')) {
       onboarding.classList.remove('hidden');
     }
 
