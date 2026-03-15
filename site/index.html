@@ -50,6 +50,9 @@
             <p class="demo-label"><strong>Hold</strong> a word to see its translation</p>
           </div>
         </div>
+        <label class="onboarding__remember">
+          <input type="checkbox" id="onboarding-remember"> Don't show again
+        </label>
         <button class="onboarding__btn" id="onboarding-close">Got it</button>
       </div>
     </div>
@@ -105,15 +108,25 @@
 
     // How it works popup
     var onboarding = document.getElementById('onboarding');
+    var onboardingRemember = document.getElementById('onboarding-remember');
+
+    function dismissOnboarding() {
+      if (onboardingRemember.checked) {
+        localStorage.setItem('wordsync-onboarding-dismissed', '1');
+      }
+      onboarding.classList.add('hidden');
+    }
+
+    // Auto-show on first visit
+    if (!localStorage.getItem('wordsync-onboarding-dismissed')) {
+      onboarding.classList.remove('hidden');
+    }
+
     document.getElementById('how-link').addEventListener('click', function () {
       onboarding.classList.remove('hidden');
     });
-    document.getElementById('onboarding-close').addEventListener('click', function () {
-      onboarding.classList.add('hidden');
-    });
-    document.getElementById('onboarding-backdrop').addEventListener('click', function () {
-      onboarding.classList.add('hidden');
-    });
+    document.getElementById('onboarding-close').addEventListener('click', dismissOnboarding);
+    document.getElementById('onboarding-backdrop').addEventListener('click', dismissOnboarding);
   </script>
 </body>
 </html>
