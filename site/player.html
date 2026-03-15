@@ -9,6 +9,38 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="player-page">
+  <div class="onboarding hidden" id="onboarding">
+    <div class="onboarding__backdrop" id="onboarding-backdrop"></div>
+    <div class="onboarding__dialog">
+      <div class="onboarding__bars"><span></span><span></span><span></span></div>
+      <div class="onboarding__body">
+        <h2 class="onboarding__title">Welcome to WordSync</h2>
+        <p class="onboarding__desc">Follow along with slowly spoken German news — word by word.</p>
+        <div class="onboarding__demos">
+          <div class="onboarding__demo">
+            <div class="demo-area demo-tap">
+              <span class="demo-word">Welt</span>
+              <span class="demo-ring"></span>
+            </div>
+            <p class="demo-label"><strong>Tap</strong> a word to skip audio there</p>
+          </div>
+          <div class="onboarding__demo">
+            <div class="demo-area demo-hold">
+              <span class="demo-word">Heute</span>
+              <span class="demo-ring"></span>
+              <span class="demo-translation">Today</span>
+            </div>
+            <p class="demo-label"><strong>Hold</strong> a word to see its translation</p>
+          </div>
+        </div>
+        <label class="onboarding__remember">
+          <input type="checkbox" id="onboarding-remember"> Don't show again
+        </label>
+        <button class="onboarding__btn" id="onboarding-close">Got it</button>
+      </div>
+    </div>
+  </div>
+
   <div class="container">
     <header class="player-header">
       <a href="index.html" class="back-link">← Episodes</a>
@@ -40,6 +72,9 @@
       <button id="play-btn" class="play-btn" aria-label="Play">
         <svg class="icon-play" viewBox="0 0 24 24" width="28" height="28"><polygon points="6,3 20,12 6,21" fill="currentColor"/></svg>
         <svg class="icon-pause hidden" viewBox="0 0 24 24" width="28" height="28"><rect x="5" y="3" width="4" height="18" fill="currentColor"/><rect x="15" y="3" width="4" height="18" fill="currentColor"/></svg>
+      </button>
+      <button id="skip-btn" class="skip-btn" aria-label="Forward 10 seconds">
+        <svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z" fill="currentColor"/><text x="12" y="16.5" fill="currentColor" font-size="8" font-weight="700" text-anchor="middle" font-family="sans-serif">10</text></svg>
       </button>
       <div class="player-time">
         <span id="current-time">0:00</span> / <span id="total-time">0:00</span>

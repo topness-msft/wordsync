@@ -16,10 +16,25 @@
   const popupWord = popup.querySelector('.popup-word');
   const popupTranslation = popup.querySelector('.popup-translation');
   const popupClose = popup.querySelector('.popup__close');
+  const skipBtn = document.getElementById('skip-btn');
+  const onboarding = document.getElementById('onboarding');
+  const onboardingClose = document.getElementById('onboarding-close');
+  const onboardingRemember = document.getElementById('onboarding-remember');
+  const onboardingBackdrop = document.getElementById('onboarding-backdrop');
 
   // --- State ---
   let wordEntries = []; // { el, start, end }  sorted by start
   let activeWord = null;
+
+  // Hold/tap detection
+  var HOLD_MS = 400;
+  var holdTimer = null;
+  var isHolding = false;
+  var holdTarget = null;
+  var pressStartX = 0;
+  var pressStartY = 0;
+  var pressCancelled = false;
+  var usedTouch = false;
 
   // --- Helpers ---
   function formatTime(sec) {
@@ -251,19 +266,88 @@
     seekingTouch = false;
   });
 
-  // Word click → seek + translation
-  transcript.addEventListener('click', function (e) {
-    const wordEl = e.target.closest('.word');
-    if (wordEl) {
-      e.stopPropagation();
-      var startTime = parseFloat(wordEl.dataset.start);
+  // --- Word interaction: tap to seek, hold to translate ---
+  function wordPressStart(wordEl, x, y) {
+    holdTarget = wordEl;
+    pressCancelled = false;
+    isHolding = false;
+    pressStartX = x;
+    pressStartY = y;
+    holdTimer = setTimeout(function () {
+      isHolding = true;
+      showPopup(wordEl);
+    }, HOLD_MS);
+  }
+
+  function pressMove(x, y) {
+    if (isHolding) return;
+    if (!holdTimer) return;
+    if (Math.abs(x - pressStartX) > 10 || Math.abs(y - pressStartY) > 10) {
+      clearTimeout(holdTimer);
+      holdTimer = null;
+      pressCancelled = true;
+    }
+  }
+
+  function pressEnd() {
+    clearTimeout(holdTimer);
+    holdTimer = null;
+    if (pressCancelled) { holdTarget = null; return; }
+    if (isHolding) {
+      hidePopup();
+      isHolding = false;
+    } else if (holdTarget) {
+      var startTime = parseFloat(holdTarget.dataset.start);
       if (isFinite(startTime) && audio.readyState >= 1) {
         audio.currentTime = startTime;
         updateProgress();
         updateHighlight();
       }
-      showPopup(wordEl);
     }
+    holdTarget = null;
+  }
+
+  // Touch events (mobile)
+  transcript.addEventListener('touchstart', function (e) {
+    usedTouch = true;
+    var wordEl = e.target.closest('.word');
+    if (!wordEl) return;
+    var t = e.touches[0];
+    wordPressStart(wordEl, t.clientX, t.clientY);
+  }, { passive: true });
+
+  document.addEventListener('touchmove', function (e) {
+    if (!holdTarget) return;
+    var t = e.touches[0];
+    pressMove(t.clientX, t.clientY);
+  }, { passive: true });
+
+  document.addEventListener('touchend', function () {
+    if (holdTarget) pressEnd();
+  });
+
+  // Mouse events (desktop — skipped on touch devices)
+  transcript.addEventListener('mousedown', function (e) {
+    if (usedTouch) return;
+    var wordEl = e.target.closest('.word');
+    if (!wordEl) return;
+    e.preventDefault();
+    wordPressStart(wordEl, e.clientX, e.clientY);
+  });
+
+  document.addEventListener('mousemove', function (e) {
+    if (usedTouch || !holdTarget) return;
+    pressMove(e.clientX, e.clientY);
+  });
+
+  document.addEventListener('mouseup', function () {
+    if (usedTouch || !holdTarget) return;
+    pressEnd();
+  });
+
+  // Prevent long-press context menu on words (Safari)
+  transcript.addEventListener('contextmenu', function (e) {
+    if (e.target.closest('.word')) e.preventDefault();
   });
 
   // Dismiss popup on overlay click
@@ -307,6 +391,32 @@
     speedBtn.textContent = speeds[speedIndex] + '×';
   });
 
+  // --- Skip forward 10s ---
+  skipBtn.addEventListener('click', function () {
+    audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 10);
+    updateProgress();
+    updateHighlight();
+  });
+
+  // --- Onboarding ---
+  function showOnboarding() {
+    if (localStorage.getItem('wordsync-onboarding-dismissed')) return;
+    onboarding.classList.remove('hidden');
+  }
+
+  function dismissOnboarding() {
+    if (onboardingRemember.checked) {
+      localStorage.setItem('wordsync-onboarding-dismissed', '1');
+    }
+    onboarding.classList.add('hidden');
+  }
+
+  onboardingClose.addEventListener('click', dismissOnboarding);
+  onboardingBackdrop.addEventListener('click', dismissOnboarding);
+
   // --- Init ---
-  document.addEventListener('DOMContentLoaded', loadEpisode);
+  document.addEventListener('DOMContentLoaded', function () {
+    loadEpisode();
+    showOnboarding();
+  });
 })();
