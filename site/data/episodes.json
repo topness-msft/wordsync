@@ -194,5 +194,40 @@
     "date": "2026-02-11",
     "imageUrl": "https://static.dw.com/image/75904290_303.jpg",
     "duration": 572
+  },
+  {
+    "id": 75890075,
+    "title": "10.02.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-02-10",
+    "imageUrl": "https://static.dw.com/image/64962843_303.jpg",
+    "duration": 487
+  },
+  {
+    "id": 75871691,
+    "title": "09.02.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-02-09",
+    "imageUrl": "https://static.dw.com/image/75154926_303.jpg",
+    "duration": 511
+  },
+  {
+    "id": 75853776,
+    "title": "07.02.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-02-07",
+    "imageUrl": "https://static.dw.com/image/75853656_303.jpg",
+    "duration": 468
+  },
+  {
+    "id": 75834076,
+    "title": "06.02.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-02-06",
+    "imageUrl": "https://static.dw.com/image/72894793_303.jpg",
+    "duration": 530
+  },
+  {
+    "id": 75813523,
+    "title": "05.02.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-02-05",
+    "imageUrl": "https://static.dw.com/image/75712256_303.jpg",
+    "duration": 487
   }
 ]
