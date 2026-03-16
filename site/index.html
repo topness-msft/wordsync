@@ -88,13 +88,31 @@
           card.href = 'player.html?id=' + encodeURIComponent(ep.id);
           card.className = 'episode-card';
 
-          card.innerHTML =
-            '<img class="episode-thumb" src="' + ep.imageUrl + '" alt="">' +
-            '<div class="episode-info">' +
-              '<time class="episode-date">' + formatDate(ep.date) + '</time>' +
-              '<h2 class="episode-title">' + ep.title + '</h2>' +
-              '<span class="episode-duration">' + formatDuration(ep.duration) + '</span>' +
-            '</div>';
+          var img = document.createElement('img');
+          img.className = 'episode-thumb';
+          img.src = ep.imageUrl;
+          img.alt = '';
+
+          var time = document.createElement('time');
+          time.className = 'episode-date';
+          time.textContent = formatDate(ep.date);
+
+          var title = document.createElement('h2');
+          title.className = 'episode-title';
+          title.textContent = ep.title;
+
+          var dur = document.createElement('span');
+          dur.className = 'episode-duration';
+          dur.textContent = formatDuration(ep.duration);
+
+          var info = document.createElement('div');
+          info.className = 'episode-info';
+          info.appendChild(time);
+          info.appendChild(title);
+          info.appendChild(dur);
+
+          card.appendChild(img);
+          card.appendChild(info);
 
           container.appendChild(card);
         }

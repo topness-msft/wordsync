@@ -21,13 +21,13 @@ def save_translation_cache(cache, cache_path):
 
 
 def translate_words(words, api_key, cache_path=None):
-    if cache_path is None:
-        cache_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "translation_cache.json")
     """Translate a list of German words to English via DeepL.
 
     Uses a persistent cache to avoid re-translating known words.
     Returns dict of word → translation.
     """
+    if cache_path is None:
+        cache_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "translation_cache.json")
     cache = load_translation_cache(cache_path)
 
     # Find words not yet in cache
