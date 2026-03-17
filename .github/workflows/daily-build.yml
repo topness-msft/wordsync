@@ -15,6 +15,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      has_new: ${{ steps.check_new.outputs.has_new }}
     steps:
       - uses: actions/checkout@v4
 
@@ -34,6 +36,25 @@ jobs:
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python build/build.py --model base --limit 5
+
+      - name: Check for new episodes
+        id: check_new
+        run: |
+          if [ -f new_episodes.json ] && [ "$(cat new_episodes.json)" != "[]" ]; then
+            echo "has_new=true" >> "$GITHUB_OUTPUT"
+            echo "New episodes found:"
+            cat new_episodes.json
+          else
+            echo "has_new=false" >> "$GITHUB_OUTPUT"
+            echo "No new episodes"
+          fi
+
+      - name: Upload new episodes manifest
+        if: steps.check_new.outputs.has_new == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-episodes
+          path: new_episodes.json
 
       - name: Commit new episode data
         run: |
@@ -75,3 +96,97 @@ jobs:
 
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  tweet:
+    needs: [build, deploy]
+    if: needs.build.outputs.has_new == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download new episodes manifest
+        uses: actions/download-artifact@v4
+        with:
+          name: new-episodes
+
+      - name: Post tweets for new episodes
+        uses: actions/github-script@v7
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        with:
+          script: |
+            const fs = require('fs');
+            const crypto = require('crypto');
+            const https = require('https');
+
+            const episodes = JSON.parse(fs.readFileSync('new_episodes.json', 'utf8'));
+            if (!episodes.length) return;
+
+            function oauthSign(method, url, params, consumerKey, consumerSecret, token, tokenSecret) {
+              const nonce = crypto.randomBytes(16).toString('hex');
+              const timestamp = Math.floor(Date.now() / 1000).toString();
+              const oauthParams = {
+                oauth_consumer_key: consumerKey,
+                oauth_nonce: nonce,
+                oauth_signature_method: 'HMAC-SHA1',
+                oauth_timestamp: timestamp,
+                oauth_token: token,
+                oauth_version: '1.0',
+                ...params
+              };
+              const sorted = Object.keys(oauthParams).sort().map(k =>
+                `${encodeURIComponent(k)}=${encodeURIComponent(oauthParams[k])}`
+              ).join('&');
+              const base = `${method}&${encodeURIComponent(url)}&${encodeURIComponent(sorted)}`;
+              const key = `${encodeURIComponent(consumerSecret)}&${encodeURIComponent(tokenSecret)}`;
+              const sig = crypto.createHmac('sha1', key).update(base).digest('base64');
+              return { ...oauthParams, oauth_signature: sig };
+            }
+
+            function postTweet(text) {
+              return new Promise((resolve, reject) => {
+                const url = 'https://api.twitter.com/2/tweets';
+                const signed = oauthSign('POST', url, {},
+                  process.env.TWITTER_API_KEY, process.env.TWITTER_API_SECRET,
+                  process.env.TWITTER_ACCESS_TOKEN, process.env.TWITTER_ACCESS_SECRET
+                );
+                const authHeader = 'OAuth ' + Object.keys(signed)
+                  .filter(k => k.startsWith('oauth_'))
+                  .sort()
+                  .map(k => `${encodeURIComponent(k)}="${encodeURIComponent(signed[k])}"`)
+                  .join(', ');
+                const body = JSON.stringify({ text });
+                const req = https.request(url, {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': authHeader,
+                    'Content-Length': Buffer.byteLength(body)
+                  }
+                }, (res) => {
+                  let data = '';
+                  res.on('data', chunk => data += chunk);
+                  res.on('end', () => {
+                    if (res.statusCode >= 200 && res.statusCode < 300) {
+                      resolve(JSON.parse(data));
+                    } else {
+                      reject(new Error(`Twitter API ${res.statusCode}: ${data}`));
+                    }
+                  });
+                });
+                req.on('error', reject);
+                req.write(body);
+                req.end();
+              });
+            }
+
+            for (const ep of episodes) {
+              const message = `🇩🇪 New episode: ${ep.title}\n\nPractice your German with word-by-word audio highlighting and tap-to-translate.\n\n▶️ https://wordsync.app/player.html?id=${ep.id}`;
+              try {
+                const result = await postTweet(message);
+                core.info(`Tweeted: ${ep.title} (tweet ID: ${result.data.id})`);
+              } catch (err) {
+                core.warning(`Failed to tweet for episode ${ep.id}: ${err.message}`);
+              }
+            }

@@ -179,17 +179,31 @@ def main():
 
     print(f"Processing {len(to_process)} episodes (skipping {len(existing)} existing)")
 
+    new_episodes = []
     for episode in to_process:
         print(f"\n--- Processing: {episode['title']} (ID: {episode['id']}) ---")
         try:
-            build_episode(episode["id"], api_key, tmp_dir, data_dir,
-                          whisper_model=args.model)
+            result = build_episode(episode["id"], api_key, tmp_dir, data_dir,
+                                   whisper_model=args.model)
+            if result:
+                new_episodes.append({
+                    "id": result["id"],
+                    "title": result["title"],
+                    "date": result["date"],
+                })
         except Exception as e:
             print(f"  Error processing {episode['id']}: {e}")
             continue
 
     # Write index
     write_episodes_index(data_dir)
+
+    # Write new episodes manifest for downstream jobs (e.g. tweeting)
+    manifest_path = os.path.join(project_root, "new_episodes.json")
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(new_episodes, f, ensure_ascii=False, indent=2)
+    print(f"New episodes manifest: {len(new_episodes)} episodes written to {manifest_path}")
+
     print("\nDone!")
 
 

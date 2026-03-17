@@ -18,5 +18,8 @@ Thumbs.db
 # Translation cache should be committed (exception)
 !build/translation_cache.json
 
+# Build artifacts
+new_episodes.json
+
 # Test artifacts
 test/
