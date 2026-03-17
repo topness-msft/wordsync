@@ -30,7 +30,7 @@ The project has two independent halves:
 1. `fetch_episodes.py` — Fetches episode list from DW RSS, then calls the DW article API for transcripts and audio URLs
 2. `align.py` — Runs OpenAI Whisper with `word_timestamps=True`, then aligns Whisper output to the known transcript using `difflib.SequenceMatcher` with linear interpolation for gaps
 3. `translate.py` — Translates unique German words via DeepL API, with a persistent JSON cache (`translation_cache.json`) to avoid redundant API calls
-4. `build.py` — Orchestrates the pipeline, outputs per-episode JSON to `site/data/{id}.json` and an index to `site/data/episodes.json`
+4. `build.py` — Orchestrates the pipeline, outputs per-episode JSON to `site/data/{id}.json` and an index to `site/data/episodes.json`. Also writes `new_episodes.json` at the project root (gitignored) listing episodes processed in the current run — this is consumed by the CI tweet job.
 
 **`site/` — Vanilla static frontend** (no frameworks, no build step):
 - `index.html` — Episode listing, loads `data/episodes.json`
@@ -65,13 +65,17 @@ Each `site/data/{id}.json` contains:
 ## Key Conventions
 
 - **Frontend is vanilla JS** — no frameworks, no bundler, no npm. The entire player is a single IIFE in `player.js`. DOM references are cached as constants at the top. Use `classList` and `dataset` for state.
+- **XSS prevention** — Episode rendering in `index.html` uses `createElement`/`textContent` instead of `innerHTML`. Maintain this pattern when adding dynamic content.
 - **Tap vs hold on words** — Tap/click seeks audio to that word. Hold (400ms+) shows the translation popup; releasing hides the popup and resumes playback. Uses touch events for mobile and mouse events for desktop with a `usedTouch` flag to prevent duplicate handling. Safari long-press context menu is suppressed on words.
-- **CSS uses a spacing scale** — custom properties `--s1` (4px) through `--s8` (48px) on an 8px base. Color palette: `--rot` (red), `--blau` (blue), `--gelb` (yellow).
+- **Onboarding popup** — Auto-shows on first visit to either page. Dismissing saves to `sessionStorage` (survives navigation within session). Checking "Don't show again" saves to `localStorage` (permanent). Key: `wordsync-onboarding-dismissed`. A help button (`?` on player, "How it works" on index) re-opens it.
+- **CSS uses a spacing scale** — custom properties `--s1` (4px) through `--s8` (48px). Color palette: `--rot` (red), `--blau` (blue), `--gelb` (yellow), `--creme` (background), `--ink` (text). Fonts: `Bebas Neue` for display, `Jost` for body.
 - **Word lookup uses binary search** — `player.js` finds the active word by timestamp with O(log n) search. Maintain this pattern for performance.
 - **Translation cache is committed** — `build/translation_cache.json` is checked into git and updated by CI. This is intentional to avoid re-translating known words.
 - **Build scripts run from `build/` directory** — imports between build modules are relative (e.g., `from align import run_whisper`). The working directory must be `build/` or the project root.
-- **CI auto-commits episode data** — The daily GitHub Actions workflow commits new JSON to `site/data/` and pushes directly to `main`, then deploys to Pages.
 
 ## CI/CD
 
-The single workflow (`.github/workflows/daily-build.yml`) runs at 10:30 UTC daily and on manual dispatch. It builds up to 5 new episodes with Whisper base model, commits results, and deploys `site/` to GitHub Pages. Requires the `DEEPL_API_KEY` repository secret.
+Two workflows in `.github/workflows/`:
+
+- **`deploy.yml`** — Triggered on pushes to `site/`. Fast-deploys static files to GitHub Pages. No build step.
+- **`daily-build.yml`** — Runs at 10:30 UTC daily and on manual dispatch. Builds up to 5 new episodes with Whisper base model, commits results to `main`, deploys to Pages, then tweets new episodes via the `twitter-api-v2` npm package. Has a `concurrency` group with `cancel-in-progress: false` to prevent overlapping runs. Requires secrets: `DEEPL_API_KEY`, `TWITTER_API_KEY`, `TWITTER_API_SECRET`, `TWITTER_ACCESS_TOKEN`, `TWITTER_ACCESS_SECRET`.
