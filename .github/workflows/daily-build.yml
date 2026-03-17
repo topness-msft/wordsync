@@ -35,7 +35,7 @@ jobs:
       - name: Run build pipeline
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-        run: python build/build.py --model base --limit 5
+        run: python build/build.py --model base --limit 1 --force
 
       - name: Check for new episodes
         id: check_new
