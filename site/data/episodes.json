@@ -1,5 +1,19 @@
 [
   {
+    "id": 76391553,
+    "title": "17.03.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-03-17",
+    "imageUrl": "https://static.dw.com/image/76391420_303.jpg",
+    "duration": 451
+  },
+  {
+    "id": 76375391,
+    "title": "16.03.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-03-16",
+    "imageUrl": "https://static.dw.com/image/76370706_303.jpg",
+    "duration": 556
+  },
+  {
     "id": 76358977,
     "title": "14.03.2026 – Langsam Gesprochene Nachrichten",
     "date": "2026-03-14",
@@ -299,5 +313,26 @@
     "date": "2026-01-24",
     "imageUrl": "https://static.dw.com/image/75634803_303.jpg",
     "duration": 468
+  },
+  {
+    "id": 75617315,
+    "title": "23.01.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-01-23",
+    "imageUrl": "https://static.dw.com/image/75610018_303.jpg",
+    "duration": 502
+  },
+  {
+    "id": 75602815,
+    "title": "22.01.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-01-22",
+    "imageUrl": "https://static.dw.com/image/75482743_303.jpg",
+    "duration": 531
+  },
+  {
+    "id": 75588904,
+    "title": "21.01.2026 – Langsam Gesprochene Nachrichten",
+    "date": "2026-01-21",
+    "imageUrl": "https://static.dw.com/image/75589774_303.jpg",
+    "duration": 491
   }
 ]
