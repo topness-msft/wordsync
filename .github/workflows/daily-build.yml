@@ -2,7 +2,7 @@ name: Daily Build
 
 on:
   schedule:
-    - cron: '30 10 * * *'  # 10:30 UTC daily (episodes typically publish ~10:00 UTC)
+    - cron: '30 10 * * 1-6'  # 10:30 UTC Mon-Sat (no Sunday episodes)
   workflow_dispatch:  # allow manual trigger
 
 concurrency:
