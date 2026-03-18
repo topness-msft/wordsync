@@ -1,0 +1,3520 @@
+{
+  "id": 75532448,
+  "title": "16.01.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-01-16",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/E5517BB2_2.mp3",
+  "duration": 485,
+  "imageUrl": "https://static.dw.com/image/75530529_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "USA verlegen Medien zufolge Flugzeugträger nach Nahost",
+      "words": [
+        {
+          "word": "USA",
+          "start": 19.5,
+          "end": 21.98,
+          "translation": "USA"
+        },
+        {
+          "word": "verlegen",
+          "start": 21.98,
+          "end": 23.26,
+          "translation": "relocate"
+        },
+        {
+          "word": "Medien",
+          "start": 23.26,
+          "end": 24.6,
+          "translation": "Media"
+        },
+        {
+          "word": "zufolge",
+          "start": 24.6,
+          "end": 25.94,
+          "translation": "according to"
+        },
+        {
+          "word": "Flugzeugträger",
+          "start": 25.94,
+          "end": 27.28,
+          "translation": "Aircraft carrier"
+        },
+        {
+          "word": "nach",
+          "start": 27.28,
+          "end": 28.04,
+          "translation": "to"
+        },
+        {
+          "word": "Nahost",
+          "start": 28.04,
+          "end": 29.54,
+          "translation": "Middle East"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Nach den Drohungen gegen den Iran verstärken die USA Medienberichten zufolge ihre Militärpräsenz im Nahen Osten. Die Zeitung „New York Times“ berichtet unter Berufung auf zwei US-Beamte, der Flugzeugträger „USS Abraham Lincoln“ und einige Begleitschiffe seien auf dem Weg vom Südchinesischen Meer in die Region. Bis zur Ankunft dauere es etwa eine Woche. Zudem würden zusätzliche Waffen und Verteidigungsausrüstung dorthin gebracht. Es könnten Kampfflugzeuge folgen. Auch das US-Medium „Axios“ meldet, der Flugzeugträger sei auf dem Weg in die Region. Eine Bestätigung des Verteidigungsministeriums in Washington gibt es bislang nicht.",
+      "words": [
+        {
+          "word": "Nach",
+          "start": 29.54,
+          "end": 30.92,
+          "translation": "After"
+        },
+        {
+          "word": "den",
+          "start": 30.92,
+          "end": 31.38,
+          "translation": "the"
+        },
+        {
+          "word": "Drohungen",
+          "start": 31.38,
+          "end": 32.14,
+          "translation": "Threats"
+        },
+        {
+          "word": "gegen",
+          "start": 32.14,
+          "end": 32.66,
+          "translation": "vs."
+        },
+        {
+          "word": "den",
+          "start": 32.66,
+          "end": 33.08,
+          "translation": "the"
+        },
+        {
+          "word": "Iran",
+          "start": 33.08,
+          "end": 33.68,
+          "translation": "Iran"
+        },
+        {
+          "word": "verstärken",
+          "start": 34.44,
+          "end": 35.36,
+          "translation": "reinforce"
+        },
+        {
+          "word": "die",
+          "start": 35.36,
+          "end": 35.76,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 35.76,
+          "end": 36.4,
+          "translation": "USA"
+        },
+        {
+          "word": "Medienberichten",
+          "start": 36.4,
+          "end": 38.34,
+          "translation": "Media reports"
+        },
+        {
+          "word": "zufolge",
+          "start": 38.34,
+          "end": 39.44,
+          "translation": "according to"
+        },
+        {
+          "word": "ihre",
+          "start": 40.0,
+          "end": 40.48,
+          "translation": "their"
+        },
+        {
+          "word": "Militärpräsenz",
+          "start": 40.48,
+          "end": 42.24,
+          "translation": "Military presence"
+        },
+        {
+          "word": "im",
+          "start": 42.24,
+          "end": 42.6,
+          "translation": "in the"
+        },
+        {
+          "word": "Nahen",
+          "start": 42.6,
+          "end": 43.06,
+          "translation": "Close"
+        },
+        {
+          "word": "Osten.",
+          "start": 43.06,
+          "end": 43.74,
+          "translation": "East."
+        },
+        {
+          "word": "Die",
+          "start": 44.33,
+          "end": 44.9,
+          "translation": "The"
+        },
+        {
+          "word": "Zeitung",
+          "start": 44.9,
+          "end": 45.7,
+          "translation": "Newspaper"
+        },
+        {
+          "word": "„New",
+          "start": 46.1,
+          "end": 46.38,
+          "translation": "\"New"
+        },
+        {
+          "word": "York",
+          "start": 46.38,
+          "end": 46.68,
+          "translation": "York"
+        },
+        {
+          "word": "Times“",
+          "start": 46.68,
+          "end": 47.26,
+          "translation": "Times\""
+        },
+        {
+          "word": "berichtet",
+          "start": 47.84,
+          "end": 48.28,
+          "translation": "reported"
+        },
+        {
+          "word": "unter",
+          "start": 48.28,
+          "end": 49.02,
+          "translation": "under"
+        },
+        {
+          "word": "Berufung",
+          "start": 49.02,
+          "end": 49.82,
+          "translation": "Appeal"
+        },
+        {
+          "word": "auf",
+          "start": 49.82,
+          "end": 50.1,
+          "translation": "on"
+        },
+        {
+          "word": "zwei",
+          "start": 50.1,
+          "end": 50.68,
+          "translation": "two"
+        },
+        {
+          "word": "US-Beamte,",
+          "start": 50.68,
+          "end": 52.66,
+          "translation": "US officials,"
+        },
+        {
+          "word": "der",
+          "start": 52.66,
+          "end": 52.76,
+          "translation": "the"
+        },
+        {
+          "word": "Flugzeugträger",
+          "start": 52.76,
+          "end": 54.02,
+          "translation": "Aircraft carrier"
+        },
+        {
+          "word": "„USS",
+          "start": 54.56,
+          "end": 55.02,
+          "translation": "\"USS"
+        },
+        {
+          "word": "Abraham",
+          "start": 55.02,
+          "end": 55.8,
+          "translation": "Abraham"
+        },
+        {
+          "word": "Lincoln“",
+          "start": 55.8,
+          "end": 56.28,
+          "translation": "Lincoln\""
+        },
+        {
+          "word": "und",
+          "start": 56.28,
+          "end": 57.12,
+          "translation": "and"
+        },
+        {
+          "word": "einige",
+          "start": 57.12,
+          "end": 57.68,
+          "translation": "some"
+        },
+        {
+          "word": "Begleitschiffe",
+          "start": 57.68,
+          "end": 58.72,
+          "translation": "Escort ships"
+        },
+        {
+          "word": "seien",
+          "start": 59.24,
+          "end": 59.74,
+          "translation": "be"
+        },
+        {
+          "word": "auf",
+          "start": 59.74,
+          "end": 60.04,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 60.04,
+          "end": 60.28,
+          "translation": "the"
+        },
+        {
+          "word": "Weg",
+          "start": 60.28,
+          "end": 60.58,
+          "translation": "Path"
+        },
+        {
+          "word": "vom",
+          "start": 60.58,
+          "end": 61.22,
+          "translation": "from the"
+        },
+        {
+          "word": "Südchinesischen",
+          "start": 61.22,
+          "end": 62.62,
+          "translation": "South China"
+        },
+        {
+          "word": "Meer",
+          "start": 62.62,
+          "end": 62.94,
+          "translation": "Sea"
+        },
+        {
+          "word": "in",
+          "start": 62.94,
+          "end": 63.58,
+          "translation": "in"
+        },
+        {
+          "word": "die",
+          "start": 63.58,
+          "end": 63.8,
+          "translation": "the"
+        },
+        {
+          "word": "Region.",
+          "start": 63.8,
+          "end": 64.28,
+          "translation": "Region."
+        },
+        {
+          "word": "Bis",
+          "start": 65.28,
+          "end": 65.92,
+          "translation": "Until"
+        },
+        {
+          "word": "zur",
+          "start": 65.92,
+          "end": 66.38,
+          "translation": "to the"
+        },
+        {
+          "word": "Ankunft",
+          "start": 66.38,
+          "end": 67.16,
+          "translation": "Arrival"
+        },
+        {
+          "word": "dauere",
+          "start": 67.16,
+          "end": 67.74,
+          "translation": "last"
+        },
+        {
+          "word": "es",
+          "start": 67.74,
+          "end": 68.04,
+          "translation": "it"
+        },
+        {
+          "word": "etwa",
+          "start": 68.04,
+          "end": 68.44,
+          "translation": "about"
+        },
+        {
+          "word": "eine",
+          "start": 68.44,
+          "end": 69.06,
+          "translation": "one"
+        },
+        {
+          "word": "Woche.",
+          "start": 69.06,
+          "end": 69.48,
+          "translation": "week."
+        },
+        {
+          "word": "Zudem",
+          "start": 70.26,
+          "end": 71.2,
+          "translation": "In addition"
+        },
+        {
+          "word": "würden",
+          "start": 71.2,
+          "end": 71.68,
+          "translation": "would"
+        },
+        {
+          "word": "zusätzliche",
+          "start": 71.68,
+          "end": 72.88,
+          "translation": "additional"
+        },
+        {
+          "word": "Waffen",
+          "start": 72.88,
+          "end": 73.32,
+          "translation": "Weapons"
+        },
+        {
+          "word": "und",
+          "start": 73.32,
+          "end": 74.14,
+          "translation": "and"
+        },
+        {
+          "word": "Verteidigungsausrüstung",
+          "start": 74.14,
+          "end": 76.52,
+          "translation": "Defense equipment"
+        },
+        {
+          "word": "dorthin",
+          "start": 76.52,
+          "end": 77.54,
+          "translation": "there"
+        },
+        {
+          "word": "gebracht.",
+          "start": 77.54,
+          "end": 78.56,
+          "translation": "brought."
+        },
+        {
+          "word": "Es",
+          "start": 78.56,
+          "end": 79.18,
+          "translation": "It"
+        },
+        {
+          "word": "könnten",
+          "start": 79.18,
+          "end": 79.68,
+          "translation": "could"
+        },
+        {
+          "word": "Kampfflugzeuge",
+          "start": 79.68,
+          "end": 81.2,
+          "translation": "Fighter aircraft"
+        },
+        {
+          "word": "folgen.",
+          "start": 81.2,
+          "end": 81.66,
+          "translation": "follow."
+        },
+        {
+          "word": "Auch",
+          "start": 82.52,
+          "end": 83.04,
+          "translation": "Also"
+        },
+        {
+          "word": "das",
+          "start": 83.04,
+          "end": 83.32,
+          "translation": "the"
+        },
+        {
+          "word": "US-Medium",
+          "start": 83.32,
+          "end": 84.33,
+          "translation": "US medium"
+        },
+        {
+          "word": "„Axios“",
+          "start": 84.33,
+          "end": 85.34,
+          "translation": "\"Axios\""
+        },
+        {
+          "word": "meldet,",
+          "start": 85.34,
+          "end": 86.08,
+          "translation": "reports,"
+        },
+        {
+          "word": "der",
+          "start": 86.7,
+          "end": 86.92,
+          "translation": "the"
+        },
+        {
+          "word": "Flugzeugträger",
+          "start": 86.92,
+          "end": 88.22,
+          "translation": "Aircraft carrier"
+        },
+        {
+          "word": "sei",
+          "start": 88.22,
+          "end": 88.7,
+          "translation": "be"
+        },
+        {
+          "word": "auf",
+          "start": 88.7,
+          "end": 89.04,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 89.04,
+          "end": 89.3,
+          "translation": "the"
+        },
+        {
+          "word": "Weg",
+          "start": 89.3,
+          "end": 89.58,
+          "translation": "Path"
+        },
+        {
+          "word": "in",
+          "start": 89.58,
+          "end": 90.16,
+          "translation": "in"
+        },
+        {
+          "word": "die",
+          "start": 90.16,
+          "end": 90.36,
+          "translation": "the"
+        },
+        {
+          "word": "Region.",
+          "start": 90.36,
+          "end": 90.8,
+          "translation": "Region."
+        },
+        {
+          "word": "Eine",
+          "start": 91.72,
+          "end": 92.42,
+          "translation": "One"
+        },
+        {
+          "word": "Bestätigung",
+          "start": 92.42,
+          "end": 93.3,
+          "translation": "Confirmation"
+        },
+        {
+          "word": "des",
+          "start": 93.3,
+          "end": 93.88,
+          "translation": "of the"
+        },
+        {
+          "word": "Verteidigungsministeriums",
+          "start": 93.88,
+          "end": 95.96,
+          "translation": "Ministry of Defense"
+        },
+        {
+          "word": "in",
+          "start": 95.96,
+          "end": 96.38,
+          "translation": "in"
+        },
+        {
+          "word": "Washington",
+          "start": 96.38,
+          "end": 97.04,
+          "translation": "Washington"
+        },
+        {
+          "word": "gibt",
+          "start": 97.04,
+          "end": 98.1,
+          "translation": "gives"
+        },
+        {
+          "word": "es",
+          "start": 98.1,
+          "end": 98.44,
+          "translation": "it"
+        },
+        {
+          "word": "bislang",
+          "start": 98.44,
+          "end": 98.94,
+          "translation": "so far"
+        },
+        {
+          "word": "nicht.",
+          "start": 98.94,
+          "end": 99.42,
+          "translation": "not."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Machado überreicht Trump ihre Nobelpreis-Medaille",
+      "words": [
+        {
+          "word": "Machado",
+          "start": 101.68,
+          "end": 102.42,
+          "translation": "Machado"
+        },
+        {
+          "word": "überreicht",
+          "start": 102.42,
+          "end": 103.28,
+          "translation": "presented"
+        },
+        {
+          "word": "Trump",
+          "start": 103.28,
+          "end": 103.78,
+          "translation": "Trump"
+        },
+        {
+          "word": "ihre",
+          "start": 104.36,
+          "end": 104.72,
+          "translation": "their"
+        },
+        {
+          "word": "Nobelpreis-Medaille",
+          "start": 104.72,
+          "end": 106.86,
+          "translation": "Nobel Prize Medal"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "US-Präsident Donald Trump hat am Donnerstag die venezolanische Oppositionsführerin María Corina Machado im Weißen Haus empfangen, um über die politische Zukunft Venezuelas zu beraten. Dabei hat Machado ihre Friedensnobelpreis-Medaille dem US-Präsidenten überreicht. Dies sei eine wundervolle Geste gegenseitigen Respekts, ließ Trump nach dem Treffen auf seiner Social-Media-Plattform verlauten. Das Nobelpreis-Institut in Oslo hatte allerdings schon klargestellt, dass ein Nobelpreis nicht weitergereicht werden könne. Die Sprecherin des Weißen Hauses, Karoline Leavitt, teilte mit, ⁠Trump bleibe bei seiner Einschätzung, dass Machado kurzfristig nicht die nötige Unterstützung habe, um das Land zu führen. Der US-Präsident hatte zuvor bereits Zweifel an Machados Rückhalt ⁠geäußert und die Übergangspräsidentin des Landes, Delcy Rodriguez, gelobt.",
+      "words": [
+        {
+          "word": "US-Präsident",
+          "start": 106.86,
+          "end": 109.0,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 109.0,
+          "end": 109.66,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 109.66,
+          "end": 110.26,
+          "translation": "Trump"
+        },
+        {
+          "word": "hat",
+          "start": 110.26,
+          "end": 110.94,
+          "translation": "has"
+        },
+        {
+          "word": "am",
+          "start": 110.94,
+          "end": 111.2,
+          "translation": "on"
+        },
+        {
+          "word": "Donnerstag",
+          "start": 111.2,
+          "end": 112.08,
+          "translation": "Thursday"
+        },
+        {
+          "word": "die",
+          "start": 112.08,
+          "end": 112.42,
+          "translation": "the"
+        },
+        {
+          "word": "venezolanische",
+          "start": 112.42,
+          "end": 113.58,
+          "translation": "Venezuelan"
+        },
+        {
+          "word": "Oppositionsführerin",
+          "start": 113.58,
+          "end": 115.5,
+          "translation": "Opposition leader"
+        },
+        {
+          "word": "María",
+          "start": 115.5,
+          "end": 116.42,
+          "translation": "María"
+        },
+        {
+          "word": "Corina",
+          "start": 116.42,
+          "end": 117.2,
+          "translation": "Corina"
+        },
+        {
+          "word": "Machado",
+          "start": 117.2,
+          "end": 118.04,
+          "translation": "Machado"
+        },
+        {
+          "word": "im",
+          "start": 118.04,
+          "end": 118.66,
+          "translation": "in the"
+        },
+        {
+          "word": "Weißen",
+          "start": 118.66,
+          "end": 119.24,
+          "translation": "Whites"
+        },
+        {
+          "word": "Haus",
+          "start": 119.24,
+          "end": 119.54,
+          "translation": "House"
+        },
+        {
+          "word": "empfangen,",
+          "start": 119.54,
+          "end": 120.32,
+          "translation": "receive,"
+        },
+        {
+          "word": "um",
+          "start": 121.02,
+          "end": 121.3,
+          "translation": "to"
+        },
+        {
+          "word": "über",
+          "start": 121.3,
+          "end": 121.78,
+          "translation": "about"
+        },
+        {
+          "word": "die",
+          "start": 121.78,
+          "end": 122.0,
+          "translation": "the"
+        },
+        {
+          "word": "politische",
+          "start": 122.0,
+          "end": 122.72,
+          "translation": "political"
+        },
+        {
+          "word": "Zukunft",
+          "start": 122.72,
+          "end": 123.36,
+          "translation": "The future"
+        },
+        {
+          "word": "Venezuelas",
+          "start": 123.36,
+          "end": 124.9,
+          "translation": "Venezuela"
+        },
+        {
+          "word": "zu",
+          "start": 124.9,
+          "end": 125.5,
+          "translation": "to"
+        },
+        {
+          "word": "beraten.",
+          "start": 125.5,
+          "end": 126.04,
+          "translation": "advise."
+        },
+        {
+          "word": "Dabei",
+          "start": 126.84,
+          "end": 127.82,
+          "translation": "Thereby"
+        },
+        {
+          "word": "hat",
+          "start": 127.82,
+          "end": 128.14,
+          "translation": "has"
+        },
+        {
+          "word": "Machado",
+          "start": 128.14,
+          "end": 128.92,
+          "translation": "Machado"
+        },
+        {
+          "word": "ihre",
+          "start": 128.92,
+          "end": 129.6,
+          "translation": "their"
+        },
+        {
+          "word": "Friedensnobelpreis-Medaille",
+          "start": 129.6,
+          "end": 132.06,
+          "translation": "Nobel Peace Prize Medal"
+        },
+        {
+          "word": "dem",
+          "start": 132.06,
+          "end": 132.86,
+          "translation": "the"
+        },
+        {
+          "word": "US-Präsidenten",
+          "start": 132.86,
+          "end": 134.5,
+          "translation": "US Presidents"
+        },
+        {
+          "word": "überreicht.",
+          "start": 134.5,
+          "end": 135.18,
+          "translation": "presented."
+        },
+        {
+          "word": "Dies",
+          "start": 135.68,
+          "end": 136.24,
+          "translation": "This"
+        },
+        {
+          "word": "sei",
+          "start": 136.24,
+          "end": 136.7,
+          "translation": "be"
+        },
+        {
+          "word": "eine",
+          "start": 136.7,
+          "end": 137.14,
+          "translation": "one"
+        },
+        {
+          "word": "wundervolle",
+          "start": 137.14,
+          "end": 138.1,
+          "translation": "wonderful"
+        },
+        {
+          "word": "Geste",
+          "start": 138.1,
+          "end": 138.58,
+          "translation": "Gesture"
+        },
+        {
+          "word": "gegenseitigen",
+          "start": 138.58,
+          "end": 139.88,
+          "translation": "mutual"
+        },
+        {
+          "word": "Respekts,",
+          "start": 139.88,
+          "end": 141.14,
+          "translation": "Respect,"
+        },
+        {
+          "word": "ließ",
+          "start": 141.34,
+          "end": 141.74,
+          "translation": "left"
+        },
+        {
+          "word": "Trump",
+          "start": 141.74,
+          "end": 142.02,
+          "translation": "Trump"
+        },
+        {
+          "word": "nach",
+          "start": 142.02,
+          "end": 142.52,
+          "translation": "to"
+        },
+        {
+          "word": "dem",
+          "start": 142.52,
+          "end": 142.8,
+          "translation": "the"
+        },
+        {
+          "word": "Treffen",
+          "start": 142.8,
+          "end": 143.3,
+          "translation": "Meeting"
+        },
+        {
+          "word": "auf",
+          "start": 143.3,
+          "end": 143.96,
+          "translation": "on"
+        },
+        {
+          "word": "seiner",
+          "start": 143.96,
+          "end": 144.36,
+          "translation": "his"
+        },
+        {
+          "word": "Social-Media-Plattform",
+          "start": 144.36,
+          "end": 146.06,
+          "translation": "Social media platform"
+        },
+        {
+          "word": "verlauten.",
+          "start": 146.06,
+          "end": 147.1,
+          "translation": "announced."
+        },
+        {
+          "word": "Das",
+          "start": 148.14,
+          "end": 148.76,
+          "translation": "The"
+        },
+        {
+          "word": "Nobelpreis-Institut",
+          "start": 148.76,
+          "end": 150.42,
+          "translation": "Nobel Prize Institute"
+        },
+        {
+          "word": "in",
+          "start": 150.42,
+          "end": 150.72,
+          "translation": "in"
+        },
+        {
+          "word": "Oslo",
+          "start": 150.72,
+          "end": 151.2,
+          "translation": "Oslo"
+        },
+        {
+          "word": "hatte",
+          "start": 151.2,
+          "end": 152.0,
+          "translation": "had"
+        },
+        {
+          "word": "allerdings",
+          "start": 152.0,
+          "end": 152.64,
+          "translation": "however"
+        },
+        {
+          "word": "schon",
+          "start": 152.64,
+          "end": 153.12,
+          "translation": "already"
+        },
+        {
+          "word": "klargestellt,",
+          "start": 153.12,
+          "end": 153.84,
+          "translation": "clarified,"
+        },
+        {
+          "word": "dass",
+          "start": 154.48,
+          "end": 154.78,
+          "translation": "that"
+        },
+        {
+          "word": "ein",
+          "start": 154.78,
+          "end": 155.16,
+          "translation": "a"
+        },
+        {
+          "word": "Nobelpreis",
+          "start": 155.16,
+          "end": 156.26,
+          "translation": "Nobel Prize"
+        },
+        {
+          "word": "nicht",
+          "start": 156.26,
+          "end": 156.76,
+          "translation": "not"
+        },
+        {
+          "word": "weitergereicht",
+          "start": 156.76,
+          "end": 158.24,
+          "translation": "passed on"
+        },
+        {
+          "word": "werden",
+          "start": 158.24,
+          "end": 158.66,
+          "translation": "become"
+        },
+        {
+          "word": "könne.",
+          "start": 158.66,
+          "end": 159.22,
+          "translation": "can."
+        },
+        {
+          "word": "Die",
+          "start": 159.92,
+          "end": 160.42,
+          "translation": "The"
+        },
+        {
+          "word": "Sprecherin",
+          "start": 160.42,
+          "end": 161.22,
+          "translation": "Speaker"
+        },
+        {
+          "word": "des",
+          "start": 161.22,
+          "end": 161.46,
+          "translation": "of the"
+        },
+        {
+          "word": "Weißen",
+          "start": 161.46,
+          "end": 162.08,
+          "translation": "Whites"
+        },
+        {
+          "word": "Hauses,",
+          "start": 162.08,
+          "end": 162.7,
+          "translation": "House,"
+        },
+        {
+          "word": "Karoline",
+          "start": 162.7,
+          "end": 163.57,
+          "translation": "Caroline"
+        },
+        {
+          "word": "Leavitt,",
+          "start": 163.57,
+          "end": 164.44,
+          "translation": "Leavitt,"
+        },
+        {
+          "word": "teilte",
+          "start": 164.44,
+          "end": 164.76,
+          "translation": "shared"
+        },
+        {
+          "word": "mit,",
+          "start": 164.76,
+          "end": 165.08,
+          "translation": "with,"
+        },
+        {
+          "word": "⁠Trump",
+          "start": 165.8,
+          "end": 166.04,
+          "translation": "Trump"
+        },
+        {
+          "word": "bleibe",
+          "start": 166.04,
+          "end": 166.72,
+          "translation": "stay"
+        },
+        {
+          "word": "bei",
+          "start": 166.72,
+          "end": 167.12,
+          "translation": "with"
+        },
+        {
+          "word": "seiner",
+          "start": 167.12,
+          "end": 167.58,
+          "translation": "his"
+        },
+        {
+          "word": "Einschätzung,",
+          "start": 167.58,
+          "end": 168.48,
+          "translation": "Assessment,"
+        },
+        {
+          "word": "dass",
+          "start": 168.48,
+          "end": 169.3,
+          "translation": "that"
+        },
+        {
+          "word": "Machado",
+          "start": 169.3,
+          "end": 170.18,
+          "translation": "Machado"
+        },
+        {
+          "word": "kurzfristig",
+          "start": 170.18,
+          "end": 171.46,
+          "translation": "short term"
+        },
+        {
+          "word": "nicht",
+          "start": 171.46,
+          "end": 171.96,
+          "translation": "not"
+        },
+        {
+          "word": "die",
+          "start": 171.96,
+          "end": 172.46,
+          "translation": "the"
+        },
+        {
+          "word": "nötige",
+          "start": 172.46,
+          "end": 173.06,
+          "translation": "necessary"
+        },
+        {
+          "word": "Unterstützung",
+          "start": 173.06,
+          "end": 173.92,
+          "translation": "Support"
+        },
+        {
+          "word": "habe,",
+          "start": 173.92,
+          "end": 174.48,
+          "translation": "have,"
+        },
+        {
+          "word": "um",
+          "start": 175.16,
+          "end": 175.26,
+          "translation": "to"
+        },
+        {
+          "word": "das",
+          "start": 175.26,
+          "end": 175.5,
+          "translation": "the"
+        },
+        {
+          "word": "Land",
+          "start": 175.5,
+          "end": 175.88,
+          "translation": "Country"
+        },
+        {
+          "word": "zu",
+          "start": 175.88,
+          "end": 176.42,
+          "translation": "to"
+        },
+        {
+          "word": "führen.",
+          "start": 176.42,
+          "end": 176.9,
+          "translation": "lead."
+        },
+        {
+          "word": "Der",
+          "start": 177.58,
+          "end": 178.26,
+          "translation": "The"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 178.26,
+          "end": 179.2,
+          "translation": "US President"
+        },
+        {
+          "word": "hatte",
+          "start": 179.2,
+          "end": 179.66,
+          "translation": "had"
+        },
+        {
+          "word": "zuvor",
+          "start": 179.66,
+          "end": 180.46,
+          "translation": "before"
+        },
+        {
+          "word": "bereits",
+          "start": 180.46,
+          "end": 180.86,
+          "translation": "already"
+        },
+        {
+          "word": "Zweifel",
+          "start": 180.86,
+          "end": 181.82,
+          "translation": "Doubts"
+        },
+        {
+          "word": "an",
+          "start": 181.82,
+          "end": 182.5,
+          "translation": "on"
+        },
+        {
+          "word": "Machados",
+          "start": 182.5,
+          "end": 183.52,
+          "translation": "Machados"
+        },
+        {
+          "word": "Rückhalt",
+          "start": 183.52,
+          "end": 184.14,
+          "translation": "Backing"
+        },
+        {
+          "word": "⁠geäußert",
+          "start": 184.14,
+          "end": 185.04,
+          "translation": "expressed"
+        },
+        {
+          "word": "und",
+          "start": 185.04,
+          "end": 185.84,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 185.84,
+          "end": 186.1,
+          "translation": "the"
+        },
+        {
+          "word": "Übergangspräsidentin",
+          "start": 186.1,
+          "end": 187.7,
+          "translation": "Interim President"
+        },
+        {
+          "word": "des",
+          "start": 187.7,
+          "end": 187.92,
+          "translation": "of the"
+        },
+        {
+          "word": "Landes,",
+          "start": 187.92,
+          "end": 188.5,
+          "translation": "Country,"
+        },
+        {
+          "word": "Delcy",
+          "start": 188.5,
+          "end": 189.5,
+          "translation": "Delcy"
+        },
+        {
+          "word": "Rodriguez,",
+          "start": 189.5,
+          "end": 190.5,
+          "translation": "Rodriguez,"
+        },
+        {
+          "word": "gelobt.",
+          "start": 190.5,
+          "end": 191.24,
+          "translation": "praised."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Südkoreas Ex-Präsident Yoon muss für fünf Jahre ins Gefängnis",
+      "words": [
+        {
+          "word": "Südkoreas",
+          "start": 192.24,
+          "end": 193.9,
+          "translation": "South Korea"
+        },
+        {
+          "word": "Ex-Präsident",
+          "start": 193.9,
+          "end": 194.8,
+          "translation": "Ex-President"
+        },
+        {
+          "word": "Yoon",
+          "start": 194.8,
+          "end": 195.7,
+          "translation": "Yoon"
+        },
+        {
+          "word": "muss",
+          "start": 195.7,
+          "end": 196.52,
+          "translation": "must"
+        },
+        {
+          "word": "für",
+          "start": 196.52,
+          "end": 196.88,
+          "translation": "for"
+        },
+        {
+          "word": "fünf",
+          "start": 196.88,
+          "end": 197.26,
+          "translation": "five"
+        },
+        {
+          "word": "Jahre",
+          "start": 197.26,
+          "end": 197.74,
+          "translation": "years"
+        },
+        {
+          "word": "ins",
+          "start": 197.74,
+          "end": 198.52,
+          "translation": "ins"
+        },
+        {
+          "word": "Gefängnis",
+          "start": 198.52,
+          "end": 199.32,
+          "translation": "Prison"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Ein südkoreanisches Gericht hat den ehemaligen Präsidenten Yoon Suk Yeol zu einer fünfjährigen Haftstrafe wegen Behinderung der Justiz verurteilt. Vor gut einem Jahr hatte der konservative Politiker überraschend das Kriegsrecht verhängt und das ostasiatische Land in eine Staatskrise gestürzt. Das zentrale Bezirksgericht in Seoul befand nun, dass der 65-Jährige unter anderem mit Hilfe des präsidialen Sicherheitsdienstes seine Verhaftung verhindert sowie mehrere Beweisdokumente gegen ihn gelöscht hat. Es ist das erste Urteil in den Strafverfahren, denen sich Yoon wegen der Ereignisse im Dezember 2024 stellen muss. Gegen die Entscheidung kann Berufung eingelegt werden.",
+      "words": [
+        {
+          "word": "Ein",
+          "start": 200.42,
+          "end": 200.74,
+          "translation": "A"
+        },
+        {
+          "word": "südkoreanisches",
+          "start": 200.74,
+          "end": 202.1,
+          "translation": "South Korean"
+        },
+        {
+          "word": "Gericht",
+          "start": 202.1,
+          "end": 202.82,
+          "translation": "Court of law"
+        },
+        {
+          "word": "hat",
+          "start": 202.82,
+          "end": 203.46,
+          "translation": "has"
+        },
+        {
+          "word": "den",
+          "start": 203.46,
+          "end": 203.8,
+          "translation": "the"
+        },
+        {
+          "word": "ehemaligen",
+          "start": 203.8,
+          "end": 204.78,
+          "translation": "former"
+        },
+        {
+          "word": "Präsidenten",
+          "start": 204.78,
+          "end": 206.0,
+          "translation": "Presidents"
+        },
+        {
+          "word": "Yoon",
+          "start": 206.0,
+          "end": 206.57,
+          "translation": "Yoon"
+        },
+        {
+          "word": "Suk",
+          "start": 206.57,
+          "end": 207.15,
+          "translation": "Suk"
+        },
+        {
+          "word": "Yeol",
+          "start": 207.15,
+          "end": 207.72,
+          "translation": "Yeol"
+        },
+        {
+          "word": "zu",
+          "start": 207.72,
+          "end": 208.54,
+          "translation": "to"
+        },
+        {
+          "word": "einer",
+          "start": 208.54,
+          "end": 208.96,
+          "translation": "one"
+        },
+        {
+          "word": "fünfjährigen",
+          "start": 208.96,
+          "end": 210.22,
+          "translation": "five years"
+        },
+        {
+          "word": "Haftstrafe",
+          "start": 210.22,
+          "end": 211.34,
+          "translation": "Prison sentence"
+        },
+        {
+          "word": "wegen",
+          "start": 211.34,
+          "end": 212.32,
+          "translation": "because of"
+        },
+        {
+          "word": "Behinderung",
+          "start": 212.32,
+          "end": 213.48,
+          "translation": "Disability"
+        },
+        {
+          "word": "der",
+          "start": 213.48,
+          "end": 213.76,
+          "translation": "the"
+        },
+        {
+          "word": "Justiz",
+          "start": 213.76,
+          "end": 214.28,
+          "translation": "Justice"
+        },
+        {
+          "word": "verurteilt.",
+          "start": 214.28,
+          "end": 215.68,
+          "translation": "condemned."
+        },
+        {
+          "word": "Vor",
+          "start": 216.22,
+          "end": 216.92,
+          "translation": "Before"
+        },
+        {
+          "word": "gut",
+          "start": 216.92,
+          "end": 217.2,
+          "translation": "good"
+        },
+        {
+          "word": "einem",
+          "start": 217.2,
+          "end": 217.72,
+          "translation": "one"
+        },
+        {
+          "word": "Jahr",
+          "start": 217.72,
+          "end": 218.16,
+          "translation": "Year"
+        },
+        {
+          "word": "hatte",
+          "start": 218.16,
+          "end": 218.9,
+          "translation": "had"
+        },
+        {
+          "word": "der",
+          "start": 218.9,
+          "end": 219.34,
+          "translation": "the"
+        },
+        {
+          "word": "konservative",
+          "start": 219.34,
+          "end": 220.34,
+          "translation": "conservative"
+        },
+        {
+          "word": "Politiker",
+          "start": 220.34,
+          "end": 221.5,
+          "translation": "Politicians"
+        },
+        {
+          "word": "überraschend",
+          "start": 221.5,
+          "end": 223.02,
+          "translation": "surprising"
+        },
+        {
+          "word": "das",
+          "start": 223.02,
+          "end": 223.54,
+          "translation": "the"
+        },
+        {
+          "word": "Kriegsrecht",
+          "start": 223.54,
+          "end": 224.46,
+          "translation": "Martial law"
+        },
+        {
+          "word": "verhängt",
+          "start": 224.46,
+          "end": 225.2,
+          "translation": "imposed"
+        },
+        {
+          "word": "und",
+          "start": 225.2,
+          "end": 225.98,
+          "translation": "and"
+        },
+        {
+          "word": "das",
+          "start": 225.98,
+          "end": 226.4,
+          "translation": "the"
+        },
+        {
+          "word": "ostasiatische",
+          "start": 226.4,
+          "end": 227.58,
+          "translation": "East Asian"
+        },
+        {
+          "word": "Land",
+          "start": 227.58,
+          "end": 228.0,
+          "translation": "Country"
+        },
+        {
+          "word": "in",
+          "start": 228.0,
+          "end": 228.6,
+          "translation": "in"
+        },
+        {
+          "word": "eine",
+          "start": 228.6,
+          "end": 229.06,
+          "translation": "one"
+        },
+        {
+          "word": "Staatskrise",
+          "start": 229.06,
+          "end": 230.2,
+          "translation": "National crisis"
+        },
+        {
+          "word": "gestürzt.",
+          "start": 230.2,
+          "end": 231.1,
+          "translation": "overthrown."
+        },
+        {
+          "word": "Das",
+          "start": 231.66,
+          "end": 232.2,
+          "translation": "The"
+        },
+        {
+          "word": "zentrale",
+          "start": 232.2,
+          "end": 233.24,
+          "translation": "central"
+        },
+        {
+          "word": "Bezirksgericht",
+          "start": 233.24,
+          "end": 234.56,
+          "translation": "District court"
+        },
+        {
+          "word": "in",
+          "start": 234.56,
+          "end": 235.04,
+          "translation": "in"
+        },
+        {
+          "word": "Seoul",
+          "start": 235.04,
+          "end": 235.44,
+          "translation": "Seoul"
+        },
+        {
+          "word": "befand",
+          "start": 235.44,
+          "end": 236.3,
+          "translation": "found"
+        },
+        {
+          "word": "nun,",
+          "start": 236.3,
+          "end": 236.84,
+          "translation": "now,"
+        },
+        {
+          "word": "dass",
+          "start": 237.44,
+          "end": 237.66,
+          "translation": "that"
+        },
+        {
+          "word": "der",
+          "start": 237.66,
+          "end": 237.94,
+          "translation": "the"
+        },
+        {
+          "word": "65-Jährige",
+          "start": 237.94,
+          "end": 239.66,
+          "translation": "65-year-old"
+        },
+        {
+          "word": "unter",
+          "start": 239.66,
+          "end": 240.12,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 240.12,
+          "end": 240.78,
+          "translation": "other"
+        },
+        {
+          "word": "mit",
+          "start": 241.28,
+          "end": 241.54,
+          "translation": "with"
+        },
+        {
+          "word": "Hilfe",
+          "start": 241.54,
+          "end": 241.9,
+          "translation": "Help"
+        },
+        {
+          "word": "des",
+          "start": 241.9,
+          "end": 242.28,
+          "translation": "of the"
+        },
+        {
+          "word": "präsidialen",
+          "start": 242.28,
+          "end": 243.32,
+          "translation": "presidential"
+        },
+        {
+          "word": "Sicherheitsdienstes",
+          "start": 243.32,
+          "end": 245.2,
+          "translation": "Security service"
+        },
+        {
+          "word": "seine",
+          "start": 245.2,
+          "end": 245.64,
+          "translation": "his"
+        },
+        {
+          "word": "Verhaftung",
+          "start": 245.64,
+          "end": 246.56,
+          "translation": "Arrest"
+        },
+        {
+          "word": "verhindert",
+          "start": 246.56,
+          "end": 247.32,
+          "translation": "prevents"
+        },
+        {
+          "word": "sowie",
+          "start": 247.84,
+          "end": 248.3,
+          "translation": "and"
+        },
+        {
+          "word": "mehrere",
+          "start": 248.3,
+          "end": 249.12,
+          "translation": "several"
+        },
+        {
+          "word": "Beweisdokumente",
+          "start": 249.12,
+          "end": 250.58,
+          "translation": "Evidence documents"
+        },
+        {
+          "word": "gegen",
+          "start": 250.58,
+          "end": 251.14,
+          "translation": "vs."
+        },
+        {
+          "word": "ihn",
+          "start": 251.14,
+          "end": 251.68,
+          "translation": "him"
+        },
+        {
+          "word": "gelöscht",
+          "start": 252.06,
+          "end": 252.5,
+          "translation": "deleted"
+        },
+        {
+          "word": "hat.",
+          "start": 252.5,
+          "end": 252.8,
+          "translation": "has."
+        },
+        {
+          "word": "Es",
+          "start": 253.52,
+          "end": 254.08,
+          "translation": "It"
+        },
+        {
+          "word": "ist",
+          "start": 254.08,
+          "end": 254.34,
+          "translation": "is"
+        },
+        {
+          "word": "das",
+          "start": 254.34,
+          "end": 254.58,
+          "translation": "the"
+        },
+        {
+          "word": "erste",
+          "start": 254.58,
+          "end": 255.1,
+          "translation": "first"
+        },
+        {
+          "word": "Urteil",
+          "start": 255.1,
+          "end": 255.74,
+          "translation": "Verdict"
+        },
+        {
+          "word": "in",
+          "start": 255.74,
+          "end": 256.2,
+          "translation": "in"
+        },
+        {
+          "word": "den",
+          "start": 256.2,
+          "end": 256.38,
+          "translation": "the"
+        },
+        {
+          "word": "Strafverfahren,",
+          "start": 256.38,
+          "end": 257.42,
+          "translation": "Criminal proceedings,"
+        },
+        {
+          "word": "denen",
+          "start": 257.98,
+          "end": 258.28,
+          "translation": "those"
+        },
+        {
+          "word": "sich",
+          "start": 258.28,
+          "end": 258.78,
+          "translation": "itself"
+        },
+        {
+          "word": "Yoon",
+          "start": 258.78,
+          "end": 259.08,
+          "translation": "Yoon"
+        },
+        {
+          "word": "wegen",
+          "start": 259.08,
+          "end": 259.98,
+          "translation": "because of"
+        },
+        {
+          "word": "der",
+          "start": 259.98,
+          "end": 260.3,
+          "translation": "the"
+        },
+        {
+          "word": "Ereignisse",
+          "start": 260.3,
+          "end": 261.16,
+          "translation": "Events"
+        },
+        {
+          "word": "im",
+          "start": 261.16,
+          "end": 261.48,
+          "translation": "in the"
+        },
+        {
+          "word": "Dezember",
+          "start": 261.48,
+          "end": 262.12,
+          "translation": "December"
+        },
+        {
+          "word": "2024",
+          "start": 262.12,
+          "end": 263.56,
+          "translation": "2024"
+        },
+        {
+          "word": "stellen",
+          "start": 263.56,
+          "end": 265.08,
+          "translation": "place"
+        },
+        {
+          "word": "muss.",
+          "start": 265.08,
+          "end": 265.52,
+          "translation": "must."
+        },
+        {
+          "word": "Gegen",
+          "start": 266.54,
+          "end": 266.92,
+          "translation": "Against"
+        },
+        {
+          "word": "die",
+          "start": 266.92,
+          "end": 267.28,
+          "translation": "the"
+        },
+        {
+          "word": "Entscheidung",
+          "start": 267.28,
+          "end": 267.92,
+          "translation": "Decision"
+        },
+        {
+          "word": "kann",
+          "start": 267.92,
+          "end": 268.66,
+          "translation": "can"
+        },
+        {
+          "word": "Berufung",
+          "start": 268.66,
+          "end": 269.78,
+          "translation": "Appeal"
+        },
+        {
+          "word": "eingelegt",
+          "start": 269.78,
+          "end": 270.56,
+          "translation": "inserted"
+        },
+        {
+          "word": "werden.",
+          "start": 270.56,
+          "end": 271.02,
+          "translation": "become."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Neue US-Sanktionen gegen iranische Politiker",
+      "words": [
+        {
+          "word": "Neue",
+          "start": 272.02,
+          "end": 272.94,
+          "translation": "New"
+        },
+        {
+          "word": "US-Sanktionen",
+          "start": 272.94,
+          "end": 274.24,
+          "translation": "US sanctions"
+        },
+        {
+          "word": "gegen",
+          "start": 274.24,
+          "end": 274.76,
+          "translation": "vs."
+        },
+        {
+          "word": "iranische",
+          "start": 274.76,
+          "end": 275.68,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Politiker",
+          "start": 275.68,
+          "end": 276.56,
+          "translation": "Politicians"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die US-Regierung reagiert auf das brutale Vorgehen des Regimes in Teheran gegen Proteste im Iran mit weiteren Sanktionen. Betroffen ist diesmal unter anderem der Generalsekretär des iranischen Nationalen Sicherheitsrates, Ali Laridschani. Er sei einer der ersten ranghohen Politiker gewesen, der zu einer gewaltsamen Niederschlagung der Demonstrationen aufgerufen habe, so die Begründung aus den USA. Laridschani ist eine Schlüsselfigur in der Islamischen Republik und gehört zu den engsten Vertrauten des obersten Führers Ajatollah Ali Chamenei. Die Sanktionen richten sich auch gegen Militärkommandeure in den Provinzen Fars und Lorestan.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 277.4,
+          "end": 277.94,
+          "translation": "The"
+        },
+        {
+          "word": "US-Regierung",
+          "start": 277.94,
+          "end": 279.0,
+          "translation": "US government"
+        },
+        {
+          "word": "reagiert",
+          "start": 279.0,
+          "end": 279.76,
+          "translation": "reacts"
+        },
+        {
+          "word": "auf",
+          "start": 279.76,
+          "end": 280.16,
+          "translation": "on"
+        },
+        {
+          "word": "das",
+          "start": 280.16,
+          "end": 280.46,
+          "translation": "the"
+        },
+        {
+          "word": "brutale",
+          "start": 280.46,
+          "end": 281.06,
+          "translation": "brutal"
+        },
+        {
+          "word": "Vorgehen",
+          "start": 281.06,
+          "end": 281.76,
+          "translation": "Procedure"
+        },
+        {
+          "word": "des",
+          "start": 281.76,
+          "end": 282.0,
+          "translation": "of the"
+        },
+        {
+          "word": "Regimes",
+          "start": 282.0,
+          "end": 282.52,
+          "translation": "Regimes"
+        },
+        {
+          "word": "in",
+          "start": 282.52,
+          "end": 283.27,
+          "translation": "in"
+        },
+        {
+          "word": "Teheran",
+          "start": 283.27,
+          "end": 284.02,
+          "translation": "Tehran"
+        },
+        {
+          "word": "gegen",
+          "start": 284.02,
+          "end": 284.28,
+          "translation": "vs."
+        },
+        {
+          "word": "Proteste",
+          "start": 284.28,
+          "end": 284.78,
+          "translation": "Protests"
+        },
+        {
+          "word": "im",
+          "start": 284.78,
+          "end": 285.22,
+          "translation": "in the"
+        },
+        {
+          "word": "Iran",
+          "start": 285.22,
+          "end": 285.54,
+          "translation": "Iran"
+        },
+        {
+          "word": "mit",
+          "start": 286.14,
+          "end": 286.32,
+          "translation": "with"
+        },
+        {
+          "word": "weiteren",
+          "start": 286.32,
+          "end": 286.88,
+          "translation": "more"
+        },
+        {
+          "word": "Sanktionen.",
+          "start": 286.88,
+          "end": 287.82,
+          "translation": "Sanctions."
+        },
+        {
+          "word": "Betroffen",
+          "start": 288.48,
+          "end": 289.04,
+          "translation": "Affected"
+        },
+        {
+          "word": "ist",
+          "start": 289.04,
+          "end": 289.32,
+          "translation": "is"
+        },
+        {
+          "word": "diesmal",
+          "start": 289.32,
+          "end": 289.86,
+          "translation": "this time"
+        },
+        {
+          "word": "unter",
+          "start": 289.86,
+          "end": 290.24,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 290.24,
+          "end": 290.78,
+          "translation": "other"
+        },
+        {
+          "word": "der",
+          "start": 291.26,
+          "end": 291.46,
+          "translation": "the"
+        },
+        {
+          "word": "Generalsekretär",
+          "start": 291.46,
+          "end": 292.72,
+          "translation": "Secretary General"
+        },
+        {
+          "word": "des",
+          "start": 292.72,
+          "end": 292.98,
+          "translation": "of the"
+        },
+        {
+          "word": "iranischen",
+          "start": 292.98,
+          "end": 293.68,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Nationalen",
+          "start": 293.68,
+          "end": 294.98,
+          "translation": "National"
+        },
+        {
+          "word": "Sicherheitsrates,",
+          "start": 294.98,
+          "end": 296.06,
+          "translation": "Security Council,"
+        },
+        {
+          "word": "Ali",
+          "start": 296.88,
+          "end": 297.22,
+          "translation": "Ali"
+        },
+        {
+          "word": "Laridschani.",
+          "start": 297.22,
+          "end": 298.76,
+          "translation": "Larijani."
+        },
+        {
+          "word": "Er",
+          "start": 298.76,
+          "end": 299.4,
+          "translation": "He"
+        },
+        {
+          "word": "sei",
+          "start": 299.4,
+          "end": 299.64,
+          "translation": "be"
+        },
+        {
+          "word": "einer",
+          "start": 299.64,
+          "end": 300.14,
+          "translation": "one"
+        },
+        {
+          "word": "der",
+          "start": 300.14,
+          "end": 300.42,
+          "translation": "the"
+        },
+        {
+          "word": "ersten",
+          "start": 300.42,
+          "end": 301.08,
+          "translation": "first"
+        },
+        {
+          "word": "ranghohen",
+          "start": 301.54,
+          "end": 302.18,
+          "translation": "senior"
+        },
+        {
+          "word": "Politiker",
+          "start": 302.18,
+          "end": 303.08,
+          "translation": "Politicians"
+        },
+        {
+          "word": "gewesen,",
+          "start": 303.08,
+          "end": 303.74,
+          "translation": "been,"
+        },
+        {
+          "word": "der",
+          "start": 304.54,
+          "end": 304.8,
+          "translation": "the"
+        },
+        {
+          "word": "zu",
+          "start": 304.8,
+          "end": 305.16,
+          "translation": "to"
+        },
+        {
+          "word": "einer",
+          "start": 305.16,
+          "end": 305.54,
+          "translation": "one"
+        },
+        {
+          "word": "gewaltsamen",
+          "start": 305.54,
+          "end": 306.7,
+          "translation": "violent"
+        },
+        {
+          "word": "Niederschlagung",
+          "start": 306.7,
+          "end": 307.7,
+          "translation": "Precipitation"
+        },
+        {
+          "word": "der",
+          "start": 307.7,
+          "end": 307.92,
+          "translation": "the"
+        },
+        {
+          "word": "Demonstrationen",
+          "start": 307.92,
+          "end": 309.66,
+          "translation": "Demonstrations"
+        },
+        {
+          "word": "aufgerufen",
+          "start": 309.66,
+          "end": 310.52,
+          "translation": "called"
+        },
+        {
+          "word": "habe,",
+          "start": 310.52,
+          "end": 311.2,
+          "translation": "have,"
+        },
+        {
+          "word": "so",
+          "start": 311.84,
+          "end": 312.18,
+          "translation": "so"
+        },
+        {
+          "word": "die",
+          "start": 312.18,
+          "end": 312.56,
+          "translation": "the"
+        },
+        {
+          "word": "Begründung",
+          "start": 312.56,
+          "end": 313.4,
+          "translation": "Reason"
+        },
+        {
+          "word": "aus",
+          "start": 313.4,
+          "end": 313.86,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 313.86,
+          "end": 314.14,
+          "translation": "the"
+        },
+        {
+          "word": "USA.",
+          "start": 314.14,
+          "end": 314.74,
+          "translation": "USA."
+        },
+        {
+          "word": "Laridschani",
+          "start": 314.74,
+          "end": 316.58,
+          "translation": "Larijani"
+        },
+        {
+          "word": "ist",
+          "start": 316.58,
+          "end": 316.92,
+          "translation": "is"
+        },
+        {
+          "word": "eine",
+          "start": 316.92,
+          "end": 317.28,
+          "translation": "one"
+        },
+        {
+          "word": "Schlüsselfigur",
+          "start": 317.28,
+          "end": 318.46,
+          "translation": "Key figure"
+        },
+        {
+          "word": "in",
+          "start": 318.46,
+          "end": 319.0,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 319.0,
+          "end": 319.18,
+          "translation": "the"
+        },
+        {
+          "word": "Islamischen",
+          "start": 319.18,
+          "end": 319.98,
+          "translation": "Islamic"
+        },
+        {
+          "word": "Republik",
+          "start": 319.98,
+          "end": 320.68,
+          "translation": "Republic of"
+        },
+        {
+          "word": "und",
+          "start": 320.68,
+          "end": 321.58,
+          "translation": "and"
+        },
+        {
+          "word": "gehört",
+          "start": 321.58,
+          "end": 321.92,
+          "translation": "belongs to"
+        },
+        {
+          "word": "zu",
+          "start": 321.92,
+          "end": 322.34,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 322.34,
+          "end": 322.56,
+          "translation": "the"
+        },
+        {
+          "word": "engsten",
+          "start": 322.56,
+          "end": 323.14,
+          "translation": "narrowest"
+        },
+        {
+          "word": "Vertrauten",
+          "start": 323.14,
+          "end": 323.98,
+          "translation": "Familiar"
+        },
+        {
+          "word": "des",
+          "start": 323.98,
+          "end": 324.76,
+          "translation": "of the"
+        },
+        {
+          "word": "obersten",
+          "start": 324.76,
+          "end": 325.44,
+          "translation": "uppermost"
+        },
+        {
+          "word": "Führers",
+          "start": 325.44,
+          "end": 326.16,
+          "translation": "Guide"
+        },
+        {
+          "word": "Ajatollah",
+          "start": 326.16,
+          "end": 327.26,
+          "translation": "Ayatollah"
+        },
+        {
+          "word": "Ali",
+          "start": 327.26,
+          "end": 327.84,
+          "translation": "Ali"
+        },
+        {
+          "word": "Chamenei.",
+          "start": 327.84,
+          "end": 329.7,
+          "translation": "Khamenei."
+        },
+        {
+          "word": "Die",
+          "start": 329.7,
+          "end": 329.98,
+          "translation": "The"
+        },
+        {
+          "word": "Sanktionen",
+          "start": 329.98,
+          "end": 330.82,
+          "translation": "Sanctions"
+        },
+        {
+          "word": "richten",
+          "start": 330.82,
+          "end": 331.46,
+          "translation": "direct"
+        },
+        {
+          "word": "sich",
+          "start": 331.46,
+          "end": 331.68,
+          "translation": "itself"
+        },
+        {
+          "word": "auch",
+          "start": 331.68,
+          "end": 332.08,
+          "translation": "also"
+        },
+        {
+          "word": "gegen",
+          "start": 332.08,
+          "end": 332.66,
+          "translation": "vs."
+        },
+        {
+          "word": "Militärkommandeure",
+          "start": 332.66,
+          "end": 334.42,
+          "translation": "Military commanders"
+        },
+        {
+          "word": "in",
+          "start": 335.06,
+          "end": 335.1,
+          "translation": "in"
+        },
+        {
+          "word": "den",
+          "start": 335.1,
+          "end": 335.28,
+          "translation": "the"
+        },
+        {
+          "word": "Provinzen",
+          "start": 335.28,
+          "end": 336.0,
+          "translation": "Provinces"
+        },
+        {
+          "word": "Fars",
+          "start": 336.52,
+          "end": 336.76,
+          "translation": "Fars"
+        },
+        {
+          "word": "und",
+          "start": 336.76,
+          "end": 337.6,
+          "translation": "and"
+        },
+        {
+          "word": "Lorestan.",
+          "start": 337.6,
+          "end": 339.51,
+          "translation": "Lorestan."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "US-Einheiten beschlagnahmen erneut Öltanker in der Karibik",
+      "words": [
+        {
+          "word": "US-Einheiten",
+          "start": 339.51,
+          "end": 341.42,
+          "translation": "US units"
+        },
+        {
+          "word": "beschlagnahmen",
+          "start": 341.42,
+          "end": 342.74,
+          "translation": "confiscate"
+        },
+        {
+          "word": "erneut",
+          "start": 342.74,
+          "end": 343.48,
+          "translation": "again"
+        },
+        {
+          "word": "Öltanker",
+          "start": 343.48,
+          "end": 344.82,
+          "translation": "Oil tanker"
+        },
+        {
+          "word": "in",
+          "start": 344.82,
+          "end": 345.28,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 345.28,
+          "end": 345.5,
+          "translation": "the"
+        },
+        {
+          "word": "Karibik",
+          "start": 345.5,
+          "end": 346.4,
+          "translation": "Caribbean"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "US-Einheiten haben erneut einen Öltanker in der Karibik unter ihre Kontrolle gebracht. Marineinfanteristen hätten den Tanker „Veronica“ beschlagnahmt, teilte das für die Region zuständige Südkommando des US-Militärs (Southcom) auf der Plattform X mit. US-Heimatschutzministerin Kristi Noem betonte, dass es sich um einen sanktionierten Tanker handele, der venezolanische Gewässer durchquert und gegen eine von US-Präsident Donald Trump verhängte Blockade verstoßen habe. Die USA haben in den vergangenen Wochen bereits mehrere Tanker unter ihre Kontrolle gebracht mit der Begründung, das südamerikanische Land habe Öl und andere Vermögenswerte von den USA gestohlen – diese müssten zurückgegeben werden.",
+      "words": [
+        {
+          "word": "US-Einheiten",
+          "start": 346.4,
+          "end": 348.64,
+          "translation": "US units"
+        },
+        {
+          "word": "haben",
+          "start": 348.64,
+          "end": 349.32,
+          "translation": "have"
+        },
+        {
+          "word": "erneut",
+          "start": 349.32,
+          "end": 350.32,
+          "translation": "again"
+        },
+        {
+          "word": "einen",
+          "start": 350.32,
+          "end": 350.78,
+          "translation": "one"
+        },
+        {
+          "word": "Öltanker",
+          "start": 350.78,
+          "end": 352.18,
+          "translation": "Oil tanker"
+        },
+        {
+          "word": "in",
+          "start": 352.18,
+          "end": 352.56,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 352.56,
+          "end": 352.74,
+          "translation": "the"
+        },
+        {
+          "word": "Karibik",
+          "start": 352.74,
+          "end": 353.58,
+          "translation": "Caribbean"
+        },
+        {
+          "word": "unter",
+          "start": 353.58,
+          "end": 354.16,
+          "translation": "under"
+        },
+        {
+          "word": "ihre",
+          "start": 354.16,
+          "end": 354.68,
+          "translation": "their"
+        },
+        {
+          "word": "Kontrolle",
+          "start": 354.68,
+          "end": 355.38,
+          "translation": "Control"
+        },
+        {
+          "word": "gebracht.",
+          "start": 355.38,
+          "end": 355.98,
+          "translation": "brought."
+        },
+        {
+          "word": "Marineinfanteristen",
+          "start": 355.98,
+          "end": 358.92,
+          "translation": "Marines"
+        },
+        {
+          "word": "hätten",
+          "start": 358.92,
+          "end": 359.22,
+          "translation": "would have"
+        },
+        {
+          "word": "den",
+          "start": 359.22,
+          "end": 359.62,
+          "translation": "the"
+        },
+        {
+          "word": "Tanker",
+          "start": 359.62,
+          "end": 360.28,
+          "translation": "Tanker"
+        },
+        {
+          "word": "„Veronica“",
+          "start": 360.28,
+          "end": 361.34,
+          "translation": "\"Veronica\""
+        },
+        {
+          "word": "beschlagnahmt,",
+          "start": 361.34,
+          "end": 362.8,
+          "translation": "confiscated,"
+        },
+        {
+          "word": "teilte",
+          "start": 362.8,
+          "end": 363.76,
+          "translation": "shared"
+        },
+        {
+          "word": "das",
+          "start": 363.76,
+          "end": 364.24,
+          "translation": "the"
+        },
+        {
+          "word": "für",
+          "start": 364.24,
+          "end": 364.6,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 364.6,
+          "end": 364.78,
+          "translation": "the"
+        },
+        {
+          "word": "Region",
+          "start": 364.78,
+          "end": 365.18,
+          "translation": "Region"
+        },
+        {
+          "word": "zuständige",
+          "start": 365.18,
+          "end": 366.32,
+          "translation": "responsible"
+        },
+        {
+          "word": "Südkommando",
+          "start": 366.32,
+          "end": 367.4,
+          "translation": "Southern Command"
+        },
+        {
+          "word": "des",
+          "start": 367.4,
+          "end": 367.94,
+          "translation": "of the"
+        },
+        {
+          "word": "US-Militärs",
+          "start": 367.94,
+          "end": 369.62,
+          "translation": "US military"
+        },
+        {
+          "word": "(Southcom)",
+          "start": 369.62,
+          "end": 370.3,
+          "translation": "(Southcom)"
+        },
+        {
+          "word": "auf",
+          "start": 370.3,
+          "end": 370.96,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 370.96,
+          "end": 371.14,
+          "translation": "the"
+        },
+        {
+          "word": "Plattform",
+          "start": 371.14,
+          "end": 371.7,
+          "translation": "Platform"
+        },
+        {
+          "word": "X",
+          "start": 371.7,
+          "end": 372.28,
+          "translation": "X"
+        },
+        {
+          "word": "mit.",
+          "start": 372.28,
+          "end": 372.88,
+          "translation": "with."
+        },
+        {
+          "word": "US-Heimatschutzministerin",
+          "start": 372.88,
+          "end": 374.3,
+          "translation": "US Secretary of Homeland Security"
+        },
+        {
+          "word": "Kristi",
+          "start": 374.3,
+          "end": 375.72,
+          "translation": "Kristi"
+        },
+        {
+          "word": "Noem",
+          "start": 375.72,
+          "end": 377.14,
+          "translation": "Noem"
+        },
+        {
+          "word": "betonte,",
+          "start": 377.14,
+          "end": 377.94,
+          "translation": "emphasized,"
+        },
+        {
+          "word": "dass",
+          "start": 378.58,
+          "end": 378.86,
+          "translation": "that"
+        },
+        {
+          "word": "es",
+          "start": 378.86,
+          "end": 379.1,
+          "translation": "it"
+        },
+        {
+          "word": "sich",
+          "start": 379.1,
+          "end": 379.42,
+          "translation": "itself"
+        },
+        {
+          "word": "um",
+          "start": 379.42,
+          "end": 379.62,
+          "translation": "to"
+        },
+        {
+          "word": "einen",
+          "start": 379.62,
+          "end": 380.04,
+          "translation": "one"
+        },
+        {
+          "word": "sanktionierten",
+          "start": 380.04,
+          "end": 381.56,
+          "translation": "sanctioned"
+        },
+        {
+          "word": "Tanker",
+          "start": 381.56,
+          "end": 382.11,
+          "translation": "Tanker"
+        },
+        {
+          "word": "handele,",
+          "start": 382.11,
+          "end": 382.66,
+          "translation": "act,"
+        },
+        {
+          "word": "der",
+          "start": 382.66,
+          "end": 383.24,
+          "translation": "the"
+        },
+        {
+          "word": "venezolanische",
+          "start": 383.24,
+          "end": 384.64,
+          "translation": "Venezuelan"
+        },
+        {
+          "word": "Gewässer",
+          "start": 384.64,
+          "end": 385.18,
+          "translation": "Waters"
+        },
+        {
+          "word": "durchquert",
+          "start": 385.18,
+          "end": 386.02,
+          "translation": "traversed"
+        },
+        {
+          "word": "und",
+          "start": 386.02,
+          "end": 386.7,
+          "translation": "and"
+        },
+        {
+          "word": "gegen",
+          "start": 386.7,
+          "end": 387.1,
+          "translation": "vs."
+        },
+        {
+          "word": "eine",
+          "start": 387.1,
+          "end": 387.54,
+          "translation": "one"
+        },
+        {
+          "word": "von",
+          "start": 387.54,
+          "end": 387.86,
+          "translation": "from"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 387.86,
+          "end": 388.92,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 388.92,
+          "end": 389.58,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 389.58,
+          "end": 390.14,
+          "translation": "Trump"
+        },
+        {
+          "word": "verhängte",
+          "start": 390.14,
+          "end": 391.0,
+          "translation": "imposed"
+        },
+        {
+          "word": "Blockade",
+          "start": 391.0,
+          "end": 391.58,
+          "translation": "Blockade"
+        },
+        {
+          "word": "verstoßen",
+          "start": 391.58,
+          "end": 392.36,
+          "translation": "violated"
+        },
+        {
+          "word": "habe.",
+          "start": 392.36,
+          "end": 392.84,
+          "translation": "have."
+        },
+        {
+          "word": "Die",
+          "start": 393.4,
+          "end": 393.98,
+          "translation": "The"
+        },
+        {
+          "word": "USA",
+          "start": 393.98,
+          "end": 394.48,
+          "translation": "USA"
+        },
+        {
+          "word": "haben",
+          "start": 394.48,
+          "end": 395.04,
+          "translation": "have"
+        },
+        {
+          "word": "in",
+          "start": 395.04,
+          "end": 395.38,
+          "translation": "in"
+        },
+        {
+          "word": "den",
+          "start": 395.38,
+          "end": 395.6,
+          "translation": "the"
+        },
+        {
+          "word": "vergangenen",
+          "start": 395.6,
+          "end": 396.32,
+          "translation": "past"
+        },
+        {
+          "word": "Wochen",
+          "start": 396.32,
+          "end": 396.56,
+          "translation": "Weeks"
+        },
+        {
+          "word": "bereits",
+          "start": 396.56,
+          "end": 397.52,
+          "translation": "already"
+        },
+        {
+          "word": "mehrere",
+          "start": 397.52,
+          "end": 398.3,
+          "translation": "several"
+        },
+        {
+          "word": "Tanker",
+          "start": 398.3,
+          "end": 399.02,
+          "translation": "Tanker"
+        },
+        {
+          "word": "unter",
+          "start": 399.02,
+          "end": 399.62,
+          "translation": "under"
+        },
+        {
+          "word": "ihre",
+          "start": 399.62,
+          "end": 400.08,
+          "translation": "their"
+        },
+        {
+          "word": "Kontrolle",
+          "start": 400.08,
+          "end": 400.68,
+          "translation": "Control"
+        },
+        {
+          "word": "gebracht",
+          "start": 400.68,
+          "end": 401.2,
+          "translation": "brought"
+        },
+        {
+          "word": "mit",
+          "start": 401.8,
+          "end": 401.92,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 401.92,
+          "end": 402.18,
+          "translation": "the"
+        },
+        {
+          "word": "Begründung,",
+          "start": 402.18,
+          "end": 402.94,
+          "translation": "Justification,"
+        },
+        {
+          "word": "das",
+          "start": 403.48,
+          "end": 403.62,
+          "translation": "the"
+        },
+        {
+          "word": "südamerikanische",
+          "start": 403.62,
+          "end": 405.02,
+          "translation": "South American"
+        },
+        {
+          "word": "Land",
+          "start": 405.02,
+          "end": 405.38,
+          "translation": "Country"
+        },
+        {
+          "word": "habe",
+          "start": 405.38,
+          "end": 406.02,
+          "translation": "have"
+        },
+        {
+          "word": "Öl",
+          "start": 406.02,
+          "end": 406.6,
+          "translation": "Oil"
+        },
+        {
+          "word": "und",
+          "start": 406.6,
+          "end": 406.9,
+          "translation": "and"
+        },
+        {
+          "word": "andere",
+          "start": 406.9,
+          "end": 407.36,
+          "translation": "other"
+        },
+        {
+          "word": "Vermögenswerte",
+          "start": 407.36,
+          "end": 408.58,
+          "translation": "Assets"
+        },
+        {
+          "word": "von",
+          "start": 408.58,
+          "end": 409.16,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 409.16,
+          "end": 409.36,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 409.36,
+          "end": 409.94,
+          "translation": "USA"
+        },
+        {
+          "word": "gestohlen",
+          "start": 409.94,
+          "end": 410.88,
+          "translation": "stolen"
+        },
+        {
+          "word": "–",
+          "start": 410.88,
+          "end": 411.46,
+          "translation": "-"
+        },
+        {
+          "word": "diese",
+          "start": 411.46,
+          "end": 411.92,
+          "translation": "these"
+        },
+        {
+          "word": "müssten",
+          "start": 411.92,
+          "end": 412.58,
+          "translation": "would have to"
+        },
+        {
+          "word": "zurückgegeben",
+          "start": 412.58,
+          "end": 413.92,
+          "translation": "returned"
+        },
+        {
+          "word": "werden.",
+          "start": 413.92,
+          "end": 414.42,
+          "translation": "become."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Wohnungsnot in Deutschland verschärft sich laut Studie",
+      "words": [
+        {
+          "word": "Wohnungsnot",
+          "start": 415.86,
+          "end": 416.98,
+          "translation": "Housing shortage"
+        },
+        {
+          "word": "in",
+          "start": 416.98,
+          "end": 417.44,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland",
+          "start": 417.44,
+          "end": 417.8,
+          "translation": "Germany"
+        },
+        {
+          "word": "verschärft",
+          "start": 417.8,
+          "end": 419.06,
+          "translation": "aggravated"
+        },
+        {
+          "word": "sich",
+          "start": 419.06,
+          "end": 419.52,
+          "translation": "itself"
+        },
+        {
+          "word": "laut",
+          "start": 419.52,
+          "end": 419.9,
+          "translation": "according to"
+        },
+        {
+          "word": "Studie",
+          "start": 419.9,
+          "end": 420.74,
+          "translation": "Study"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "In Deutschland fehlen einer Analyse zufolge derzeit rund 1,4 Millionen Wohnungen. Das geht aus dem sogenannten Sozialen Wohn-Monitor 2026 hervor, den das Pestel-Institut und das Verbändebündnis Soziales Wohnen veröffentlichten. Der Mangel betrifft demnach „fast ausschließlich“ günstigere Wohnungen sowie Sozialwohnungen. Vor allem jüngere Menschen sowie ältere treffe die Entwicklung besonders hart, hieß es. Der Untersuchung zufolge gleicht der Wohnungsneubau den Bedarf nicht annähernd aus.",
+      "words": [
+        {
+          "word": "In",
+          "start": 421.52,
+          "end": 422.04,
+          "translation": "In"
+        },
+        {
+          "word": "Deutschland",
+          "start": 422.04,
+          "end": 422.42,
+          "translation": "Germany"
+        },
+        {
+          "word": "fehlen",
+          "start": 422.42,
+          "end": 423.32,
+          "translation": "missing"
+        },
+        {
+          "word": "einer",
+          "start": 423.32,
+          "end": 423.84,
+          "translation": "one"
+        },
+        {
+          "word": "Analyse",
+          "start": 423.84,
+          "end": 424.62,
+          "translation": "Analysis"
+        },
+        {
+          "word": "zufolge",
+          "start": 424.62,
+          "end": 425.48,
+          "translation": "according to"
+        },
+        {
+          "word": "derzeit",
+          "start": 425.98,
+          "end": 426.46,
+          "translation": "currently"
+        },
+        {
+          "word": "rund",
+          "start": 426.46,
+          "end": 426.72,
+          "translation": "round"
+        },
+        {
+          "word": "1,4",
+          "start": 426.72,
+          "end": 428.08,
+          "translation": "1,4"
+        },
+        {
+          "word": "Millionen",
+          "start": 428.08,
+          "end": 428.58,
+          "translation": "million"
+        },
+        {
+          "word": "Wohnungen.",
+          "start": 428.58,
+          "end": 429.52,
+          "translation": "Apartments."
+        },
+        {
+          "word": "Das",
+          "start": 429.86,
+          "end": 430.56,
+          "translation": "The"
+        },
+        {
+          "word": "geht",
+          "start": 430.56,
+          "end": 430.82,
+          "translation": "goes"
+        },
+        {
+          "word": "aus",
+          "start": 430.82,
+          "end": 431.18,
+          "translation": "from"
+        },
+        {
+          "word": "dem",
+          "start": 431.18,
+          "end": 431.4,
+          "translation": "the"
+        },
+        {
+          "word": "sogenannten",
+          "start": 431.4,
+          "end": 432.48,
+          "translation": "so-called"
+        },
+        {
+          "word": "Sozialen",
+          "start": 432.48,
+          "end": 433.76,
+          "translation": "Social"
+        },
+        {
+          "word": "Wohn-Monitor",
+          "start": 433.76,
+          "end": 434.76,
+          "translation": "Residential monitor"
+        },
+        {
+          "word": "2026",
+          "start": 434.76,
+          "end": 436.94,
+          "translation": "2026"
+        },
+        {
+          "word": "hervor,",
+          "start": 436.94,
+          "end": 438.08,
+          "translation": "out,"
+        },
+        {
+          "word": "den",
+          "start": 438.42,
+          "end": 438.68,
+          "translation": "the"
+        },
+        {
+          "word": "das",
+          "start": 438.68,
+          "end": 439.04,
+          "translation": "the"
+        },
+        {
+          "word": "Pestel-Institut",
+          "start": 439.04,
+          "end": 440.56,
+          "translation": "Pestel Institute"
+        },
+        {
+          "word": "und",
+          "start": 440.56,
+          "end": 441.12,
+          "translation": "and"
+        },
+        {
+          "word": "das",
+          "start": 441.12,
+          "end": 441.5,
+          "translation": "the"
+        },
+        {
+          "word": "Verbändebündnis",
+          "start": 441.5,
+          "end": 442.84,
+          "translation": "Alliance of associations"
+        },
+        {
+          "word": "Soziales",
+          "start": 442.84,
+          "end": 443.8,
+          "translation": "Social affairs"
+        },
+        {
+          "word": "Wohnen",
+          "start": 443.8,
+          "end": 444.5,
+          "translation": "Living"
+        },
+        {
+          "word": "veröffentlichten.",
+          "start": 444.5,
+          "end": 445.76,
+          "translation": "published."
+        },
+        {
+          "word": "Der",
+          "start": 446.46,
+          "end": 446.84,
+          "translation": "The"
+        },
+        {
+          "word": "Mangel",
+          "start": 446.84,
+          "end": 447.2,
+          "translation": "Deficiency"
+        },
+        {
+          "word": "betrifft",
+          "start": 447.2,
+          "end": 447.8,
+          "translation": "concerns"
+        },
+        {
+          "word": "demnach",
+          "start": 447.8,
+          "end": 448.4,
+          "translation": "therefore"
+        },
+        {
+          "word": "„fast",
+          "start": 448.4,
+          "end": 449.04,
+          "translation": "\"almost"
+        },
+        {
+          "word": "ausschließlich“",
+          "start": 449.04,
+          "end": 449.9,
+          "translation": "exclusively\""
+        },
+        {
+          "word": "günstigere",
+          "start": 449.9,
+          "end": 451.06,
+          "translation": "more favorable"
+        },
+        {
+          "word": "Wohnungen",
+          "start": 451.06,
+          "end": 451.66,
+          "translation": "Apartments"
+        },
+        {
+          "word": "sowie",
+          "start": 451.66,
+          "end": 452.48,
+          "translation": "and"
+        },
+        {
+          "word": "Sozialwohnungen.",
+          "start": 452.48,
+          "end": 453.98,
+          "translation": "Social housing."
+        },
+        {
+          "word": "Vor",
+          "start": 454.61,
+          "end": 455.18,
+          "translation": "Before"
+        },
+        {
+          "word": "allem",
+          "start": 455.18,
+          "end": 455.56,
+          "translation": "all"
+        },
+        {
+          "word": "jüngere",
+          "start": 455.56,
+          "end": 456.22,
+          "translation": "younger"
+        },
+        {
+          "word": "Menschen",
+          "start": 456.22,
+          "end": 456.68,
+          "translation": "People"
+        },
+        {
+          "word": "sowie",
+          "start": 456.68,
+          "end": 457.44,
+          "translation": "and"
+        },
+        {
+          "word": "ältere",
+          "start": 457.44,
+          "end": 458.14,
+          "translation": "older"
+        },
+        {
+          "word": "treffe",
+          "start": 458.14,
+          "end": 458.92,
+          "translation": "meet"
+        },
+        {
+          "word": "die",
+          "start": 458.92,
+          "end": 459.14,
+          "translation": "the"
+        },
+        {
+          "word": "Entwicklung",
+          "start": 459.14,
+          "end": 459.64,
+          "translation": "Development"
+        },
+        {
+          "word": "besonders",
+          "start": 459.64,
+          "end": 460.42,
+          "translation": "especially"
+        },
+        {
+          "word": "hart,",
+          "start": 460.42,
+          "end": 460.96,
+          "translation": "hard,"
+        },
+        {
+          "word": "hieß",
+          "start": 461.36,
+          "end": 461.56,
+          "translation": "was called"
+        },
+        {
+          "word": "es.",
+          "start": 461.56,
+          "end": 462.0,
+          "translation": "it."
+        },
+        {
+          "word": "Der",
+          "start": 462.72,
+          "end": 463.0,
+          "translation": "The"
+        },
+        {
+          "word": "Untersuchung",
+          "start": 463.0,
+          "end": 463.76,
+          "translation": "Investigation"
+        },
+        {
+          "word": "zufolge",
+          "start": 463.76,
+          "end": 464.54,
+          "translation": "according to"
+        },
+        {
+          "word": "gleicht",
+          "start": 464.54,
+          "end": 465.52,
+          "translation": "equals"
+        },
+        {
+          "word": "der",
+          "start": 465.52,
+          "end": 465.72,
+          "translation": "the"
+        },
+        {
+          "word": "Wohnungsneubau",
+          "start": 465.72,
+          "end": 466.9,
+          "translation": "New residential construction"
+        },
+        {
+          "word": "den",
+          "start": 466.9,
+          "end": 467.32,
+          "translation": "the"
+        },
+        {
+          "word": "Bedarf",
+          "start": 467.32,
+          "end": 467.9,
+          "translation": "Demand"
+        },
+        {
+          "word": "nicht",
+          "start": 467.9,
+          "end": 468.46,
+          "translation": "not"
+        },
+        {
+          "word": "annähernd",
+          "start": 468.46,
+          "end": 469.4,
+          "translation": "approximately"
+        },
+        {
+          "word": "aus.",
+          "start": 469.4,
+          "end": 469.86,
+          "translation": "from."
+        }
+      ]
+    }
+  ]
+}
