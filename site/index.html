@@ -132,6 +132,7 @@
     // How it works popup
     var onboarding = document.getElementById('onboarding');
     var onboardingRemember = document.getElementById('onboarding-remember');
+    var rememberLabel = onboardingRemember.closest('label');
 
     function dismissOnboarding() {
       if (onboardingRemember.checked) {
@@ -145,10 +146,12 @@
     // Auto-show on first visit
     if (!localStorage.getItem('wordsync-onboarding-dismissed') &&
         !sessionStorage.getItem('wordsync-onboarding-dismissed')) {
+      rememberLabel.style.display = '';
       onboarding.classList.remove('hidden');
     }
 
     document.getElementById('how-link').addEventListener('click', function () {
+      rememberLabel.style.display = 'none';
       onboarding.classList.remove('hidden');
     });
     document.getElementById('onboarding-close').addEventListener('click', dismissOnboarding);

@@ -403,6 +403,7 @@
   function showOnboarding() {
     if (localStorage.getItem('wordsync-onboarding-dismissed')) return;
     if (sessionStorage.getItem('wordsync-onboarding-dismissed')) return;
+    onboardingRemember.closest('label').style.display = '';
     onboarding.classList.remove('hidden');
   }
 
@@ -418,6 +419,7 @@
   onboardingClose.addEventListener('click', dismissOnboarding);
   onboardingBackdrop.addEventListener('click', dismissOnboarding);
   helpBtn.addEventListener('click', function () {
+    onboardingRemember.closest('label').style.display = 'none';
     onboarding.classList.remove('hidden');
   });
 
