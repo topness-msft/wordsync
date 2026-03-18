@@ -186,10 +186,12 @@ def main():
             result = build_episode(episode["id"], api_key, tmp_dir, data_dir,
                                    whisper_model=args.model)
             if result:
+                headlines = [p["text"] for p in result["paragraphs"] if p.get("isHeadline")]
                 new_episodes.append({
                     "id": result["id"],
                     "title": result["title"],
                     "date": result["date"],
+                    "headlines": headlines,
                 })
         except Exception as e:
             print(f"  Error processing {episode['id']}: {e}")

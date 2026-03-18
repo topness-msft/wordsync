@@ -35,7 +35,7 @@ jobs:
       - name: Run build pipeline
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-        run: python build/build.py --model base --limit 5
+        run: python build/build.py --model base --force --limit 1
 
       - name: Check for new episodes
         id: check_new
@@ -138,9 +138,29 @@ jobs:
             if (!episodes.length) { console.log('No episodes to tweet'); return; }
 
             for (const ep of episodes) {
-              const message = '🇩🇪 New episode: ' + ep.title +
-                '\n\nPractice your German with word-by-word audio highlighting and tap-to-translate.' +
-                '\n\n▶️ https://wordsync.app/player.html?id=' + ep.id;
+              const link = 'https://wordsync.app/player.html?id=' + ep.id;
+              const footer = '\n\n▶️ ' + link;
+              const intro = '🇩🇪 Learn German with news from @dwnews:\n\n';
+              const maxLen = 280 - intro.length - footer.length;
+
+              // Build headline summary from episode content
+              let summary = '';
+              if (ep.headlines && ep.headlines.length) {
+                summary = ep.headlines.map(h => '• ' + h).join('\n');
+                if (summary.length > maxLen) {
+                  summary = '';
+                  for (const h of ep.headlines) {
+                    const line = '• ' + h + '\n';
+                    if (summary.length + line.length > maxLen) break;
+                    summary += line;
+                  }
+                  summary = summary.trimEnd();
+                }
+              } else {
+                summary = ep.title;
+              }
+
+              const message = intro + summary + footer;
               try {
                 const result = await client.v2.tweet(message);
                 console.log('Tweeted: ' + ep.title + ' (tweet ID: ' + result.data.id + ')');
