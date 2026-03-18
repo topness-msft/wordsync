@@ -106,11 +106,18 @@ body {
   margin-top: 0;
 }
 
+.site-logo {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+
 .site-header__row {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 var(--s5) var(--s4);
+  gap: var(--s3);
 }
 
 .site-header__row .site-title {
