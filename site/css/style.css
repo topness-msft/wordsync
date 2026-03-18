@@ -242,6 +242,28 @@ body {
   }
 }
 
+/* === Footer === */
+.site-footer {
+  text-align: center;
+  padding: var(--s4) 0 var(--s7);
+  border-top: 1px solid var(--mist);
+  font-family: var(--body);
+  font-size: 0.8rem;
+  color: var(--stone);
+}
+
+.site-footer a {
+  color: var(--stone);
+  text-decoration: underline;
+  text-decoration-color: var(--mist);
+  text-underline-offset: 2px;
+  transition: color 0.15s;
+}
+
+.site-footer a:hover {
+  color: var(--blau);
+}
+
 /* ===================== */
 /*   PLAYER PAGE         */
 /* ===================== */
