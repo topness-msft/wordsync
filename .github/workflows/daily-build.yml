@@ -2,7 +2,7 @@ name: Daily Build
 
 on:
   schedule:
-    - cron: '30 10 * * 1-6'  # 10:30 UTC Mon-Sat (no Sunday episodes)
+    - cron: '0 8 * * 1-6'  # 08:00 UTC Mon-Sat (~2-3h after DW publishes)
   workflow_dispatch:  # allow manual trigger
 
 concurrency:
