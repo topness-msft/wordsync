@@ -51,10 +51,19 @@
 
   // --- Episode loading ---
   async function loadEpisode() {
-    const id = getEpisodeId();
+    let id = getEpisodeId();
     if (!id) {
-      transcript.innerHTML = '<p class="error">No episode specified.</p>';
-      return;
+      try {
+        const idx = await fetch('data/episodes.json');
+        if (!idx.ok) throw new Error('Could not load episode list');
+        const episodes = await idx.json();
+        if (!episodes.length) throw new Error('No episodes available');
+        id = String(episodes[0].id);
+      } catch (err) {
+        transcript.innerHTML = '<p class="error">No episodes available.</p>';
+        console.error(err);
+        return;
+      }
     }
 
     try {
