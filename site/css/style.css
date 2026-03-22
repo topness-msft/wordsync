@@ -269,6 +269,13 @@ body {
 }
 
 /* Very small screens: stack card layout */
+@media (max-width: 600px) {
+  .header-twitter::after,
+  .header-twitter::before {
+    display: none;
+  }
+}
+
 @media (max-width: 360px) {
   .episode-card {
     flex-direction: column;
