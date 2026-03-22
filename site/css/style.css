@@ -274,6 +274,13 @@ body {
   .header-twitter::before {
     display: none;
   }
+  .player-twitter {
+    top: var(--s3);
+    right: var(--s4);
+  }
+  .episode-heading {
+    padding-right: var(--s8);
+  }
 }
 
 @media (max-width: 360px) {
