@@ -275,8 +275,7 @@ body {
     display: none;
   }
   .player-twitter {
-    top: var(--s3);
-    right: var(--s4);
+    display: none;
   }
   .episode-heading {
     padding-right: var(--s8);
