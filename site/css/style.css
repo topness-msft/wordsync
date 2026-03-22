@@ -74,6 +74,7 @@ body {
   padding: 0;
   margin: 0 calc(-1 * var(--s5));
   text-align: left;
+  overflow: visible;
   position: relative;
   overflow: hidden;
 }
@@ -146,6 +147,54 @@ body {
 .header-help:hover {
   color: #fff;
   border-color: rgba(255, 255, 255, 0.6);
+}
+
+.header-twitter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  flex-shrink: 0;
+  -webkit-tap-highlight-color: transparent;
+  position: relative;
+}
+.header-twitter:hover {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.6);
+}
+.header-twitter::after {
+  content: 'Follow on X';
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--gelb);
+  color: var(--ink);
+  font-size: 0.7rem;
+  font-weight: 600;
+  font-family: var(--body);
+  padding: 4px 10px;
+  border-radius: 6px;
+  white-space: nowrap;
+  pointer-events: none;
+}
+.header-twitter::before {
+  content: '';
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+  border: 4px solid transparent;
+  border-bottom-color: var(--gelb);
+  pointer-events: none;
 }
 
 /* ===================== */
@@ -278,7 +327,13 @@ body {
   margin: 0 calc(-1 * var(--s5));
   padding: 0;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
+}
+
+.player-twitter {
+  position: absolute;
+  top: var(--s5);
+  right: calc(var(--s5) + 20px);
 }
 
 /* Tricolor bar at top */
@@ -650,6 +705,27 @@ body {
 }
 
 .help-btn:hover {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.twitter-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 50%;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.twitter-btn:hover {
   color: #fff;
   border-color: rgba(255, 255, 255, 0.5);
 }
