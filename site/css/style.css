@@ -1119,6 +1119,29 @@ body.coach-mode .coach-word-wrap .word {
 .coach-cursor.coach-hold-cursor {
   animation: coach-cursor-hold 3.6s ease infinite;
 }
+
+/* Icon badges on cursor hands */
+.coach-cursor-badge {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.18);
+  pointer-events: none;
+}
+.coach-cursor-badge.badge-tap {
+  background: #fff;
+  border: 1.5px solid var(--rot);
+}
+.coach-cursor-badge.badge-hold {
+  background: #fff;
+  border: 1.5px solid var(--blau);
+}
 @keyframes coach-cursor-hold {
   0%, 12%, 72%, 100% { transform: translateX(-30%) translateY(0) scale(1); }
   22%, 62% { transform: translateX(-30%) translateY(-4px) scale(0.94); }

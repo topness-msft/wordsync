@@ -479,10 +479,11 @@
       ripple.className = 'coach-ripple';
       wrap.appendChild(ripple);
 
-      // Cursor
+      // Cursor with speaker badge
       var cursor = document.createElement('span');
       cursor.className = 'coach-cursor coach-tap-cursor';
-      cursor.innerHTML = CURSOR_SVG;
+      cursor.innerHTML = CURSOR_SVG
+        + '<span class="coach-cursor-badge badge-tap"><svg width="12" height="12" viewBox="0 0 24 24" fill="#E63946" stroke="none"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg></span>';
       wrap.appendChild(cursor);
 
       // Callout
@@ -507,10 +508,11 @@
       ring.className = 'coach-hold-ring';
       wrap.appendChild(ring);
 
-      // Cursor
+      // Cursor with translate badge
       var cursor2 = document.createElement('span');
       cursor2.className = 'coach-cursor coach-hold-cursor';
-      cursor2.innerHTML = CURSOR_SVG;
+      cursor2.innerHTML = CURSOR_SVG
+        + '<span class="coach-cursor-badge badge-hold"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#1D3557" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8l6 6"/><path d="M4 14l6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="M14 14l2 4 2-4"/><path d="M14.5 18h3.5"/></svg></span>';
       wrap.appendChild(cursor2);
 
       // Callout with inline translation preview
