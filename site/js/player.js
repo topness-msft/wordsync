@@ -419,6 +419,7 @@
     var allWords = transcript.querySelectorAll('.word[data-translation]');
     if (allWords.length < 6) return null;
 
+    var isMobile = window.innerWidth <= 900;
     var tapWord = null;
     var holdWord = null;
     var tapParagraph = null;
@@ -434,20 +435,20 @@
         tapWord = w;
         tapParagraph = para;
       }
-      // For hold word: must be in different paragraph AND deep enough in that
-      // translation should be illustrative (not just "The", "Go", etc.)
-      if (count >= 10 && !holdWord && para !== tapParagraph) {
-        var siblings = para.querySelectorAll('.word');
-        var posInPara = Array.prototype.indexOf.call(siblings, w);
-        var trans = w.dataset.translation || '';
-        if (posInPara >= 3 && trans.length >= 4) {
-          holdWord = w;
-          break;
+      // Hold word: on mobile stay in SAME paragraph; on desktop use DIFFERENT paragraph
+      if (count >= 8 && !holdWord && tapWord && w !== tapWord) {
+        var samePara = para === tapParagraph;
+        if (isMobile ? samePara : !samePara) {
+          var trans = w.dataset.translation || '';
+          if (trans.length >= 4) {
+            holdWord = w;
+            break;
+          }
         }
       }
     }
 
-    // Fallback: relax the position requirement
+    // Fallback: relax constraints
     if (tapWord && !holdWord) {
       count = 0;
       for (var j = 0; j < allWords.length; j++) {
@@ -457,8 +458,8 @@
         if (para2 && para2.classList.contains('headline')) continue;
         if (w2.textContent.length < 4) continue;
         count++;
-        if (count >= 6 && para2 !== tapParagraph) { holdWord = w2; break; }
-        if (count >= 10) { holdWord = w2; break; }
+        var trans2 = w2.dataset.translation || '';
+        if (count >= 6 && trans2.length >= 4) { holdWord = w2; break; }
       }
     }
 
