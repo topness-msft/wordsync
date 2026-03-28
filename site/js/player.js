@@ -420,46 +420,44 @@
     if (allWords.length < 6) return null;
 
     var isMobile = window.innerWidth <= 900;
-    var tapWord = null;
     var holdWord = null;
-    var tapParagraph = null;
+    var tapWord = null;
+    var holdParagraph = null;
     var count = 0;
 
+    // Hold (translation) word first — it's the primary use case
     for (var i = 0; i < allWords.length; i++) {
       var w = allWords[i];
       var para = w.closest('.paragraph');
       if (para && para.classList.contains('headline')) continue;
       if (w.textContent.length < 4) continue;
+      var trans = w.dataset.translation || '';
       count++;
-      if (count === 3 && !tapWord) {
-        tapWord = w;
-        tapParagraph = para;
+      if (count === 3 && !holdWord && trans.length >= 4) {
+        holdWord = w;
+        holdParagraph = para;
       }
-      // Hold word: on mobile stay in SAME paragraph; on desktop use DIFFERENT paragraph
-      if (count >= 8 && !holdWord && tapWord && w !== tapWord) {
-        var samePara = para === tapParagraph;
+      // Tap word: on mobile stay in SAME paragraph; on desktop use DIFFERENT paragraph
+      if (count >= 8 && !tapWord && holdWord && w !== holdWord) {
+        var samePara = para === holdParagraph;
         if (isMobile ? samePara : !samePara) {
-          var trans = w.dataset.translation || '';
-          if (trans.length >= 4) {
-            holdWord = w;
-            break;
-          }
+          tapWord = w;
+          break;
         }
       }
     }
 
     // Fallback: relax constraints
-    if (tapWord && !holdWord) {
+    if (holdWord && !tapWord) {
       count = 0;
       for (var j = 0; j < allWords.length; j++) {
         var w2 = allWords[j];
-        if (w2 === tapWord) continue;
+        if (w2 === holdWord) continue;
         var para2 = w2.closest('.paragraph');
         if (para2 && para2.classList.contains('headline')) continue;
         if (w2.textContent.length < 4) continue;
         count++;
-        var trans2 = w2.dataset.translation || '';
-        if (count >= 6 && trans2.length >= 4) { holdWord = w2; break; }
+        if (count >= 6) { tapWord = w2; break; }
       }
     }
 
