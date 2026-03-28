@@ -275,9 +275,10 @@
 
   // --- Word interaction: tap to seek, hold to translate ---
   function wordPressStart(wordEl, x, y) {
-    // Dismiss coach marks on first real word interaction
+    // Dismiss coach marks when user interacts with a non-coached word (they're exploring)
     if (document.body.classList.contains('coach-mode')) {
-      dismissCoachMarks();
+      var isCoached = wordEl.closest('.coach-word-wrap');
+      if (!isCoached) dismissCoachMarks();
     }
     holdTarget = wordEl;
     pressCancelled = false;
@@ -619,7 +620,7 @@
   }
 
   function dismissCoachMarks() {
-    sessionStorage.setItem('wordsync-onboarding-dismissed', '1');
+    localStorage.setItem('wordsync-onboarding-dismissed', '1');
 
     if (coachAutoTimer) { clearTimeout(coachAutoTimer); coachAutoTimer = null; }
     if (coachObserver) { coachObserver.disconnect(); coachObserver = null; }
