@@ -1255,9 +1255,9 @@ body.coach-mode .coach-word-wrap .word {
   display: block;
 }
 
-/* Tap callout — above-right of word */
+/* Tap callout — below-right of word */
 .coach-callout.callout-tap {
-  top: -68px;
+  top: calc(100% + 16px);
   left: calc(100% + 24px);
 }
 /* Hold callout — above-right of word */
@@ -1273,10 +1273,10 @@ body.coach-mode .coach-word-wrap .word {
   z-index: 14;
 }
 .coach-connector.conn-tap {
-  top: -6px;
+  bottom: -6px;
   left: calc(100% + 4px);
   width: 24px;
-  height: 64px;
+  height: 24px;
 }
 .coach-connector.conn-hold {
   bottom: calc(100% + 4px);

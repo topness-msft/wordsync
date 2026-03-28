@@ -581,11 +581,10 @@
     var tapWrap = transcript.querySelector('.coach-tap');
     var holdWrap = transcript.querySelector('.coach-hold');
     if (tapWrap && holdWrap) {
-      var tapRect = tapWrap.getBoundingClientRect();
       var holdRect = holdWrap.getBoundingClientRect();
-      var midY = (tapRect.top + holdRect.bottom) / 2;
-      var scrollBy = midY - window.innerHeight / 2;
-      window.scrollBy({ top: scrollBy, behavior: 'smooth' });
+      // Scroll so hold word is ~35% from top (leaves room for callout above)
+      var target = holdRect.top - window.innerHeight * 0.35;
+      window.scrollBy({ top: target, behavior: 'smooth' });
     } else if (tapWrap) {
       tapWrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
