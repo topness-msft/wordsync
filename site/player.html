@@ -26,37 +26,6 @@
   <link rel="icon" type="image/png" href="logo.png">
 </head>
 <body class="player-page">
-  <div class="onboarding hidden" id="onboarding">
-    <div class="onboarding__backdrop" id="onboarding-backdrop"></div>
-    <div class="onboarding__dialog">
-      <div class="onboarding__bars"><span></span><span></span><span></span></div>
-      <div class="onboarding__body">
-        <h2 class="onboarding__title">Welcome to WordSync</h2>
-        <p class="onboarding__desc">Follow along with slowly spoken German news — word by word.</p>
-        <div class="onboarding__demos">
-          <div class="onboarding__demo">
-            <div class="demo-area demo-tap">
-              <span class="demo-word">Welt</span>
-              <span class="demo-ring"></span>
-            </div>
-            <p class="demo-label"><strong>Tap</strong> a word to skip playback to there</p>
-          </div>
-          <div class="onboarding__demo">
-            <div class="demo-area demo-hold">
-              <span class="demo-word">Heute</span>
-              <span class="demo-ring"></span>
-              <span class="demo-translation">Today</span>
-            </div>
-            <p class="demo-label"><strong>Hold</strong> a word to see its translation</p>
-          </div>
-        </div>
-        <label class="onboarding__remember">
-          <input type="checkbox" id="onboarding-remember"> Don't show again
-        </label>
-        <button class="onboarding__btn" id="onboarding-close">Got it</button>
-      </div>
-    </div>
-  </div>
 
   <div class="container">
     <header class="player-header">
@@ -80,6 +49,18 @@
         <button class="popup__close" aria-label="Close"></button>
       </div>
     </div>
+  </div>
+
+  <div class="coach-bar hidden" id="coach-bar">
+    <div class="coach-bar-dots">
+      <span class="coach-bar-dot on"></span>
+      <span class="coach-bar-dot"></span>
+    </div>
+    <span class="coach-bar-label">Tap &amp; Hold — two ways to interact</span>
+    <label class="coach-bar-remember" id="coach-remember-label">
+      <input type="checkbox" id="coach-remember"> Don't show again
+    </label>
+    <button class="coach-bar-btn" id="coach-dismiss">Got it</button>
   </div>
 
   <div class="player-bar" id="player-bar">

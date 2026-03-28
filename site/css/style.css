@@ -1002,3 +1002,337 @@ body {
 .onboarding__btn:active {
   transform: scale(0.98);
 }
+
+/* === Inline Coach Marks (player page) === */
+
+/* Dim all words when coach mode is active */
+body.coach-mode .word {
+  opacity: 0.25;
+  transition: opacity 0.4s;
+}
+body.coach-mode .paragraph.headline {
+  opacity: 0.25;
+  transition: opacity 0.4s;
+}
+body.coach-mode .coach-word-wrap .word {
+  opacity: 1;
+}
+
+/* Wrapper around a coached word — keeps inline flow */
+.coach-word-wrap {
+  position: relative;
+  display: inline-block;
+}
+
+/* --- TAP highlight --- */
+.coach-word-wrap.coach-tap .word {
+  color: var(--blau);
+  font-weight: 600;
+  padding: 3px 5px;
+  border-radius: 6px;
+  background: rgba(230, 57, 70, 0.08);
+  outline: 2.5px solid var(--rot);
+  outline-offset: 2px;
+  animation: coach-tap-outline 2.8s ease-in-out infinite;
+}
+.coach-word-wrap.coach-tap .word::after {
+  content: '';
+  position: absolute;
+  left: 5px; right: 5px; bottom: 3px;
+  height: 4px;
+  background: var(--rot);
+  border-radius: 1px;
+  animation: pulse-bar 1.2s ease-in-out infinite;
+}
+@keyframes coach-tap-outline {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(230,57,70,0); }
+  50% { box-shadow: 0 0 0 8px rgba(230,57,70,0.06); }
+}
+
+/* Tap ripple */
+.coach-ripple {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  background: rgba(230, 57, 70, 0.18);
+  transform: translate(-50%, -50%) scale(0);
+  z-index: 3;
+  pointer-events: none;
+  animation: coach-ripple 2.8s ease infinite;
+}
+@keyframes coach-ripple {
+  0%, 45% { transform: translate(-50%, -50%) scale(0); opacity: 0.6; }
+  55% { transform: translate(-50%, -50%) scale(2.2); opacity: 0; }
+  100% { opacity: 0; }
+}
+
+/* --- HOLD highlight --- */
+.coach-word-wrap.coach-hold .word {
+  color: var(--blau);
+  font-weight: 600;
+  padding: 3px 5px;
+  border-radius: 6px;
+  background: rgba(29, 53, 87, 0.07);
+  outline: 2.5px solid var(--blau);
+  outline-offset: 2px;
+}
+
+/* Hold expanding ring */
+.coach-hold-ring {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 50px; height: 50px;
+  border-radius: 50%;
+  border: 2.5px solid rgba(29, 53, 87, 0.35);
+  transform: translate(-50%, -50%) scale(0);
+  z-index: 3;
+  pointer-events: none;
+  animation: coach-hold-ring 3.6s ease infinite;
+}
+@keyframes coach-hold-ring {
+  0%, 15% { transform: translate(-50%, -50%) scale(0); opacity: 0; }
+  28% { transform: translate(-50%, -50%) scale(1); opacity: 0.7; }
+  62% { transform: translate(-50%, -50%) scale(1); opacity: 0.7; }
+  75% { transform: translate(-50%, -50%) scale(1.4); opacity: 0; }
+  100% { opacity: 0; }
+}
+
+/* --- Animated cursor (hand) --- */
+.coach-cursor {
+  position: absolute;
+  z-index: 12;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-30%);
+  pointer-events: none;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
+}
+.coach-cursor.coach-tap-cursor {
+  animation: coach-cursor-tap 2.8s ease infinite;
+}
+@keyframes coach-cursor-tap {
+  0%, 42%, 58%, 100% { transform: translateX(-30%) translateY(0); }
+  48% { transform: translateX(-30%) translateY(-8px); }
+  53% { transform: translateX(-30%) translateY(0); }
+}
+.coach-cursor.coach-hold-cursor {
+  animation: coach-cursor-hold 3.6s ease infinite;
+}
+@keyframes coach-cursor-hold {
+  0%, 12%, 72%, 100% { transform: translateX(-30%) translateY(0) scale(1); }
+  22%, 62% { transform: translateX(-30%) translateY(-4px) scale(0.94); }
+}
+
+/* --- Translation card (above hold word) --- */
+/* --- Inline translation preview (inside hold callout) --- */
+.coach-callout-preview {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #eee;
+}
+.coach-preview-de {
+  font-family: var(--body);
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--blau);
+}
+.coach-preview-arrow {
+  font-family: var(--body);
+  font-size: 0.85rem;
+  color: #bbb;
+}
+.coach-preview-en {
+  font-family: var(--body);
+  font-weight: 400;
+  font-size: 0.92rem;
+  color: var(--stone);
+}
+
+/* --- Callout labels --- */
+.coach-callout {
+  position: absolute;
+  z-index: 15;
+  pointer-events: none;
+}
+.coach-callout-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 14px 18px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.09), 0 1px 3px rgba(0,0,0,0.05);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 12px;
+  width: 230px;
+}
+.callout-hold .coach-callout-card {
+  width: 250px;
+}
+.coach-callout-preview {
+  width: 100%;
+}
+.coach-callout-icon {
+  flex-shrink: 0;
+  width: 36px; height: 36px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.coach-callout-icon.tap-ico  { background: rgba(230, 57, 70, 0.10); color: var(--rot); }
+.coach-callout-icon.hold-ico { background: rgba(29, 53, 87, 0.08); color: var(--blau); }
+.coach-callout-text strong {
+  display: block;
+  font-family: var(--body);
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--ink);
+  margin-bottom: 2px;
+}
+.coach-callout-text span {
+  font-family: var(--body);
+  font-size: 0.82rem;
+  color: var(--stone);
+  line-height: 1.4;
+  display: block;
+}
+
+/* Tap callout — right of word */
+.coach-callout.callout-tap {
+  top: -68px;
+  left: calc(100% + 24px);
+}
+/* Hold callout — right of word, below */
+.coach-callout.callout-hold {
+  top: 48px;
+  left: calc(100% + 24px);
+}
+
+/* Dashed connector from callout to word */
+.coach-connector {
+  position: absolute;
+  pointer-events: none;
+  z-index: 14;
+}
+.coach-connector.conn-tap {
+  top: -6px;
+  left: calc(100% + 4px);
+  width: 24px;
+  height: 64px;
+}
+.coach-connector.conn-hold {
+  top: 32px;
+  left: calc(100% + 4px);
+  width: 24px;
+  height: 24px;
+}
+
+/* --- Coach step bar --- */
+.coach-bar {
+  position: fixed;
+  bottom: 64px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 201;
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 20px;
+  box-shadow: 0 6px 32px rgba(0,0,0,0.12), 0 1px 4px rgba(0,0,0,0.06);
+  white-space: nowrap;
+  transition: opacity 0.3s, transform 0.3s;
+}
+.coach-bar.hidden {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-50%) translateY(20px);
+}
+.coach-bar-dots {
+  display: flex;
+  gap: 6px;
+}
+.coach-bar-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--mist);
+  display: inline-block;
+}
+.coach-bar-dot.on {
+  background: var(--blau);
+  width: 20px;
+  border-radius: 4px;
+}
+.coach-bar-label {
+  font-family: var(--body);
+  font-size: 0.82rem;
+  color: var(--stone);
+}
+.coach-bar-remember {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--body);
+  font-size: 0.78rem;
+  color: var(--stone);
+  cursor: pointer;
+  margin-left: var(--s2);
+}
+.coach-bar-remember input {
+  accent-color: var(--blau);
+  width: 14px; height: 14px;
+}
+.coach-bar-btn {
+  font-family: var(--display);
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  color: #fff;
+  background: var(--blau);
+  border: none;
+  border-radius: 8px;
+  padding: 8px 20px;
+  cursor: pointer;
+  margin-left: var(--s2);
+  transition: background 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+.coach-bar-btn:hover { background: #15283f; }
+.coach-bar-btn:active { transform: scale(0.98); }
+
+/* --- Responsive: stack callouts below on narrow screens --- */
+@media (max-width: 900px) {
+  .coach-callout.callout-tap,
+  .coach-callout.callout-hold {
+    position: fixed;
+    top: auto;
+    bottom: 140px;
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+  }
+  .coach-callout-card {
+    width: auto;
+    min-width: 240px;
+    max-width: calc(100vw - 48px);
+    padding: 12px 14px;
+    gap: 10px;
+  }
+  .coach-callout-icon { width: 30px; height: 30px; }
+  .coach-callout-text strong { font-size: 0.88rem; }
+  .coach-callout-text span { font-size: 0.78rem; }
+  .coach-connector { display: none; }
+  .coach-bar {
+    padding: 8px 12px;
+    gap: var(--s2);
+    max-width: calc(100% - 24px);
+    white-space: normal;
+  }
+  .coach-bar-dots { display: none; }
+  .coach-bar-label { display: none; }
+  .coach-bar-remember { margin-left: 0; font-size: 0.75rem; }
+}

@@ -17,10 +17,10 @@
   const popupTranslation = popup.querySelector('.popup-translation');
   const popupClose = popup.querySelector('.popup__close');
   const skipBtn = document.getElementById('skip-btn');
-  const onboarding = document.getElementById('onboarding');
-  const onboardingClose = document.getElementById('onboarding-close');
-  const onboardingRemember = document.getElementById('onboarding-remember');
-  const onboardingBackdrop = document.getElementById('onboarding-backdrop');
+  const coachBar = document.getElementById('coach-bar');
+  const coachDismissBtn = document.getElementById('coach-dismiss');
+  const coachRemember = document.getElementById('coach-remember');
+  const coachRememberLabel = document.getElementById('coach-remember-label');
   const helpBtn = document.getElementById('help-btn');
 
   // --- State ---
@@ -79,6 +79,7 @@
 
       renderTranscript(data.paragraphs);
       buildWordIndex();
+      showCoachMarks();
     } catch (err) {
       transcript.innerHTML = '<p class="error">Could not load episode.</p>';
       console.error(err);
@@ -408,33 +409,242 @@
     updateHighlight();
   });
 
-  // --- Onboarding ---
-  function showOnboarding() {
-    if (localStorage.getItem('wordsync-onboarding-dismissed')) return;
-    if (sessionStorage.getItem('wordsync-onboarding-dismissed')) return;
-    onboardingRemember.closest('label').style.display = '';
-    onboarding.classList.remove('hidden');
+  // --- Inline coach marks ---
+  var CURSOR_SVG = '<svg width="24" height="30" viewBox="0 0 24 30" fill="none">'
+    + '<path d="M8.5 9V4a2 2 0 1 1 4 0v5m0 0V3a2 2 0 1 1 4 0v6m0 0V4.5a2 2 0 1 1 4 0V14'
+    + 'c0 5-3.5 8.5-8 8.5h-1c-4 0-7-3.2-7-7.2V12a2 2 0 1 1 4 0V9" stroke="#1A1A1A"'
+    + ' stroke-width="1.4" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  function pickCoachWords() {
+    var allWords = transcript.querySelectorAll('.word[data-translation]');
+    if (allWords.length < 6) return null;
+
+    var tapWord = null;
+    var holdWord = null;
+    var tapParagraph = null;
+    var count = 0;
+
+    for (var i = 0; i < allWords.length; i++) {
+      var w = allWords[i];
+      var para = w.closest('.paragraph');
+      if (para && para.classList.contains('headline')) continue;
+      if (w.textContent.length < 4) continue;
+      count++;
+      if (count === 3 && !tapWord) {
+        tapWord = w;
+        tapParagraph = para;
+      }
+      // For hold word: must be in different paragraph AND deep enough in that
+      // translation should be illustrative (not just "The", "Go", etc.)
+      if (count >= 10 && !holdWord && para !== tapParagraph) {
+        var siblings = para.querySelectorAll('.word');
+        var posInPara = Array.prototype.indexOf.call(siblings, w);
+        var trans = w.dataset.translation || '';
+        if (posInPara >= 3 && trans.length >= 4) {
+          holdWord = w;
+          break;
+        }
+      }
+    }
+
+    // Fallback: relax the position requirement
+    if (tapWord && !holdWord) {
+      count = 0;
+      for (var j = 0; j < allWords.length; j++) {
+        var w2 = allWords[j];
+        if (w2 === tapWord) continue;
+        var para2 = w2.closest('.paragraph');
+        if (para2 && para2.classList.contains('headline')) continue;
+        if (w2.textContent.length < 4) continue;
+        count++;
+        if (count >= 6 && para2 !== tapParagraph) { holdWord = w2; break; }
+        if (count >= 10) { holdWord = w2; break; }
+      }
+    }
+
+    if (!tapWord || !holdWord) return null;
+    return { tap: tapWord, hold: holdWord };
   }
 
-  function dismissOnboarding() {
-    if (onboardingRemember.checked) {
+  function wrapWordWithCoach(wordEl, type) {
+    var wrap = document.createElement('span');
+    wrap.className = 'coach-word-wrap coach-' + type;
+    wordEl.parentNode.insertBefore(wrap, wordEl);
+    wrap.appendChild(wordEl);
+
+    if (type === 'tap') {
+      // Ripple
+      var ripple = document.createElement('span');
+      ripple.className = 'coach-ripple';
+      wrap.appendChild(ripple);
+
+      // Cursor
+      var cursor = document.createElement('span');
+      cursor.className = 'coach-cursor coach-tap-cursor';
+      cursor.innerHTML = CURSOR_SVG;
+      wrap.appendChild(cursor);
+
+      // Callout
+      var callout = document.createElement('span');
+      callout.className = 'coach-callout callout-tap';
+      callout.innerHTML = '<span class="coach-callout-card">'
+        + '<span class="coach-callout-icon tap-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M12 19V5m0 0l-4 4m4-4l4 4"/></svg></span>'
+        + '<span class="coach-callout-text"><strong>Tap any word</strong><span>Audio jumps to that word instantly</span></span>'
+        + '</span>';
+      wrap.appendChild(callout);
+
+      // Connector
+      var conn = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      conn.setAttribute('class', 'coach-connector conn-tap');
+      conn.setAttribute('viewBox', '0 0 24 64');
+      conn.setAttribute('fill', 'none');
+      conn.innerHTML = '<path d="M2 62 Q2 30 22 18" stroke="#E63946" stroke-width="2" stroke-dasharray="4 3" opacity="0.45"/>';
+      wrap.appendChild(conn);
+    } else {
+      // Hold ring
+      var ring = document.createElement('span');
+      ring.className = 'coach-hold-ring';
+      wrap.appendChild(ring);
+
+      // Cursor
+      var cursor2 = document.createElement('span');
+      cursor2.className = 'coach-cursor coach-hold-cursor';
+      cursor2.innerHTML = CURSOR_SVG;
+      wrap.appendChild(cursor2);
+
+      // Callout with inline translation preview
+      var german = wordEl.textContent;
+      var english = wordEl.dataset.translation || '…';
+      var callout2 = document.createElement('span');
+      callout2.className = 'coach-callout callout-hold';
+      callout2.innerHTML = '<span class="coach-callout-card">'
+        + '<span class="coach-callout-icon hold-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3m0 14v3m10-10h-3M5 12H2"/></svg></span>'
+        + '<span class="coach-callout-text"><strong>Hold for translation</strong><span>Press &amp; hold — English meaning appears</span></span>'
+        + '<span class="coach-callout-preview"><span class="coach-preview-de">' + german + '</span><span class="coach-preview-arrow">→</span><span class="coach-preview-en">' + english + '</span></span>'
+        + '</span>';
+      wrap.appendChild(callout2);
+
+      // Connector
+      var conn2 = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+      conn2.setAttribute('class', 'coach-connector conn-hold');
+      conn2.setAttribute('viewBox', '0 0 24 24');
+      conn2.setAttribute('fill', 'none');
+      conn2.innerHTML = '<path d="M2 2 Q2 18 22 22" stroke="#1D3557" stroke-width="2" stroke-dasharray="4 3" opacity="0.45"/>';
+      wrap.appendChild(conn2);
+    }
+
+    return wrap;
+  }
+
+  var coachObserver = null;
+
+  function showCoachMarks(force) {
+    if (!force) {
+      if (localStorage.getItem('wordsync-onboarding-dismissed')) return;
+      if (sessionStorage.getItem('wordsync-onboarding-dismissed')) return;
+    }
+
+    var targets = pickCoachWords();
+    if (!targets) return;
+
+    wrapWordWithCoach(targets.tap, 'tap');
+    wrapWordWithCoach(targets.hold, 'hold');
+
+    document.body.classList.add('coach-mode');
+
+    if (force) {
+      coachRememberLabel.style.display = 'none';
+    } else {
+      coachRememberLabel.style.display = '';
+    }
+    coachRemember.checked = false;
+    coachBar.classList.remove('hidden');
+
+    // Scroll tap word into view
+    var tapWrap = transcript.querySelector('.coach-tap');
+    if (tapWrap) tapWrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+    // On mobile, use IntersectionObserver to show only the callout for the visible word
+    setupCoachObserver();
+  }
+
+  function setupCoachObserver() {
+    if (coachObserver) { coachObserver.disconnect(); coachObserver = null; }
+    var tapWrap = transcript.querySelector('.coach-tap');
+    var holdWrap = transcript.querySelector('.coach-hold');
+    if (!tapWrap || !holdWrap) return;
+
+    var tapCallout = tapWrap.querySelector('.coach-callout');
+    var holdCallout = holdWrap.querySelector('.coach-callout');
+    if (!tapCallout || !holdCallout) return;
+
+    var tapVisible = false, holdVisible = false;
+
+    function updateCallouts() {
+      // On wide screens both show (they're absolutely positioned, no overlap)
+      if (window.innerWidth > 900) {
+        tapCallout.style.display = '';
+        holdCallout.style.display = '';
+        return;
+      }
+      // On mobile, show whichever word is in view; prefer hold if both visible
+      if (holdVisible) {
+        tapCallout.style.display = 'none';
+        holdCallout.style.display = '';
+      } else {
+        tapCallout.style.display = '';
+        holdCallout.style.display = 'none';
+      }
+    }
+
+    coachObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.target === tapWrap) tapVisible = entry.isIntersecting;
+        if (entry.target === holdWrap) holdVisible = entry.isIntersecting;
+      });
+      updateCallouts();
+    }, { threshold: 0.5 });
+
+    coachObserver.observe(tapWrap);
+    coachObserver.observe(holdWrap);
+    updateCallouts();
+  }
+
+  function dismissCoachMarks() {
+    if (coachRemember.checked) {
       localStorage.setItem('wordsync-onboarding-dismissed', '1');
     } else {
       sessionStorage.setItem('wordsync-onboarding-dismissed', '1');
     }
-    onboarding.classList.add('hidden');
+
+    if (coachObserver) { coachObserver.disconnect(); coachObserver = null; }
+
+    document.body.classList.remove('coach-mode');
+    coachBar.classList.add('hidden');
+
+    // Unwrap coached words back into their original position
+    var wraps = transcript.querySelectorAll('.coach-word-wrap');
+    for (var i = 0; i < wraps.length; i++) {
+      var wrap = wraps[i];
+      var word = wrap.querySelector('.word');
+      if (word) {
+        wrap.parentNode.insertBefore(word, wrap);
+      }
+      wrap.remove();
+    }
   }
 
-  onboardingClose.addEventListener('click', dismissOnboarding);
-  onboardingBackdrop.addEventListener('click', dismissOnboarding);
+  coachDismissBtn.addEventListener('click', dismissCoachMarks);
   helpBtn.addEventListener('click', function () {
-    onboardingRemember.closest('label').style.display = 'none';
-    onboarding.classList.remove('hidden');
+    // If already in coach mode, dismiss first to reset
+    if (document.body.classList.contains('coach-mode')) {
+      dismissCoachMarks();
+    }
+    showCoachMarks(true);
   });
 
   // --- Init ---
   document.addEventListener('DOMContentLoaded', function () {
     loadEpisode();
-    showOnboarding();
   });
 })();
