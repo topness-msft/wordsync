@@ -563,9 +563,18 @@
     coachRemember.checked = false;
     coachBar.classList.remove('hidden');
 
-    // Scroll tap word into view
+    // Scroll so both coach words are visible
     var tapWrap = transcript.querySelector('.coach-tap');
-    if (tapWrap) tapWrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    var holdWrap = transcript.querySelector('.coach-hold');
+    if (tapWrap && holdWrap) {
+      var tapRect = tapWrap.getBoundingClientRect();
+      var holdRect = holdWrap.getBoundingClientRect();
+      var midY = (tapRect.top + holdRect.bottom) / 2;
+      var scrollBy = midY - window.innerHeight / 2;
+      window.scrollBy({ top: scrollBy, behavior: 'smooth' });
+    } else if (tapWrap) {
+      tapWrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
 
     // On mobile, use IntersectionObserver to show only the callout for the visible word
     setupCoachObserver();
