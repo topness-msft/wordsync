@@ -17,10 +17,6 @@
   const popupTranslation = popup.querySelector('.popup-translation');
   const popupClose = popup.querySelector('.popup__close');
   const skipBtn = document.getElementById('skip-btn');
-  const coachBar = document.getElementById('coach-bar');
-  const coachDismissBtn = document.getElementById('coach-dismiss');
-  const coachRemember = document.getElementById('coach-remember');
-  const coachRememberLabel = document.getElementById('coach-remember-label');
   const helpBtn = document.getElementById('help-btn');
 
   // --- State ---
@@ -279,6 +275,10 @@
 
   // --- Word interaction: tap to seek, hold to translate ---
   function wordPressStart(wordEl, x, y) {
+    // Dismiss coach marks on first real word interaction
+    if (document.body.classList.contains('coach-mode')) {
+      dismissCoachMarks();
+    }
     holdTarget = wordEl;
     pressCancelled = false;
     isHolding = false;
@@ -538,6 +538,7 @@
   }
 
   var coachObserver = null;
+  var coachAutoTimer = null;
 
   function showCoachMarks(force) {
     if (!force) {
@@ -553,13 +554,10 @@
 
     document.body.classList.add('coach-mode');
 
-    if (force) {
-      coachRememberLabel.style.display = 'none';
-    } else {
-      coachRememberLabel.style.display = '';
-    }
-    coachRemember.checked = false;
-    coachBar.classList.remove('hidden');
+    // Auto-dismiss after 12 seconds
+    coachAutoTimer = setTimeout(function () {
+      if (document.body.classList.contains('coach-mode')) dismissCoachMarks();
+    }, 12000);
 
     // Scroll so both coach words are visible
     var tapWrap = transcript.querySelector('.coach-tap');
@@ -621,16 +619,12 @@
   }
 
   function dismissCoachMarks() {
-    if (coachRemember.checked) {
-      localStorage.setItem('wordsync-onboarding-dismissed', '1');
-    } else {
-      sessionStorage.setItem('wordsync-onboarding-dismissed', '1');
-    }
+    sessionStorage.setItem('wordsync-onboarding-dismissed', '1');
 
+    if (coachAutoTimer) { clearTimeout(coachAutoTimer); coachAutoTimer = null; }
     if (coachObserver) { coachObserver.disconnect(); coachObserver = null; }
 
     document.body.classList.remove('coach-mode');
-    coachBar.classList.add('hidden');
 
     // Unwrap coached words back into their original position
     var wraps = transcript.querySelectorAll('.coach-word-wrap');
@@ -644,9 +638,7 @@
     }
   }
 
-  coachDismissBtn.addEventListener('click', dismissCoachMarks);
   helpBtn.addEventListener('click', function () {
-    // If already in coach mode, dismiss first to reset
     if (document.body.classList.contains('coach-mode')) {
       dismissCoachMarks();
     }
