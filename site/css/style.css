@@ -1023,6 +1023,37 @@ body.coach-mode .coach-word-wrap .word {
   position: relative;
   display: inline-block;
 }
+/* Coach overlays hidden until revealed */
+.coach-word-wrap .coach-cursor,
+.coach-word-wrap .coach-callout,
+.coach-word-wrap .coach-connector,
+.coach-word-wrap .coach-ripple,
+.coach-word-wrap .coach-hold-ring,
+.coach-word-wrap .coach-cursor-badge {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.coach-word-wrap.coach-visible .coach-cursor,
+.coach-word-wrap.coach-visible .coach-callout,
+.coach-word-wrap.coach-visible .coach-connector,
+.coach-word-wrap.coach-visible .coach-ripple,
+.coach-word-wrap.coach-visible .coach-hold-ring,
+.coach-word-wrap.coach-visible .coach-cursor-badge {
+  opacity: 1;
+}
+/* Word highlight also fades in */
+.coach-word-wrap.coach-tap .word,
+.coach-word-wrap.coach-hold .word {
+  transition: box-shadow 0.5s ease, outline 0.5s ease;
+}
+.coach-word-wrap.coach-tap:not(.coach-visible) .word {
+  box-shadow: none !important;
+  outline: none !important;
+}
+.coach-word-wrap.coach-hold:not(.coach-visible) .word {
+  box-shadow: none !important;
+  outline: none !important;
+}
 
 /* --- TAP highlight --- */
 .coach-word-wrap.coach-tap .word {
@@ -1333,10 +1364,15 @@ body.coach-mode .coach-word-wrap .word {
   .coach-callout.callout-hold {
     position: fixed;
     top: auto;
-    bottom: 140px;
     left: 50%;
     right: auto;
     transform: translateX(-50%);
+  }
+  .coach-callout.callout-hold {
+    bottom: 80px;
+  }
+  .coach-callout.callout-tap {
+    bottom: 280px;
   }
   .coach-callout-card {
     width: auto;

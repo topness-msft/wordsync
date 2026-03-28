@@ -555,6 +555,21 @@
 
     document.body.classList.add('coach-mode');
 
+    // Progressive reveal on first load; simultaneous on help (?)
+    var holdWrap = transcript.querySelector('.coach-hold');
+    var tapWrap = transcript.querySelector('.coach-tap');
+    if (force) {
+      // Both appear at once
+      if (holdWrap) holdWrap.classList.add('coach-visible');
+      if (tapWrap) tapWrap.classList.add('coach-visible');
+    } else {
+      // Hold (translation) first, then tap after a delay
+      if (holdWrap) holdWrap.classList.add('coach-visible');
+      setTimeout(function () {
+        if (tapWrap) tapWrap.classList.add('coach-visible');
+      }, 1400);
+    }
+
     // Auto-dismiss after 12 seconds
     coachAutoTimer = setTimeout(function () {
       if (document.body.classList.contains('coach-mode')) dismissCoachMarks();
@@ -596,8 +611,11 @@
         holdCallout.style.display = '';
         return;
       }
-      // On mobile, show whichever word is in view; prefer hold if both visible
-      if (holdVisible) {
+      // On mobile, show both when both visible; otherwise show whichever is in view
+      if (tapVisible && holdVisible) {
+        tapCallout.style.display = '';
+        holdCallout.style.display = '';
+      } else if (holdVisible) {
         tapCallout.style.display = 'none';
         holdCallout.style.display = '';
       } else {
