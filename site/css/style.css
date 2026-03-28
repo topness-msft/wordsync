@@ -1201,14 +1201,14 @@ body.coach-mode .coach-word-wrap .word {
   display: block;
 }
 
-/* Tap callout — right of word */
+/* Tap callout — above-right of word */
 .coach-callout.callout-tap {
   top: -68px;
   left: calc(100% + 24px);
 }
-/* Hold callout — right of word, below */
+/* Hold callout — above-right of word */
 .coach-callout.callout-hold {
-  top: 48px;
+  bottom: calc(100% + 12px);
   left: calc(100% + 24px);
 }
 
@@ -1225,7 +1225,7 @@ body.coach-mode .coach-word-wrap .word {
   height: 64px;
 }
 .coach-connector.conn-hold {
-  top: 32px;
+  bottom: calc(100% + 4px);
   left: calc(100% + 4px);
   width: 24px;
   height: 24px;
