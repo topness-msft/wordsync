@@ -75,7 +75,13 @@
 
       renderTranscript(data.paragraphs);
       buildWordIndex();
-      showCoachMarks();
+      // ?coach=1 overrides localStorage dismissal
+      var forceCoach = new URLSearchParams(window.location.search).has('coach');
+      if (forceCoach) {
+        localStorage.removeItem('wordsync-onboarding-dismissed');
+        sessionStorage.removeItem('wordsync-onboarding-dismissed');
+      }
+      showCoachMarks(forceCoach);
     } catch (err) {
       transcript.innerHTML = '<p class="error">Could not load episode.</p>';
       console.error(err);
@@ -420,7 +426,6 @@
     var allWords = transcript.querySelectorAll('.word[data-translation]');
     if (allWords.length < 6) return null;
 
-    var isMobile = window.innerWidth <= 900;
     var holdWord = null;
     var tapWord = null;
     var holdParagraph = null;
@@ -438,13 +443,10 @@
         holdWord = w;
         holdParagraph = para;
       }
-      // Tap word: on mobile stay in SAME paragraph; on desktop use DIFFERENT paragraph
-      if (count >= 8 && !tapWord && holdWord && w !== holdWord) {
-        var samePara = para === holdParagraph;
-        if (isMobile ? samePara : !samePara) {
-          tapWord = w;
-          break;
-        }
+      // Tap word: same paragraph, spaced apart from hold word
+      if (count >= 8 && !tapWord && holdWord && w !== holdWord && para === holdParagraph) {
+        tapWord = w;
+        break;
       }
     }
 
