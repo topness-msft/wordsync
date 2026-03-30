@@ -556,6 +556,7 @@
 
   var coachObserver = null;
   var coachAutoTimer = null;
+  var mobileCallouts = []; // callouts appended to body on mobile
 
   function showCoachMarks(force) {
     if (!force) {
@@ -571,19 +572,53 @@
 
     document.body.classList.add('coach-mode');
 
+    // On mobile, move callouts from inside wraps to body for reliable position:fixed
+    var isMobile = window.innerWidth <= 900;
+    if (isMobile) {
+      var holdCallout = transcript.querySelector('.coach-hold .coach-callout');
+      var tapCallout = transcript.querySelector('.coach-tap .coach-callout');
+      if (holdCallout) {
+        holdCallout.classList.add('mobile-coach-callout');
+        document.body.appendChild(holdCallout);
+        mobileCallouts.push(holdCallout);
+      }
+      if (tapCallout) {
+        tapCallout.classList.add('mobile-coach-callout');
+        document.body.appendChild(tapCallout);
+        mobileCallouts.push(tapCallout);
+      }
+    }
+
     // Progressive reveal on first load; simultaneous on help (?)
     var holdWrap = transcript.querySelector('.coach-hold');
     var tapWrap = transcript.querySelector('.coach-tap');
-    if (force) {
-      // Both appear at once
+    if (isMobile) {
+      // Mobile: add coach-visible directly to callout elements on body
+      var holdCalloutEl = document.querySelector('body > .callout-hold');
+      var tapCalloutEl = document.querySelector('body > .callout-tap');
+      if (force) {
+        if (holdCalloutEl) holdCalloutEl.classList.add('coach-visible');
+        if (tapCalloutEl) tapCalloutEl.classList.add('coach-visible');
+      } else {
+        if (holdCalloutEl) holdCalloutEl.classList.add('coach-visible');
+        setTimeout(function () {
+          if (tapCalloutEl) tapCalloutEl.classList.add('coach-visible');
+        }, 1400);
+      }
+      // Still add coach-visible to wraps for highlight/cursor effects
       if (holdWrap) holdWrap.classList.add('coach-visible');
       if (tapWrap) tapWrap.classList.add('coach-visible');
     } else {
-      // Hold (translation) first, then tap after a delay
-      if (holdWrap) holdWrap.classList.add('coach-visible');
-      setTimeout(function () {
+      if (force) {
+        if (holdWrap) holdWrap.classList.add('coach-visible');
         if (tapWrap) tapWrap.classList.add('coach-visible');
-      }, 1400);
+      } else {
+        // Hold (translation) first, then tap after a delay
+        if (holdWrap) holdWrap.classList.add('coach-visible');
+        setTimeout(function () {
+          if (tapWrap) tapWrap.classList.add('coach-visible');
+        }, 1400);
+      }
     }
 
     // Auto-dismiss after 12 seconds
@@ -591,7 +626,7 @@
       if (document.body.classList.contains('coach-mode')) dismissCoachMarks();
     }, 12000);
 
-    // Scroll so both coach words are visible
+    // Scroll so coach words are visible
     var tapWrap = transcript.querySelector('.coach-tap');
     var holdWrap = transcript.querySelector('.coach-hold');
     if (tapWrap && holdWrap) {
@@ -603,8 +638,8 @@
       tapWrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
 
-    // On mobile, use IntersectionObserver to show only the callout for the visible word
-    setupCoachObserver();
+    // On mobile, use IntersectionObserver to toggle which callout is visible
+    if (isMobile) setupCoachObserver();
   }
 
   function setupCoachObserver() {
@@ -613,20 +648,19 @@
     var holdWrap = transcript.querySelector('.coach-hold');
     if (!tapWrap || !holdWrap) return;
 
-    var tapCallout = tapWrap.querySelector('.coach-callout');
-    var holdCallout = holdWrap.querySelector('.coach-callout');
+    // On mobile, callouts are on body
+    var tapCallout = document.querySelector('body > .callout-tap') || tapWrap.querySelector('.coach-callout');
+    var holdCallout = document.querySelector('body > .callout-hold') || holdWrap.querySelector('.coach-callout');
     if (!tapCallout || !holdCallout) return;
 
     var tapVisible = false, holdVisible = false;
 
     function updateCallouts() {
-      // On wide screens both show (they're absolutely positioned, no overlap)
       if (window.innerWidth > 900) {
         tapCallout.style.display = '';
         holdCallout.style.display = '';
         return;
       }
-      // On mobile, show both when both visible; otherwise show whichever is in view
       if (tapVisible && holdVisible) {
         tapCallout.style.display = '';
         holdCallout.style.display = '';
@@ -659,6 +693,10 @@
     if (coachObserver) { coachObserver.disconnect(); coachObserver = null; }
 
     document.body.classList.remove('coach-mode');
+
+    // Remove mobile callouts from body
+    mobileCallouts.forEach(function (c) { c.remove(); });
+    mobileCallouts = [];
 
     // Unwrap coached words back into their original position
     var wraps = transcript.querySelectorAll('.coach-word-wrap');

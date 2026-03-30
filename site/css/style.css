@@ -607,6 +607,8 @@ body {
   z-index: 50;
   background: var(--blau);
   color: #fff;
+  /* Safari: ensure fixed positioning isn't broken */
+  -webkit-transform: translateZ(0);
 }
 
 .player-progress-wrap {
@@ -1360,19 +1362,30 @@ body.coach-mode .coach-word-wrap .word {
 
 /* --- Responsive: stack callouts below on narrow screens --- */
 @media (max-width: 900px) {
-  .coach-callout.callout-tap,
-  .coach-callout.callout-hold {
+  /* Mobile callouts are moved to body via JS — hide any left in wraps */
+  .coach-word-wrap .coach-callout.mobile-coach-callout { display: none; }
+
+  /* Body-level mobile callouts */
+  body > .coach-callout.mobile-coach-callout {
     position: fixed;
-    top: auto;
     left: 50%;
     right: auto;
+    top: auto;
     transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    z-index: 60;
   }
-  .coach-callout.callout-hold {
+  body.coach-mode > .coach-callout.mobile-coach-callout.coach-visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  body > .coach-callout.callout-hold.mobile-coach-callout {
     bottom: 80px;
   }
-  .coach-callout.callout-tap {
-    bottom: 280px;
+  body > .coach-callout.callout-tap.mobile-coach-callout {
+    bottom: 220px;
   }
   .coach-callout-card {
     width: auto;
