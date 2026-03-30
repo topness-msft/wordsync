@@ -72,6 +72,7 @@
       document.title = 'WordSync – ' + data.title;
 
       audio.src = data.audioUrl;
+      audio.load(); // Safari ignores preload="auto" — explicitly start loading
 
       renderTranscript(data.paragraphs);
       buildWordIndex();
@@ -204,7 +205,8 @@
   // --- Play / Pause ---
   function togglePlay() {
     if (audio.paused) {
-      audio.play();
+      var p = audio.play();
+      if (p && p.catch) p.catch(function () { /* Safari may reject */ });
     } else {
       audio.pause();
     }
@@ -242,7 +244,8 @@
     popupOverlay.classList.remove('visible');
     popup.classList.remove('visible');
     if (wasPlayingBeforePopup) {
-      audio.play();
+      var p = audio.play();
+      if (p && p.catch) p.catch(function () {});
       wasPlayingBeforePopup = false;
     }
   }
@@ -316,10 +319,21 @@
       isHolding = false;
     } else if (holdTarget) {
       var startTime = parseFloat(holdTarget.dataset.start);
-      if (isFinite(startTime) && audio.readyState >= 1) {
-        audio.currentTime = startTime;
-        updateProgress();
-        updateHighlight();
+      if (isFinite(startTime)) {
+        if (audio.readyState >= 1) {
+          audio.currentTime = startTime;
+          updateProgress();
+          updateHighlight();
+        } else {
+          // Safari may not preload — wait for metadata then seek
+          audio.addEventListener('loadedmetadata', function onMeta() {
+            audio.removeEventListener('loadedmetadata', onMeta);
+            audio.currentTime = startTime;
+            updateProgress();
+            updateHighlight();
+          });
+          audio.load();
+        }
       }
     }
     holdTarget = null;
