@@ -1360,32 +1360,19 @@ body.coach-mode .coach-word-wrap .word {
 .coach-bar-btn:hover { background: #15283f; }
 .coach-bar-btn:active { transform: scale(0.98); }
 
-/* --- Responsive: stack callouts below on narrow screens --- */
+/* --- Responsive: position callouts near words on narrow screens --- */
 @media (max-width: 900px) {
-  /* Mobile callouts are moved to body via JS — hide any left in wraps */
-  .coach-word-wrap .coach-callout.mobile-coach-callout { display: none; }
-
-  /* Body-level mobile callouts */
-  body > .coach-callout.mobile-coach-callout {
-    position: fixed;
+  /* Hold callout — above word, pulled left to stay on screen */
+  .coach-callout.callout-hold {
+    bottom: calc(100% + 10px);
     left: 50%;
-    right: auto;
-    top: auto;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: opacity 0.5s ease;
-    pointer-events: none;
-    z-index: 60;
+    transform: translateX(-70%);
   }
-  body.coach-mode > .coach-callout.mobile-coach-callout.coach-visible {
-    opacity: 1;
-    pointer-events: auto;
-  }
-  body > .coach-callout.callout-hold.mobile-coach-callout {
-    bottom: 80px;
-  }
-  body > .coach-callout.callout-tap.mobile-coach-callout {
-    bottom: 220px;
+  /* Tap callout — below word, pulled left to stay on screen */
+  .coach-callout.callout-tap {
+    top: calc(100% + 10px);
+    left: 50%;
+    transform: translateX(-70%);
   }
   .coach-callout-card {
     width: auto;
@@ -1398,13 +1385,4 @@ body.coach-mode .coach-word-wrap .word {
   .coach-callout-text strong { font-size: 0.88rem; }
   .coach-callout-text span { font-size: 0.78rem; }
   .coach-connector { display: none; }
-  .coach-bar {
-    padding: 8px 12px;
-    gap: var(--s2);
-    max-width: calc(100% - 24px);
-    white-space: normal;
-  }
-  .coach-bar-dots { display: none; }
-  .coach-bar-label { display: none; }
-  .coach-bar-remember { margin-left: 0; font-size: 0.75rem; }
 }
