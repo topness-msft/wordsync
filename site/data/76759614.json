@@ -1,0 +1,3574 @@
+{
+  "id": 76759614,
+  "title": "13.04.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-04-13",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/7E169C98_2.mp3",
+  "duration": 502,
+  "imageUrl": "https://static.dw.com/image/76757868_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Ministerpräsident Orbán nach 16 Jahren in Ungarn abgewählt",
+      "words": [
+        {
+          "word": "Ministerpräsident",
+          "start": 20.04,
+          "end": 21.42,
+          "translation": "Prime Minister"
+        },
+        {
+          "word": "Orbán",
+          "start": 21.42,
+          "end": 22.26,
+          "translation": "Orbán"
+        },
+        {
+          "word": "nach",
+          "start": 22.26,
+          "end": 22.94,
+          "translation": "to"
+        },
+        {
+          "word": "16",
+          "start": 22.94,
+          "end": 23.76,
+          "translation": "16"
+        },
+        {
+          "word": "Jahren",
+          "start": 23.76,
+          "end": 24.36,
+          "translation": "years"
+        },
+        {
+          "word": "in",
+          "start": 24.36,
+          "end": 24.72,
+          "translation": "in"
+        },
+        {
+          "word": "Ungarn",
+          "start": 24.72,
+          "end": 25.38,
+          "translation": "Hungary"
+        },
+        {
+          "word": "abgewählt",
+          "start": 25.38,
+          "end": 26.4,
+          "translation": "deselected"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die Tisza-Partei des ungarischen Oppositionsführers Péter Magyar hat laut Berechnungen der Wahlkommission bei der Parlamentswahl eine Zweidrittelmehrheit errungen. Nach Auszählung von 98 Prozent der Stimmen kommt sie auf 138 der 199 Sitze. Der amtierende Ministerpräsident Viktor Orbán räumte seine Niederlage ein und gratulierte seinem Herausforderer telefonisch. Mit der Zweidrittelmehrheit kann Magyar weitreichende Reformen umsetzen, die Verfassungsänderungen erfordern, und Schlüsselposten neu besetzen, die bislang von Orbán bestimmt wurden. Ohne diese Zweidrittelmehrheit könnten etwa das Verfassungsgericht oder andere Institutionen Reformvorhaben der künftigen Regierung blockieren.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 27.38,
+          "end": 28.08,
+          "translation": "The"
+        },
+        {
+          "word": "Tisza-Partei",
+          "start": 28.08,
+          "end": 29.46,
+          "translation": "Tisza Party"
+        },
+        {
+          "word": "des",
+          "start": 29.46,
+          "end": 29.82,
+          "translation": "of the"
+        },
+        {
+          "word": "ungarischen",
+          "start": 29.82,
+          "end": 30.68,
+          "translation": "Hungarian"
+        },
+        {
+          "word": "Oppositionsführers",
+          "start": 30.68,
+          "end": 32.6,
+          "translation": "Opposition leader"
+        },
+        {
+          "word": "Péter",
+          "start": 32.6,
+          "end": 33.3,
+          "translation": "Péter"
+        },
+        {
+          "word": "Magyar",
+          "start": 33.3,
+          "end": 34.0,
+          "translation": "Magyar"
+        },
+        {
+          "word": "hat",
+          "start": 34.0,
+          "end": 34.96,
+          "translation": "has"
+        },
+        {
+          "word": "laut",
+          "start": 34.96,
+          "end": 35.32,
+          "translation": "according to"
+        },
+        {
+          "word": "Berechnungen",
+          "start": 35.32,
+          "end": 36.14,
+          "translation": "Calculations"
+        },
+        {
+          "word": "der",
+          "start": 36.14,
+          "end": 36.48,
+          "translation": "the"
+        },
+        {
+          "word": "Wahlkommission",
+          "start": 36.48,
+          "end": 37.44,
+          "translation": "Election Commission"
+        },
+        {
+          "word": "bei",
+          "start": 37.44,
+          "end": 38.5,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 38.5,
+          "end": 38.74,
+          "translation": "the"
+        },
+        {
+          "word": "Parlamentswahl",
+          "start": 38.74,
+          "end": 39.98,
+          "translation": "Parliamentary election"
+        },
+        {
+          "word": "eine",
+          "start": 39.98,
+          "end": 40.74,
+          "translation": "one"
+        },
+        {
+          "word": "Zweidrittelmehrheit",
+          "start": 40.74,
+          "end": 42.68,
+          "translation": "Two-thirds majority"
+        },
+        {
+          "word": "errungen.",
+          "start": 42.68,
+          "end": 43.48,
+          "translation": "achieved."
+        },
+        {
+          "word": "Nach",
+          "start": 43.9,
+          "end": 44.6,
+          "translation": "After"
+        },
+        {
+          "word": "Auszählung",
+          "start": 44.6,
+          "end": 45.8,
+          "translation": "Counting"
+        },
+        {
+          "word": "von",
+          "start": 45.8,
+          "end": 46.16,
+          "translation": "from"
+        },
+        {
+          "word": "98",
+          "start": 46.16,
+          "end": 47.14,
+          "translation": "98"
+        },
+        {
+          "word": "Prozent",
+          "start": 47.14,
+          "end": 48.04,
+          "translation": "Percent"
+        },
+        {
+          "word": "der",
+          "start": 48.04,
+          "end": 48.62,
+          "translation": "the"
+        },
+        {
+          "word": "Stimmen",
+          "start": 48.62,
+          "end": 49.06,
+          "translation": "Voices"
+        },
+        {
+          "word": "kommt",
+          "start": 49.06,
+          "end": 50.12,
+          "translation": "comes"
+        },
+        {
+          "word": "sie",
+          "start": 50.12,
+          "end": 50.56,
+          "translation": "them"
+        },
+        {
+          "word": "auf",
+          "start": 50.56,
+          "end": 50.94,
+          "translation": "on"
+        },
+        {
+          "word": "138",
+          "start": 50.94,
+          "end": 52.7,
+          "translation": "138"
+        },
+        {
+          "word": "der",
+          "start": 53.12,
+          "end": 53.44,
+          "translation": "the"
+        },
+        {
+          "word": "199",
+          "start": 53.44,
+          "end": 54.58,
+          "translation": "199"
+        },
+        {
+          "word": "Sitze.",
+          "start": 54.58,
+          "end": 56.0,
+          "translation": "Seats."
+        },
+        {
+          "word": "Der",
+          "start": 56.72,
+          "end": 57.12,
+          "translation": "The"
+        },
+        {
+          "word": "amtierende",
+          "start": 57.12,
+          "end": 58.08,
+          "translation": "incumbent"
+        },
+        {
+          "word": "Ministerpräsident",
+          "start": 58.08,
+          "end": 59.34,
+          "translation": "Prime Minister"
+        },
+        {
+          "word": "Viktor",
+          "start": 59.34,
+          "end": 60.5,
+          "translation": "Victor"
+        },
+        {
+          "word": "Orbán",
+          "start": 60.5,
+          "end": 61.48,
+          "translation": "Orbán"
+        },
+        {
+          "word": "räumte",
+          "start": 61.48,
+          "end": 62.54,
+          "translation": "conceded"
+        },
+        {
+          "word": "seine",
+          "start": 62.54,
+          "end": 63.08,
+          "translation": "his"
+        },
+        {
+          "word": "Niederlage",
+          "start": 63.08,
+          "end": 63.8,
+          "translation": "Defeat"
+        },
+        {
+          "word": "ein",
+          "start": 63.8,
+          "end": 64.32,
+          "translation": "a"
+        },
+        {
+          "word": "und",
+          "start": 64.32,
+          "end": 65.36,
+          "translation": "and"
+        },
+        {
+          "word": "gratulierte",
+          "start": 65.36,
+          "end": 66.24,
+          "translation": "congratulated"
+        },
+        {
+          "word": "seinem",
+          "start": 66.24,
+          "end": 66.88,
+          "translation": "his"
+        },
+        {
+          "word": "Herausforderer",
+          "start": 66.88,
+          "end": 68.36,
+          "translation": "Challenger"
+        },
+        {
+          "word": "telefonisch.",
+          "start": 68.36,
+          "end": 69.42,
+          "translation": "by telephone."
+        },
+        {
+          "word": "Mit",
+          "start": 69.96,
+          "end": 70.66,
+          "translation": "With"
+        },
+        {
+          "word": "der",
+          "start": 70.66,
+          "end": 71.04,
+          "translation": "the"
+        },
+        {
+          "word": "Zweidrittelmehrheit",
+          "start": 71.04,
+          "end": 72.72,
+          "translation": "Two-thirds majority"
+        },
+        {
+          "word": "kann",
+          "start": 72.72,
+          "end": 73.32,
+          "translation": "can"
+        },
+        {
+          "word": "Magyar",
+          "start": 73.32,
+          "end": 73.92,
+          "translation": "Magyar"
+        },
+        {
+          "word": "weitreichende",
+          "start": 73.92,
+          "end": 75.22,
+          "translation": "far-reaching"
+        },
+        {
+          "word": "Reformen",
+          "start": 75.22,
+          "end": 76.14,
+          "translation": "Reforms"
+        },
+        {
+          "word": "umsetzen,",
+          "start": 76.14,
+          "end": 76.9,
+          "translation": "implement,"
+        },
+        {
+          "word": "die",
+          "start": 77.74,
+          "end": 77.86,
+          "translation": "the"
+        },
+        {
+          "word": "Verfassungsänderungen",
+          "start": 77.86,
+          "end": 79.4,
+          "translation": "Constitutional amendments"
+        },
+        {
+          "word": "erfordern,",
+          "start": 79.4,
+          "end": 80.16,
+          "translation": "require,"
+        },
+        {
+          "word": "und",
+          "start": 80.16,
+          "end": 80.96,
+          "translation": "and"
+        },
+        {
+          "word": "Schlüsselposten",
+          "start": 80.96,
+          "end": 82.3,
+          "translation": "Key item"
+        },
+        {
+          "word": "neu",
+          "start": 82.3,
+          "end": 82.86,
+          "translation": "new"
+        },
+        {
+          "word": "besetzen,",
+          "start": 82.86,
+          "end": 83.54,
+          "translation": "occupy,"
+        },
+        {
+          "word": "die",
+          "start": 84.18,
+          "end": 84.54,
+          "translation": "the"
+        },
+        {
+          "word": "bislang",
+          "start": 84.54,
+          "end": 85.12,
+          "translation": "so far"
+        },
+        {
+          "word": "von",
+          "start": 85.12,
+          "end": 85.44,
+          "translation": "from"
+        },
+        {
+          "word": "Orbán",
+          "start": 85.44,
+          "end": 86.24,
+          "translation": "Orbán"
+        },
+        {
+          "word": "bestimmt",
+          "start": 86.24,
+          "end": 86.7,
+          "translation": "determined"
+        },
+        {
+          "word": "wurden.",
+          "start": 86.7,
+          "end": 87.34,
+          "translation": "were."
+        },
+        {
+          "word": "Ohne",
+          "start": 88.34,
+          "end": 89.22,
+          "translation": "Without"
+        },
+        {
+          "word": "diese",
+          "start": 89.22,
+          "end": 89.72,
+          "translation": "these"
+        },
+        {
+          "word": "Zweidrittelmehrheit",
+          "start": 89.72,
+          "end": 91.54,
+          "translation": "Two-thirds majority"
+        },
+        {
+          "word": "könnten",
+          "start": 91.54,
+          "end": 92.08,
+          "translation": "could"
+        },
+        {
+          "word": "etwa",
+          "start": 92.08,
+          "end": 92.74,
+          "translation": "about"
+        },
+        {
+          "word": "das",
+          "start": 92.74,
+          "end": 93.3,
+          "translation": "the"
+        },
+        {
+          "word": "Verfassungsgericht",
+          "start": 93.3,
+          "end": 94.96,
+          "translation": "Constitutional Court"
+        },
+        {
+          "word": "oder",
+          "start": 94.96,
+          "end": 95.96,
+          "translation": "or"
+        },
+        {
+          "word": "andere",
+          "start": 95.96,
+          "end": 96.66,
+          "translation": "other"
+        },
+        {
+          "word": "Institutionen",
+          "start": 96.66,
+          "end": 98.32,
+          "translation": "Institutions"
+        },
+        {
+          "word": "Reformvorhaben",
+          "start": 98.32,
+          "end": 100.1,
+          "translation": "Reform plans"
+        },
+        {
+          "word": "der",
+          "start": 100.1,
+          "end": 100.32,
+          "translation": "the"
+        },
+        {
+          "word": "künftigen",
+          "start": 100.32,
+          "end": 101.04,
+          "translation": "future"
+        },
+        {
+          "word": "Regierung",
+          "start": 101.04,
+          "end": 101.8,
+          "translation": "Government"
+        },
+        {
+          "word": "blockieren.",
+          "start": 101.8,
+          "end": 103.22,
+          "translation": "block."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Trump erwartet Rückkehr des Iran an den Verhandlungstisch",
+      "words": [
+        {
+          "word": "Trump",
+          "start": 104.94,
+          "end": 105.38,
+          "translation": "Trump"
+        },
+        {
+          "word": "erwartet",
+          "start": 105.38,
+          "end": 106.26,
+          "translation": "expected"
+        },
+        {
+          "word": "Rückkehr",
+          "start": 106.26,
+          "end": 107.18,
+          "translation": "Return"
+        },
+        {
+          "word": "des",
+          "start": 107.18,
+          "end": 107.62,
+          "translation": "of the"
+        },
+        {
+          "word": "Iran",
+          "start": 107.62,
+          "end": 108.14,
+          "translation": "Iran"
+        },
+        {
+          "word": "an",
+          "start": 108.14,
+          "end": 108.98,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 108.98,
+          "end": 109.34,
+          "translation": "the"
+        },
+        {
+          "word": "Verhandlungstisch",
+          "start": 109.34,
+          "end": 110.78,
+          "translation": "Negotiating table"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "US-Präsident Donald Trump geht davon aus, dass der Iran weiter verhandeln und die Forderungen Washingtons auch erfüllen wird. Die Führung in Teheran habe die Gespräche unter Vermittlung Pakistans ‌nicht abgebrochen, ⁠sagte Trump ⁠dem US-Sender Fox News. Zum Ende seien die Verhandlungen mit den Iranern in Islamabad „sehr ​freundschaftlich“ gewesen. Stunden nach dem vorläufigen Scheitern der Friedensverhandlungen zwischen den USA und dem Iran hatte der US-Präsident eine Seeblockade der Straße von Hormus angekündigt. Die US-Marine werde alle Schiffe daran hindern, in die Meerenge am Persischen Golf einzufahren oder diese zu verlassen, teilte Trump auf seiner Plattform Truth Social mit.",
+      "words": [
+        {
+          "word": "US-Präsident",
+          "start": 110.78,
+          "end": 113.22,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 113.22,
+          "end": 113.72,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 113.72,
+          "end": 114.26,
+          "translation": "Trump"
+        },
+        {
+          "word": "geht",
+          "start": 114.26,
+          "end": 114.74,
+          "translation": "goes"
+        },
+        {
+          "word": "davon",
+          "start": 114.74,
+          "end": 115.3,
+          "translation": "thereof"
+        },
+        {
+          "word": "aus,",
+          "start": 115.3,
+          "end": 115.92,
+          "translation": "from,"
+        },
+        {
+          "word": "dass",
+          "start": 116.5,
+          "end": 116.78,
+          "translation": "that"
+        },
+        {
+          "word": "der",
+          "start": 116.78,
+          "end": 117.08,
+          "translation": "the"
+        },
+        {
+          "word": "Iran",
+          "start": 117.08,
+          "end": 117.58,
+          "translation": "Iran"
+        },
+        {
+          "word": "weiter",
+          "start": 117.58,
+          "end": 118.42,
+          "translation": "more"
+        },
+        {
+          "word": "verhandeln",
+          "start": 118.42,
+          "end": 119.36,
+          "translation": "negotiate"
+        },
+        {
+          "word": "und",
+          "start": 119.36,
+          "end": 120.14,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 120.14,
+          "end": 120.46,
+          "translation": "the"
+        },
+        {
+          "word": "Forderungen",
+          "start": 120.46,
+          "end": 121.3,
+          "translation": "Claims"
+        },
+        {
+          "word": "Washingtons",
+          "start": 121.3,
+          "end": 122.9,
+          "translation": "Washington's"
+        },
+        {
+          "word": "auch",
+          "start": 122.9,
+          "end": 123.3,
+          "translation": "also"
+        },
+        {
+          "word": "erfüllen",
+          "start": 123.3,
+          "end": 123.98,
+          "translation": "fulfill"
+        },
+        {
+          "word": "wird.",
+          "start": 123.98,
+          "end": 124.5,
+          "translation": "will."
+        },
+        {
+          "word": "Die",
+          "start": 125.38,
+          "end": 125.84,
+          "translation": "The"
+        },
+        {
+          "word": "Führung",
+          "start": 125.84,
+          "end": 126.44,
+          "translation": "Guidance"
+        },
+        {
+          "word": "in",
+          "start": 126.44,
+          "end": 126.58,
+          "translation": "in"
+        },
+        {
+          "word": "Teheran",
+          "start": 126.58,
+          "end": 127.36,
+          "translation": "Tehran"
+        },
+        {
+          "word": "habe",
+          "start": 127.36,
+          "end": 127.84,
+          "translation": "have"
+        },
+        {
+          "word": "die",
+          "start": 127.84,
+          "end": 128.2,
+          "translation": "the"
+        },
+        {
+          "word": "Gespräche",
+          "start": 128.2,
+          "end": 129.0,
+          "translation": "Conversations"
+        },
+        {
+          "word": "unter",
+          "start": 129.0,
+          "end": 129.52,
+          "translation": "under"
+        },
+        {
+          "word": "Vermittlung",
+          "start": 129.52,
+          "end": 130.32,
+          "translation": "Mediation"
+        },
+        {
+          "word": "Pakistans",
+          "start": 130.32,
+          "end": 131.3,
+          "translation": "Pakistan"
+        },
+        {
+          "word": "‌nicht",
+          "start": 131.3,
+          "end": 132.2,
+          "translation": "not"
+        },
+        {
+          "word": "abgebrochen,",
+          "start": 132.2,
+          "end": 133.26,
+          "translation": "canceled,"
+        },
+        {
+          "word": "⁠sagte",
+          "start": 133.82,
+          "end": 134.24,
+          "translation": "said"
+        },
+        {
+          "word": "Trump",
+          "start": 134.24,
+          "end": 134.76,
+          "translation": "Trump"
+        },
+        {
+          "word": "⁠dem",
+          "start": 134.76,
+          "end": 135.1,
+          "translation": "the"
+        },
+        {
+          "word": "US-Sender",
+          "start": 135.1,
+          "end": 135.96,
+          "translation": "US channel"
+        },
+        {
+          "word": "Fox",
+          "start": 135.96,
+          "end": 136.38,
+          "translation": "Fox"
+        },
+        {
+          "word": "News.",
+          "start": 136.38,
+          "end": 136.94,
+          "translation": "News."
+        },
+        {
+          "word": "Zum",
+          "start": 137.76,
+          "end": 138.46,
+          "translation": "To the"
+        },
+        {
+          "word": "Ende",
+          "start": 138.46,
+          "end": 138.96,
+          "translation": "End"
+        },
+        {
+          "word": "seien",
+          "start": 138.96,
+          "end": 139.56,
+          "translation": "be"
+        },
+        {
+          "word": "die",
+          "start": 139.56,
+          "end": 139.8,
+          "translation": "the"
+        },
+        {
+          "word": "Verhandlungen",
+          "start": 139.8,
+          "end": 140.5,
+          "translation": "Negotiations"
+        },
+        {
+          "word": "mit",
+          "start": 140.5,
+          "end": 140.92,
+          "translation": "with"
+        },
+        {
+          "word": "den",
+          "start": 140.92,
+          "end": 141.24,
+          "translation": "the"
+        },
+        {
+          "word": "Iranern",
+          "start": 141.24,
+          "end": 142.08,
+          "translation": "Iranians"
+        },
+        {
+          "word": "in",
+          "start": 142.08,
+          "end": 142.36,
+          "translation": "in"
+        },
+        {
+          "word": "Islamabad",
+          "start": 142.36,
+          "end": 143.22,
+          "translation": "Islamabad"
+        },
+        {
+          "word": "„sehr",
+          "start": 143.22,
+          "end": 144.28,
+          "translation": "\"very"
+        },
+        {
+          "word": "​freundschaftlich“",
+          "start": 144.28,
+          "end": 145.42,
+          "translation": "friendly\""
+        },
+        {
+          "word": "gewesen.",
+          "start": 145.42,
+          "end": 146.14,
+          "translation": "been."
+        },
+        {
+          "word": "Stunden",
+          "start": 146.98,
+          "end": 148.3,
+          "translation": "Hours"
+        },
+        {
+          "word": "nach",
+          "start": 148.3,
+          "end": 148.74,
+          "translation": "to"
+        },
+        {
+          "word": "dem",
+          "start": 148.74,
+          "end": 149.1,
+          "translation": "the"
+        },
+        {
+          "word": "vorläufigen",
+          "start": 149.1,
+          "end": 150.0,
+          "translation": "preliminary"
+        },
+        {
+          "word": "Scheitern",
+          "start": 150.0,
+          "end": 150.74,
+          "translation": "Failure"
+        },
+        {
+          "word": "der",
+          "start": 150.74,
+          "end": 151.12,
+          "translation": "the"
+        },
+        {
+          "word": "Friedensverhandlungen",
+          "start": 151.12,
+          "end": 152.54,
+          "translation": "Peace negotiations"
+        },
+        {
+          "word": "zwischen",
+          "start": 152.54,
+          "end": 153.48,
+          "translation": "between"
+        },
+        {
+          "word": "den",
+          "start": 153.48,
+          "end": 153.82,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 153.82,
+          "end": 154.18,
+          "translation": "USA"
+        },
+        {
+          "word": "und",
+          "start": 154.18,
+          "end": 154.96,
+          "translation": "and"
+        },
+        {
+          "word": "dem",
+          "start": 154.96,
+          "end": 155.18,
+          "translation": "the"
+        },
+        {
+          "word": "Iran",
+          "start": 155.18,
+          "end": 155.7,
+          "translation": "Iran"
+        },
+        {
+          "word": "hatte",
+          "start": 155.7,
+          "end": 156.84,
+          "translation": "had"
+        },
+        {
+          "word": "der",
+          "start": 156.84,
+          "end": 157.22,
+          "translation": "the"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 157.22,
+          "end": 158.24,
+          "translation": "US President"
+        },
+        {
+          "word": "eine",
+          "start": 158.24,
+          "end": 159.16,
+          "translation": "one"
+        },
+        {
+          "word": "Seeblockade",
+          "start": 159.16,
+          "end": 160.36,
+          "translation": "Sea blockade"
+        },
+        {
+          "word": "der",
+          "start": 160.36,
+          "end": 160.6,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 160.6,
+          "end": 161.12,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 161.12,
+          "end": 161.44,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 161.44,
+          "end": 162.12,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "angekündigt.",
+          "start": 162.12,
+          "end": 163.42,
+          "translation": "announced."
+        },
+        {
+          "word": "Die",
+          "start": 164.32,
+          "end": 164.86,
+          "translation": "The"
+        },
+        {
+          "word": "US-Marine",
+          "start": 164.86,
+          "end": 165.76,
+          "translation": "US Navy"
+        },
+        {
+          "word": "werde",
+          "start": 165.76,
+          "end": 166.28,
+          "translation": "will"
+        },
+        {
+          "word": "alle",
+          "start": 166.28,
+          "end": 166.74,
+          "translation": "all"
+        },
+        {
+          "word": "Schiffe",
+          "start": 166.74,
+          "end": 167.2,
+          "translation": "Ships"
+        },
+        {
+          "word": "daran",
+          "start": 167.2,
+          "end": 167.68,
+          "translation": "on it"
+        },
+        {
+          "word": "hindern,",
+          "start": 167.68,
+          "end": 168.26,
+          "translation": "prevent,"
+        },
+        {
+          "word": "in",
+          "start": 168.96,
+          "end": 169.08,
+          "translation": "in"
+        },
+        {
+          "word": "die",
+          "start": 169.08,
+          "end": 169.28,
+          "translation": "the"
+        },
+        {
+          "word": "Meerenge",
+          "start": 169.28,
+          "end": 169.96,
+          "translation": "Strait"
+        },
+        {
+          "word": "am",
+          "start": 169.96,
+          "end": 170.22,
+          "translation": "on"
+        },
+        {
+          "word": "Persischen",
+          "start": 170.22,
+          "end": 170.86,
+          "translation": "Persian"
+        },
+        {
+          "word": "Golf",
+          "start": 170.86,
+          "end": 171.14,
+          "translation": "Golf"
+        },
+        {
+          "word": "einzufahren",
+          "start": 171.14,
+          "end": 172.24,
+          "translation": "retract"
+        },
+        {
+          "word": "oder",
+          "start": 172.24,
+          "end": 173.26,
+          "translation": "or"
+        },
+        {
+          "word": "diese",
+          "start": 173.26,
+          "end": 173.9,
+          "translation": "these"
+        },
+        {
+          "word": "zu",
+          "start": 173.9,
+          "end": 174.22,
+          "translation": "to"
+        },
+        {
+          "word": "verlassen,",
+          "start": 174.22,
+          "end": 174.86,
+          "translation": "leave,"
+        },
+        {
+          "word": "teilte",
+          "start": 174.86,
+          "end": 176.18,
+          "translation": "shared"
+        },
+        {
+          "word": "Trump",
+          "start": 176.18,
+          "end": 176.54,
+          "translation": "Trump"
+        },
+        {
+          "word": "auf",
+          "start": 176.54,
+          "end": 177.04,
+          "translation": "on"
+        },
+        {
+          "word": "seiner",
+          "start": 177.04,
+          "end": 177.36,
+          "translation": "his"
+        },
+        {
+          "word": "Plattform",
+          "start": 177.36,
+          "end": 178.0,
+          "translation": "Platform"
+        },
+        {
+          "word": "Truth",
+          "start": 178.0,
+          "end": 179.02,
+          "translation": "Truth"
+        },
+        {
+          "word": "Social",
+          "start": 179.02,
+          "end": 179.6,
+          "translation": "Social"
+        },
+        {
+          "word": "mit.",
+          "start": 179.6,
+          "end": 180.14,
+          "translation": "with."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "EU-Kommission befasst sich mit Lage in Nahost",
+      "words": [
+        {
+          "word": "EU-Kommission",
+          "start": 180.14,
+          "end": 182.8,
+          "translation": "EU Commission"
+        },
+        {
+          "word": "befasst",
+          "start": 182.8,
+          "end": 183.58,
+          "translation": "deals with"
+        },
+        {
+          "word": "sich",
+          "start": 183.58,
+          "end": 184.0,
+          "translation": "itself"
+        },
+        {
+          "word": "mit",
+          "start": 184.0,
+          "end": 184.32,
+          "translation": "with"
+        },
+        {
+          "word": "Lage",
+          "start": 184.32,
+          "end": 184.82,
+          "translation": "Location"
+        },
+        {
+          "word": "in",
+          "start": 184.82,
+          "end": 185.26,
+          "translation": "in"
+        },
+        {
+          "word": "Nahost",
+          "start": 185.26,
+          "end": 187.14,
+          "translation": "Middle East"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Über die Auswirkungen des Iran-Kriegs in Europa berät die EU-Kommission an diesem Montag in Brüssel. Angesichts der „aktuellen geopolitischen Lage“ habe Kommissionspräsidentin Ursula von der Leyen das Thema auf die Agenda gesetzt, sagte eine Sprecherin. Geprüft würden derzeit verschiedene Maßnahmen, um die Auswirkungen der hohen Ölpreise auf die europäischen Verbraucher abzuschwächen. Unter anderem ist eine Übergewinnsteuer für Energiekonzerne im Gespräch. Deutschlands Finanzminister Lars Klingbeil (SPD) hatte sich gemeinsam mit vier europäischen Kollegen in einem Brief an die Kommission für eine solche Abgabe ausgesprochen. Bundeskanzler Friedrich Merz (CDU) ist allerdings dagegen.",
+      "words": [
+        {
+          "word": "Über",
+          "start": 187.14,
+          "end": 188.0,
+          "translation": "About"
+        },
+        {
+          "word": "die",
+          "start": 188.0,
+          "end": 188.32,
+          "translation": "the"
+        },
+        {
+          "word": "Auswirkungen",
+          "start": 188.32,
+          "end": 189.46,
+          "translation": "Effects"
+        },
+        {
+          "word": "des",
+          "start": 189.46,
+          "end": 189.96,
+          "translation": "of the"
+        },
+        {
+          "word": "Iran-Kriegs",
+          "start": 189.96,
+          "end": 191.22,
+          "translation": "Iran war"
+        },
+        {
+          "word": "in",
+          "start": 191.22,
+          "end": 191.44,
+          "translation": "in"
+        },
+        {
+          "word": "Europa",
+          "start": 191.44,
+          "end": 192.18,
+          "translation": "Europe"
+        },
+        {
+          "word": "berät",
+          "start": 192.18,
+          "end": 193.48,
+          "translation": "advises"
+        },
+        {
+          "word": "die",
+          "start": 193.48,
+          "end": 193.72,
+          "translation": "the"
+        },
+        {
+          "word": "EU-Kommission",
+          "start": 193.72,
+          "end": 194.72,
+          "translation": "EU Commission"
+        },
+        {
+          "word": "an",
+          "start": 194.72,
+          "end": 195.34,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 195.34,
+          "end": 195.7,
+          "translation": "this"
+        },
+        {
+          "word": "Montag",
+          "start": 195.7,
+          "end": 196.72,
+          "translation": "Monday"
+        },
+        {
+          "word": "in",
+          "start": 196.72,
+          "end": 197.02,
+          "translation": "in"
+        },
+        {
+          "word": "Brüssel.",
+          "start": 197.02,
+          "end": 197.5,
+          "translation": "Brussels."
+        },
+        {
+          "word": "Angesichts",
+          "start": 197.5,
+          "end": 199.96,
+          "translation": "In view of"
+        },
+        {
+          "word": "der",
+          "start": 199.96,
+          "end": 200.28,
+          "translation": "the"
+        },
+        {
+          "word": "„aktuellen",
+          "start": 200.28,
+          "end": 201.52,
+          "translation": "\"current"
+        },
+        {
+          "word": "geopolitischen",
+          "start": 201.52,
+          "end": 202.52,
+          "translation": "geopolitical"
+        },
+        {
+          "word": "Lage“",
+          "start": 202.52,
+          "end": 203.04,
+          "translation": "Location\""
+        },
+        {
+          "word": "habe",
+          "start": 203.04,
+          "end": 204.08,
+          "translation": "have"
+        },
+        {
+          "word": "Kommissionspräsidentin",
+          "start": 204.08,
+          "end": 206.18,
+          "translation": "President of the Commission"
+        },
+        {
+          "word": "Ursula",
+          "start": 206.18,
+          "end": 207.1,
+          "translation": "Ursula"
+        },
+        {
+          "word": "von",
+          "start": 207.1,
+          "end": 207.42,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 207.42,
+          "end": 207.6,
+          "translation": "the"
+        },
+        {
+          "word": "Leyen",
+          "start": 207.6,
+          "end": 208.04,
+          "translation": "Leyen"
+        },
+        {
+          "word": "das",
+          "start": 208.04,
+          "end": 208.72,
+          "translation": "the"
+        },
+        {
+          "word": "Thema",
+          "start": 208.72,
+          "end": 209.28,
+          "translation": "Topic"
+        },
+        {
+          "word": "auf",
+          "start": 209.28,
+          "end": 209.68,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 209.68,
+          "end": 209.96,
+          "translation": "the"
+        },
+        {
+          "word": "Agenda",
+          "start": 209.96,
+          "end": 210.46,
+          "translation": "Agenda"
+        },
+        {
+          "word": "gesetzt,",
+          "start": 210.46,
+          "end": 211.06,
+          "translation": "set,"
+        },
+        {
+          "word": "sagte",
+          "start": 211.66,
+          "end": 212.18,
+          "translation": "said"
+        },
+        {
+          "word": "eine",
+          "start": 212.18,
+          "end": 212.76,
+          "translation": "one"
+        },
+        {
+          "word": "Sprecherin.",
+          "start": 212.76,
+          "end": 213.6,
+          "translation": "Speaker."
+        },
+        {
+          "word": "Geprüft",
+          "start": 214.6,
+          "end": 215.62,
+          "translation": "Tested"
+        },
+        {
+          "word": "würden",
+          "start": 215.62,
+          "end": 216.06,
+          "translation": "would"
+        },
+        {
+          "word": "derzeit",
+          "start": 216.06,
+          "end": 216.96,
+          "translation": "currently"
+        },
+        {
+          "word": "verschiedene",
+          "start": 216.96,
+          "end": 217.76,
+          "translation": "various"
+        },
+        {
+          "word": "Maßnahmen,",
+          "start": 217.76,
+          "end": 218.54,
+          "translation": "Measures,"
+        },
+        {
+          "word": "um",
+          "start": 218.54,
+          "end": 219.54,
+          "translation": "to"
+        },
+        {
+          "word": "die",
+          "start": 219.54,
+          "end": 219.84,
+          "translation": "the"
+        },
+        {
+          "word": "Auswirkungen",
+          "start": 219.84,
+          "end": 220.82,
+          "translation": "Effects"
+        },
+        {
+          "word": "der",
+          "start": 220.82,
+          "end": 221.2,
+          "translation": "the"
+        },
+        {
+          "word": "hohen",
+          "start": 221.2,
+          "end": 221.68,
+          "translation": "high"
+        },
+        {
+          "word": "Ölpreise",
+          "start": 221.68,
+          "end": 222.68,
+          "translation": "Oil prices"
+        },
+        {
+          "word": "auf",
+          "start": 222.68,
+          "end": 223.46,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 223.46,
+          "end": 223.74,
+          "translation": "the"
+        },
+        {
+          "word": "europäischen",
+          "start": 223.74,
+          "end": 224.68,
+          "translation": "european"
+        },
+        {
+          "word": "Verbraucher",
+          "start": 224.68,
+          "end": 225.5,
+          "translation": "Consumers"
+        },
+        {
+          "word": "abzuschwächen.",
+          "start": 225.5,
+          "end": 226.9,
+          "translation": "to mitigate."
+        },
+        {
+          "word": "Unter",
+          "start": 227.8,
+          "end": 228.72,
+          "translation": "Under"
+        },
+        {
+          "word": "anderem",
+          "start": 228.72,
+          "end": 229.48,
+          "translation": "other"
+        },
+        {
+          "word": "ist",
+          "start": 229.48,
+          "end": 229.76,
+          "translation": "is"
+        },
+        {
+          "word": "eine",
+          "start": 229.76,
+          "end": 230.28,
+          "translation": "one"
+        },
+        {
+          "word": "Übergewinnsteuer",
+          "start": 230.28,
+          "end": 231.72,
+          "translation": "Excess profits tax"
+        },
+        {
+          "word": "für",
+          "start": 231.72,
+          "end": 232.44,
+          "translation": "for"
+        },
+        {
+          "word": "Energiekonzerne",
+          "start": 232.44,
+          "end": 234.08,
+          "translation": "Energy companies"
+        },
+        {
+          "word": "im",
+          "start": 234.08,
+          "end": 234.56,
+          "translation": "in the"
+        },
+        {
+          "word": "Gespräch.",
+          "start": 234.56,
+          "end": 235.44,
+          "translation": "Conversation."
+        },
+        {
+          "word": "Deutschlands",
+          "start": 236.44,
+          "end": 237.38,
+          "translation": "Germany"
+        },
+        {
+          "word": "Finanzminister",
+          "start": 237.38,
+          "end": 238.74,
+          "translation": "Minister of Finance"
+        },
+        {
+          "word": "Lars",
+          "start": 238.74,
+          "end": 239.26,
+          "translation": "Lars"
+        },
+        {
+          "word": "Klingbeil",
+          "start": 239.26,
+          "end": 240.6,
+          "translation": "Klingbeil"
+        },
+        {
+          "word": "(SPD)",
+          "start": 240.6,
+          "end": 241.2,
+          "translation": "(SPD)"
+        },
+        {
+          "word": "hatte",
+          "start": 242.2,
+          "end": 242.26,
+          "translation": "had"
+        },
+        {
+          "word": "sich",
+          "start": 242.26,
+          "end": 242.76,
+          "translation": "itself"
+        },
+        {
+          "word": "gemeinsam",
+          "start": 242.76,
+          "end": 243.52,
+          "translation": "together"
+        },
+        {
+          "word": "mit",
+          "start": 243.52,
+          "end": 244.04,
+          "translation": "with"
+        },
+        {
+          "word": "vier",
+          "start": 244.04,
+          "end": 244.44,
+          "translation": "four"
+        },
+        {
+          "word": "europäischen",
+          "start": 244.44,
+          "end": 245.4,
+          "translation": "european"
+        },
+        {
+          "word": "Kollegen",
+          "start": 245.4,
+          "end": 246.04,
+          "translation": "Colleagues"
+        },
+        {
+          "word": "in",
+          "start": 246.04,
+          "end": 247.0,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 247.0,
+          "end": 247.34,
+          "translation": "one"
+        },
+        {
+          "word": "Brief",
+          "start": 247.34,
+          "end": 247.7,
+          "translation": "Letter"
+        },
+        {
+          "word": "an",
+          "start": 247.7,
+          "end": 248.14,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 248.14,
+          "end": 248.32,
+          "translation": "the"
+        },
+        {
+          "word": "Kommission",
+          "start": 248.32,
+          "end": 248.9,
+          "translation": "Commission"
+        },
+        {
+          "word": "für",
+          "start": 248.9,
+          "end": 249.88,
+          "translation": "for"
+        },
+        {
+          "word": "eine",
+          "start": 249.88,
+          "end": 250.26,
+          "translation": "one"
+        },
+        {
+          "word": "solche",
+          "start": 250.26,
+          "end": 250.74,
+          "translation": "such"
+        },
+        {
+          "word": "Abgabe",
+          "start": 250.74,
+          "end": 251.54,
+          "translation": "Delivery"
+        },
+        {
+          "word": "ausgesprochen.",
+          "start": 251.54,
+          "end": 252.6,
+          "translation": "pronounced."
+        },
+        {
+          "word": "Bundeskanzler",
+          "start": 253.92,
+          "end": 255.12,
+          "translation": "Federal Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 255.12,
+          "end": 255.82,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 255.82,
+          "end": 256.42,
+          "translation": "Merz"
+        },
+        {
+          "word": "(CDU)",
+          "start": 256.88,
+          "end": 257.12,
+          "translation": "(CDU)"
+        },
+        {
+          "word": "ist",
+          "start": 258.02,
+          "end": 258.18,
+          "translation": "is"
+        },
+        {
+          "word": "allerdings",
+          "start": 258.18,
+          "end": 258.72,
+          "translation": "however"
+        },
+        {
+          "word": "dagegen.",
+          "start": 258.72,
+          "end": 259.82,
+          "translation": "on the other hand."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Indonesien bemüht sich um Erdöl aus Russland",
+      "words": [
+        {
+          "word": "Indonesien",
+          "start": 261.22,
+          "end": 262.62,
+          "translation": "Indonesia"
+        },
+        {
+          "word": "bemüht",
+          "start": 262.62,
+          "end": 263.34,
+          "translation": "endeavors"
+        },
+        {
+          "word": "sich",
+          "start": 263.34,
+          "end": 263.6,
+          "translation": "itself"
+        },
+        {
+          "word": "um",
+          "start": 263.6,
+          "end": 264.06,
+          "translation": "to"
+        },
+        {
+          "word": "Erdöl",
+          "start": 264.06,
+          "end": 264.98,
+          "translation": "Crude oil"
+        },
+        {
+          "word": "aus",
+          "start": 264.98,
+          "end": 265.68,
+          "translation": "from"
+        },
+        {
+          "word": "Russland",
+          "start": 265.68,
+          "end": 266.66,
+          "translation": "Russia"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Wegen der weltweit hohen Ölpreise aufgrund des Iran-Kriegs steht auch Indonesien unter starkem Druck. Präsident Prabowo Subianto flog am Sonntag nach Russland, um in Moskau mit Staatschef Wladimir Putin über die Lieferung von Erdöl an Indonesien zu sprechen. Das teilte das Präsidialamt in der Hauptstadt Jakarta mit. Indonesien, die größte Volkswirtschaft in Südostasien, hat Treibstoff rationiert und empfiehlt Beamten, im Homeoffice zu arbeiten, um Benzin zu sparen. Die Regierung hat versprochen, die Treibstoffpreise nicht weiter steigen zu lassen.",
+      "words": [
+        {
+          "word": "Wegen",
+          "start": 267.52,
+          "end": 268.4,
+          "translation": "Because of"
+        },
+        {
+          "word": "der",
+          "start": 268.4,
+          "end": 268.8,
+          "translation": "the"
+        },
+        {
+          "word": "weltweit",
+          "start": 268.8,
+          "end": 269.54,
+          "translation": "Worldwide"
+        },
+        {
+          "word": "hohen",
+          "start": 269.54,
+          "end": 270.02,
+          "translation": "high"
+        },
+        {
+          "word": "Ölpreise",
+          "start": 270.02,
+          "end": 271.0,
+          "translation": "Oil prices"
+        },
+        {
+          "word": "aufgrund",
+          "start": 271.0,
+          "end": 271.88,
+          "translation": "due to"
+        },
+        {
+          "word": "des",
+          "start": 271.88,
+          "end": 272.48,
+          "translation": "of the"
+        },
+        {
+          "word": "Iran-Kriegs",
+          "start": 272.48,
+          "end": 273.9,
+          "translation": "Iran war"
+        },
+        {
+          "word": "steht",
+          "start": 273.9,
+          "end": 274.72,
+          "translation": "stands"
+        },
+        {
+          "word": "auch",
+          "start": 274.72,
+          "end": 275.16,
+          "translation": "also"
+        },
+        {
+          "word": "Indonesien",
+          "start": 275.16,
+          "end": 276.18,
+          "translation": "Indonesia"
+        },
+        {
+          "word": "unter",
+          "start": 276.18,
+          "end": 276.7,
+          "translation": "under"
+        },
+        {
+          "word": "starkem",
+          "start": 276.7,
+          "end": 277.5,
+          "translation": "strong"
+        },
+        {
+          "word": "Druck.",
+          "start": 277.5,
+          "end": 277.84,
+          "translation": "Print."
+        },
+        {
+          "word": "Präsident",
+          "start": 278.84,
+          "end": 279.68,
+          "translation": "President"
+        },
+        {
+          "word": "Prabowo",
+          "start": 279.68,
+          "end": 280.98,
+          "translation": "Prabowo"
+        },
+        {
+          "word": "Subianto",
+          "start": 280.98,
+          "end": 281.9,
+          "translation": "Subianto"
+        },
+        {
+          "word": "flog",
+          "start": 281.9,
+          "end": 282.94,
+          "translation": "flew"
+        },
+        {
+          "word": "am",
+          "start": 282.94,
+          "end": 283.3,
+          "translation": "on"
+        },
+        {
+          "word": "Sonntag",
+          "start": 283.3,
+          "end": 284.0,
+          "translation": "Sunday"
+        },
+        {
+          "word": "nach",
+          "start": 284.0,
+          "end": 284.5,
+          "translation": "to"
+        },
+        {
+          "word": "Russland,",
+          "start": 284.5,
+          "end": 285.36,
+          "translation": "Russia,"
+        },
+        {
+          "word": "um",
+          "start": 285.84,
+          "end": 286.04,
+          "translation": "to"
+        },
+        {
+          "word": "in",
+          "start": 286.04,
+          "end": 286.26,
+          "translation": "in"
+        },
+        {
+          "word": "Moskau",
+          "start": 286.26,
+          "end": 286.96,
+          "translation": "Moscow"
+        },
+        {
+          "word": "mit",
+          "start": 286.96,
+          "end": 287.28,
+          "translation": "with"
+        },
+        {
+          "word": "Staatschef",
+          "start": 287.28,
+          "end": 288.24,
+          "translation": "Head of state"
+        },
+        {
+          "word": "Wladimir",
+          "start": 288.24,
+          "end": 288.84,
+          "translation": "Vladimir"
+        },
+        {
+          "word": "Putin",
+          "start": 288.84,
+          "end": 289.48,
+          "translation": "Putin"
+        },
+        {
+          "word": "über",
+          "start": 289.48,
+          "end": 290.6,
+          "translation": "about"
+        },
+        {
+          "word": "die",
+          "start": 290.6,
+          "end": 290.82,
+          "translation": "the"
+        },
+        {
+          "word": "Lieferung",
+          "start": 290.82,
+          "end": 291.5,
+          "translation": "Delivery"
+        },
+        {
+          "word": "von",
+          "start": 291.5,
+          "end": 291.74,
+          "translation": "from"
+        },
+        {
+          "word": "Erdöl",
+          "start": 291.74,
+          "end": 292.48,
+          "translation": "Crude oil"
+        },
+        {
+          "word": "an",
+          "start": 292.48,
+          "end": 292.98,
+          "translation": "on"
+        },
+        {
+          "word": "Indonesien",
+          "start": 292.98,
+          "end": 294.0,
+          "translation": "Indonesia"
+        },
+        {
+          "word": "zu",
+          "start": 294.0,
+          "end": 294.52,
+          "translation": "to"
+        },
+        {
+          "word": "sprechen.",
+          "start": 294.52,
+          "end": 295.02,
+          "translation": "speak."
+        },
+        {
+          "word": "Das",
+          "start": 295.78,
+          "end": 296.9,
+          "translation": "The"
+        },
+        {
+          "word": "teilte",
+          "start": 296.9,
+          "end": 297.54,
+          "translation": "shared"
+        },
+        {
+          "word": "das",
+          "start": 297.54,
+          "end": 297.86,
+          "translation": "the"
+        },
+        {
+          "word": "Präsidialamt",
+          "start": 297.86,
+          "end": 299.06,
+          "translation": "Office of the President"
+        },
+        {
+          "word": "in",
+          "start": 299.06,
+          "end": 299.34,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 299.34,
+          "end": 299.52,
+          "translation": "the"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 299.52,
+          "end": 300.06,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Jakarta",
+          "start": 300.06,
+          "end": 301.06,
+          "translation": "Jakarta"
+        },
+        {
+          "word": "mit.",
+          "start": 301.06,
+          "end": 301.58,
+          "translation": "with."
+        },
+        {
+          "word": "Indonesien,",
+          "start": 302.58,
+          "end": 304.14,
+          "translation": "Indonesia,"
+        },
+        {
+          "word": "die",
+          "start": 304.44,
+          "end": 304.58,
+          "translation": "the"
+        },
+        {
+          "word": "größte",
+          "start": 304.58,
+          "end": 305.18,
+          "translation": "largest"
+        },
+        {
+          "word": "Volkswirtschaft",
+          "start": 305.18,
+          "end": 306.14,
+          "translation": "National economy"
+        },
+        {
+          "word": "in",
+          "start": 306.14,
+          "end": 306.7,
+          "translation": "in"
+        },
+        {
+          "word": "Südostasien,",
+          "start": 306.7,
+          "end": 308.8,
+          "translation": "Southeast Asia,"
+        },
+        {
+          "word": "hat",
+          "start": 308.8,
+          "end": 308.96,
+          "translation": "has"
+        },
+        {
+          "word": "Treibstoff",
+          "start": 308.96,
+          "end": 309.64,
+          "translation": "Fuel"
+        },
+        {
+          "word": "rationiert",
+          "start": 309.64,
+          "end": 310.82,
+          "translation": "rationed"
+        },
+        {
+          "word": "und",
+          "start": 310.82,
+          "end": 311.66,
+          "translation": "and"
+        },
+        {
+          "word": "empfiehlt",
+          "start": 311.66,
+          "end": 312.32,
+          "translation": "recommends"
+        },
+        {
+          "word": "Beamten,",
+          "start": 312.32,
+          "end": 313.0,
+          "translation": "Officials,"
+        },
+        {
+          "word": "im",
+          "start": 313.42,
+          "end": 313.5,
+          "translation": "in the"
+        },
+        {
+          "word": "Homeoffice",
+          "start": 313.5,
+          "end": 314.26,
+          "translation": "Home office"
+        },
+        {
+          "word": "zu",
+          "start": 314.26,
+          "end": 314.7,
+          "translation": "to"
+        },
+        {
+          "word": "arbeiten,",
+          "start": 314.7,
+          "end": 315.28,
+          "translation": "work,"
+        },
+        {
+          "word": "um",
+          "start": 316.06,
+          "end": 316.32,
+          "translation": "to"
+        },
+        {
+          "word": "Benzin",
+          "start": 316.32,
+          "end": 316.96,
+          "translation": "Gasoline"
+        },
+        {
+          "word": "zu",
+          "start": 316.96,
+          "end": 317.38,
+          "translation": "to"
+        },
+        {
+          "word": "sparen.",
+          "start": 317.38,
+          "end": 317.88,
+          "translation": "save."
+        },
+        {
+          "word": "Die",
+          "start": 318.74,
+          "end": 319.48,
+          "translation": "The"
+        },
+        {
+          "word": "Regierung",
+          "start": 319.48,
+          "end": 320.1,
+          "translation": "Government"
+        },
+        {
+          "word": "hat",
+          "start": 320.1,
+          "end": 320.46,
+          "translation": "has"
+        },
+        {
+          "word": "versprochen,",
+          "start": 320.46,
+          "end": 321.16,
+          "translation": "promised,"
+        },
+        {
+          "word": "die",
+          "start": 321.84,
+          "end": 321.98,
+          "translation": "the"
+        },
+        {
+          "word": "Treibstoffpreise",
+          "start": 321.98,
+          "end": 323.34,
+          "translation": "Fuel prices"
+        },
+        {
+          "word": "nicht",
+          "start": 323.34,
+          "end": 324.02,
+          "translation": "not"
+        },
+        {
+          "word": "weiter",
+          "start": 324.02,
+          "end": 324.68,
+          "translation": "more"
+        },
+        {
+          "word": "steigen",
+          "start": 324.68,
+          "end": 325.38,
+          "translation": "rise"
+        },
+        {
+          "word": "zu",
+          "start": 325.38,
+          "end": 325.96,
+          "translation": "to"
+        },
+        {
+          "word": "lassen.",
+          "start": 325.96,
+          "end": 326.3,
+          "translation": "leave."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Leo XIV. besucht als erster Papst der Geschichte Algerien",
+      "words": [
+        {
+          "word": "Leo",
+          "start": 327.3,
+          "end": 328.5,
+          "translation": "Leo"
+        },
+        {
+          "word": "XIV.",
+          "start": 328.5,
+          "end": 329.58,
+          "translation": "XIV."
+        },
+        {
+          "word": "besucht",
+          "start": 329.58,
+          "end": 330.38,
+          "translation": "visited"
+        },
+        {
+          "word": "als",
+          "start": 330.38,
+          "end": 330.9,
+          "translation": "as"
+        },
+        {
+          "word": "erster",
+          "start": 330.9,
+          "end": 331.48,
+          "translation": "first"
+        },
+        {
+          "word": "Papst",
+          "start": 331.48,
+          "end": 332.22,
+          "translation": "Pope"
+        },
+        {
+          "word": "der",
+          "start": 332.22,
+          "end": 332.48,
+          "translation": "the"
+        },
+        {
+          "word": "Geschichte",
+          "start": 332.48,
+          "end": 333.1,
+          "translation": "History"
+        },
+        {
+          "word": "Algerien",
+          "start": 333.86,
+          "end": 334.78,
+          "translation": "Algeria"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Papst Leo XIV. beginnt an diesem Montag eine elftägige Afrikareise. Zum Auftakt wird das Oberhaupt der katholischen Kirche zu einem historischen Besuch in Algerien erwartet. Nach Angaben des Vatikans wird der Papst in Algier zunächst Präsident Abdelmadjid Tebboune treffen. Anschließend stehen Besuche in der Großen Moschee und bei der katholischen Gemeinde auf dem Programm. In Algerien sind fast alle der 47 Millionen Einwohner Muslime. Der Islam ist Staatsreligion. Ziel des Papstes ist es laut Vatikansprecher Matteo Bruni, „sich an die islamische Welt zu wenden, aber auch eine gemeinsame Herausforderung des Zusammenlebens anzugehen“.",
+      "words": [
+        {
+          "word": "Papst",
+          "start": 335.54,
+          "end": 336.74,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 336.74,
+          "end": 337.14,
+          "translation": "Leo"
+        },
+        {
+          "word": "XIV.",
+          "start": 337.14,
+          "end": 338.44,
+          "translation": "XIV."
+        },
+        {
+          "word": "beginnt",
+          "start": 338.44,
+          "end": 339.78,
+          "translation": "begins"
+        },
+        {
+          "word": "an",
+          "start": 339.78,
+          "end": 339.98,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 339.98,
+          "end": 340.4,
+          "translation": "this"
+        },
+        {
+          "word": "Montag",
+          "start": 340.4,
+          "end": 341.18,
+          "translation": "Monday"
+        },
+        {
+          "word": "eine",
+          "start": 341.18,
+          "end": 341.9,
+          "translation": "one"
+        },
+        {
+          "word": "elftägige",
+          "start": 341.9,
+          "end": 343.08,
+          "translation": "eleven-day"
+        },
+        {
+          "word": "Afrikareise.",
+          "start": 343.08,
+          "end": 345.38,
+          "translation": "Trip to Africa."
+        },
+        {
+          "word": "Zum",
+          "start": 345.38,
+          "end": 346.06,
+          "translation": "To the"
+        },
+        {
+          "word": "Auftakt",
+          "start": 346.06,
+          "end": 346.8,
+          "translation": "Prelude"
+        },
+        {
+          "word": "wird",
+          "start": 346.8,
+          "end": 347.3,
+          "translation": "becomes"
+        },
+        {
+          "word": "das",
+          "start": 347.3,
+          "end": 347.82,
+          "translation": "the"
+        },
+        {
+          "word": "Oberhaupt",
+          "start": 347.82,
+          "end": 348.58,
+          "translation": "Head"
+        },
+        {
+          "word": "der",
+          "start": 348.58,
+          "end": 348.96,
+          "translation": "the"
+        },
+        {
+          "word": "katholischen",
+          "start": 348.96,
+          "end": 349.74,
+          "translation": "catholic"
+        },
+        {
+          "word": "Kirche",
+          "start": 349.74,
+          "end": 350.42,
+          "translation": "Church"
+        },
+        {
+          "word": "zu",
+          "start": 350.42,
+          "end": 351.44,
+          "translation": "to"
+        },
+        {
+          "word": "einem",
+          "start": 351.44,
+          "end": 351.88,
+          "translation": "one"
+        },
+        {
+          "word": "historischen",
+          "start": 351.88,
+          "end": 352.84,
+          "translation": "historical"
+        },
+        {
+          "word": "Besuch",
+          "start": 352.84,
+          "end": 353.42,
+          "translation": "Visit"
+        },
+        {
+          "word": "in",
+          "start": 353.42,
+          "end": 353.9,
+          "translation": "in"
+        },
+        {
+          "word": "Algerien",
+          "start": 353.9,
+          "end": 355.02,
+          "translation": "Algeria"
+        },
+        {
+          "word": "erwartet.",
+          "start": 355.02,
+          "end": 355.66,
+          "translation": "expected."
+        },
+        {
+          "word": "Nach",
+          "start": 356.82,
+          "end": 357.14,
+          "translation": "After"
+        },
+        {
+          "word": "Angaben",
+          "start": 357.14,
+          "end": 357.96,
+          "translation": "Details"
+        },
+        {
+          "word": "des",
+          "start": 357.96,
+          "end": 358.34,
+          "translation": "of the"
+        },
+        {
+          "word": "Vatikans",
+          "start": 358.34,
+          "end": 359.4,
+          "translation": "Vatican"
+        },
+        {
+          "word": "wird",
+          "start": 359.4,
+          "end": 360.22,
+          "translation": "becomes"
+        },
+        {
+          "word": "der",
+          "start": 360.22,
+          "end": 360.58,
+          "translation": "the"
+        },
+        {
+          "word": "Papst",
+          "start": 360.58,
+          "end": 361.24,
+          "translation": "Pope"
+        },
+        {
+          "word": "in",
+          "start": 361.24,
+          "end": 361.42,
+          "translation": "in"
+        },
+        {
+          "word": "Algier",
+          "start": 361.42,
+          "end": 362.0,
+          "translation": "Algiers"
+        },
+        {
+          "word": "zunächst",
+          "start": 362.0,
+          "end": 363.18,
+          "translation": "first"
+        },
+        {
+          "word": "Präsident",
+          "start": 363.18,
+          "end": 364.1,
+          "translation": "President"
+        },
+        {
+          "word": "Abdelmadjid",
+          "start": 364.1,
+          "end": 365.17,
+          "translation": "Abdelmadjid"
+        },
+        {
+          "word": "Tebboune",
+          "start": 365.17,
+          "end": 366.24,
+          "translation": "Tebboune"
+        },
+        {
+          "word": "treffen.",
+          "start": 366.24,
+          "end": 366.88,
+          "translation": "meet."
+        },
+        {
+          "word": "Anschließend",
+          "start": 368.02,
+          "end": 369.1,
+          "translation": "Subsequently"
+        },
+        {
+          "word": "stehen",
+          "start": 369.1,
+          "end": 369.52,
+          "translation": "stand"
+        },
+        {
+          "word": "Besuche",
+          "start": 369.52,
+          "end": 370.3,
+          "translation": "Visits"
+        },
+        {
+          "word": "in",
+          "start": 370.3,
+          "end": 370.68,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 370.68,
+          "end": 370.84,
+          "translation": "the"
+        },
+        {
+          "word": "Großen",
+          "start": 370.84,
+          "end": 371.32,
+          "translation": "Large"
+        },
+        {
+          "word": "Moschee",
+          "start": 371.32,
+          "end": 371.9,
+          "translation": "Mosque"
+        },
+        {
+          "word": "und",
+          "start": 371.9,
+          "end": 372.86,
+          "translation": "and"
+        },
+        {
+          "word": "bei",
+          "start": 372.86,
+          "end": 373.18,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 373.18,
+          "end": 373.36,
+          "translation": "the"
+        },
+        {
+          "word": "katholischen",
+          "start": 373.36,
+          "end": 374.18,
+          "translation": "catholic"
+        },
+        {
+          "word": "Gemeinde",
+          "start": 374.18,
+          "end": 374.98,
+          "translation": "Municipality"
+        },
+        {
+          "word": "auf",
+          "start": 374.98,
+          "end": 375.48,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 375.48,
+          "end": 375.76,
+          "translation": "the"
+        },
+        {
+          "word": "Programm.",
+          "start": 375.76,
+          "end": 376.32,
+          "translation": "Program."
+        },
+        {
+          "word": "In",
+          "start": 377.22,
+          "end": 377.96,
+          "translation": "In"
+        },
+        {
+          "word": "Algerien",
+          "start": 377.96,
+          "end": 378.9,
+          "translation": "Algeria"
+        },
+        {
+          "word": "sind",
+          "start": 378.9,
+          "end": 379.14,
+          "translation": "are"
+        },
+        {
+          "word": "fast",
+          "start": 379.14,
+          "end": 379.46,
+          "translation": "almost"
+        },
+        {
+          "word": "alle",
+          "start": 379.46,
+          "end": 379.98,
+          "translation": "all"
+        },
+        {
+          "word": "der",
+          "start": 379.98,
+          "end": 380.36,
+          "translation": "the"
+        },
+        {
+          "word": "47",
+          "start": 380.36,
+          "end": 381.34,
+          "translation": "47"
+        },
+        {
+          "word": "Millionen",
+          "start": 381.34,
+          "end": 381.86,
+          "translation": "million"
+        },
+        {
+          "word": "Einwohner",
+          "start": 381.86,
+          "end": 382.84,
+          "translation": "Inhabitants"
+        },
+        {
+          "word": "Muslime.",
+          "start": 382.84,
+          "end": 384.12,
+          "translation": "Muslims."
+        },
+        {
+          "word": "Der",
+          "start": 385.0,
+          "end": 385.32,
+          "translation": "The"
+        },
+        {
+          "word": "Islam",
+          "start": 385.32,
+          "end": 385.78,
+          "translation": "Islam"
+        },
+        {
+          "word": "ist",
+          "start": 385.78,
+          "end": 386.24,
+          "translation": "is"
+        },
+        {
+          "word": "Staatsreligion.",
+          "start": 386.24,
+          "end": 387.58,
+          "translation": "State religion."
+        },
+        {
+          "word": "Ziel",
+          "start": 388.51,
+          "end": 388.98,
+          "translation": "Goal"
+        },
+        {
+          "word": "des",
+          "start": 388.98,
+          "end": 389.3,
+          "translation": "of the"
+        },
+        {
+          "word": "Papstes",
+          "start": 389.3,
+          "end": 389.96,
+          "translation": "Pope"
+        },
+        {
+          "word": "ist",
+          "start": 389.96,
+          "end": 390.38,
+          "translation": "is"
+        },
+        {
+          "word": "es",
+          "start": 390.38,
+          "end": 390.7,
+          "translation": "it"
+        },
+        {
+          "word": "laut",
+          "start": 390.7,
+          "end": 390.96,
+          "translation": "according to"
+        },
+        {
+          "word": "Vatikansprecher",
+          "start": 390.96,
+          "end": 392.07,
+          "translation": "Vatican spokesman"
+        },
+        {
+          "word": "Matteo",
+          "start": 392.07,
+          "end": 393.18,
+          "translation": "Matteo"
+        },
+        {
+          "word": "Bruni,",
+          "start": 393.18,
+          "end": 393.8,
+          "translation": "Bruni,"
+        },
+        {
+          "word": "„sich",
+          "start": 394.42,
+          "end": 394.6,
+          "translation": "\"itself"
+        },
+        {
+          "word": "an",
+          "start": 394.6,
+          "end": 394.86,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 394.86,
+          "end": 395.08,
+          "translation": "the"
+        },
+        {
+          "word": "islamische",
+          "start": 395.08,
+          "end": 395.88,
+          "translation": "Islamic"
+        },
+        {
+          "word": "Welt",
+          "start": 395.88,
+          "end": 396.3,
+          "translation": "World"
+        },
+        {
+          "word": "zu",
+          "start": 396.3,
+          "end": 396.72,
+          "translation": "to"
+        },
+        {
+          "word": "wenden,",
+          "start": 396.72,
+          "end": 397.2,
+          "translation": "turn,"
+        },
+        {
+          "word": "aber",
+          "start": 397.86,
+          "end": 398.42,
+          "translation": "but"
+        },
+        {
+          "word": "auch",
+          "start": 398.42,
+          "end": 398.74,
+          "translation": "also"
+        },
+        {
+          "word": "eine",
+          "start": 398.74,
+          "end": 399.16,
+          "translation": "one"
+        },
+        {
+          "word": "gemeinsame",
+          "start": 399.16,
+          "end": 400.12,
+          "translation": "common"
+        },
+        {
+          "word": "Herausforderung",
+          "start": 400.12,
+          "end": 401.48,
+          "translation": "The challenge"
+        },
+        {
+          "word": "des",
+          "start": 401.48,
+          "end": 401.84,
+          "translation": "of the"
+        },
+        {
+          "word": "Zusammenlebens",
+          "start": 401.84,
+          "end": 403.24,
+          "translation": "Living together"
+        },
+        {
+          "word": "anzugehen“.",
+          "start": 403.24,
+          "end": 404.4,
+          "translation": "to tackle\"."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "US-Präsident Trump bezeichnet Papst Leo als „schrecklich“",
+      "words": [
+        {
+          "word": "US-Präsident",
+          "start": 404.4,
+          "end": 406.98,
+          "translation": "US President"
+        },
+        {
+          "word": "Trump",
+          "start": 406.98,
+          "end": 407.68,
+          "translation": "Trump"
+        },
+        {
+          "word": "bezeichnet",
+          "start": 407.68,
+          "end": 408.94,
+          "translation": "designated"
+        },
+        {
+          "word": "Papst",
+          "start": 408.94,
+          "end": 409.6,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 409.6,
+          "end": 409.86,
+          "translation": "Leo"
+        },
+        {
+          "word": "als",
+          "start": 409.86,
+          "end": 410.38,
+          "translation": "as"
+        },
+        {
+          "word": "„schrecklich“",
+          "start": 410.38,
+          "end": 411.56,
+          "translation": "\"terrible\""
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "US-Präsident Donald Trump hat das Oberhaupt der katholischen Kirche, Papst Leo XIV., scharf kritisiert. Auf seiner Plattform Truth Social bezeichnete der Republikaner den Papst als „schrecklich“ in außenpolitischen Fragen. Trump schrieb, der Papst solle „dankbar“ sein, da er sein Amt angeblich nur seiner US-amerikanischen Herkunft verdanke. Der US-Präsident betonte weiter, er wolle keinen Papst, der eine mögliche atomare Bewaffnung des Iran toleriere oder militärische Aktionen der USA, etwa gegen Venezuela, kritisiere. Die ungewöhnlich scharfen Angriffe folgen auf eine Predigt des Papstes vom Wochenende, in der dieser ein Ende aller Kriege forderte und vor wachsender Gewalt warnte.",
+      "words": [
+        {
+          "word": "US-Präsident",
+          "start": 411.56,
+          "end": 414.0,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 414.0,
+          "end": 414.38,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 414.38,
+          "end": 415.12,
+          "translation": "Trump"
+        },
+        {
+          "word": "hat",
+          "start": 415.12,
+          "end": 415.84,
+          "translation": "has"
+        },
+        {
+          "word": "das",
+          "start": 415.84,
+          "end": 416.24,
+          "translation": "the"
+        },
+        {
+          "word": "Oberhaupt",
+          "start": 416.24,
+          "end": 416.98,
+          "translation": "Head"
+        },
+        {
+          "word": "der",
+          "start": 416.98,
+          "end": 417.36,
+          "translation": "the"
+        },
+        {
+          "word": "katholischen",
+          "start": 417.36,
+          "end": 418.14,
+          "translation": "catholic"
+        },
+        {
+          "word": "Kirche,",
+          "start": 418.14,
+          "end": 418.8,
+          "translation": "Church,"
+        },
+        {
+          "word": "Papst",
+          "start": 419.48,
+          "end": 419.9,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 419.9,
+          "end": 420.12,
+          "translation": "Leo"
+        },
+        {
+          "word": "XIV.,",
+          "start": 420.12,
+          "end": 421.18,
+          "translation": "XIV,"
+        },
+        {
+          "word": "scharf",
+          "start": 421.18,
+          "end": 422.28,
+          "translation": "hot"
+        },
+        {
+          "word": "kritisiert.",
+          "start": 422.28,
+          "end": 423.3,
+          "translation": "criticized."
+        },
+        {
+          "word": "Auf",
+          "start": 423.9,
+          "end": 424.52,
+          "translation": "On"
+        },
+        {
+          "word": "seiner",
+          "start": 424.52,
+          "end": 425.0,
+          "translation": "his"
+        },
+        {
+          "word": "Plattform",
+          "start": 425.0,
+          "end": 425.64,
+          "translation": "Platform"
+        },
+        {
+          "word": "Truth",
+          "start": 425.64,
+          "end": 426.18,
+          "translation": "Truth"
+        },
+        {
+          "word": "Social",
+          "start": 426.18,
+          "end": 426.96,
+          "translation": "Social"
+        },
+        {
+          "word": "bezeichnete",
+          "start": 426.96,
+          "end": 428.56,
+          "translation": "labeled"
+        },
+        {
+          "word": "der",
+          "start": 428.56,
+          "end": 428.9,
+          "translation": "the"
+        },
+        {
+          "word": "Republikaner",
+          "start": 428.9,
+          "end": 430.1,
+          "translation": "Republicans"
+        },
+        {
+          "word": "den",
+          "start": 430.1,
+          "end": 430.3,
+          "translation": "the"
+        },
+        {
+          "word": "Papst",
+          "start": 430.3,
+          "end": 430.92,
+          "translation": "Pope"
+        },
+        {
+          "word": "als",
+          "start": 430.92,
+          "end": 431.26,
+          "translation": "as"
+        },
+        {
+          "word": "„schrecklich“",
+          "start": 431.26,
+          "end": 432.28,
+          "translation": "\"terrible\""
+        },
+        {
+          "word": "in",
+          "start": 432.28,
+          "end": 432.88,
+          "translation": "in"
+        },
+        {
+          "word": "außenpolitischen",
+          "start": 432.88,
+          "end": 434.2,
+          "translation": "foreign policy"
+        },
+        {
+          "word": "Fragen.",
+          "start": 434.2,
+          "end": 434.72,
+          "translation": "Questions."
+        },
+        {
+          "word": "Trump",
+          "start": 436.06,
+          "end": 436.44,
+          "translation": "Trump"
+        },
+        {
+          "word": "schrieb,",
+          "start": 436.44,
+          "end": 437.0,
+          "translation": "wrote,"
+        },
+        {
+          "word": "der",
+          "start": 437.0,
+          "end": 437.34,
+          "translation": "the"
+        },
+        {
+          "word": "Papst",
+          "start": 437.34,
+          "end": 437.98,
+          "translation": "Pope"
+        },
+        {
+          "word": "solle",
+          "start": 437.98,
+          "end": 438.4,
+          "translation": "should"
+        },
+        {
+          "word": "„dankbar“",
+          "start": 438.4,
+          "end": 439.22,
+          "translation": "\"grateful\""
+        },
+        {
+          "word": "sein,",
+          "start": 439.22,
+          "end": 439.74,
+          "translation": "be,"
+        },
+        {
+          "word": "da",
+          "start": 440.36,
+          "end": 440.64,
+          "translation": "there"
+        },
+        {
+          "word": "er",
+          "start": 440.64,
+          "end": 440.94,
+          "translation": "he"
+        },
+        {
+          "word": "sein",
+          "start": 440.94,
+          "end": 441.26,
+          "translation": "be"
+        },
+        {
+          "word": "Amt",
+          "start": 441.26,
+          "end": 441.68,
+          "translation": "Office"
+        },
+        {
+          "word": "angeblich",
+          "start": 441.68,
+          "end": 442.5,
+          "translation": "allegedly"
+        },
+        {
+          "word": "nur",
+          "start": 442.5,
+          "end": 443.12,
+          "translation": "only"
+        },
+        {
+          "word": "seiner",
+          "start": 443.12,
+          "end": 443.82,
+          "translation": "his"
+        },
+        {
+          "word": "US-amerikanischen",
+          "start": 443.82,
+          "end": 445.44,
+          "translation": "US-American"
+        },
+        {
+          "word": "Herkunft",
+          "start": 445.44,
+          "end": 446.24,
+          "translation": "Origin"
+        },
+        {
+          "word": "verdanke.",
+          "start": 446.24,
+          "end": 447.96,
+          "translation": "owe."
+        },
+        {
+          "word": "Der",
+          "start": 447.96,
+          "end": 448.66,
+          "translation": "The"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 448.66,
+          "end": 449.78,
+          "translation": "US President"
+        },
+        {
+          "word": "betonte",
+          "start": 449.78,
+          "end": 450.44,
+          "translation": "emphasized"
+        },
+        {
+          "word": "weiter,",
+          "start": 450.44,
+          "end": 451.06,
+          "translation": "continue,"
+        },
+        {
+          "word": "er",
+          "start": 451.84,
+          "end": 451.98,
+          "translation": "he"
+        },
+        {
+          "word": "wolle",
+          "start": 451.98,
+          "end": 452.36,
+          "translation": "wool"
+        },
+        {
+          "word": "keinen",
+          "start": 452.36,
+          "end": 452.74,
+          "translation": "none"
+        },
+        {
+          "word": "Papst,",
+          "start": 452.74,
+          "end": 453.52,
+          "translation": "Pope,"
+        },
+        {
+          "word": "der",
+          "start": 453.98,
+          "end": 454.2,
+          "translation": "the"
+        },
+        {
+          "word": "eine",
+          "start": 454.2,
+          "end": 454.46,
+          "translation": "one"
+        },
+        {
+          "word": "mögliche",
+          "start": 454.46,
+          "end": 455.36,
+          "translation": "possible"
+        },
+        {
+          "word": "atomare",
+          "start": 455.36,
+          "end": 456.1,
+          "translation": "atomic"
+        },
+        {
+          "word": "Bewaffnung",
+          "start": 456.1,
+          "end": 456.88,
+          "translation": "Armament"
+        },
+        {
+          "word": "des",
+          "start": 456.88,
+          "end": 457.4,
+          "translation": "of the"
+        },
+        {
+          "word": "Iran",
+          "start": 457.4,
+          "end": 457.92,
+          "translation": "Iran"
+        },
+        {
+          "word": "toleriere",
+          "start": 457.92,
+          "end": 458.86,
+          "translation": "tolerate"
+        },
+        {
+          "word": "oder",
+          "start": 458.86,
+          "end": 460.12,
+          "translation": "or"
+        },
+        {
+          "word": "militärische",
+          "start": 460.12,
+          "end": 461.26,
+          "translation": "military"
+        },
+        {
+          "word": "Aktionen",
+          "start": 461.26,
+          "end": 462.14,
+          "translation": "Actions"
+        },
+        {
+          "word": "der",
+          "start": 462.14,
+          "end": 462.4,
+          "translation": "the"
+        },
+        {
+          "word": "USA,",
+          "start": 462.4,
+          "end": 462.96,
+          "translation": "USA,"
+        },
+        {
+          "word": "etwa",
+          "start": 463.74,
+          "end": 464.1,
+          "translation": "about"
+        },
+        {
+          "word": "gegen",
+          "start": 464.1,
+          "end": 464.6,
+          "translation": "vs."
+        },
+        {
+          "word": "Venezuela,",
+          "start": 464.6,
+          "end": 465.38,
+          "translation": "Venezuela,"
+        },
+        {
+          "word": "kritisiere.",
+          "start": 465.38,
+          "end": 467.06,
+          "translation": "criticize."
+        },
+        {
+          "word": "Die",
+          "start": 467.9,
+          "end": 468.56,
+          "translation": "The"
+        },
+        {
+          "word": "ungewöhnlich",
+          "start": 468.56,
+          "end": 469.66,
+          "translation": "unusual"
+        },
+        {
+          "word": "scharfen",
+          "start": 469.66,
+          "end": 470.32,
+          "translation": "sharp"
+        },
+        {
+          "word": "Angriffe",
+          "start": 470.32,
+          "end": 471.16,
+          "translation": "Attacks"
+        },
+        {
+          "word": "folgen",
+          "start": 471.16,
+          "end": 472.22,
+          "translation": "follow"
+        },
+        {
+          "word": "auf",
+          "start": 472.22,
+          "end": 472.62,
+          "translation": "on"
+        },
+        {
+          "word": "eine",
+          "start": 472.62,
+          "end": 472.9,
+          "translation": "one"
+        },
+        {
+          "word": "Predigt",
+          "start": 472.9,
+          "end": 473.6,
+          "translation": "Sermon"
+        },
+        {
+          "word": "des",
+          "start": 473.6,
+          "end": 473.92,
+          "translation": "of the"
+        },
+        {
+          "word": "Papstes",
+          "start": 473.92,
+          "end": 474.62,
+          "translation": "Pope"
+        },
+        {
+          "word": "vom",
+          "start": 474.62,
+          "end": 475.22,
+          "translation": "from the"
+        },
+        {
+          "word": "Wochenende,",
+          "start": 475.22,
+          "end": 476.28,
+          "translation": "Weekend,"
+        },
+        {
+          "word": "in",
+          "start": 476.78,
+          "end": 477.18,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 477.18,
+          "end": 477.34,
+          "translation": "the"
+        },
+        {
+          "word": "dieser",
+          "start": 477.34,
+          "end": 477.88,
+          "translation": "this"
+        },
+        {
+          "word": "ein",
+          "start": 477.88,
+          "end": 478.3,
+          "translation": "a"
+        },
+        {
+          "word": "Ende",
+          "start": 478.3,
+          "end": 478.82,
+          "translation": "End"
+        },
+        {
+          "word": "aller",
+          "start": 478.82,
+          "end": 479.2,
+          "translation": "all"
+        },
+        {
+          "word": "Kriege",
+          "start": 479.2,
+          "end": 479.86,
+          "translation": "Wars"
+        },
+        {
+          "word": "forderte",
+          "start": 479.86,
+          "end": 480.62,
+          "translation": "demanded"
+        },
+        {
+          "word": "und",
+          "start": 480.62,
+          "end": 481.54,
+          "translation": "and"
+        },
+        {
+          "word": "vor",
+          "start": 481.54,
+          "end": 481.94,
+          "translation": "before"
+        },
+        {
+          "word": "wachsender",
+          "start": 481.94,
+          "end": 482.72,
+          "translation": "growing"
+        },
+        {
+          "word": "Gewalt",
+          "start": 482.72,
+          "end": 483.38,
+          "translation": "Violence"
+        },
+        {
+          "word": "warnte.",
+          "start": 483.38,
+          "end": 484.38,
+          "translation": "warned."
+        }
+      ]
+    }
+  ]
+}
