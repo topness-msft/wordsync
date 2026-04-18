@@ -1,0 +1,3340 @@
+{
+  "id": 76819777,
+  "title": "17.04.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-04-17",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/D0B5775C_2.mp3",
+  "duration": 476,
+  "imageUrl": "https://static.dw.com/image/76817372_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Libanesische Armee wirft Israel Verstöße gegen Feuerpause vor",
+      "words": [
+        {
+          "word": "Libanesische",
+          "start": 0.0,
+          "end": 18.56,
+          "translation": "Lebanese"
+        },
+        {
+          "word": "Armee",
+          "start": 18.56,
+          "end": 19.0,
+          "translation": "Army"
+        },
+        {
+          "word": "wirft",
+          "start": 19.0,
+          "end": 19.68,
+          "translation": "throws"
+        },
+        {
+          "word": "Israel",
+          "start": 19.68,
+          "end": 20.2,
+          "translation": "Israel"
+        },
+        {
+          "word": "Verstöße",
+          "start": 20.2,
+          "end": 21.54,
+          "translation": "Violations"
+        },
+        {
+          "word": "gegen",
+          "start": 21.54,
+          "end": 22.04,
+          "translation": "vs."
+        },
+        {
+          "word": "Feuerpause",
+          "start": 22.04,
+          "end": 23.18,
+          "translation": "Cease fire"
+        },
+        {
+          "word": "vor",
+          "start": 23.18,
+          "end": 23.74,
+          "translation": "before"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Nach Inkrafttreten einer Waffenruhe zwischen den verfeindeten Nachbarländern Libanon und Israel bleibt die Lage angespannt. Die libanesische Armee warf Israel Verstöße gegen die Vereinbarung vor. Die pro-iranische Hisbollah, die von vielen Staaten als Terrororganisation gelistet ist, verübte nach eigenen Angaben einen Vergeltungsangriff auf israelische Soldaten. US-Präsident Donald Trump mahnte die Hisbollah zur Einhaltung der Feuerpause. Die zehntägige Waffenruhe begann um Mitternacht, Ortszeit.",
+      "words": [
+        {
+          "word": "Nach",
+          "start": 24.62,
+          "end": 25.32,
+          "translation": "After"
+        },
+        {
+          "word": "Inkrafttreten",
+          "start": 25.32,
+          "end": 26.88,
+          "translation": "Entry into force"
+        },
+        {
+          "word": "einer",
+          "start": 26.88,
+          "end": 27.4,
+          "translation": "one"
+        },
+        {
+          "word": "Waffenruhe",
+          "start": 27.4,
+          "end": 28.42,
+          "translation": "Ceasefire"
+        },
+        {
+          "word": "zwischen",
+          "start": 28.42,
+          "end": 28.94,
+          "translation": "between"
+        },
+        {
+          "word": "den",
+          "start": 28.94,
+          "end": 29.44,
+          "translation": "the"
+        },
+        {
+          "word": "verfeindeten",
+          "start": 29.44,
+          "end": 30.56,
+          "translation": "hostile"
+        },
+        {
+          "word": "Nachbarländern",
+          "start": 30.56,
+          "end": 31.74,
+          "translation": "neighboring countries"
+        },
+        {
+          "word": "Libanon",
+          "start": 31.74,
+          "end": 32.76,
+          "translation": "Lebanon"
+        },
+        {
+          "word": "und",
+          "start": 32.76,
+          "end": 33.26,
+          "translation": "and"
+        },
+        {
+          "word": "Israel",
+          "start": 33.26,
+          "end": 33.86,
+          "translation": "Israel"
+        },
+        {
+          "word": "bleibt",
+          "start": 33.86,
+          "end": 34.98,
+          "translation": "remains"
+        },
+        {
+          "word": "die",
+          "start": 34.98,
+          "end": 35.4,
+          "translation": "the"
+        },
+        {
+          "word": "Lage",
+          "start": 35.4,
+          "end": 35.84,
+          "translation": "Location"
+        },
+        {
+          "word": "angespannt.",
+          "start": 35.84,
+          "end": 36.98,
+          "translation": "tense."
+        },
+        {
+          "word": "Die",
+          "start": 37.88,
+          "end": 38.46,
+          "translation": "The"
+        },
+        {
+          "word": "libanesische",
+          "start": 38.46,
+          "end": 39.68,
+          "translation": "Lebanese"
+        },
+        {
+          "word": "Armee",
+          "start": 39.68,
+          "end": 40.16,
+          "translation": "Army"
+        },
+        {
+          "word": "warf",
+          "start": 40.16,
+          "end": 41.12,
+          "translation": "threw"
+        },
+        {
+          "word": "Israel",
+          "start": 41.12,
+          "end": 41.74,
+          "translation": "Israel"
+        },
+        {
+          "word": "Verstöße",
+          "start": 41.74,
+          "end": 43.12,
+          "translation": "Violations"
+        },
+        {
+          "word": "gegen",
+          "start": 43.12,
+          "end": 43.62,
+          "translation": "vs."
+        },
+        {
+          "word": "die",
+          "start": 43.62,
+          "end": 43.92,
+          "translation": "the"
+        },
+        {
+          "word": "Vereinbarung",
+          "start": 43.92,
+          "end": 45.14,
+          "translation": "Agreement"
+        },
+        {
+          "word": "vor.",
+          "start": 45.14,
+          "end": 45.58,
+          "translation": "before."
+        },
+        {
+          "word": "Die",
+          "start": 46.02,
+          "end": 46.72,
+          "translation": "The"
+        },
+        {
+          "word": "pro-iranische",
+          "start": 46.72,
+          "end": 48.22,
+          "translation": "pro-Iranian"
+        },
+        {
+          "word": "Hisbollah,",
+          "start": 48.22,
+          "end": 49.72,
+          "translation": "Hezbollah,"
+        },
+        {
+          "word": "die",
+          "start": 49.72,
+          "end": 49.96,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 49.96,
+          "end": 50.34,
+          "translation": "from"
+        },
+        {
+          "word": "vielen",
+          "start": 50.34,
+          "end": 50.92,
+          "translation": "many"
+        },
+        {
+          "word": "Staaten",
+          "start": 50.92,
+          "end": 51.68,
+          "translation": "States"
+        },
+        {
+          "word": "als",
+          "start": 51.68,
+          "end": 52.2,
+          "translation": "as"
+        },
+        {
+          "word": "Terrororganisation",
+          "start": 52.2,
+          "end": 53.76,
+          "translation": "Terrorist organization"
+        },
+        {
+          "word": "gelistet",
+          "start": 53.76,
+          "end": 55.04,
+          "translation": "listed"
+        },
+        {
+          "word": "ist,",
+          "start": 55.04,
+          "end": 55.5,
+          "translation": "is,"
+        },
+        {
+          "word": "verübte",
+          "start": 56.1,
+          "end": 56.8,
+          "translation": "perpetrated"
+        },
+        {
+          "word": "nach",
+          "start": 56.8,
+          "end": 57.14,
+          "translation": "to"
+        },
+        {
+          "word": "eigenen",
+          "start": 57.14,
+          "end": 57.88,
+          "translation": "own"
+        },
+        {
+          "word": "Angaben",
+          "start": 57.88,
+          "end": 58.78,
+          "translation": "Details"
+        },
+        {
+          "word": "einen",
+          "start": 58.78,
+          "end": 59.52,
+          "translation": "one"
+        },
+        {
+          "word": "Vergeltungsangriff",
+          "start": 59.52,
+          "end": 61.44,
+          "translation": "Retaliatory attack"
+        },
+        {
+          "word": "auf",
+          "start": 61.44,
+          "end": 62.26,
+          "translation": "on"
+        },
+        {
+          "word": "israelische",
+          "start": 62.26,
+          "end": 63.58,
+          "translation": "Israeli"
+        },
+        {
+          "word": "Soldaten.",
+          "start": 63.58,
+          "end": 64.58,
+          "translation": "Soldiers."
+        },
+        {
+          "word": "US-Präsident",
+          "start": 64.58,
+          "end": 66.23,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 66.23,
+          "end": 67.88,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 67.88,
+          "end": 68.52,
+          "translation": "Trump"
+        },
+        {
+          "word": "mahnte",
+          "start": 68.52,
+          "end": 69.48,
+          "translation": "admonished"
+        },
+        {
+          "word": "die",
+          "start": 69.48,
+          "end": 69.92,
+          "translation": "the"
+        },
+        {
+          "word": "Hisbollah",
+          "start": 69.92,
+          "end": 70.66,
+          "translation": "Hezbollah"
+        },
+        {
+          "word": "zur",
+          "start": 70.66,
+          "end": 71.34,
+          "translation": "to the"
+        },
+        {
+          "word": "Einhaltung",
+          "start": 71.34,
+          "end": 72.42,
+          "translation": "Compliance"
+        },
+        {
+          "word": "der",
+          "start": 72.42,
+          "end": 72.72,
+          "translation": "the"
+        },
+        {
+          "word": "Feuerpause.",
+          "start": 72.72,
+          "end": 73.82,
+          "translation": "Cease fire."
+        },
+        {
+          "word": "Die",
+          "start": 74.46,
+          "end": 74.82,
+          "translation": "The"
+        },
+        {
+          "word": "zehntägige",
+          "start": 74.82,
+          "end": 75.84,
+          "translation": "ten-day"
+        },
+        {
+          "word": "Waffenruhe",
+          "start": 75.84,
+          "end": 76.98,
+          "translation": "Ceasefire"
+        },
+        {
+          "word": "begann",
+          "start": 76.98,
+          "end": 77.72,
+          "translation": "began"
+        },
+        {
+          "word": "um",
+          "start": 77.72,
+          "end": 78.26,
+          "translation": "to"
+        },
+        {
+          "word": "Mitternacht,",
+          "start": 78.26,
+          "end": 79.26,
+          "translation": "Midnight,"
+        },
+        {
+          "word": "Ortszeit.",
+          "start": 79.26,
+          "end": 80.62,
+          "translation": "Local time."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Deutschland will offenbar Minenjagdboote für Hormus-Mission anbieten",
+      "words": [
+        {
+          "word": "Deutschland",
+          "start": 82.64,
+          "end": 83.94,
+          "translation": "Germany"
+        },
+        {
+          "word": "will",
+          "start": 83.94,
+          "end": 84.48,
+          "translation": "wants"
+        },
+        {
+          "word": "offenbar",
+          "start": 84.48,
+          "end": 85.36,
+          "translation": "obviously"
+        },
+        {
+          "word": "Minenjagdboote",
+          "start": 85.36,
+          "end": 87.28,
+          "translation": "Minehunting boats"
+        },
+        {
+          "word": "für",
+          "start": 87.28,
+          "end": 87.8,
+          "translation": "for"
+        },
+        {
+          "word": "Hormus-Mission",
+          "start": 87.8,
+          "end": 89.3,
+          "translation": "Hormuz mission"
+        },
+        {
+          "word": "anbieten",
+          "start": 89.3,
+          "end": 90.42,
+          "translation": "offer"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Bundeskanzler Friedrich Merz will bei den Beratungen über eine mögliche Militärmission zur Sicherung der Straße von Hormus an diesem Freitag in Paris ein Angebot für eine deutsche Beteiligung machen. Wie es aus Regierungskreisen heißt, soll die Bundeswehr nach einem Ende der Kampfhandlungen Minenjagdboote, ein Begleitschiff und Luftaufklärung bereitstellen. Einen Einsatz während laufender Kampfhandlungen schließt die Bundesregierung aus. Zudem müsse der Einsatz völkerrechtlich abgesichert werden, idealerweise durch ein Mandat des UN-Sicherheitsrats. Die dritte Bedingung sei ein „belastbares militärisches Konzept“, heißt es aus Berlin, zu dessen Erarbeitung die Konferenz in Paris diene.",
+      "words": [
+        {
+          "word": "Bundeskanzler",
+          "start": 91.64,
+          "end": 92.94,
+          "translation": "Federal Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 92.94,
+          "end": 93.74,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 93.74,
+          "end": 94.38,
+          "translation": "Merz"
+        },
+        {
+          "word": "will",
+          "start": 94.38,
+          "end": 94.64,
+          "translation": "wants"
+        },
+        {
+          "word": "bei",
+          "start": 94.64,
+          "end": 94.98,
+          "translation": "with"
+        },
+        {
+          "word": "den",
+          "start": 94.98,
+          "end": 95.3,
+          "translation": "the"
+        },
+        {
+          "word": "Beratungen",
+          "start": 95.3,
+          "end": 96.12,
+          "translation": "Consultations"
+        },
+        {
+          "word": "über",
+          "start": 96.12,
+          "end": 96.64,
+          "translation": "about"
+        },
+        {
+          "word": "eine",
+          "start": 96.64,
+          "end": 97.1,
+          "translation": "one"
+        },
+        {
+          "word": "mögliche",
+          "start": 97.1,
+          "end": 98.04,
+          "translation": "possible"
+        },
+        {
+          "word": "Militärmission",
+          "start": 98.04,
+          "end": 99.34,
+          "translation": "Military mission"
+        },
+        {
+          "word": "zur",
+          "start": 99.34,
+          "end": 99.92,
+          "translation": "to the"
+        },
+        {
+          "word": "Sicherung",
+          "start": 99.92,
+          "end": 100.76,
+          "translation": "Fuse"
+        },
+        {
+          "word": "der",
+          "start": 100.76,
+          "end": 101.04,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 101.04,
+          "end": 101.7,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 101.7,
+          "end": 102.08,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 102.08,
+          "end": 102.82,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "an",
+          "start": 102.82,
+          "end": 103.48,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 103.48,
+          "end": 103.98,
+          "translation": "this"
+        },
+        {
+          "word": "Freitag",
+          "start": 103.98,
+          "end": 104.94,
+          "translation": "Friday"
+        },
+        {
+          "word": "in",
+          "start": 104.94,
+          "end": 105.44,
+          "translation": "in"
+        },
+        {
+          "word": "Paris",
+          "start": 105.44,
+          "end": 105.96,
+          "translation": "Paris"
+        },
+        {
+          "word": "ein",
+          "start": 105.96,
+          "end": 106.68,
+          "translation": "a"
+        },
+        {
+          "word": "Angebot",
+          "start": 106.68,
+          "end": 107.8,
+          "translation": "Offer"
+        },
+        {
+          "word": "für",
+          "start": 107.8,
+          "end": 108.14,
+          "translation": "for"
+        },
+        {
+          "word": "eine",
+          "start": 108.14,
+          "end": 108.68,
+          "translation": "one"
+        },
+        {
+          "word": "deutsche",
+          "start": 108.68,
+          "end": 109.3,
+          "translation": "German"
+        },
+        {
+          "word": "Beteiligung",
+          "start": 109.3,
+          "end": 110.32,
+          "translation": "Participation"
+        },
+        {
+          "word": "machen.",
+          "start": 110.32,
+          "end": 110.6,
+          "translation": "make."
+        },
+        {
+          "word": "Wie",
+          "start": 111.4,
+          "end": 112.08,
+          "translation": "How"
+        },
+        {
+          "word": "es",
+          "start": 112.08,
+          "end": 112.42,
+          "translation": "it"
+        },
+        {
+          "word": "aus",
+          "start": 112.42,
+          "end": 112.7,
+          "translation": "from"
+        },
+        {
+          "word": "Regierungskreisen",
+          "start": 112.7,
+          "end": 114.28,
+          "translation": "Government circles"
+        },
+        {
+          "word": "heißt,",
+          "start": 114.28,
+          "end": 114.8,
+          "translation": "means,"
+        },
+        {
+          "word": "soll",
+          "start": 115.42,
+          "end": 115.54,
+          "translation": "should"
+        },
+        {
+          "word": "die",
+          "start": 115.54,
+          "end": 115.88,
+          "translation": "the"
+        },
+        {
+          "word": "Bundeswehr",
+          "start": 115.88,
+          "end": 116.72,
+          "translation": "German Armed Forces"
+        },
+        {
+          "word": "nach",
+          "start": 116.72,
+          "end": 117.22,
+          "translation": "to"
+        },
+        {
+          "word": "einem",
+          "start": 117.22,
+          "end": 117.76,
+          "translation": "one"
+        },
+        {
+          "word": "Ende",
+          "start": 117.76,
+          "end": 118.32,
+          "translation": "End"
+        },
+        {
+          "word": "der",
+          "start": 118.32,
+          "end": 118.68,
+          "translation": "the"
+        },
+        {
+          "word": "Kampfhandlungen",
+          "start": 118.68,
+          "end": 119.84,
+          "translation": "Combat operations"
+        },
+        {
+          "word": "Minenjagdboote,",
+          "start": 119.84,
+          "end": 122.08,
+          "translation": "Minehunting boats,"
+        },
+        {
+          "word": "ein",
+          "start": 122.08,
+          "end": 122.9,
+          "translation": "a"
+        },
+        {
+          "word": "Begleitschiff",
+          "start": 122.9,
+          "end": 124.0,
+          "translation": "Escort ship"
+        },
+        {
+          "word": "und",
+          "start": 124.0,
+          "end": 124.68,
+          "translation": "and"
+        },
+        {
+          "word": "Luftaufklärung",
+          "start": 124.68,
+          "end": 126.32,
+          "translation": "Aerial reconnaissance"
+        },
+        {
+          "word": "bereitstellen.",
+          "start": 126.32,
+          "end": 127.44,
+          "translation": "provide."
+        },
+        {
+          "word": "Einen",
+          "start": 128.08,
+          "end": 128.76,
+          "translation": "One"
+        },
+        {
+          "word": "Einsatz",
+          "start": 128.76,
+          "end": 129.32,
+          "translation": "Use"
+        },
+        {
+          "word": "während",
+          "start": 129.32,
+          "end": 130.0,
+          "translation": "while"
+        },
+        {
+          "word": "laufender",
+          "start": 130.0,
+          "end": 130.9,
+          "translation": "running"
+        },
+        {
+          "word": "Kampfhandlungen",
+          "start": 130.9,
+          "end": 132.0,
+          "translation": "Combat operations"
+        },
+        {
+          "word": "schließt",
+          "start": 132.0,
+          "end": 133.08,
+          "translation": "closes"
+        },
+        {
+          "word": "die",
+          "start": 133.08,
+          "end": 133.22,
+          "translation": "the"
+        },
+        {
+          "word": "Bundesregierung",
+          "start": 133.22,
+          "end": 134.22,
+          "translation": "Federal Government"
+        },
+        {
+          "word": "aus.",
+          "start": 134.22,
+          "end": 135.24,
+          "translation": "from."
+        },
+        {
+          "word": "Zudem",
+          "start": 135.86,
+          "end": 136.62,
+          "translation": "In addition"
+        },
+        {
+          "word": "müsse",
+          "start": 136.62,
+          "end": 137.3,
+          "translation": "must"
+        },
+        {
+          "word": "der",
+          "start": 137.3,
+          "end": 137.54,
+          "translation": "the"
+        },
+        {
+          "word": "Einsatz",
+          "start": 137.54,
+          "end": 138.2,
+          "translation": "Use"
+        },
+        {
+          "word": "völkerrechtlich",
+          "start": 138.2,
+          "end": 140.06,
+          "translation": "under international law"
+        },
+        {
+          "word": "abgesichert",
+          "start": 140.06,
+          "end": 141.06,
+          "translation": "secured"
+        },
+        {
+          "word": "werden,",
+          "start": 141.06,
+          "end": 141.6,
+          "translation": "become,"
+        },
+        {
+          "word": "idealerweise",
+          "start": 142.2,
+          "end": 143.52,
+          "translation": "ideally"
+        },
+        {
+          "word": "durch",
+          "start": 143.52,
+          "end": 144.1,
+          "translation": "through"
+        },
+        {
+          "word": "ein",
+          "start": 144.1,
+          "end": 144.6,
+          "translation": "a"
+        },
+        {
+          "word": "Mandat",
+          "start": 144.6,
+          "end": 145.16,
+          "translation": "Mandate"
+        },
+        {
+          "word": "des",
+          "start": 145.16,
+          "end": 145.7,
+          "translation": "of the"
+        },
+        {
+          "word": "UN-Sicherheitsrats.",
+          "start": 145.7,
+          "end": 148.4,
+          "translation": "UN Security Council."
+        },
+        {
+          "word": "Die",
+          "start": 148.4,
+          "end": 148.98,
+          "translation": "The"
+        },
+        {
+          "word": "dritte",
+          "start": 148.98,
+          "end": 149.68,
+          "translation": "third"
+        },
+        {
+          "word": "Bedingung",
+          "start": 149.68,
+          "end": 150.38,
+          "translation": "Condition"
+        },
+        {
+          "word": "sei",
+          "start": 150.38,
+          "end": 150.8,
+          "translation": "be"
+        },
+        {
+          "word": "ein",
+          "start": 150.8,
+          "end": 151.34,
+          "translation": "a"
+        },
+        {
+          "word": "„belastbares",
+          "start": 151.34,
+          "end": 152.98,
+          "translation": "\"resilient"
+        },
+        {
+          "word": "militärisches",
+          "start": 152.98,
+          "end": 154.2,
+          "translation": "military"
+        },
+        {
+          "word": "Konzept“,",
+          "start": 154.2,
+          "end": 155.0,
+          "translation": "Concept\","
+        },
+        {
+          "word": "heißt",
+          "start": 155.52,
+          "end": 155.88,
+          "translation": "means"
+        },
+        {
+          "word": "es",
+          "start": 155.88,
+          "end": 156.22,
+          "translation": "it"
+        },
+        {
+          "word": "aus",
+          "start": 156.22,
+          "end": 156.48,
+          "translation": "from"
+        },
+        {
+          "word": "Berlin,",
+          "start": 156.48,
+          "end": 157.04,
+          "translation": "Berlin,"
+        },
+        {
+          "word": "zu",
+          "start": 157.64,
+          "end": 157.94,
+          "translation": "to"
+        },
+        {
+          "word": "dessen",
+          "start": 157.94,
+          "end": 158.6,
+          "translation": "whose"
+        },
+        {
+          "word": "Erarbeitung",
+          "start": 158.6,
+          "end": 159.7,
+          "translation": "Elaboration"
+        },
+        {
+          "word": "die",
+          "start": 159.7,
+          "end": 160.04,
+          "translation": "the"
+        },
+        {
+          "word": "Konferenz",
+          "start": 160.04,
+          "end": 161.08,
+          "translation": "Conference"
+        },
+        {
+          "word": "in",
+          "start": 161.08,
+          "end": 161.38,
+          "translation": "in"
+        },
+        {
+          "word": "Paris",
+          "start": 161.38,
+          "end": 161.94,
+          "translation": "Paris"
+        },
+        {
+          "word": "diene.",
+          "start": 161.94,
+          "end": 164.4,
+          "translation": "serve."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Papst setzt in Afrika Friedenspredigten fort",
+      "words": [
+        {
+          "word": "Papst",
+          "start": 164.4,
+          "end": 165.8,
+          "translation": "Pope"
+        },
+        {
+          "word": "setzt",
+          "start": 165.8,
+          "end": 166.06,
+          "translation": "sets"
+        },
+        {
+          "word": "in",
+          "start": 166.06,
+          "end": 166.52,
+          "translation": "in"
+        },
+        {
+          "word": "Afrika",
+          "start": 166.52,
+          "end": 167.22,
+          "translation": "Africa"
+        },
+        {
+          "word": "Friedenspredigten",
+          "start": 167.22,
+          "end": 169.12,
+          "translation": "Peace sermons"
+        },
+        {
+          "word": "fort",
+          "start": 169.12,
+          "end": 169.46,
+          "translation": "away"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Mit Anklagen gegen die Kriegsherren der Welt hat Papst Leo XIV. seine Afrika-Reise fortgesetzt. In der Stadt Bamenda in Kamerun warnte das Oberhaupt der katholischen Kirche diejenigen, die Religionen und den Namen Gottes für militärische Zwecke verbiegen und damit „das Heilige in Schmutz und Finsternis ziehen“. In Kamerun im Westen Afrikas tobt in der Region seit 2017 ein Konflikt zwischen Regierung und Separatisten, bei dem schon Tausende ums Leben gekommen sind. In den vergangenen Tagen war der Papst nach Friedensappellen mehrfach von US-Präsident Donald Trump kritisiert worden.",
+      "words": [
+        {
+          "word": "Mit",
+          "start": 170.82,
+          "end": 171.08,
+          "translation": "With"
+        },
+        {
+          "word": "Anklagen",
+          "start": 171.08,
+          "end": 172.02,
+          "translation": "Charges"
+        },
+        {
+          "word": "gegen",
+          "start": 172.02,
+          "end": 172.56,
+          "translation": "vs."
+        },
+        {
+          "word": "die",
+          "start": 172.56,
+          "end": 172.9,
+          "translation": "the"
+        },
+        {
+          "word": "Kriegsherren",
+          "start": 172.9,
+          "end": 173.92,
+          "translation": "Warlords"
+        },
+        {
+          "word": "der",
+          "start": 173.92,
+          "end": 174.12,
+          "translation": "the"
+        },
+        {
+          "word": "Welt",
+          "start": 174.12,
+          "end": 174.58,
+          "translation": "World"
+        },
+        {
+          "word": "hat",
+          "start": 174.58,
+          "end": 175.14,
+          "translation": "has"
+        },
+        {
+          "word": "Papst",
+          "start": 175.14,
+          "end": 176.0,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 176.0,
+          "end": 176.36,
+          "translation": "Leo"
+        },
+        {
+          "word": "XIV.",
+          "start": 176.36,
+          "end": 177.78,
+          "translation": "XIV."
+        },
+        {
+          "word": "seine",
+          "start": 177.78,
+          "end": 178.6,
+          "translation": "his"
+        },
+        {
+          "word": "Afrika-Reise",
+          "start": 178.6,
+          "end": 180.02,
+          "translation": "Africa trip"
+        },
+        {
+          "word": "fortgesetzt.",
+          "start": 180.02,
+          "end": 181.16,
+          "translation": "continued."
+        },
+        {
+          "word": "In",
+          "start": 181.16,
+          "end": 182.16,
+          "translation": "In"
+        },
+        {
+          "word": "der",
+          "start": 182.16,
+          "end": 182.42,
+          "translation": "the"
+        },
+        {
+          "word": "Stadt",
+          "start": 182.42,
+          "end": 182.82,
+          "translation": "City"
+        },
+        {
+          "word": "Bamenda",
+          "start": 182.82,
+          "end": 183.94,
+          "translation": "Bamenda"
+        },
+        {
+          "word": "in",
+          "start": 183.94,
+          "end": 184.44,
+          "translation": "in"
+        },
+        {
+          "word": "Kamerun",
+          "start": 184.44,
+          "end": 185.36,
+          "translation": "Cameroon"
+        },
+        {
+          "word": "warnte",
+          "start": 185.36,
+          "end": 186.42,
+          "translation": "warned"
+        },
+        {
+          "word": "das",
+          "start": 186.42,
+          "end": 186.88,
+          "translation": "the"
+        },
+        {
+          "word": "Oberhaupt",
+          "start": 186.88,
+          "end": 187.68,
+          "translation": "Head"
+        },
+        {
+          "word": "der",
+          "start": 187.68,
+          "end": 188.14,
+          "translation": "the"
+        },
+        {
+          "word": "katholischen",
+          "start": 188.14,
+          "end": 189.26,
+          "translation": "catholic"
+        },
+        {
+          "word": "Kirche",
+          "start": 189.26,
+          "end": 189.92,
+          "translation": "Church"
+        },
+        {
+          "word": "diejenigen,",
+          "start": 189.92,
+          "end": 190.9,
+          "translation": "those,"
+        },
+        {
+          "word": "die",
+          "start": 191.52,
+          "end": 191.82,
+          "translation": "the"
+        },
+        {
+          "word": "Religionen",
+          "start": 191.82,
+          "end": 192.92,
+          "translation": "Religions"
+        },
+        {
+          "word": "und",
+          "start": 192.92,
+          "end": 193.42,
+          "translation": "and"
+        },
+        {
+          "word": "den",
+          "start": 193.42,
+          "end": 193.8,
+          "translation": "the"
+        },
+        {
+          "word": "Namen",
+          "start": 193.8,
+          "end": 194.22,
+          "translation": "Names"
+        },
+        {
+          "word": "Gottes",
+          "start": 194.22,
+          "end": 194.88,
+          "translation": "God"
+        },
+        {
+          "word": "für",
+          "start": 194.88,
+          "end": 195.6,
+          "translation": "for"
+        },
+        {
+          "word": "militärische",
+          "start": 195.6,
+          "end": 196.96,
+          "translation": "military"
+        },
+        {
+          "word": "Zwecke",
+          "start": 196.96,
+          "end": 197.64,
+          "translation": "Purposes"
+        },
+        {
+          "word": "verbiegen",
+          "start": 197.64,
+          "end": 198.6,
+          "translation": "bend"
+        },
+        {
+          "word": "und",
+          "start": 199.08,
+          "end": 199.5,
+          "translation": "and"
+        },
+        {
+          "word": "damit",
+          "start": 199.5,
+          "end": 200.08,
+          "translation": "so that"
+        },
+        {
+          "word": "„das",
+          "start": 200.08,
+          "end": 200.92,
+          "translation": "\"the"
+        },
+        {
+          "word": "Heilige",
+          "start": 200.92,
+          "end": 201.7,
+          "translation": "Saints"
+        },
+        {
+          "word": "in",
+          "start": 201.7,
+          "end": 202.1,
+          "translation": "in"
+        },
+        {
+          "word": "Schmutz",
+          "start": 202.1,
+          "end": 202.68,
+          "translation": "Dirt"
+        },
+        {
+          "word": "und",
+          "start": 202.68,
+          "end": 203.16,
+          "translation": "and"
+        },
+        {
+          "word": "Finsternis",
+          "start": 203.16,
+          "end": 203.98,
+          "translation": "Eclipse"
+        },
+        {
+          "word": "ziehen“.",
+          "start": 203.98,
+          "end": 204.52,
+          "translation": "draw\"."
+        },
+        {
+          "word": "In",
+          "start": 205.1,
+          "end": 205.72,
+          "translation": "In"
+        },
+        {
+          "word": "Kamerun",
+          "start": 205.72,
+          "end": 206.46,
+          "translation": "Cameroon"
+        },
+        {
+          "word": "im",
+          "start": 206.46,
+          "end": 206.92,
+          "translation": "in the"
+        },
+        {
+          "word": "Westen",
+          "start": 206.92,
+          "end": 207.54,
+          "translation": "West"
+        },
+        {
+          "word": "Afrikas",
+          "start": 207.54,
+          "end": 208.48,
+          "translation": "Africa"
+        },
+        {
+          "word": "tobt",
+          "start": 208.48,
+          "end": 209.4,
+          "translation": "rages"
+        },
+        {
+          "word": "in",
+          "start": 209.4,
+          "end": 209.62,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 209.62,
+          "end": 209.84,
+          "translation": "the"
+        },
+        {
+          "word": "Region",
+          "start": 209.84,
+          "end": 210.46,
+          "translation": "Region"
+        },
+        {
+          "word": "seit",
+          "start": 210.46,
+          "end": 211.34,
+          "translation": "since"
+        },
+        {
+          "word": "2017",
+          "start": 211.34,
+          "end": 212.8,
+          "translation": "2017"
+        },
+        {
+          "word": "ein",
+          "start": 212.8,
+          "end": 213.76,
+          "translation": "a"
+        },
+        {
+          "word": "Konflikt",
+          "start": 213.76,
+          "end": 214.56,
+          "translation": "Conflict"
+        },
+        {
+          "word": "zwischen",
+          "start": 214.56,
+          "end": 215.14,
+          "translation": "between"
+        },
+        {
+          "word": "Regierung",
+          "start": 215.14,
+          "end": 215.82,
+          "translation": "Government"
+        },
+        {
+          "word": "und",
+          "start": 215.82,
+          "end": 216.44,
+          "translation": "and"
+        },
+        {
+          "word": "Separatisten,",
+          "start": 216.44,
+          "end": 217.78,
+          "translation": "Separatists,"
+        },
+        {
+          "word": "bei",
+          "start": 218.32,
+          "end": 218.56,
+          "translation": "with"
+        },
+        {
+          "word": "dem",
+          "start": 218.56,
+          "end": 218.82,
+          "translation": "the"
+        },
+        {
+          "word": "schon",
+          "start": 218.82,
+          "end": 219.26,
+          "translation": "already"
+        },
+        {
+          "word": "Tausende",
+          "start": 219.26,
+          "end": 220.06,
+          "translation": "Thousands"
+        },
+        {
+          "word": "ums",
+          "start": 220.06,
+          "end": 220.64,
+          "translation": "around"
+        },
+        {
+          "word": "Leben",
+          "start": 220.64,
+          "end": 220.98,
+          "translation": "Life"
+        },
+        {
+          "word": "gekommen",
+          "start": 220.98,
+          "end": 221.54,
+          "translation": "come"
+        },
+        {
+          "word": "sind.",
+          "start": 221.54,
+          "end": 222.16,
+          "translation": "are."
+        },
+        {
+          "word": "In",
+          "start": 223.0,
+          "end": 223.66,
+          "translation": "In"
+        },
+        {
+          "word": "den",
+          "start": 223.66,
+          "end": 223.96,
+          "translation": "the"
+        },
+        {
+          "word": "vergangenen",
+          "start": 223.96,
+          "end": 225.02,
+          "translation": "past"
+        },
+        {
+          "word": "Tagen",
+          "start": 225.02,
+          "end": 225.58,
+          "translation": "Days"
+        },
+        {
+          "word": "war",
+          "start": 225.58,
+          "end": 226.16,
+          "translation": "was"
+        },
+        {
+          "word": "der",
+          "start": 226.16,
+          "end": 226.5,
+          "translation": "the"
+        },
+        {
+          "word": "Papst",
+          "start": 226.5,
+          "end": 227.2,
+          "translation": "Pope"
+        },
+        {
+          "word": "nach",
+          "start": 227.2,
+          "end": 227.44,
+          "translation": "to"
+        },
+        {
+          "word": "Friedensappellen",
+          "start": 227.44,
+          "end": 228.78,
+          "translation": "Appeals for peace"
+        },
+        {
+          "word": "mehrfach",
+          "start": 228.78,
+          "end": 229.84,
+          "translation": "multiple times"
+        },
+        {
+          "word": "von",
+          "start": 229.84,
+          "end": 230.28,
+          "translation": "from"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 230.28,
+          "end": 231.46,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 231.46,
+          "end": 232.12,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 232.12,
+          "end": 232.72,
+          "translation": "Trump"
+        },
+        {
+          "word": "kritisiert",
+          "start": 232.72,
+          "end": 233.8,
+          "translation": "criticized"
+        },
+        {
+          "word": "worden.",
+          "start": 233.8,
+          "end": 234.36,
+          "translation": "been."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Chile hat mit verstärkten Abschiebungen begonnen",
+      "words": [
+        {
+          "word": "Chile",
+          "start": 236.04,
+          "end": 237.06,
+          "translation": "Chile"
+        },
+        {
+          "word": "hat",
+          "start": 237.06,
+          "end": 237.56,
+          "translation": "has"
+        },
+        {
+          "word": "mit",
+          "start": 237.56,
+          "end": 237.9,
+          "translation": "with"
+        },
+        {
+          "word": "verstärkten",
+          "start": 237.9,
+          "end": 238.92,
+          "translation": "reinforced"
+        },
+        {
+          "word": "Abschiebungen",
+          "start": 238.92,
+          "end": 240.18,
+          "translation": "Deportations"
+        },
+        {
+          "word": "begonnen",
+          "start": 240.18,
+          "end": 240.96,
+          "translation": "started"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die neue chilenische Regierung des ultrarechten Präsidenten José Antonio Kast drückt bei der Abschiebung von Migranten aufs Tempo. Die Behörden haben bereits eine Gruppe von 40 Menschen aus Kolumbien, Bolivien und Ecuador außer Landes gebracht. Kast hatte die verschärfte Migrationspolitik in seiner ersten Fernsehansprache an die Nation am Mittwoch angekündigt. Laut Vize-Innenminister Máximo Pavez sollen die Abschiebe-Flüge intensiviert werden. Zu den genauen Zahlen äußert sich die Regierung in Santiago bislang nicht. Während seines Wahlkampfs hatte Kast die rund 330.000 Migranten ohne gültige Papiere zur Ausreise aus Chile aufgerufen und ihnen andernfalls mit Abschiebung gedroht.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 241.67,
+          "end": 242.32,
+          "translation": "The"
+        },
+        {
+          "word": "neue",
+          "start": 242.32,
+          "end": 242.8,
+          "translation": "new"
+        },
+        {
+          "word": "chilenische",
+          "start": 242.8,
+          "end": 243.9,
+          "translation": "Chilean"
+        },
+        {
+          "word": "Regierung",
+          "start": 243.9,
+          "end": 244.66,
+          "translation": "Government"
+        },
+        {
+          "word": "des",
+          "start": 244.66,
+          "end": 245.24,
+          "translation": "of the"
+        },
+        {
+          "word": "ultrarechten",
+          "start": 245.24,
+          "end": 246.5,
+          "translation": "ultra-right"
+        },
+        {
+          "word": "Präsidenten",
+          "start": 246.5,
+          "end": 247.78,
+          "translation": "Presidents"
+        },
+        {
+          "word": "José",
+          "start": 247.78,
+          "end": 248.58,
+          "translation": "José"
+        },
+        {
+          "word": "Antonio",
+          "start": 248.58,
+          "end": 249.58,
+          "translation": "Antonio"
+        },
+        {
+          "word": "Kast",
+          "start": 249.58,
+          "end": 251.0,
+          "translation": "Kast"
+        },
+        {
+          "word": "drückt",
+          "start": 251.0,
+          "end": 251.3,
+          "translation": "presses"
+        },
+        {
+          "word": "bei",
+          "start": 251.3,
+          "end": 251.64,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 251.64,
+          "end": 251.9,
+          "translation": "the"
+        },
+        {
+          "word": "Abschiebung",
+          "start": 251.9,
+          "end": 252.72,
+          "translation": "Deportation"
+        },
+        {
+          "word": "von",
+          "start": 252.72,
+          "end": 253.1,
+          "translation": "from"
+        },
+        {
+          "word": "Migranten",
+          "start": 253.1,
+          "end": 254.06,
+          "translation": "Migrants"
+        },
+        {
+          "word": "aufs",
+          "start": 254.06,
+          "end": 254.64,
+          "translation": "on"
+        },
+        {
+          "word": "Tempo.",
+          "start": 254.64,
+          "end": 255.06,
+          "translation": "Tempo."
+        },
+        {
+          "word": "Die",
+          "start": 255.86,
+          "end": 256.22,
+          "translation": "The"
+        },
+        {
+          "word": "Behörden",
+          "start": 256.22,
+          "end": 257.06,
+          "translation": "Authorities"
+        },
+        {
+          "word": "haben",
+          "start": 257.06,
+          "end": 257.4,
+          "translation": "have"
+        },
+        {
+          "word": "bereits",
+          "start": 257.4,
+          "end": 257.96,
+          "translation": "already"
+        },
+        {
+          "word": "eine",
+          "start": 257.96,
+          "end": 258.64,
+          "translation": "one"
+        },
+        {
+          "word": "Gruppe",
+          "start": 258.64,
+          "end": 259.2,
+          "translation": "Group"
+        },
+        {
+          "word": "von",
+          "start": 259.2,
+          "end": 259.62,
+          "translation": "from"
+        },
+        {
+          "word": "40",
+          "start": 259.62,
+          "end": 260.4,
+          "translation": "40"
+        },
+        {
+          "word": "Menschen",
+          "start": 260.4,
+          "end": 261.08,
+          "translation": "People"
+        },
+        {
+          "word": "aus",
+          "start": 261.08,
+          "end": 261.98,
+          "translation": "from"
+        },
+        {
+          "word": "Kolumbien,",
+          "start": 261.98,
+          "end": 262.98,
+          "translation": "Colombia,"
+        },
+        {
+          "word": "Bolivien",
+          "start": 263.52,
+          "end": 264.36,
+          "translation": "Bolivia"
+        },
+        {
+          "word": "und",
+          "start": 264.36,
+          "end": 264.92,
+          "translation": "and"
+        },
+        {
+          "word": "Ecuador",
+          "start": 264.92,
+          "end": 265.72,
+          "translation": "Ecuador"
+        },
+        {
+          "word": "außer",
+          "start": 265.72,
+          "end": 266.66,
+          "translation": "except"
+        },
+        {
+          "word": "Landes",
+          "start": 266.66,
+          "end": 267.22,
+          "translation": "Country"
+        },
+        {
+          "word": "gebracht.",
+          "start": 267.22,
+          "end": 267.84,
+          "translation": "brought."
+        },
+        {
+          "word": "Kast",
+          "start": 267.84,
+          "end": 269.16,
+          "translation": "Kast"
+        },
+        {
+          "word": "hatte",
+          "start": 269.16,
+          "end": 269.78,
+          "translation": "had"
+        },
+        {
+          "word": "die",
+          "start": 269.78,
+          "end": 270.08,
+          "translation": "the"
+        },
+        {
+          "word": "verschärfte",
+          "start": 270.08,
+          "end": 271.0,
+          "translation": "intensified"
+        },
+        {
+          "word": "Migrationspolitik",
+          "start": 271.0,
+          "end": 272.66,
+          "translation": "Migration policy"
+        },
+        {
+          "word": "in",
+          "start": 272.66,
+          "end": 273.44,
+          "translation": "in"
+        },
+        {
+          "word": "seiner",
+          "start": 273.44,
+          "end": 273.92,
+          "translation": "his"
+        },
+        {
+          "word": "ersten",
+          "start": 273.92,
+          "end": 274.56,
+          "translation": "first"
+        },
+        {
+          "word": "Fernsehansprache",
+          "start": 274.56,
+          "end": 276.34,
+          "translation": "Television address"
+        },
+        {
+          "word": "an",
+          "start": 276.34,
+          "end": 276.66,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 276.66,
+          "end": 276.84,
+          "translation": "the"
+        },
+        {
+          "word": "Nation",
+          "start": 276.84,
+          "end": 277.56,
+          "translation": "Nation"
+        },
+        {
+          "word": "am",
+          "start": 277.56,
+          "end": 278.44,
+          "translation": "on"
+        },
+        {
+          "word": "Mittwoch",
+          "start": 278.44,
+          "end": 279.24,
+          "translation": "Wednesday"
+        },
+        {
+          "word": "angekündigt.",
+          "start": 279.24,
+          "end": 280.54,
+          "translation": "announced."
+        },
+        {
+          "word": "Laut",
+          "start": 281.34,
+          "end": 281.66,
+          "translation": "According to"
+        },
+        {
+          "word": "Vize-Innenminister",
+          "start": 281.66,
+          "end": 282.78,
+          "translation": "Deputy Minister of the Interior"
+        },
+        {
+          "word": "Máximo",
+          "start": 282.78,
+          "end": 283.9,
+          "translation": "Máximo"
+        },
+        {
+          "word": "Pavez",
+          "start": 283.9,
+          "end": 285.02,
+          "translation": "Pavez"
+        },
+        {
+          "word": "sollen",
+          "start": 285.02,
+          "end": 286.0,
+          "translation": "should"
+        },
+        {
+          "word": "die",
+          "start": 286.0,
+          "end": 286.48,
+          "translation": "the"
+        },
+        {
+          "word": "Abschiebe-Flüge",
+          "start": 286.48,
+          "end": 287.94,
+          "translation": "Deportation flights"
+        },
+        {
+          "word": "intensiviert",
+          "start": 287.94,
+          "end": 289.2,
+          "translation": "intensified"
+        },
+        {
+          "word": "werden.",
+          "start": 289.2,
+          "end": 289.76,
+          "translation": "become."
+        },
+        {
+          "word": "Zu",
+          "start": 289.76,
+          "end": 290.72,
+          "translation": "To"
+        },
+        {
+          "word": "den",
+          "start": 290.72,
+          "end": 291.08,
+          "translation": "the"
+        },
+        {
+          "word": "genauen",
+          "start": 291.08,
+          "end": 291.74,
+          "translation": "exact"
+        },
+        {
+          "word": "Zahlen",
+          "start": 291.74,
+          "end": 292.42,
+          "translation": "Figures"
+        },
+        {
+          "word": "äußert",
+          "start": 292.42,
+          "end": 293.28,
+          "translation": "expresses"
+        },
+        {
+          "word": "sich",
+          "start": 293.28,
+          "end": 293.62,
+          "translation": "itself"
+        },
+        {
+          "word": "die",
+          "start": 293.62,
+          "end": 293.96,
+          "translation": "the"
+        },
+        {
+          "word": "Regierung",
+          "start": 293.96,
+          "end": 294.6,
+          "translation": "Government"
+        },
+        {
+          "word": "in",
+          "start": 294.6,
+          "end": 295.02,
+          "translation": "in"
+        },
+        {
+          "word": "Santiago",
+          "start": 295.02,
+          "end": 295.74,
+          "translation": "Santiago"
+        },
+        {
+          "word": "bislang",
+          "start": 295.74,
+          "end": 296.76,
+          "translation": "so far"
+        },
+        {
+          "word": "nicht.",
+          "start": 296.76,
+          "end": 297.18,
+          "translation": "not."
+        },
+        {
+          "word": "Während",
+          "start": 298.1,
+          "end": 298.74,
+          "translation": "While"
+        },
+        {
+          "word": "seines",
+          "start": 298.74,
+          "end": 299.34,
+          "translation": "his"
+        },
+        {
+          "word": "Wahlkampfs",
+          "start": 299.34,
+          "end": 300.16,
+          "translation": "election campaign"
+        },
+        {
+          "word": "hatte",
+          "start": 300.16,
+          "end": 300.94,
+          "translation": "had"
+        },
+        {
+          "word": "Kast",
+          "start": 300.94,
+          "end": 301.92,
+          "translation": "Kast"
+        },
+        {
+          "word": "die",
+          "start": 301.92,
+          "end": 302.26,
+          "translation": "the"
+        },
+        {
+          "word": "rund",
+          "start": 302.26,
+          "end": 302.66,
+          "translation": "round"
+        },
+        {
+          "word": "330.000",
+          "start": 302.66,
+          "end": 304.7,
+          "translation": "330.000"
+        },
+        {
+          "word": "Migranten",
+          "start": 304.7,
+          "end": 305.64,
+          "translation": "Migrants"
+        },
+        {
+          "word": "ohne",
+          "start": 305.64,
+          "end": 306.08,
+          "translation": "without"
+        },
+        {
+          "word": "gültige",
+          "start": 306.08,
+          "end": 306.98,
+          "translation": "valid"
+        },
+        {
+          "word": "Papiere",
+          "start": 306.98,
+          "end": 307.74,
+          "translation": "Papers"
+        },
+        {
+          "word": "zur",
+          "start": 307.74,
+          "end": 308.46,
+          "translation": "to the"
+        },
+        {
+          "word": "Ausreise",
+          "start": 308.46,
+          "end": 309.58,
+          "translation": "Departure"
+        },
+        {
+          "word": "aus",
+          "start": 309.58,
+          "end": 309.94,
+          "translation": "from"
+        },
+        {
+          "word": "Chile",
+          "start": 309.94,
+          "end": 310.4,
+          "translation": "Chile"
+        },
+        {
+          "word": "aufgerufen",
+          "start": 310.4,
+          "end": 311.74,
+          "translation": "called"
+        },
+        {
+          "word": "und",
+          "start": 311.74,
+          "end": 312.68,
+          "translation": "and"
+        },
+        {
+          "word": "ihnen",
+          "start": 312.68,
+          "end": 313.12,
+          "translation": "them"
+        },
+        {
+          "word": "andernfalls",
+          "start": 313.12,
+          "end": 314.12,
+          "translation": "otherwise"
+        },
+        {
+          "word": "mit",
+          "start": 314.12,
+          "end": 314.66,
+          "translation": "with"
+        },
+        {
+          "word": "Abschiebung",
+          "start": 314.66,
+          "end": 315.58,
+          "translation": "Deportation"
+        },
+        {
+          "word": "gedroht.",
+          "start": 315.58,
+          "end": 316.52,
+          "translation": "threatened."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Piloten der Lufthansa streiken weiter",
+      "words": [
+        {
+          "word": "Piloten",
+          "start": 318.26,
+          "end": 319.62,
+          "translation": "Pilots"
+        },
+        {
+          "word": "der",
+          "start": 319.62,
+          "end": 319.94,
+          "translation": "the"
+        },
+        {
+          "word": "Lufthansa",
+          "start": 319.94,
+          "end": 320.74,
+          "translation": "Lufthansa"
+        },
+        {
+          "word": "streiken",
+          "start": 320.74,
+          "end": 321.48,
+          "translation": "strike"
+        },
+        {
+          "word": "weiter",
+          "start": 321.48,
+          "end": 322.18,
+          "translation": "more"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Bei Deutschlands größter Fluggesellschaft, der Lufthansa, setzen die Piloten ihren Streik fort. Es ist der fünfte Streiktag in Folge. An vier Tagen davon waren Pilotinnen und Piloten zur Arbeitsniederlegung aufgerufen, an zwei Tagen die Flugbegleiterinnen und Flugbegleiter. An diesem Freitag sind die Lufthansa und ihre Tochtergesellschaft Cityline betroffen, wie die Pilotengewerkschaft Vereinigung Cockpit ankündigte. Deshalb sind abermals zahlreiche Flugausfälle zu erwarten. Als eine Konsequenz aus den Streiks hat die Lufthansa das geplante Aus für die Cityline vorgezogen. Ab Sonnabend sollen 27 ältere Canadair-Jets der Regionalgesellschaft nicht mehr an den Start rollen.",
+      "words": [
+        {
+          "word": "Bei",
+          "start": 322.84,
+          "end": 323.26,
+          "translation": "With"
+        },
+        {
+          "word": "Deutschlands",
+          "start": 323.26,
+          "end": 324.06,
+          "translation": "Germany"
+        },
+        {
+          "word": "größter",
+          "start": 324.06,
+          "end": 324.76,
+          "translation": "largest"
+        },
+        {
+          "word": "Fluggesellschaft,",
+          "start": 324.76,
+          "end": 325.98,
+          "translation": "Airline,"
+        },
+        {
+          "word": "der",
+          "start": 325.98,
+          "end": 326.56,
+          "translation": "the"
+        },
+        {
+          "word": "Lufthansa,",
+          "start": 326.56,
+          "end": 327.52,
+          "translation": "Lufthansa,"
+        },
+        {
+          "word": "setzen",
+          "start": 327.52,
+          "end": 328.44,
+          "translation": "set"
+        },
+        {
+          "word": "die",
+          "start": 328.44,
+          "end": 328.86,
+          "translation": "the"
+        },
+        {
+          "word": "Piloten",
+          "start": 328.86,
+          "end": 329.62,
+          "translation": "Pilots"
+        },
+        {
+          "word": "ihren",
+          "start": 329.62,
+          "end": 330.18,
+          "translation": "their"
+        },
+        {
+          "word": "Streik",
+          "start": 330.18,
+          "end": 330.96,
+          "translation": "Strike"
+        },
+        {
+          "word": "fort.",
+          "start": 330.96,
+          "end": 331.4,
+          "translation": "continued."
+        },
+        {
+          "word": "Es",
+          "start": 332.1,
+          "end": 332.46,
+          "translation": "It"
+        },
+        {
+          "word": "ist",
+          "start": 332.46,
+          "end": 332.82,
+          "translation": "is"
+        },
+        {
+          "word": "der",
+          "start": 332.82,
+          "end": 333.18,
+          "translation": "the"
+        },
+        {
+          "word": "fünfte",
+          "start": 333.18,
+          "end": 333.88,
+          "translation": "fifth"
+        },
+        {
+          "word": "Streiktag",
+          "start": 333.88,
+          "end": 334.78,
+          "translation": "Strike day"
+        },
+        {
+          "word": "in",
+          "start": 334.78,
+          "end": 335.16,
+          "translation": "in"
+        },
+        {
+          "word": "Folge.",
+          "start": 335.16,
+          "end": 335.72,
+          "translation": "Consequence."
+        },
+        {
+          "word": "An",
+          "start": 336.46,
+          "end": 336.74,
+          "translation": "To"
+        },
+        {
+          "word": "vier",
+          "start": 336.74,
+          "end": 337.14,
+          "translation": "four"
+        },
+        {
+          "word": "Tagen",
+          "start": 337.14,
+          "end": 337.7,
+          "translation": "Days"
+        },
+        {
+          "word": "davon",
+          "start": 337.7,
+          "end": 338.16,
+          "translation": "thereof"
+        },
+        {
+          "word": "waren",
+          "start": 338.16,
+          "end": 338.84,
+          "translation": "were"
+        },
+        {
+          "word": "Pilotinnen",
+          "start": 338.84,
+          "end": 339.9,
+          "translation": "Pilots"
+        },
+        {
+          "word": "und",
+          "start": 339.9,
+          "end": 340.3,
+          "translation": "and"
+        },
+        {
+          "word": "Piloten",
+          "start": 340.3,
+          "end": 341.12,
+          "translation": "Pilots"
+        },
+        {
+          "word": "zur",
+          "start": 341.12,
+          "end": 341.52,
+          "translation": "to the"
+        },
+        {
+          "word": "Arbeitsniederlegung",
+          "start": 341.52,
+          "end": 343.3,
+          "translation": "Work stoppage"
+        },
+        {
+          "word": "aufgerufen,",
+          "start": 343.3,
+          "end": 344.26,
+          "translation": "called,"
+        },
+        {
+          "word": "an",
+          "start": 344.26,
+          "end": 345.08,
+          "translation": "on"
+        },
+        {
+          "word": "zwei",
+          "start": 345.08,
+          "end": 345.52,
+          "translation": "two"
+        },
+        {
+          "word": "Tagen",
+          "start": 345.52,
+          "end": 346.12,
+          "translation": "Days"
+        },
+        {
+          "word": "die",
+          "start": 346.12,
+          "end": 346.58,
+          "translation": "the"
+        },
+        {
+          "word": "Flugbegleiterinnen",
+          "start": 346.58,
+          "end": 347.98,
+          "translation": "Flight attendants"
+        },
+        {
+          "word": "und",
+          "start": 347.98,
+          "end": 348.4,
+          "translation": "and"
+        },
+        {
+          "word": "Flugbegleiter.",
+          "start": 348.4,
+          "end": 349.64,
+          "translation": "Flight attendant."
+        },
+        {
+          "word": "An",
+          "start": 350.12,
+          "end": 350.7,
+          "translation": "To"
+        },
+        {
+          "word": "diesem",
+          "start": 350.7,
+          "end": 351.18,
+          "translation": "this"
+        },
+        {
+          "word": "Freitag",
+          "start": 351.18,
+          "end": 352.04,
+          "translation": "Friday"
+        },
+        {
+          "word": "sind",
+          "start": 352.04,
+          "end": 352.68,
+          "translation": "are"
+        },
+        {
+          "word": "die",
+          "start": 352.68,
+          "end": 353.06,
+          "translation": "the"
+        },
+        {
+          "word": "Lufthansa",
+          "start": 353.06,
+          "end": 353.76,
+          "translation": "Lufthansa"
+        },
+        {
+          "word": "und",
+          "start": 353.76,
+          "end": 354.16,
+          "translation": "and"
+        },
+        {
+          "word": "ihre",
+          "start": 354.16,
+          "end": 354.6,
+          "translation": "their"
+        },
+        {
+          "word": "Tochtergesellschaft",
+          "start": 354.6,
+          "end": 355.84,
+          "translation": "Subsidiary"
+        },
+        {
+          "word": "Cityline",
+          "start": 355.84,
+          "end": 356.9,
+          "translation": "Cityline"
+        },
+        {
+          "word": "betroffen,",
+          "start": 356.9,
+          "end": 357.66,
+          "translation": "affected,"
+        },
+        {
+          "word": "wie",
+          "start": 358.12,
+          "end": 358.38,
+          "translation": "like"
+        },
+        {
+          "word": "die",
+          "start": 358.38,
+          "end": 358.68,
+          "translation": "the"
+        },
+        {
+          "word": "Pilotengewerkschaft",
+          "start": 358.68,
+          "end": 360.22,
+          "translation": "Pilots' union"
+        },
+        {
+          "word": "Vereinigung",
+          "start": 360.22,
+          "end": 361.2,
+          "translation": "Association"
+        },
+        {
+          "word": "Cockpit",
+          "start": 361.2,
+          "end": 361.96,
+          "translation": "Cockpit"
+        },
+        {
+          "word": "ankündigte.",
+          "start": 361.96,
+          "end": 363.06,
+          "translation": "announced."
+        },
+        {
+          "word": "Deshalb",
+          "start": 363.68,
+          "end": 364.24,
+          "translation": "Therefore"
+        },
+        {
+          "word": "sind",
+          "start": 364.24,
+          "end": 364.72,
+          "translation": "are"
+        },
+        {
+          "word": "abermals",
+          "start": 364.72,
+          "end": 365.76,
+          "translation": "again"
+        },
+        {
+          "word": "zahlreiche",
+          "start": 365.76,
+          "end": 366.72,
+          "translation": "numerous"
+        },
+        {
+          "word": "Flugausfälle",
+          "start": 366.72,
+          "end": 367.72,
+          "translation": "Flight cancellations"
+        },
+        {
+          "word": "zu",
+          "start": 367.72,
+          "end": 368.14,
+          "translation": "to"
+        },
+        {
+          "word": "erwarten.",
+          "start": 368.14,
+          "end": 368.76,
+          "translation": "expect."
+        },
+        {
+          "word": "Als",
+          "start": 369.2,
+          "end": 369.84,
+          "translation": "As"
+        },
+        {
+          "word": "eine",
+          "start": 369.84,
+          "end": 370.44,
+          "translation": "one"
+        },
+        {
+          "word": "Konsequenz",
+          "start": 370.44,
+          "end": 371.44,
+          "translation": "Consequence"
+        },
+        {
+          "word": "aus",
+          "start": 371.44,
+          "end": 371.82,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 371.82,
+          "end": 372.08,
+          "translation": "the"
+        },
+        {
+          "word": "Streiks",
+          "start": 372.08,
+          "end": 372.72,
+          "translation": "Strikes"
+        },
+        {
+          "word": "hat",
+          "start": 372.72,
+          "end": 373.3,
+          "translation": "has"
+        },
+        {
+          "word": "die",
+          "start": 373.3,
+          "end": 373.66,
+          "translation": "the"
+        },
+        {
+          "word": "Lufthansa",
+          "start": 373.66,
+          "end": 374.44,
+          "translation": "Lufthansa"
+        },
+        {
+          "word": "das",
+          "start": 374.44,
+          "end": 375.16,
+          "translation": "the"
+        },
+        {
+          "word": "geplante",
+          "start": 375.16,
+          "end": 375.96,
+          "translation": "planned"
+        },
+        {
+          "word": "Aus",
+          "start": 375.96,
+          "end": 376.5,
+          "translation": "From"
+        },
+        {
+          "word": "für",
+          "start": 376.5,
+          "end": 377.08,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 377.08,
+          "end": 377.3,
+          "translation": "the"
+        },
+        {
+          "word": "Cityline",
+          "start": 377.3,
+          "end": 378.12,
+          "translation": "Cityline"
+        },
+        {
+          "word": "vorgezogen.",
+          "start": 378.12,
+          "end": 379.3,
+          "translation": "preferred."
+        },
+        {
+          "word": "Ab",
+          "start": 380.16,
+          "end": 380.6,
+          "translation": "From"
+        },
+        {
+          "word": "Sonnabend",
+          "start": 380.6,
+          "end": 381.66,
+          "translation": "Saturday"
+        },
+        {
+          "word": "sollen",
+          "start": 381.66,
+          "end": 382.04,
+          "translation": "should"
+        },
+        {
+          "word": "27",
+          "start": 382.04,
+          "end": 383.18,
+          "translation": "27"
+        },
+        {
+          "word": "ältere",
+          "start": 383.18,
+          "end": 384.42,
+          "translation": "older"
+        },
+        {
+          "word": "Canadair-Jets",
+          "start": 384.42,
+          "end": 386.24,
+          "translation": "Canadair jets"
+        },
+        {
+          "word": "der",
+          "start": 386.24,
+          "end": 386.48,
+          "translation": "the"
+        },
+        {
+          "word": "Regionalgesellschaft",
+          "start": 386.48,
+          "end": 387.9,
+          "translation": "Regional company"
+        },
+        {
+          "word": "nicht",
+          "start": 387.9,
+          "end": 388.38,
+          "translation": "not"
+        },
+        {
+          "word": "mehr",
+          "start": 388.38,
+          "end": 388.82,
+          "translation": "more"
+        },
+        {
+          "word": "an",
+          "start": 388.82,
+          "end": 389.18,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 389.18,
+          "end": 389.42,
+          "translation": "the"
+        },
+        {
+          "word": "Start",
+          "start": 389.42,
+          "end": 389.9,
+          "translation": "Start"
+        },
+        {
+          "word": "rollen.",
+          "start": 389.9,
+          "end": 390.76,
+          "translation": "roll."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Deutschlands Industrie erhält Milliardenhilfe für günstigeren Strom",
+      "words": [
+        {
+          "word": "Deutschlands",
+          "start": 391.76,
+          "end": 393.16,
+          "translation": "Germany"
+        },
+        {
+          "word": "Industrie",
+          "start": 393.16,
+          "end": 394.04,
+          "translation": "Industry"
+        },
+        {
+          "word": "erhält",
+          "start": 394.04,
+          "end": 394.76,
+          "translation": "receives"
+        },
+        {
+          "word": "Milliardenhilfe",
+          "start": 394.76,
+          "end": 396.32,
+          "translation": "Billions in aid"
+        },
+        {
+          "word": "für",
+          "start": 396.32,
+          "end": 396.72,
+          "translation": "for"
+        },
+        {
+          "word": "günstigeren",
+          "start": 396.72,
+          "end": 397.82,
+          "translation": "more favorable"
+        },
+        {
+          "word": "Strom",
+          "start": 397.82,
+          "end": 398.22,
+          "translation": "Electricity"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Für die deutsche Industrie ist der lang erwartete Industriestrompreis in Reichweite. Die EU-Kommission erlaubt der Bundesregierung, die Industrie mit einem vergünstigten Strompreis zu unterstützen, und zwar in einem Umfang von 3,8 Milliarden Euro. Damit sei „der Knoten durchschlagen“, jubelte Bundeswirtschaftsministerin Katherina Reiche, die von einem Signal für mehr Wettbewerbsfähigkeit und die Stärkung des Industriestandorts Deutschland spricht. Gedacht ist die Unterstützung laut Wirtschaftsministerium für rund 9500 Unternehmen aus besonders energieintensiven Branchen wie Chemie, Gummi- und Kunststoffwaren, Glas, Zement oder der Halbleiterfertigung.",
+      "words": [
+        {
+          "word": "Für",
+          "start": 399.24,
+          "end": 399.62,
+          "translation": "For"
+        },
+        {
+          "word": "die",
+          "start": 399.62,
+          "end": 399.8,
+          "translation": "the"
+        },
+        {
+          "word": "deutsche",
+          "start": 399.8,
+          "end": 400.28,
+          "translation": "German"
+        },
+        {
+          "word": "Industrie",
+          "start": 400.28,
+          "end": 401.18,
+          "translation": "Industry"
+        },
+        {
+          "word": "ist",
+          "start": 401.18,
+          "end": 401.74,
+          "translation": "is"
+        },
+        {
+          "word": "der",
+          "start": 401.74,
+          "end": 402.02,
+          "translation": "the"
+        },
+        {
+          "word": "lang",
+          "start": 402.02,
+          "end": 402.36,
+          "translation": "long"
+        },
+        {
+          "word": "erwartete",
+          "start": 402.36,
+          "end": 403.26,
+          "translation": "expected"
+        },
+        {
+          "word": "Industriestrompreis",
+          "start": 403.26,
+          "end": 405.22,
+          "translation": "Industrial electricity price"
+        },
+        {
+          "word": "in",
+          "start": 405.22,
+          "end": 405.48,
+          "translation": "in"
+        },
+        {
+          "word": "Reichweite.",
+          "start": 405.48,
+          "end": 406.36,
+          "translation": "Range."
+        },
+        {
+          "word": "Die",
+          "start": 406.98,
+          "end": 407.38,
+          "translation": "The"
+        },
+        {
+          "word": "EU-Kommission",
+          "start": 407.38,
+          "end": 408.7,
+          "translation": "EU Commission"
+        },
+        {
+          "word": "erlaubt",
+          "start": 408.7,
+          "end": 409.72,
+          "translation": "allowed"
+        },
+        {
+          "word": "der",
+          "start": 409.72,
+          "end": 409.84,
+          "translation": "the"
+        },
+        {
+          "word": "Bundesregierung,",
+          "start": 409.84,
+          "end": 410.8,
+          "translation": "Federal government,"
+        },
+        {
+          "word": "die",
+          "start": 411.32,
+          "end": 411.6,
+          "translation": "the"
+        },
+        {
+          "word": "Industrie",
+          "start": 411.6,
+          "end": 412.42,
+          "translation": "Industry"
+        },
+        {
+          "word": "mit",
+          "start": 412.42,
+          "end": 412.7,
+          "translation": "with"
+        },
+        {
+          "word": "einem",
+          "start": 412.7,
+          "end": 413.1,
+          "translation": "one"
+        },
+        {
+          "word": "vergünstigten",
+          "start": 413.1,
+          "end": 414.2,
+          "translation": "discounted"
+        },
+        {
+          "word": "Strompreis",
+          "start": 414.2,
+          "end": 415.16,
+          "translation": "Electricity price"
+        },
+        {
+          "word": "zu",
+          "start": 415.16,
+          "end": 415.5,
+          "translation": "to"
+        },
+        {
+          "word": "unterstützen,",
+          "start": 415.5,
+          "end": 416.48,
+          "translation": "support,"
+        },
+        {
+          "word": "und",
+          "start": 416.48,
+          "end": 417.18,
+          "translation": "and"
+        },
+        {
+          "word": "zwar",
+          "start": 417.18,
+          "end": 417.66,
+          "translation": "although"
+        },
+        {
+          "word": "in",
+          "start": 417.66,
+          "end": 418.04,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 418.04,
+          "end": 418.48,
+          "translation": "one"
+        },
+        {
+          "word": "Umfang",
+          "start": 418.48,
+          "end": 419.1,
+          "translation": "Scope"
+        },
+        {
+          "word": "von",
+          "start": 419.1,
+          "end": 419.58,
+          "translation": "from"
+        },
+        {
+          "word": "3,8",
+          "start": 419.58,
+          "end": 420.94,
+          "translation": "3,8"
+        },
+        {
+          "word": "Milliarden",
+          "start": 420.94,
+          "end": 421.46,
+          "translation": "billion"
+        },
+        {
+          "word": "Euro.",
+          "start": 421.46,
+          "end": 422.38,
+          "translation": "Euro."
+        },
+        {
+          "word": "Damit",
+          "start": 422.92,
+          "end": 423.6,
+          "translation": "So that"
+        },
+        {
+          "word": "sei",
+          "start": 423.6,
+          "end": 424.02,
+          "translation": "be"
+        },
+        {
+          "word": "„der",
+          "start": 424.02,
+          "end": 424.66,
+          "translation": "\"the"
+        },
+        {
+          "word": "Knoten",
+          "start": 424.66,
+          "end": 425.42,
+          "translation": "Node"
+        },
+        {
+          "word": "durchschlagen“,",
+          "start": 425.42,
+          "end": 426.18,
+          "translation": "break through\","
+        },
+        {
+          "word": "jubelte",
+          "start": 426.18,
+          "end": 427.18,
+          "translation": "cheered"
+        },
+        {
+          "word": "Bundeswirtschaftsministerin",
+          "start": 427.18,
+          "end": 429.22,
+          "translation": "Federal Minister of Economics"
+        },
+        {
+          "word": "Katherina",
+          "start": 429.22,
+          "end": 430.0,
+          "translation": "Katherina"
+        },
+        {
+          "word": "Reiche,",
+          "start": 430.0,
+          "end": 430.76,
+          "translation": "Reiche,"
+        },
+        {
+          "word": "die",
+          "start": 431.1,
+          "end": 431.4,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 431.4,
+          "end": 431.72,
+          "translation": "from"
+        },
+        {
+          "word": "einem",
+          "start": 431.72,
+          "end": 432.1,
+          "translation": "one"
+        },
+        {
+          "word": "Signal",
+          "start": 432.1,
+          "end": 432.52,
+          "translation": "Signal"
+        },
+        {
+          "word": "für",
+          "start": 432.52,
+          "end": 433.08,
+          "translation": "for"
+        },
+        {
+          "word": "mehr",
+          "start": 433.08,
+          "end": 433.54,
+          "translation": "more"
+        },
+        {
+          "word": "Wettbewerbsfähigkeit",
+          "start": 433.54,
+          "end": 435.16,
+          "translation": "Competitiveness"
+        },
+        {
+          "word": "und",
+          "start": 435.16,
+          "end": 435.96,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 435.96,
+          "end": 436.34,
+          "translation": "the"
+        },
+        {
+          "word": "Stärkung",
+          "start": 436.34,
+          "end": 436.98,
+          "translation": "Strengthening"
+        },
+        {
+          "word": "des",
+          "start": 436.98,
+          "end": 437.38,
+          "translation": "of the"
+        },
+        {
+          "word": "Industriestandorts",
+          "start": 437.38,
+          "end": 438.88,
+          "translation": "industrial location"
+        },
+        {
+          "word": "Deutschland",
+          "start": 438.88,
+          "end": 439.68,
+          "translation": "Germany"
+        },
+        {
+          "word": "spricht.",
+          "start": 439.68,
+          "end": 440.24,
+          "translation": "speaks."
+        },
+        {
+          "word": "Gedacht",
+          "start": 440.93,
+          "end": 441.58,
+          "translation": "Thought"
+        },
+        {
+          "word": "ist",
+          "start": 441.58,
+          "end": 441.86,
+          "translation": "is"
+        },
+        {
+          "word": "die",
+          "start": 441.86,
+          "end": 442.1,
+          "translation": "the"
+        },
+        {
+          "word": "Unterstützung",
+          "start": 442.1,
+          "end": 442.92,
+          "translation": "Support"
+        },
+        {
+          "word": "laut",
+          "start": 442.92,
+          "end": 443.44,
+          "translation": "according to"
+        },
+        {
+          "word": "Wirtschaftsministerium",
+          "start": 443.44,
+          "end": 445.1,
+          "translation": "Ministry of Economic Affairs"
+        },
+        {
+          "word": "für",
+          "start": 445.1,
+          "end": 445.76,
+          "translation": "for"
+        },
+        {
+          "word": "rund",
+          "start": 445.76,
+          "end": 446.2,
+          "translation": "round"
+        },
+        {
+          "word": "9500",
+          "start": 446.2,
+          "end": 447.6,
+          "translation": "9500"
+        },
+        {
+          "word": "Unternehmen",
+          "start": 447.6,
+          "end": 448.6,
+          "translation": "The company"
+        },
+        {
+          "word": "aus",
+          "start": 448.6,
+          "end": 449.36,
+          "translation": "from"
+        },
+        {
+          "word": "besonders",
+          "start": 449.36,
+          "end": 450.04,
+          "translation": "especially"
+        },
+        {
+          "word": "energieintensiven",
+          "start": 450.04,
+          "end": 451.72,
+          "translation": "energy-intensive"
+        },
+        {
+          "word": "Branchen",
+          "start": 451.72,
+          "end": 452.3,
+          "translation": "Industries"
+        },
+        {
+          "word": "wie",
+          "start": 452.3,
+          "end": 452.64,
+          "translation": "like"
+        },
+        {
+          "word": "Chemie,",
+          "start": 452.64,
+          "end": 453.68,
+          "translation": "Chemistry,"
+        },
+        {
+          "word": "Gummi-",
+          "start": 453.68,
+          "end": 454.64,
+          "translation": "Rubber"
+        },
+        {
+          "word": "und",
+          "start": 454.64,
+          "end": 455.04,
+          "translation": "and"
+        },
+        {
+          "word": "Kunststoffwaren,",
+          "start": 455.04,
+          "end": 456.4,
+          "translation": "Plastic goods,"
+        },
+        {
+          "word": "Glas,",
+          "start": 457.02,
+          "end": 457.18,
+          "translation": "Glass,"
+        },
+        {
+          "word": "Zement",
+          "start": 457.82,
+          "end": 458.08,
+          "translation": "Cement"
+        },
+        {
+          "word": "oder",
+          "start": 458.08,
+          "end": 458.96,
+          "translation": "or"
+        },
+        {
+          "word": "der",
+          "start": 458.96,
+          "end": 459.38,
+          "translation": "the"
+        },
+        {
+          "word": "Halbleiterfertigung.",
+          "start": 459.38,
+          "end": 460.98,
+          "translation": "Semiconductor manufacturing."
+        }
+      ]
+    }
+  ]
+}
