@@ -1,0 +1,3664 @@
+{
+  "id": 76840785,
+  "title": "18.04.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-04-18",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/629AA898_2.mp3",
+  "duration": 513,
+  "imageUrl": "https://static.dw.com/image/76841044_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Iran droht den USA mit neuer Blockade am Persischen Golf",
+      "words": [
+        {
+          "word": "Iran",
+          "start": 16.0,
+          "end": 17.08,
+          "translation": "Iran"
+        },
+        {
+          "word": "droht",
+          "start": 17.08,
+          "end": 17.98,
+          "translation": "threatens"
+        },
+        {
+          "word": "den",
+          "start": 17.98,
+          "end": 18.18,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 18.18,
+          "end": 18.76,
+          "translation": "USA"
+        },
+        {
+          "word": "mit",
+          "start": 18.76,
+          "end": 19.64,
+          "translation": "with"
+        },
+        {
+          "word": "neuer",
+          "start": 19.64,
+          "end": 20.28,
+          "translation": "newer"
+        },
+        {
+          "word": "Blockade",
+          "start": 20.28,
+          "end": 21.16,
+          "translation": "Blockade"
+        },
+        {
+          "word": "am",
+          "start": 21.16,
+          "end": 21.64,
+          "translation": "on"
+        },
+        {
+          "word": "Persischen",
+          "start": 21.64,
+          "end": 22.54,
+          "translation": "Persian"
+        },
+        {
+          "word": "Golf",
+          "start": 22.54,
+          "end": 23.04,
+          "translation": "Golf"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die iranische Führung hat damit gedroht, die für den globalen Öl- und Gasmarkt wichtige Straße von Hormus wieder abzuriegeln. Wenn die USA ihre Blockade iranischer Häfen fortsetzen sollten, werde diese Wasserstraße nicht offen bleiben, teilte der iranische Parlamentspräsident Mohammed Bagher Ghalibaf mit. Am Freitag hatte das Regime in Teheran die Straße von Hormus vorläufig für geöffnet erklärt. Öltanker und Handelsschiffe könnten während der laufenden Waffenruhe die Meerenge passieren, hieß es. Umgekehrt wollen die USA aber ihre eigene Seeblockade aufrechterhalten. Sie gilt für Schiffe, die iranische Häfen anlaufen oder verlassen.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 23.04,
+          "end": 23.96,
+          "translation": "The"
+        },
+        {
+          "word": "iranische",
+          "start": 23.96,
+          "end": 25.0,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Führung",
+          "start": 25.0,
+          "end": 25.88,
+          "translation": "Guidance"
+        },
+        {
+          "word": "hat",
+          "start": 25.88,
+          "end": 26.16,
+          "translation": "has"
+        },
+        {
+          "word": "damit",
+          "start": 26.16,
+          "end": 26.76,
+          "translation": "so that"
+        },
+        {
+          "word": "gedroht,",
+          "start": 26.76,
+          "end": 27.72,
+          "translation": "threatened,"
+        },
+        {
+          "word": "die",
+          "start": 28.02,
+          "end": 28.34,
+          "translation": "the"
+        },
+        {
+          "word": "für",
+          "start": 28.34,
+          "end": 28.62,
+          "translation": "for"
+        },
+        {
+          "word": "den",
+          "start": 28.62,
+          "end": 28.88,
+          "translation": "the"
+        },
+        {
+          "word": "globalen",
+          "start": 28.88,
+          "end": 29.82,
+          "translation": "global"
+        },
+        {
+          "word": "Öl-",
+          "start": 29.82,
+          "end": 30.32,
+          "translation": "Oil"
+        },
+        {
+          "word": "und",
+          "start": 30.32,
+          "end": 30.66,
+          "translation": "and"
+        },
+        {
+          "word": "Gasmarkt",
+          "start": 30.66,
+          "end": 31.52,
+          "translation": "Gas market"
+        },
+        {
+          "word": "wichtige",
+          "start": 31.52,
+          "end": 32.46,
+          "translation": "important"
+        },
+        {
+          "word": "Straße",
+          "start": 32.46,
+          "end": 33.0,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 33.0,
+          "end": 33.58,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 33.58,
+          "end": 34.38,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "wieder",
+          "start": 34.38,
+          "end": 35.14,
+          "translation": "again"
+        },
+        {
+          "word": "abzuriegeln.",
+          "start": 35.14,
+          "end": 36.04,
+          "translation": "to seal off."
+        },
+        {
+          "word": "Wenn",
+          "start": 37.24,
+          "end": 37.58,
+          "translation": "When"
+        },
+        {
+          "word": "die",
+          "start": 37.58,
+          "end": 37.92,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 37.92,
+          "end": 38.74,
+          "translation": "USA"
+        },
+        {
+          "word": "ihre",
+          "start": 38.74,
+          "end": 39.5,
+          "translation": "their"
+        },
+        {
+          "word": "Blockade",
+          "start": 39.5,
+          "end": 40.42,
+          "translation": "Blockade"
+        },
+        {
+          "word": "iranischer",
+          "start": 40.74,
+          "end": 41.58,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Häfen",
+          "start": 41.58,
+          "end": 42.22,
+          "translation": "Ports"
+        },
+        {
+          "word": "fortsetzen",
+          "start": 42.22,
+          "end": 43.04,
+          "translation": "continue"
+        },
+        {
+          "word": "sollten,",
+          "start": 43.04,
+          "end": 43.92,
+          "translation": "should,"
+        },
+        {
+          "word": "werde",
+          "start": 44.56,
+          "end": 44.86,
+          "translation": "will"
+        },
+        {
+          "word": "diese",
+          "start": 44.86,
+          "end": 45.54,
+          "translation": "these"
+        },
+        {
+          "word": "Wasserstraße",
+          "start": 45.54,
+          "end": 46.8,
+          "translation": "Waterway"
+        },
+        {
+          "word": "nicht",
+          "start": 46.8,
+          "end": 47.14,
+          "translation": "not"
+        },
+        {
+          "word": "offen",
+          "start": 47.14,
+          "end": 47.84,
+          "translation": "open"
+        },
+        {
+          "word": "bleiben,",
+          "start": 47.84,
+          "end": 48.4,
+          "translation": "remain,"
+        },
+        {
+          "word": "teilte",
+          "start": 48.4,
+          "end": 49.72,
+          "translation": "shared"
+        },
+        {
+          "word": "der",
+          "start": 49.72,
+          "end": 50.02,
+          "translation": "the"
+        },
+        {
+          "word": "iranische",
+          "start": 50.02,
+          "end": 50.98,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Parlamentspräsident",
+          "start": 50.98,
+          "end": 52.84,
+          "translation": "President of Parliament"
+        },
+        {
+          "word": "Mohammed",
+          "start": 52.84,
+          "end": 53.96,
+          "translation": "Mohammed"
+        },
+        {
+          "word": "Bagher",
+          "start": 53.96,
+          "end": 55.08,
+          "translation": "Bagher"
+        },
+        {
+          "word": "Ghalibaf",
+          "start": 55.08,
+          "end": 56.2,
+          "translation": "Ghalibaf"
+        },
+        {
+          "word": "mit.",
+          "start": 56.2,
+          "end": 56.52,
+          "translation": "with."
+        },
+        {
+          "word": "Am",
+          "start": 57.26,
+          "end": 57.72,
+          "translation": "On"
+        },
+        {
+          "word": "Freitag",
+          "start": 57.72,
+          "end": 58.5,
+          "translation": "Friday"
+        },
+        {
+          "word": "hatte",
+          "start": 58.5,
+          "end": 58.92,
+          "translation": "had"
+        },
+        {
+          "word": "das",
+          "start": 58.92,
+          "end": 59.42,
+          "translation": "the"
+        },
+        {
+          "word": "Regime",
+          "start": 59.42,
+          "end": 60.18,
+          "translation": "Regime"
+        },
+        {
+          "word": "in",
+          "start": 60.18,
+          "end": 60.58,
+          "translation": "in"
+        },
+        {
+          "word": "Teheran",
+          "start": 60.58,
+          "end": 61.4,
+          "translation": "Tehran"
+        },
+        {
+          "word": "die",
+          "start": 61.4,
+          "end": 62.28,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 62.28,
+          "end": 62.82,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 62.82,
+          "end": 63.44,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 63.44,
+          "end": 64.2,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "vorläufig",
+          "start": 64.2,
+          "end": 65.8,
+          "translation": "preliminary"
+        },
+        {
+          "word": "für",
+          "start": 65.8,
+          "end": 66.1,
+          "translation": "for"
+        },
+        {
+          "word": "geöffnet",
+          "start": 66.1,
+          "end": 66.94,
+          "translation": "Open"
+        },
+        {
+          "word": "erklärt.",
+          "start": 66.94,
+          "end": 67.84,
+          "translation": "explained."
+        },
+        {
+          "word": "Öltanker",
+          "start": 68.82,
+          "end": 69.74,
+          "translation": "Oil tanker"
+        },
+        {
+          "word": "und",
+          "start": 69.74,
+          "end": 70.22,
+          "translation": "and"
+        },
+        {
+          "word": "Handelsschiffe",
+          "start": 70.22,
+          "end": 71.42,
+          "translation": "Merchant ships"
+        },
+        {
+          "word": "könnten",
+          "start": 71.42,
+          "end": 72.34,
+          "translation": "could"
+        },
+        {
+          "word": "während",
+          "start": 72.34,
+          "end": 73.12,
+          "translation": "while"
+        },
+        {
+          "word": "der",
+          "start": 73.12,
+          "end": 73.54,
+          "translation": "the"
+        },
+        {
+          "word": "laufenden",
+          "start": 73.54,
+          "end": 74.28,
+          "translation": "running"
+        },
+        {
+          "word": "Waffenruhe",
+          "start": 74.28,
+          "end": 75.5,
+          "translation": "Ceasefire"
+        },
+        {
+          "word": "die",
+          "start": 75.5,
+          "end": 76.1,
+          "translation": "the"
+        },
+        {
+          "word": "Meerenge",
+          "start": 76.1,
+          "end": 77.08,
+          "translation": "Strait"
+        },
+        {
+          "word": "passieren,",
+          "start": 77.08,
+          "end": 77.84,
+          "translation": "happen,"
+        },
+        {
+          "word": "hieß",
+          "start": 77.84,
+          "end": 78.86,
+          "translation": "was called"
+        },
+        {
+          "word": "es.",
+          "start": 78.86,
+          "end": 79.88,
+          "translation": "it."
+        },
+        {
+          "word": "Umgekehrt",
+          "start": 79.88,
+          "end": 80.9,
+          "translation": "Vice versa"
+        },
+        {
+          "word": "wollen",
+          "start": 80.9,
+          "end": 81.2,
+          "translation": "want"
+        },
+        {
+          "word": "die",
+          "start": 81.2,
+          "end": 81.94,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 81.94,
+          "end": 82.78,
+          "translation": "USA"
+        },
+        {
+          "word": "aber",
+          "start": 82.78,
+          "end": 83.84,
+          "translation": "but"
+        },
+        {
+          "word": "ihre",
+          "start": 83.84,
+          "end": 84.44,
+          "translation": "their"
+        },
+        {
+          "word": "eigene",
+          "start": 84.44,
+          "end": 85.1,
+          "translation": "own"
+        },
+        {
+          "word": "Seeblockade",
+          "start": 85.1,
+          "end": 86.44,
+          "translation": "Sea blockade"
+        },
+        {
+          "word": "aufrechterhalten.",
+          "start": 86.44,
+          "end": 88.94,
+          "translation": "maintained."
+        },
+        {
+          "word": "Sie",
+          "start": 88.94,
+          "end": 89.48,
+          "translation": "You"
+        },
+        {
+          "word": "gilt",
+          "start": 89.48,
+          "end": 89.84,
+          "translation": "applies"
+        },
+        {
+          "word": "für",
+          "start": 89.84,
+          "end": 90.26,
+          "translation": "for"
+        },
+        {
+          "word": "Schiffe,",
+          "start": 90.26,
+          "end": 90.78,
+          "translation": "Ships,"
+        },
+        {
+          "word": "die",
+          "start": 90.78,
+          "end": 91.26,
+          "translation": "the"
+        },
+        {
+          "word": "iranische",
+          "start": 91.26,
+          "end": 92.38,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Häfen",
+          "start": 92.38,
+          "end": 92.96,
+          "translation": "Ports"
+        },
+        {
+          "word": "anlaufen",
+          "start": 92.96,
+          "end": 93.96,
+          "translation": "start up"
+        },
+        {
+          "word": "oder",
+          "start": 93.96,
+          "end": 94.64,
+          "translation": "or"
+        },
+        {
+          "word": "verlassen.",
+          "start": 94.64,
+          "end": 95.6,
+          "translation": "leave."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Paris-Konferenz fordert komplette Öffnung der Straße von Hormus",
+      "words": [
+        {
+          "word": "Paris-Konferenz",
+          "start": 95.6,
+          "end": 98.72,
+          "translation": "Paris Conference"
+        },
+        {
+          "word": "fordert",
+          "start": 98.72,
+          "end": 99.34,
+          "translation": "demands"
+        },
+        {
+          "word": "komplette",
+          "start": 99.34,
+          "end": 100.28,
+          "translation": "complete"
+        },
+        {
+          "word": "Öffnung",
+          "start": 100.28,
+          "end": 101.02,
+          "translation": "Opening"
+        },
+        {
+          "word": "der",
+          "start": 101.02,
+          "end": 101.46,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 101.46,
+          "end": 102.2,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 102.2,
+          "end": 102.68,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 102.68,
+          "end": 103.38,
+          "translation": "Hormuz"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Vertreter aus rund 50 Staaten haben bei einer Konferenz in Frankreichs Hauptstadt Paris eine bedingungslose und vollständige Wiederöffnung der Straße von Hormus verlangt. Man fordere die Wiederherstellung der vor dem Iran-Krieg geltenden Bedingungen für eine freie Durchfahrt und die uneingeschränkte Achtung des Seerechts, sagte der französische Präsident Emmanuel Macron nach dem Treffen. Er erläuterte, Frankreich wolle mit Großbritannien einen neutralen Marineeinsatz in der Golfregion organisieren. Damit sollten Handelsschiffe, die den Persischen Golf entlang der iranischen Küste durchqueren, begleitet und gesichert werden. Der Einsatz solle sich klar von den Kriegsparteien abgrenzen.",
+      "words": [
+        {
+          "word": "Vertreter",
+          "start": 103.38,
+          "end": 105.02,
+          "translation": "Representative"
+        },
+        {
+          "word": "aus",
+          "start": 105.02,
+          "end": 105.48,
+          "translation": "from"
+        },
+        {
+          "word": "rund",
+          "start": 105.48,
+          "end": 105.86,
+          "translation": "round"
+        },
+        {
+          "word": "50",
+          "start": 105.86,
+          "end": 106.64,
+          "translation": "50"
+        },
+        {
+          "word": "Staaten",
+          "start": 106.64,
+          "end": 107.6,
+          "translation": "States"
+        },
+        {
+          "word": "haben",
+          "start": 107.6,
+          "end": 108.28,
+          "translation": "have"
+        },
+        {
+          "word": "bei",
+          "start": 108.28,
+          "end": 108.86,
+          "translation": "with"
+        },
+        {
+          "word": "einer",
+          "start": 108.86,
+          "end": 109.34,
+          "translation": "one"
+        },
+        {
+          "word": "Konferenz",
+          "start": 109.34,
+          "end": 110.5,
+          "translation": "Conference"
+        },
+        {
+          "word": "in",
+          "start": 110.5,
+          "end": 110.78,
+          "translation": "in"
+        },
+        {
+          "word": "Frankreichs",
+          "start": 110.78,
+          "end": 112.08,
+          "translation": "France"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 112.08,
+          "end": 112.8,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Paris",
+          "start": 112.8,
+          "end": 113.44,
+          "translation": "Paris"
+        },
+        {
+          "word": "eine",
+          "start": 113.44,
+          "end": 114.7,
+          "translation": "one"
+        },
+        {
+          "word": "bedingungslose",
+          "start": 114.7,
+          "end": 116.08,
+          "translation": "unconditional"
+        },
+        {
+          "word": "und",
+          "start": 116.08,
+          "end": 116.5,
+          "translation": "and"
+        },
+        {
+          "word": "vollständige",
+          "start": 116.5,
+          "end": 117.78,
+          "translation": "complete"
+        },
+        {
+          "word": "Wiederöffnung",
+          "start": 117.78,
+          "end": 119.16,
+          "translation": "Reopening"
+        },
+        {
+          "word": "der",
+          "start": 119.16,
+          "end": 119.76,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 119.76,
+          "end": 120.46,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 120.46,
+          "end": 120.86,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 120.86,
+          "end": 121.64,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "verlangt.",
+          "start": 121.64,
+          "end": 122.38,
+          "translation": "required."
+        },
+        {
+          "word": "Man",
+          "start": 122.9,
+          "end": 123.78,
+          "translation": "Man"
+        },
+        {
+          "word": "fordere",
+          "start": 123.78,
+          "end": 124.6,
+          "translation": "demand"
+        },
+        {
+          "word": "die",
+          "start": 124.6,
+          "end": 124.88,
+          "translation": "the"
+        },
+        {
+          "word": "Wiederherstellung",
+          "start": 124.88,
+          "end": 126.44,
+          "translation": "Restoration"
+        },
+        {
+          "word": "der",
+          "start": 126.44,
+          "end": 127.28,
+          "translation": "the"
+        },
+        {
+          "word": "vor",
+          "start": 127.28,
+          "end": 127.84,
+          "translation": "before"
+        },
+        {
+          "word": "dem",
+          "start": 127.84,
+          "end": 128.24,
+          "translation": "the"
+        },
+        {
+          "word": "Iran-Krieg",
+          "start": 128.24,
+          "end": 129.35,
+          "translation": "Iran war"
+        },
+        {
+          "word": "geltenden",
+          "start": 129.35,
+          "end": 130.46,
+          "translation": "valid"
+        },
+        {
+          "word": "Bedingungen",
+          "start": 130.46,
+          "end": 131.3,
+          "translation": "Conditions"
+        },
+        {
+          "word": "für",
+          "start": 131.3,
+          "end": 132.0,
+          "translation": "for"
+        },
+        {
+          "word": "eine",
+          "start": 132.0,
+          "end": 132.56,
+          "translation": "one"
+        },
+        {
+          "word": "freie",
+          "start": 132.56,
+          "end": 133.32,
+          "translation": "free"
+        },
+        {
+          "word": "Durchfahrt",
+          "start": 133.32,
+          "end": 134.56,
+          "translation": "Passage"
+        },
+        {
+          "word": "und",
+          "start": 134.56,
+          "end": 135.24,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 135.24,
+          "end": 135.66,
+          "translation": "the"
+        },
+        {
+          "word": "uneingeschränkte",
+          "start": 135.66,
+          "end": 137.58,
+          "translation": "unrestricted"
+        },
+        {
+          "word": "Achtung",
+          "start": 137.58,
+          "end": 138.36,
+          "translation": "Attention"
+        },
+        {
+          "word": "des",
+          "start": 138.36,
+          "end": 139.04,
+          "translation": "of the"
+        },
+        {
+          "word": "Seerechts,",
+          "start": 139.04,
+          "end": 140.24,
+          "translation": "Maritime law,"
+        },
+        {
+          "word": "sagte",
+          "start": 140.24,
+          "end": 141.22,
+          "translation": "said"
+        },
+        {
+          "word": "der",
+          "start": 141.22,
+          "end": 141.5,
+          "translation": "the"
+        },
+        {
+          "word": "französische",
+          "start": 141.5,
+          "end": 142.84,
+          "translation": "French"
+        },
+        {
+          "word": "Präsident",
+          "start": 142.84,
+          "end": 143.56,
+          "translation": "President"
+        },
+        {
+          "word": "Emmanuel",
+          "start": 143.56,
+          "end": 144.9,
+          "translation": "Emmanuel"
+        },
+        {
+          "word": "Macron",
+          "start": 144.9,
+          "end": 145.64,
+          "translation": "Macron"
+        },
+        {
+          "word": "nach",
+          "start": 145.64,
+          "end": 146.42,
+          "translation": "to"
+        },
+        {
+          "word": "dem",
+          "start": 146.42,
+          "end": 146.88,
+          "translation": "the"
+        },
+        {
+          "word": "Treffen.",
+          "start": 146.88,
+          "end": 147.46,
+          "translation": "Meetings."
+        },
+        {
+          "word": "Er",
+          "start": 148.58,
+          "end": 148.8,
+          "translation": "He"
+        },
+        {
+          "word": "erläuterte,",
+          "start": 148.8,
+          "end": 149.96,
+          "translation": "explained,"
+        },
+        {
+          "word": "Frankreich",
+          "start": 149.96,
+          "end": 151.2,
+          "translation": "France"
+        },
+        {
+          "word": "wolle",
+          "start": 151.2,
+          "end": 151.84,
+          "translation": "wool"
+        },
+        {
+          "word": "mit",
+          "start": 151.84,
+          "end": 152.1,
+          "translation": "with"
+        },
+        {
+          "word": "Großbritannien",
+          "start": 152.1,
+          "end": 153.82,
+          "translation": "Great Britain"
+        },
+        {
+          "word": "einen",
+          "start": 153.82,
+          "end": 154.66,
+          "translation": "one"
+        },
+        {
+          "word": "neutralen",
+          "start": 154.66,
+          "end": 156.16,
+          "translation": "neutral"
+        },
+        {
+          "word": "Marineeinsatz",
+          "start": 156.16,
+          "end": 157.88,
+          "translation": "Marine use"
+        },
+        {
+          "word": "in",
+          "start": 157.88,
+          "end": 158.66,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 158.66,
+          "end": 158.9,
+          "translation": "the"
+        },
+        {
+          "word": "Golfregion",
+          "start": 158.9,
+          "end": 160.06,
+          "translation": "Gulf region"
+        },
+        {
+          "word": "organisieren.",
+          "start": 160.06,
+          "end": 161.56,
+          "translation": "organize."
+        },
+        {
+          "word": "Damit",
+          "start": 162.46,
+          "end": 163.04,
+          "translation": "So that"
+        },
+        {
+          "word": "sollten",
+          "start": 163.04,
+          "end": 163.68,
+          "translation": "should"
+        },
+        {
+          "word": "Handelsschiffe,",
+          "start": 163.68,
+          "end": 165.42,
+          "translation": "Merchant ships,"
+        },
+        {
+          "word": "die",
+          "start": 165.42,
+          "end": 165.68,
+          "translation": "the"
+        },
+        {
+          "word": "den",
+          "start": 165.68,
+          "end": 166.0,
+          "translation": "the"
+        },
+        {
+          "word": "Persischen",
+          "start": 166.0,
+          "end": 166.88,
+          "translation": "Persian"
+        },
+        {
+          "word": "Golf",
+          "start": 166.88,
+          "end": 167.38,
+          "translation": "Golf"
+        },
+        {
+          "word": "entlang",
+          "start": 167.38,
+          "end": 168.2,
+          "translation": "along"
+        },
+        {
+          "word": "der",
+          "start": 168.2,
+          "end": 168.56,
+          "translation": "the"
+        },
+        {
+          "word": "iranischen",
+          "start": 168.56,
+          "end": 169.56,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Küste",
+          "start": 169.56,
+          "end": 170.14,
+          "translation": "Coast"
+        },
+        {
+          "word": "durchqueren,",
+          "start": 170.14,
+          "end": 171.22,
+          "translation": "cross,"
+        },
+        {
+          "word": "begleitet",
+          "start": 172.0,
+          "end": 172.68,
+          "translation": "accompanied"
+        },
+        {
+          "word": "und",
+          "start": 172.68,
+          "end": 173.46,
+          "translation": "and"
+        },
+        {
+          "word": "gesichert",
+          "start": 173.46,
+          "end": 174.28,
+          "translation": "secured"
+        },
+        {
+          "word": "werden.",
+          "start": 174.28,
+          "end": 174.66,
+          "translation": "become."
+        },
+        {
+          "word": "Der",
+          "start": 175.46,
+          "end": 175.88,
+          "translation": "The"
+        },
+        {
+          "word": "Einsatz",
+          "start": 175.88,
+          "end": 176.42,
+          "translation": "Use"
+        },
+        {
+          "word": "solle",
+          "start": 176.42,
+          "end": 177.22,
+          "translation": "should"
+        },
+        {
+          "word": "sich",
+          "start": 177.22,
+          "end": 177.44,
+          "translation": "itself"
+        },
+        {
+          "word": "klar",
+          "start": 177.44,
+          "end": 177.98,
+          "translation": "clear"
+        },
+        {
+          "word": "von",
+          "start": 177.98,
+          "end": 178.54,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 178.54,
+          "end": 178.86,
+          "translation": "the"
+        },
+        {
+          "word": "Kriegsparteien",
+          "start": 178.86,
+          "end": 180.36,
+          "translation": "Warring parties"
+        },
+        {
+          "word": "abgrenzen.",
+          "start": 180.36,
+          "end": 181.68,
+          "translation": "delimit."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Merz warnt vor „Stresstest\" mit den USA",
+      "words": [
+        {
+          "word": "Merz",
+          "start": 181.68,
+          "end": 183.52,
+          "translation": "Merz"
+        },
+        {
+          "word": "warnt",
+          "start": 183.52,
+          "end": 184.18,
+          "translation": "warns"
+        },
+        {
+          "word": "vor",
+          "start": 184.18,
+          "end": 184.52,
+          "translation": "before"
+        },
+        {
+          "word": "„Stresstest\"",
+          "start": 184.52,
+          "end": 185.7,
+          "translation": "\"Stress test\""
+        },
+        {
+          "word": "mit",
+          "start": 185.7,
+          "end": 186.32,
+          "translation": "with"
+        },
+        {
+          "word": "den",
+          "start": 186.32,
+          "end": 186.66,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 186.66,
+          "end": 187.62,
+          "translation": "USA"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Deutschlands Kanzler Friedrich Merz warnt angesichts der Bemühungen um ein Ende des Iran-Kriegs vor einer Belastung der Beziehungen zu den USA. Dieser Krieg dürfe nicht zum transatlantischen „Stresstest“ werden, sagte Merz in der französischen Hauptstadt Paris. Er äußerte sich nach den internationalen Beratungen über einen möglichen Militäreinsatz zur Absicherung der Straße von Hormus entlang der iranischen Küste. Insofern gelte es jetzt, einige Schlussfolgerungen gemeinsam zu ziehen, sagte Merz. Deutschland sei bereit, einen Beitrag zur Sicherung der freien Schifffahrt in der Straße von Hormus zu leisten. Dabei wünsche sich die Bundesregierung, wenn es möglich sei, eine Beteiligung der USA.",
+      "words": [
+        {
+          "word": "Deutschlands",
+          "start": 188.46,
+          "end": 189.32,
+          "translation": "Germany"
+        },
+        {
+          "word": "Kanzler",
+          "start": 189.32,
+          "end": 190.08,
+          "translation": "Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 190.08,
+          "end": 190.9,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 190.9,
+          "end": 191.56,
+          "translation": "Merz"
+        },
+        {
+          "word": "warnt",
+          "start": 191.56,
+          "end": 192.36,
+          "translation": "warns"
+        },
+        {
+          "word": "angesichts",
+          "start": 192.36,
+          "end": 193.34,
+          "translation": "in view of"
+        },
+        {
+          "word": "der",
+          "start": 193.34,
+          "end": 193.78,
+          "translation": "the"
+        },
+        {
+          "word": "Bemühungen",
+          "start": 193.78,
+          "end": 194.7,
+          "translation": "Efforts"
+        },
+        {
+          "word": "um",
+          "start": 194.7,
+          "end": 195.34,
+          "translation": "to"
+        },
+        {
+          "word": "ein",
+          "start": 195.34,
+          "end": 195.8,
+          "translation": "a"
+        },
+        {
+          "word": "Ende",
+          "start": 195.8,
+          "end": 196.32,
+          "translation": "End"
+        },
+        {
+          "word": "des",
+          "start": 196.32,
+          "end": 196.74,
+          "translation": "of the"
+        },
+        {
+          "word": "Iran-Kriegs",
+          "start": 196.74,
+          "end": 198.06,
+          "translation": "Iran war"
+        },
+        {
+          "word": "vor",
+          "start": 198.06,
+          "end": 198.74,
+          "translation": "before"
+        },
+        {
+          "word": "einer",
+          "start": 198.74,
+          "end": 199.16,
+          "translation": "one"
+        },
+        {
+          "word": "Belastung",
+          "start": 199.16,
+          "end": 200.22,
+          "translation": "Load"
+        },
+        {
+          "word": "der",
+          "start": 200.22,
+          "end": 200.56,
+          "translation": "the"
+        },
+        {
+          "word": "Beziehungen",
+          "start": 200.56,
+          "end": 201.52,
+          "translation": "Relationships"
+        },
+        {
+          "word": "zu",
+          "start": 201.52,
+          "end": 202.12,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 202.12,
+          "end": 202.32,
+          "translation": "the"
+        },
+        {
+          "word": "USA.",
+          "start": 202.32,
+          "end": 203.3,
+          "translation": "USA."
+        },
+        {
+          "word": "Dieser",
+          "start": 204.14,
+          "end": 204.82,
+          "translation": "This"
+        },
+        {
+          "word": "Krieg",
+          "start": 204.82,
+          "end": 205.66,
+          "translation": "War"
+        },
+        {
+          "word": "dürfe",
+          "start": 205.66,
+          "end": 206.34,
+          "translation": "may"
+        },
+        {
+          "word": "nicht",
+          "start": 206.34,
+          "end": 206.72,
+          "translation": "not"
+        },
+        {
+          "word": "zum",
+          "start": 206.72,
+          "end": 207.26,
+          "translation": "to the"
+        },
+        {
+          "word": "transatlantischen",
+          "start": 207.26,
+          "end": 209.1,
+          "translation": "transatlantic"
+        },
+        {
+          "word": "„Stresstest“",
+          "start": 209.1,
+          "end": 210.66,
+          "translation": "\"Stress test\""
+        },
+        {
+          "word": "werden,",
+          "start": 210.66,
+          "end": 211.26,
+          "translation": "become,"
+        },
+        {
+          "word": "sagte",
+          "start": 211.9,
+          "end": 212.36,
+          "translation": "said"
+        },
+        {
+          "word": "Merz",
+          "start": 212.36,
+          "end": 213.06,
+          "translation": "Merz"
+        },
+        {
+          "word": "in",
+          "start": 213.06,
+          "end": 213.68,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 213.68,
+          "end": 213.9,
+          "translation": "the"
+        },
+        {
+          "word": "französischen",
+          "start": 213.9,
+          "end": 215.04,
+          "translation": "French"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 215.04,
+          "end": 215.82,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Paris.",
+          "start": 215.82,
+          "end": 216.44,
+          "translation": "Paris."
+        },
+        {
+          "word": "Er",
+          "start": 217.22,
+          "end": 217.92,
+          "translation": "He"
+        },
+        {
+          "word": "äußerte",
+          "start": 217.92,
+          "end": 218.64,
+          "translation": "expressed"
+        },
+        {
+          "word": "sich",
+          "start": 218.64,
+          "end": 219.08,
+          "translation": "itself"
+        },
+        {
+          "word": "nach",
+          "start": 219.08,
+          "end": 219.4,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 219.4,
+          "end": 219.8,
+          "translation": "the"
+        },
+        {
+          "word": "internationalen",
+          "start": 219.8,
+          "end": 221.5,
+          "translation": "international"
+        },
+        {
+          "word": "Beratungen",
+          "start": 221.5,
+          "end": 222.38,
+          "translation": "Consultations"
+        },
+        {
+          "word": "über",
+          "start": 222.38,
+          "end": 223.3,
+          "translation": "about"
+        },
+        {
+          "word": "einen",
+          "start": 223.3,
+          "end": 223.84,
+          "translation": "one"
+        },
+        {
+          "word": "möglichen",
+          "start": 223.84,
+          "end": 224.74,
+          "translation": "possible"
+        },
+        {
+          "word": "Militäreinsatz",
+          "start": 224.74,
+          "end": 226.32,
+          "translation": "Military deployment"
+        },
+        {
+          "word": "zur",
+          "start": 226.32,
+          "end": 227.16,
+          "translation": "to the"
+        },
+        {
+          "word": "Absicherung",
+          "start": 227.16,
+          "end": 227.98,
+          "translation": "Protection"
+        },
+        {
+          "word": "der",
+          "start": 227.98,
+          "end": 228.56,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 228.56,
+          "end": 229.08,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 229.08,
+          "end": 229.56,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 229.56,
+          "end": 230.28,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "entlang",
+          "start": 230.28,
+          "end": 231.2,
+          "translation": "along"
+        },
+        {
+          "word": "der",
+          "start": 231.2,
+          "end": 231.62,
+          "translation": "the"
+        },
+        {
+          "word": "iranischen",
+          "start": 231.62,
+          "end": 232.6,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Küste.",
+          "start": 232.6,
+          "end": 233.18,
+          "translation": "Coast."
+        },
+        {
+          "word": "Insofern",
+          "start": 234.22,
+          "end": 235.24,
+          "translation": "In this respect"
+        },
+        {
+          "word": "gelte",
+          "start": 235.24,
+          "end": 235.92,
+          "translation": "apply"
+        },
+        {
+          "word": "es",
+          "start": 235.92,
+          "end": 236.28,
+          "translation": "it"
+        },
+        {
+          "word": "jetzt,",
+          "start": 236.28,
+          "end": 236.56,
+          "translation": "now,"
+        },
+        {
+          "word": "einige",
+          "start": 237.28,
+          "end": 237.74,
+          "translation": "some"
+        },
+        {
+          "word": "Schlussfolgerungen",
+          "start": 237.74,
+          "end": 239.32,
+          "translation": "Conclusions"
+        },
+        {
+          "word": "gemeinsam",
+          "start": 239.32,
+          "end": 240.16,
+          "translation": "together"
+        },
+        {
+          "word": "zu",
+          "start": 240.16,
+          "end": 240.86,
+          "translation": "to"
+        },
+        {
+          "word": "ziehen,",
+          "start": 240.86,
+          "end": 241.36,
+          "translation": "draw,"
+        },
+        {
+          "word": "sagte",
+          "start": 242.12,
+          "end": 242.48,
+          "translation": "said"
+        },
+        {
+          "word": "Merz.",
+          "start": 242.48,
+          "end": 244.0,
+          "translation": "Merz."
+        },
+        {
+          "word": "Deutschland",
+          "start": 244.0,
+          "end": 244.56,
+          "translation": "Germany"
+        },
+        {
+          "word": "sei",
+          "start": 244.56,
+          "end": 245.12,
+          "translation": "be"
+        },
+        {
+          "word": "bereit,",
+          "start": 245.12,
+          "end": 245.72,
+          "translation": "ready,"
+        },
+        {
+          "word": "einen",
+          "start": 246.4,
+          "end": 246.8,
+          "translation": "one"
+        },
+        {
+          "word": "Beitrag",
+          "start": 246.8,
+          "end": 247.6,
+          "translation": "Contribution"
+        },
+        {
+          "word": "zur",
+          "start": 247.6,
+          "end": 248.14,
+          "translation": "to the"
+        },
+        {
+          "word": "Sicherung",
+          "start": 248.14,
+          "end": 249.14,
+          "translation": "Fuse"
+        },
+        {
+          "word": "der",
+          "start": 249.14,
+          "end": 249.58,
+          "translation": "the"
+        },
+        {
+          "word": "freien",
+          "start": 249.58,
+          "end": 250.24,
+          "translation": "free"
+        },
+        {
+          "word": "Schifffahrt",
+          "start": 250.24,
+          "end": 251.14,
+          "translation": "Shipping"
+        },
+        {
+          "word": "in",
+          "start": 251.14,
+          "end": 251.34,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 251.34,
+          "end": 251.54,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 251.54,
+          "end": 252.04,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 252.04,
+          "end": 252.5,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 252.5,
+          "end": 253.26,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "zu",
+          "start": 253.26,
+          "end": 253.84,
+          "translation": "to"
+        },
+        {
+          "word": "leisten.",
+          "start": 253.84,
+          "end": 254.42,
+          "translation": "perform."
+        },
+        {
+          "word": "Dabei",
+          "start": 255.28,
+          "end": 256.06,
+          "translation": "Thereby"
+        },
+        {
+          "word": "wünsche",
+          "start": 256.06,
+          "end": 256.78,
+          "translation": "wish"
+        },
+        {
+          "word": "sich",
+          "start": 256.78,
+          "end": 257.28,
+          "translation": "itself"
+        },
+        {
+          "word": "die",
+          "start": 257.28,
+          "end": 257.5,
+          "translation": "the"
+        },
+        {
+          "word": "Bundesregierung,",
+          "start": 257.5,
+          "end": 258.7,
+          "translation": "Federal government,"
+        },
+        {
+          "word": "wenn",
+          "start": 259.18,
+          "end": 259.5,
+          "translation": "when"
+        },
+        {
+          "word": "es",
+          "start": 259.5,
+          "end": 259.8,
+          "translation": "it"
+        },
+        {
+          "word": "möglich",
+          "start": 259.8,
+          "end": 260.28,
+          "translation": "possible"
+        },
+        {
+          "word": "sei,",
+          "start": 260.28,
+          "end": 260.74,
+          "translation": "be,"
+        },
+        {
+          "word": "eine",
+          "start": 261.28,
+          "end": 261.6,
+          "translation": "one"
+        },
+        {
+          "word": "Beteiligung",
+          "start": 261.6,
+          "end": 262.52,
+          "translation": "Participation"
+        },
+        {
+          "word": "der",
+          "start": 262.52,
+          "end": 262.9,
+          "translation": "the"
+        },
+        {
+          "word": "USA.",
+          "start": 262.9,
+          "end": 263.82,
+          "translation": "USA."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "USA verbieten Israel weitere Angriffe auf den Libanon",
+      "words": [
+        {
+          "word": "USA",
+          "start": 264.82,
+          "end": 265.7,
+          "translation": "USA"
+        },
+        {
+          "word": "verbieten",
+          "start": 265.7,
+          "end": 267.24,
+          "translation": "prohibit"
+        },
+        {
+          "word": "Israel",
+          "start": 267.24,
+          "end": 267.98,
+          "translation": "Israel"
+        },
+        {
+          "word": "weitere",
+          "start": 267.98,
+          "end": 269.04,
+          "translation": "more"
+        },
+        {
+          "word": "Angriffe",
+          "start": 269.04,
+          "end": 270.08,
+          "translation": "Attacks"
+        },
+        {
+          "word": "auf",
+          "start": 270.08,
+          "end": 270.54,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 270.54,
+          "end": 270.82,
+          "translation": "the"
+        },
+        {
+          "word": "Libanon",
+          "start": 270.82,
+          "end": 272.22,
+          "translation": "Lebanon"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Israel wird nach Angaben von US-Präsident Donald Trump nicht mehr den Libanon angreifen. „Es ist ihnen von den USA VERBOTEN. Es reicht jetzt!!!“, so Trump wörtlich auf seiner Plattform Truth Social. Zuvor war am ersten Tag der von den Vereinigten Staaten vermittelten Waffenruhe bei einem israelischen Drohnenangriff auf den Südlibanon ein Mensch getötet worden. Das teilten Sanitäter und der Leiter eines örtlichen Krankenhauses mit. Am Donnerstag hatte der US-Präsident eine zehntägige Feuerpause für den Libanon verkündet. Sie war in der Nacht zum Freitag in Kraft getreten.",
+      "words": [
+        {
+          "word": "Israel",
+          "start": 272.22,
+          "end": 272.9,
+          "translation": "Israel"
+        },
+        {
+          "word": "wird",
+          "start": 272.9,
+          "end": 273.42,
+          "translation": "becomes"
+        },
+        {
+          "word": "nach",
+          "start": 273.42,
+          "end": 273.84,
+          "translation": "to"
+        },
+        {
+          "word": "Angaben",
+          "start": 273.84,
+          "end": 274.68,
+          "translation": "Details"
+        },
+        {
+          "word": "von",
+          "start": 274.68,
+          "end": 275.12,
+          "translation": "from"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 275.12,
+          "end": 276.68,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 276.68,
+          "end": 277.26,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 277.26,
+          "end": 277.92,
+          "translation": "Trump"
+        },
+        {
+          "word": "nicht",
+          "start": 277.92,
+          "end": 278.7,
+          "translation": "not"
+        },
+        {
+          "word": "mehr",
+          "start": 278.7,
+          "end": 279.24,
+          "translation": "more"
+        },
+        {
+          "word": "den",
+          "start": 279.24,
+          "end": 279.56,
+          "translation": "the"
+        },
+        {
+          "word": "Libanon",
+          "start": 279.56,
+          "end": 280.32,
+          "translation": "Lebanon"
+        },
+        {
+          "word": "angreifen.",
+          "start": 280.32,
+          "end": 281.36,
+          "translation": "attack."
+        },
+        {
+          "word": "„Es",
+          "start": 281.82,
+          "end": 282.4,
+          "translation": "\"It"
+        },
+        {
+          "word": "ist",
+          "start": 282.4,
+          "end": 282.62,
+          "translation": "is"
+        },
+        {
+          "word": "ihnen",
+          "start": 282.62,
+          "end": 283.1,
+          "translation": "them"
+        },
+        {
+          "word": "von",
+          "start": 283.1,
+          "end": 283.48,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 283.48,
+          "end": 283.72,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 283.72,
+          "end": 284.36,
+          "translation": "USA"
+        },
+        {
+          "word": "VERBOTEN.",
+          "start": 284.36,
+          "end": 285.66,
+          "translation": "FORBIDDEN."
+        },
+        {
+          "word": "Es",
+          "start": 286.14,
+          "end": 286.36,
+          "translation": "It"
+        },
+        {
+          "word": "reicht",
+          "start": 286.36,
+          "end": 286.84,
+          "translation": "reaches"
+        },
+        {
+          "word": "jetzt!!!“,",
+          "start": 286.84,
+          "end": 287.42,
+          "translation": "now!!!\","
+        },
+        {
+          "word": "so",
+          "start": 288.18,
+          "end": 288.5,
+          "translation": "so"
+        },
+        {
+          "word": "Trump",
+          "start": 288.5,
+          "end": 289.04,
+          "translation": "Trump"
+        },
+        {
+          "word": "wörtlich",
+          "start": 289.04,
+          "end": 289.9,
+          "translation": "literally"
+        },
+        {
+          "word": "auf",
+          "start": 289.9,
+          "end": 290.54,
+          "translation": "on"
+        },
+        {
+          "word": "seiner",
+          "start": 290.54,
+          "end": 290.86,
+          "translation": "his"
+        },
+        {
+          "word": "Plattform",
+          "start": 290.86,
+          "end": 291.66,
+          "translation": "Platform"
+        },
+        {
+          "word": "Truth",
+          "start": 291.66,
+          "end": 292.24,
+          "translation": "Truth"
+        },
+        {
+          "word": "Social.",
+          "start": 292.24,
+          "end": 292.82,
+          "translation": "Social."
+        },
+        {
+          "word": "Zuvor",
+          "start": 292.82,
+          "end": 294.88,
+          "translation": "Previously"
+        },
+        {
+          "word": "war",
+          "start": 294.88,
+          "end": 295.12,
+          "translation": "was"
+        },
+        {
+          "word": "am",
+          "start": 295.12,
+          "end": 295.52,
+          "translation": "on"
+        },
+        {
+          "word": "ersten",
+          "start": 295.52,
+          "end": 296.04,
+          "translation": "first"
+        },
+        {
+          "word": "Tag",
+          "start": 296.04,
+          "end": 296.8,
+          "translation": "Day"
+        },
+        {
+          "word": "der",
+          "start": 297.04,
+          "end": 297.42,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 297.42,
+          "end": 297.74,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 297.74,
+          "end": 298.02,
+          "translation": "the"
+        },
+        {
+          "word": "Vereinigten",
+          "start": 298.02,
+          "end": 299.0,
+          "translation": "United"
+        },
+        {
+          "word": "Staaten",
+          "start": 299.0,
+          "end": 299.84,
+          "translation": "States"
+        },
+        {
+          "word": "vermittelten",
+          "start": 299.84,
+          "end": 301.0,
+          "translation": "mediated"
+        },
+        {
+          "word": "Waffenruhe",
+          "start": 301.0,
+          "end": 301.88,
+          "translation": "Ceasefire"
+        },
+        {
+          "word": "bei",
+          "start": 301.88,
+          "end": 302.6,
+          "translation": "with"
+        },
+        {
+          "word": "einem",
+          "start": 302.6,
+          "end": 303.14,
+          "translation": "one"
+        },
+        {
+          "word": "israelischen",
+          "start": 303.14,
+          "end": 304.5,
+          "translation": "Israeli"
+        },
+        {
+          "word": "Drohnenangriff",
+          "start": 304.5,
+          "end": 306.16,
+          "translation": "Drone attack"
+        },
+        {
+          "word": "auf",
+          "start": 306.16,
+          "end": 306.86,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 306.86,
+          "end": 307.18,
+          "translation": "the"
+        },
+        {
+          "word": "Südlibanon",
+          "start": 307.18,
+          "end": 308.62,
+          "translation": "South Lebanon"
+        },
+        {
+          "word": "ein",
+          "start": 308.62,
+          "end": 309.28,
+          "translation": "a"
+        },
+        {
+          "word": "Mensch",
+          "start": 309.28,
+          "end": 309.92,
+          "translation": "Human"
+        },
+        {
+          "word": "getötet",
+          "start": 309.92,
+          "end": 310.68,
+          "translation": "killed"
+        },
+        {
+          "word": "worden.",
+          "start": 310.68,
+          "end": 311.24,
+          "translation": "been."
+        },
+        {
+          "word": "Das",
+          "start": 311.78,
+          "end": 312.46,
+          "translation": "The"
+        },
+        {
+          "word": "teilten",
+          "start": 312.46,
+          "end": 313.22,
+          "translation": "shared"
+        },
+        {
+          "word": "Sanitäter",
+          "start": 313.22,
+          "end": 314.18,
+          "translation": "Paramedic"
+        },
+        {
+          "word": "und",
+          "start": 314.18,
+          "end": 315.02,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 315.02,
+          "end": 315.38,
+          "translation": "the"
+        },
+        {
+          "word": "Leiter",
+          "start": 315.38,
+          "end": 315.96,
+          "translation": "Manager"
+        },
+        {
+          "word": "eines",
+          "start": 315.96,
+          "end": 316.54,
+          "translation": "one"
+        },
+        {
+          "word": "örtlichen",
+          "start": 316.54,
+          "end": 317.48,
+          "translation": "local"
+        },
+        {
+          "word": "Krankenhauses",
+          "start": 317.48,
+          "end": 318.7,
+          "translation": "Hospital"
+        },
+        {
+          "word": "mit.",
+          "start": 318.7,
+          "end": 319.08,
+          "translation": "with."
+        },
+        {
+          "word": "Am",
+          "start": 320.22,
+          "end": 320.44,
+          "translation": "On"
+        },
+        {
+          "word": "Donnerstag",
+          "start": 320.44,
+          "end": 321.46,
+          "translation": "Thursday"
+        },
+        {
+          "word": "hatte",
+          "start": 321.46,
+          "end": 321.7,
+          "translation": "had"
+        },
+        {
+          "word": "der",
+          "start": 321.7,
+          "end": 322.26,
+          "translation": "the"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 322.26,
+          "end": 323.86,
+          "translation": "US President"
+        },
+        {
+          "word": "eine",
+          "start": 323.86,
+          "end": 324.94,
+          "translation": "one"
+        },
+        {
+          "word": "zehntägige",
+          "start": 324.94,
+          "end": 326.24,
+          "translation": "ten-day"
+        },
+        {
+          "word": "Feuerpause",
+          "start": 326.24,
+          "end": 327.38,
+          "translation": "Cease fire"
+        },
+        {
+          "word": "für",
+          "start": 327.38,
+          "end": 328.1,
+          "translation": "for"
+        },
+        {
+          "word": "den",
+          "start": 328.1,
+          "end": 328.34,
+          "translation": "the"
+        },
+        {
+          "word": "Libanon",
+          "start": 328.34,
+          "end": 329.02,
+          "translation": "Lebanon"
+        },
+        {
+          "word": "verkündet.",
+          "start": 329.02,
+          "end": 330.02,
+          "translation": "announced."
+        },
+        {
+          "word": "Sie",
+          "start": 330.84,
+          "end": 331.2,
+          "translation": "You"
+        },
+        {
+          "word": "war",
+          "start": 331.2,
+          "end": 331.52,
+          "translation": "was"
+        },
+        {
+          "word": "in",
+          "start": 331.52,
+          "end": 331.92,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 331.92,
+          "end": 332.1,
+          "translation": "the"
+        },
+        {
+          "word": "Nacht",
+          "start": 332.1,
+          "end": 332.54,
+          "translation": "Night"
+        },
+        {
+          "word": "zum",
+          "start": 332.54,
+          "end": 332.9,
+          "translation": "to the"
+        },
+        {
+          "word": "Freitag",
+          "start": 332.9,
+          "end": 333.82,
+          "translation": "Friday"
+        },
+        {
+          "word": "in",
+          "start": 333.82,
+          "end": 334.28,
+          "translation": "in"
+        },
+        {
+          "word": "Kraft",
+          "start": 334.28,
+          "end": 334.82,
+          "translation": "Power"
+        },
+        {
+          "word": "getreten.",
+          "start": 334.82,
+          "end": 335.56,
+          "translation": "stepped on."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Chinas Roboter laufen wieder um die Wette",
+      "words": [
+        {
+          "word": "Chinas",
+          "start": 336.56,
+          "end": 337.6,
+          "translation": "China's"
+        },
+        {
+          "word": "Roboter",
+          "start": 337.6,
+          "end": 338.26,
+          "translation": "Robots"
+        },
+        {
+          "word": "laufen",
+          "start": 338.26,
+          "end": 338.84,
+          "translation": "run"
+        },
+        {
+          "word": "wieder",
+          "start": 338.84,
+          "end": 339.5,
+          "translation": "again"
+        },
+        {
+          "word": "um",
+          "start": 339.5,
+          "end": 339.94,
+          "translation": "to"
+        },
+        {
+          "word": "die",
+          "start": 339.94,
+          "end": 340.3,
+          "translation": "the"
+        },
+        {
+          "word": "Wette",
+          "start": 340.3,
+          "end": 340.76,
+          "translation": "Bet"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Mehr ​als 300 humanoide Roboter gehen am Sonntag in Peking bei einem Halbmarathon an den Start. Auf dem rund 21 Kilometer langen Kurs in Chinas Hauptstadt müssen sie schwieriges Gelände bewältigen. Dazu zählen asphaltierte Hänge und Parkanlagen. So sollen die technischen Fortschritte der vergangenen zwölf Monate überprüft werden. Während 2025 noch alle Teilnehmer des Roboterrennens ferngesteuert wurden, werden diesmal fast ​40 Prozent ‌der Roboter den Kurs autonom bewältigen, wie die Organisatoren mitteilten. China dominiert den Markt für humanoide Roboter. Mit der Veranstaltung will die Regierung in Peking die Branche zu einer wichtigen Säule der Wirtschaft ausbauen.",
+      "words": [
+        {
+          "word": "Mehr",
+          "start": 341.4,
+          "end": 341.7,
+          "translation": "More"
+        },
+        {
+          "word": "​als",
+          "start": 341.7,
+          "end": 342.16,
+          "translation": "as"
+        },
+        {
+          "word": "300",
+          "start": 342.16,
+          "end": 343.18,
+          "translation": "300"
+        },
+        {
+          "word": "humanoide",
+          "start": 343.18,
+          "end": 344.88,
+          "translation": "humanoid"
+        },
+        {
+          "word": "Roboter",
+          "start": 344.88,
+          "end": 345.78,
+          "translation": "Robots"
+        },
+        {
+          "word": "gehen",
+          "start": 345.78,
+          "end": 346.66,
+          "translation": "Go"
+        },
+        {
+          "word": "am",
+          "start": 346.66,
+          "end": 347.08,
+          "translation": "on"
+        },
+        {
+          "word": "Sonntag",
+          "start": 347.08,
+          "end": 347.84,
+          "translation": "Sunday"
+        },
+        {
+          "word": "in",
+          "start": 347.84,
+          "end": 348.28,
+          "translation": "in"
+        },
+        {
+          "word": "Peking",
+          "start": 348.28,
+          "end": 348.9,
+          "translation": "Beijing"
+        },
+        {
+          "word": "bei",
+          "start": 348.9,
+          "end": 349.58,
+          "translation": "with"
+        },
+        {
+          "word": "einem",
+          "start": 349.58,
+          "end": 350.08,
+          "translation": "one"
+        },
+        {
+          "word": "Halbmarathon",
+          "start": 350.08,
+          "end": 351.42,
+          "translation": "Half marathon"
+        },
+        {
+          "word": "an",
+          "start": 351.42,
+          "end": 351.98,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 351.98,
+          "end": 352.24,
+          "translation": "the"
+        },
+        {
+          "word": "Start.",
+          "start": 352.24,
+          "end": 352.68,
+          "translation": "Start."
+        },
+        {
+          "word": "Auf",
+          "start": 353.68,
+          "end": 354.08,
+          "translation": "On"
+        },
+        {
+          "word": "dem",
+          "start": 354.08,
+          "end": 354.36,
+          "translation": "the"
+        },
+        {
+          "word": "rund",
+          "start": 354.36,
+          "end": 354.8,
+          "translation": "round"
+        },
+        {
+          "word": "21",
+          "start": 354.8,
+          "end": 356.0,
+          "translation": "21"
+        },
+        {
+          "word": "Kilometer",
+          "start": 356.0,
+          "end": 356.98,
+          "translation": "Kilometers"
+        },
+        {
+          "word": "langen",
+          "start": 356.98,
+          "end": 357.64,
+          "translation": "long"
+        },
+        {
+          "word": "Kurs",
+          "start": 357.64,
+          "end": 358.16,
+          "translation": "Course"
+        },
+        {
+          "word": "in",
+          "start": 358.16,
+          "end": 358.74,
+          "translation": "in"
+        },
+        {
+          "word": "Chinas",
+          "start": 358.74,
+          "end": 359.54,
+          "translation": "China's"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 359.54,
+          "end": 360.26,
+          "translation": "Capital city"
+        },
+        {
+          "word": "müssen",
+          "start": 360.26,
+          "end": 361.1,
+          "translation": "must"
+        },
+        {
+          "word": "sie",
+          "start": 361.1,
+          "end": 361.6,
+          "translation": "them"
+        },
+        {
+          "word": "schwieriges",
+          "start": 361.6,
+          "end": 362.56,
+          "translation": "difficult"
+        },
+        {
+          "word": "Gelände",
+          "start": 362.56,
+          "end": 363.14,
+          "translation": "Terrain"
+        },
+        {
+          "word": "bewältigen.",
+          "start": 363.14,
+          "end": 363.78,
+          "translation": "manage."
+        },
+        {
+          "word": "Dazu",
+          "start": 364.78,
+          "end": 365.56,
+          "translation": "In addition"
+        },
+        {
+          "word": "zählen",
+          "start": 365.56,
+          "end": 366.2,
+          "translation": "count"
+        },
+        {
+          "word": "asphaltierte",
+          "start": 366.2,
+          "end": 367.44,
+          "translation": "asphalted"
+        },
+        {
+          "word": "Hänge",
+          "start": 367.44,
+          "end": 367.88,
+          "translation": "Hanging"
+        },
+        {
+          "word": "und",
+          "start": 367.88,
+          "end": 368.66,
+          "translation": "and"
+        },
+        {
+          "word": "Parkanlagen.",
+          "start": 368.66,
+          "end": 370.0,
+          "translation": "parks."
+        },
+        {
+          "word": "So",
+          "start": 370.82,
+          "end": 371.34,
+          "translation": "So"
+        },
+        {
+          "word": "sollen",
+          "start": 371.34,
+          "end": 371.76,
+          "translation": "should"
+        },
+        {
+          "word": "die",
+          "start": 371.76,
+          "end": 372.14,
+          "translation": "the"
+        },
+        {
+          "word": "technischen",
+          "start": 372.14,
+          "end": 373.04,
+          "translation": "technical"
+        },
+        {
+          "word": "Fortschritte",
+          "start": 373.04,
+          "end": 374.12,
+          "translation": "Progress"
+        },
+        {
+          "word": "der",
+          "start": 374.12,
+          "end": 374.9,
+          "translation": "the"
+        },
+        {
+          "word": "vergangenen",
+          "start": 374.9,
+          "end": 375.96,
+          "translation": "past"
+        },
+        {
+          "word": "zwölf",
+          "start": 375.96,
+          "end": 376.44,
+          "translation": "twelve"
+        },
+        {
+          "word": "Monate",
+          "start": 376.44,
+          "end": 377.1,
+          "translation": "months"
+        },
+        {
+          "word": "überprüft",
+          "start": 377.1,
+          "end": 378.58,
+          "translation": "checked"
+        },
+        {
+          "word": "werden.",
+          "start": 378.58,
+          "end": 379.08,
+          "translation": "become."
+        },
+        {
+          "word": "Während",
+          "start": 380.08,
+          "end": 380.76,
+          "translation": "While"
+        },
+        {
+          "word": "2025",
+          "start": 380.76,
+          "end": 382.66,
+          "translation": "2025"
+        },
+        {
+          "word": "noch",
+          "start": 382.66,
+          "end": 383.74,
+          "translation": "still"
+        },
+        {
+          "word": "alle",
+          "start": 383.74,
+          "end": 384.4,
+          "translation": "all"
+        },
+        {
+          "word": "Teilnehmer",
+          "start": 384.4,
+          "end": 385.28,
+          "translation": "Participants"
+        },
+        {
+          "word": "des",
+          "start": 385.28,
+          "end": 385.78,
+          "translation": "of the"
+        },
+        {
+          "word": "Roboterrennens",
+          "start": 385.78,
+          "end": 387.22,
+          "translation": "Robot race"
+        },
+        {
+          "word": "ferngesteuert",
+          "start": 387.22,
+          "end": 388.8,
+          "translation": "remote controlled"
+        },
+        {
+          "word": "wurden,",
+          "start": 388.8,
+          "end": 389.46,
+          "translation": "were,"
+        },
+        {
+          "word": "werden",
+          "start": 389.46,
+          "end": 390.5,
+          "translation": "become"
+        },
+        {
+          "word": "diesmal",
+          "start": 390.5,
+          "end": 391.5,
+          "translation": "this time"
+        },
+        {
+          "word": "fast",
+          "start": 391.5,
+          "end": 392.0,
+          "translation": "almost"
+        },
+        {
+          "word": "​40",
+          "start": 392.0,
+          "end": 392.82,
+          "translation": "40"
+        },
+        {
+          "word": "Prozent",
+          "start": 392.82,
+          "end": 393.52,
+          "translation": "Percent"
+        },
+        {
+          "word": "‌der",
+          "start": 393.52,
+          "end": 394.14,
+          "translation": "the"
+        },
+        {
+          "word": "Roboter",
+          "start": 394.14,
+          "end": 394.86,
+          "translation": "Robots"
+        },
+        {
+          "word": "den",
+          "start": 394.86,
+          "end": 395.7,
+          "translation": "the"
+        },
+        {
+          "word": "Kurs",
+          "start": 395.7,
+          "end": 396.36,
+          "translation": "Course"
+        },
+        {
+          "word": "autonom",
+          "start": 396.36,
+          "end": 397.24,
+          "translation": "autonomous"
+        },
+        {
+          "word": "bewältigen,",
+          "start": 397.24,
+          "end": 398.66,
+          "translation": "manage,"
+        },
+        {
+          "word": "wie",
+          "start": 399.16,
+          "end": 399.58,
+          "translation": "like"
+        },
+        {
+          "word": "die",
+          "start": 399.58,
+          "end": 399.86,
+          "translation": "the"
+        },
+        {
+          "word": "Organisatoren",
+          "start": 399.86,
+          "end": 401.32,
+          "translation": "Organizers"
+        },
+        {
+          "word": "mitteilten.",
+          "start": 401.32,
+          "end": 402.34,
+          "translation": "communicated."
+        },
+        {
+          "word": "China",
+          "start": 403.18,
+          "end": 403.76,
+          "translation": "China"
+        },
+        {
+          "word": "dominiert",
+          "start": 403.76,
+          "end": 404.82,
+          "translation": "dominates"
+        },
+        {
+          "word": "den",
+          "start": 404.82,
+          "end": 405.16,
+          "translation": "the"
+        },
+        {
+          "word": "Markt",
+          "start": 405.16,
+          "end": 405.74,
+          "translation": "Market"
+        },
+        {
+          "word": "für",
+          "start": 405.74,
+          "end": 406.24,
+          "translation": "for"
+        },
+        {
+          "word": "humanoide",
+          "start": 406.24,
+          "end": 407.54,
+          "translation": "humanoid"
+        },
+        {
+          "word": "Roboter.",
+          "start": 407.54,
+          "end": 408.36,
+          "translation": "Robots."
+        },
+        {
+          "word": "Mit",
+          "start": 409.06,
+          "end": 409.64,
+          "translation": "With"
+        },
+        {
+          "word": "der",
+          "start": 409.64,
+          "end": 410.0,
+          "translation": "the"
+        },
+        {
+          "word": "Veranstaltung",
+          "start": 410.0,
+          "end": 411.14,
+          "translation": "Event"
+        },
+        {
+          "word": "will",
+          "start": 411.14,
+          "end": 411.8,
+          "translation": "wants"
+        },
+        {
+          "word": "die",
+          "start": 411.8,
+          "end": 412.12,
+          "translation": "the"
+        },
+        {
+          "word": "Regierung",
+          "start": 412.12,
+          "end": 412.92,
+          "translation": "Government"
+        },
+        {
+          "word": "in",
+          "start": 412.92,
+          "end": 413.36,
+          "translation": "in"
+        },
+        {
+          "word": "Peking",
+          "start": 413.36,
+          "end": 414.1,
+          "translation": "Beijing"
+        },
+        {
+          "word": "die",
+          "start": 414.1,
+          "end": 414.78,
+          "translation": "the"
+        },
+        {
+          "word": "Branche",
+          "start": 414.78,
+          "end": 415.5,
+          "translation": "Industry"
+        },
+        {
+          "word": "zu",
+          "start": 415.5,
+          "end": 416.12,
+          "translation": "to"
+        },
+        {
+          "word": "einer",
+          "start": 416.12,
+          "end": 416.52,
+          "translation": "one"
+        },
+        {
+          "word": "wichtigen",
+          "start": 416.52,
+          "end": 417.36,
+          "translation": "important"
+        },
+        {
+          "word": "Säule",
+          "start": 417.36,
+          "end": 417.98,
+          "translation": "Pillar"
+        },
+        {
+          "word": "der",
+          "start": 417.98,
+          "end": 418.32,
+          "translation": "the"
+        },
+        {
+          "word": "Wirtschaft",
+          "start": 418.32,
+          "end": 419.02,
+          "translation": "Economy"
+        },
+        {
+          "word": "ausbauen.",
+          "start": 419.62,
+          "end": 420.24,
+          "translation": "expand."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Papst warnt vor falscher Anwendung von KI",
+      "words": [
+        {
+          "word": "Papst",
+          "start": 421.42,
+          "end": 422.1,
+          "translation": "Pope"
+        },
+        {
+          "word": "warnt",
+          "start": 422.1,
+          "end": 422.76,
+          "translation": "warns"
+        },
+        {
+          "word": "vor",
+          "start": 422.76,
+          "end": 423.1,
+          "translation": "before"
+        },
+        {
+          "word": "falscher",
+          "start": 423.1,
+          "end": 423.9,
+          "translation": "falser"
+        },
+        {
+          "word": "Anwendung",
+          "start": 423.9,
+          "end": 424.84,
+          "translation": "Application"
+        },
+        {
+          "word": "von",
+          "start": 424.84,
+          "end": 425.32,
+          "translation": "from"
+        },
+        {
+          "word": "KI",
+          "start": 425.32,
+          "end": 426.1,
+          "translation": "AI"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "In einer Rede vor Studierenden in Kamerun hat Papst Leo XIV. vor einer Verstärkung von „Konflikten, Angst und Gewalt“ durch die Anwendung von Künstlicher Intelligenz gewarnt. Zugleich kritisierte er die Zerstörung der Umwelt durch die Ausbeutung Seltener Erden zur Beschleunigung des digitalen Wandels. Die Herausforderung durch diese Systeme sei größer als sie scheint, mahnte der Papst mit Blick auf KI. Es gehe nicht nur um die Nutzung neuer Technologien, sondern um den allmählichen Austausch der Realität durch ihre Simulation, sagte das Oberhaupt von weltweit 1,4 Milliarden Katholiken in Kameruns Hauptstadt Jaunde.",
+      "words": [
+        {
+          "word": "In",
+          "start": 426.1,
+          "end": 426.92,
+          "translation": "In"
+        },
+        {
+          "word": "einer",
+          "start": 426.92,
+          "end": 427.42,
+          "translation": "one"
+        },
+        {
+          "word": "Rede",
+          "start": 427.42,
+          "end": 427.92,
+          "translation": "Speech"
+        },
+        {
+          "word": "vor",
+          "start": 427.92,
+          "end": 428.4,
+          "translation": "before"
+        },
+        {
+          "word": "Studierenden",
+          "start": 428.4,
+          "end": 429.56,
+          "translation": "Students"
+        },
+        {
+          "word": "in",
+          "start": 429.56,
+          "end": 430.04,
+          "translation": "in"
+        },
+        {
+          "word": "Kamerun",
+          "start": 430.04,
+          "end": 431.46,
+          "translation": "Cameroon"
+        },
+        {
+          "word": "hat",
+          "start": 431.46,
+          "end": 431.82,
+          "translation": "has"
+        },
+        {
+          "word": "Papst",
+          "start": 431.82,
+          "end": 432.6,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 432.6,
+          "end": 432.94,
+          "translation": "Leo"
+        },
+        {
+          "word": "XIV.",
+          "start": 432.94,
+          "end": 434.26,
+          "translation": "XIV."
+        },
+        {
+          "word": "vor",
+          "start": 434.26,
+          "end": 435.16,
+          "translation": "before"
+        },
+        {
+          "word": "einer",
+          "start": 435.16,
+          "end": 435.66,
+          "translation": "one"
+        },
+        {
+          "word": "Verstärkung",
+          "start": 435.66,
+          "end": 436.72,
+          "translation": "Reinforcement"
+        },
+        {
+          "word": "von",
+          "start": 436.72,
+          "end": 437.44,
+          "translation": "from"
+        },
+        {
+          "word": "„Konflikten,",
+          "start": 437.44,
+          "end": 438.8,
+          "translation": "\"Conflicts,"
+        },
+        {
+          "word": "Angst",
+          "start": 439.2,
+          "end": 439.5,
+          "translation": "Fear"
+        },
+        {
+          "word": "und",
+          "start": 439.5,
+          "end": 440.2,
+          "translation": "and"
+        },
+        {
+          "word": "Gewalt“",
+          "start": 440.2,
+          "end": 440.9,
+          "translation": "Violence\""
+        },
+        {
+          "word": "durch",
+          "start": 441.44,
+          "end": 441.94,
+          "translation": "through"
+        },
+        {
+          "word": "die",
+          "start": 441.94,
+          "end": 442.26,
+          "translation": "the"
+        },
+        {
+          "word": "Anwendung",
+          "start": 442.26,
+          "end": 443.24,
+          "translation": "Application"
+        },
+        {
+          "word": "von",
+          "start": 443.24,
+          "end": 443.54,
+          "translation": "from"
+        },
+        {
+          "word": "Künstlicher",
+          "start": 443.54,
+          "end": 444.48,
+          "translation": "Artificial"
+        },
+        {
+          "word": "Intelligenz",
+          "start": 444.48,
+          "end": 445.54,
+          "translation": "Intelligence"
+        },
+        {
+          "word": "gewarnt.",
+          "start": 445.54,
+          "end": 446.2,
+          "translation": "warned."
+        },
+        {
+          "word": "Zugleich",
+          "start": 447.2,
+          "end": 447.84,
+          "translation": "At the same time"
+        },
+        {
+          "word": "kritisierte",
+          "start": 447.84,
+          "end": 448.92,
+          "translation": "criticized"
+        },
+        {
+          "word": "er",
+          "start": 448.92,
+          "end": 449.28,
+          "translation": "he"
+        },
+        {
+          "word": "die",
+          "start": 449.28,
+          "end": 449.58,
+          "translation": "the"
+        },
+        {
+          "word": "Zerstörung",
+          "start": 449.58,
+          "end": 450.62,
+          "translation": "Destruction"
+        },
+        {
+          "word": "der",
+          "start": 450.62,
+          "end": 451.0,
+          "translation": "the"
+        },
+        {
+          "word": "Umwelt",
+          "start": 451.0,
+          "end": 451.66,
+          "translation": "Environment"
+        },
+        {
+          "word": "durch",
+          "start": 451.66,
+          "end": 452.66,
+          "translation": "through"
+        },
+        {
+          "word": "die",
+          "start": 452.66,
+          "end": 453.0,
+          "translation": "the"
+        },
+        {
+          "word": "Ausbeutung",
+          "start": 453.0,
+          "end": 454.08,
+          "translation": "Exploitation"
+        },
+        {
+          "word": "Seltener",
+          "start": 454.08,
+          "end": 455.08,
+          "translation": "Rarer"
+        },
+        {
+          "word": "Erden",
+          "start": 455.08,
+          "end": 455.54,
+          "translation": "Soil"
+        },
+        {
+          "word": "zur",
+          "start": 455.54,
+          "end": 456.56,
+          "translation": "to the"
+        },
+        {
+          "word": "Beschleunigung",
+          "start": 456.56,
+          "end": 457.58,
+          "translation": "Acceleration"
+        },
+        {
+          "word": "des",
+          "start": 457.58,
+          "end": 458.18,
+          "translation": "of the"
+        },
+        {
+          "word": "digitalen",
+          "start": 458.18,
+          "end": 459.34,
+          "translation": "digital"
+        },
+        {
+          "word": "Wandels.",
+          "start": 459.34,
+          "end": 460.14,
+          "translation": "change."
+        },
+        {
+          "word": "Die",
+          "start": 460.78,
+          "end": 461.4,
+          "translation": "The"
+        },
+        {
+          "word": "Herausforderung",
+          "start": 461.4,
+          "end": 463.0,
+          "translation": "The challenge"
+        },
+        {
+          "word": "durch",
+          "start": 463.0,
+          "end": 463.54,
+          "translation": "through"
+        },
+        {
+          "word": "diese",
+          "start": 463.54,
+          "end": 464.18,
+          "translation": "these"
+        },
+        {
+          "word": "Systeme",
+          "start": 464.18,
+          "end": 465.16,
+          "translation": "Systems"
+        },
+        {
+          "word": "sei",
+          "start": 465.16,
+          "end": 465.5,
+          "translation": "be"
+        },
+        {
+          "word": "größer",
+          "start": 465.5,
+          "end": 466.36,
+          "translation": "larger"
+        },
+        {
+          "word": "als",
+          "start": 466.36,
+          "end": 466.8,
+          "translation": "as"
+        },
+        {
+          "word": "sie",
+          "start": 466.8,
+          "end": 467.14,
+          "translation": "them"
+        },
+        {
+          "word": "scheint,",
+          "start": 467.14,
+          "end": 467.74,
+          "translation": "seems,"
+        },
+        {
+          "word": "mahnte",
+          "start": 467.74,
+          "end": 469.0,
+          "translation": "admonished"
+        },
+        {
+          "word": "der",
+          "start": 469.0,
+          "end": 469.24,
+          "translation": "the"
+        },
+        {
+          "word": "Papst",
+          "start": 469.24,
+          "end": 470.02,
+          "translation": "Pope"
+        },
+        {
+          "word": "mit",
+          "start": 470.02,
+          "end": 470.48,
+          "translation": "with"
+        },
+        {
+          "word": "Blick",
+          "start": 470.48,
+          "end": 470.92,
+          "translation": "View"
+        },
+        {
+          "word": "auf",
+          "start": 470.92,
+          "end": 471.48,
+          "translation": "on"
+        },
+        {
+          "word": "KI.",
+          "start": 471.48,
+          "end": 472.24,
+          "translation": "AI."
+        },
+        {
+          "word": "Es",
+          "start": 472.86,
+          "end": 473.48,
+          "translation": "It"
+        },
+        {
+          "word": "gehe",
+          "start": 473.48,
+          "end": 473.74,
+          "translation": "go"
+        },
+        {
+          "word": "nicht",
+          "start": 473.74,
+          "end": 474.12,
+          "translation": "not"
+        },
+        {
+          "word": "nur",
+          "start": 474.12,
+          "end": 474.74,
+          "translation": "only"
+        },
+        {
+          "word": "um",
+          "start": 474.74,
+          "end": 475.24,
+          "translation": "to"
+        },
+        {
+          "word": "die",
+          "start": 475.24,
+          "end": 475.52,
+          "translation": "the"
+        },
+        {
+          "word": "Nutzung",
+          "start": 475.52,
+          "end": 476.26,
+          "translation": "Utilization"
+        },
+        {
+          "word": "neuer",
+          "start": 476.26,
+          "end": 476.8,
+          "translation": "newer"
+        },
+        {
+          "word": "Technologien,",
+          "start": 476.8,
+          "end": 478.14,
+          "translation": "Technologies,"
+        },
+        {
+          "word": "sondern",
+          "start": 478.76,
+          "end": 479.26,
+          "translation": "but"
+        },
+        {
+          "word": "um",
+          "start": 479.26,
+          "end": 479.74,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 479.74,
+          "end": 480.02,
+          "translation": "the"
+        },
+        {
+          "word": "allmählichen",
+          "start": 480.02,
+          "end": 481.28,
+          "translation": "gradual"
+        },
+        {
+          "word": "Austausch",
+          "start": 481.28,
+          "end": 482.44,
+          "translation": "Exchange"
+        },
+        {
+          "word": "der",
+          "start": 482.44,
+          "end": 482.96,
+          "translation": "the"
+        },
+        {
+          "word": "Realität",
+          "start": 482.96,
+          "end": 484.06,
+          "translation": "Reality"
+        },
+        {
+          "word": "durch",
+          "start": 484.06,
+          "end": 484.74,
+          "translation": "through"
+        },
+        {
+          "word": "ihre",
+          "start": 484.74,
+          "end": 485.36,
+          "translation": "their"
+        },
+        {
+          "word": "Simulation,",
+          "start": 485.36,
+          "end": 486.52,
+          "translation": "Simulation,"
+        },
+        {
+          "word": "sagte",
+          "start": 486.52,
+          "end": 488.02,
+          "translation": "said"
+        },
+        {
+          "word": "das",
+          "start": 488.02,
+          "end": 488.2,
+          "translation": "the"
+        },
+        {
+          "word": "Oberhaupt",
+          "start": 488.2,
+          "end": 489.12,
+          "translation": "Head"
+        },
+        {
+          "word": "von",
+          "start": 489.12,
+          "end": 489.86,
+          "translation": "from"
+        },
+        {
+          "word": "weltweit",
+          "start": 489.86,
+          "end": 490.7,
+          "translation": "Worldwide"
+        },
+        {
+          "word": "1,4",
+          "start": 490.7,
+          "end": 492.24,
+          "translation": "1,4"
+        },
+        {
+          "word": "Milliarden",
+          "start": 492.24,
+          "end": 492.84,
+          "translation": "billion"
+        },
+        {
+          "word": "Katholiken",
+          "start": 492.84,
+          "end": 494.2,
+          "translation": "Catholics"
+        },
+        {
+          "word": "in",
+          "start": 494.2,
+          "end": 495.12,
+          "translation": "in"
+        },
+        {
+          "word": "Kameruns",
+          "start": 495.12,
+          "end": 495.98,
+          "translation": "Cameroon"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 495.98,
+          "end": 496.84,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Jaunde.",
+          "start": 496.84,
+          "end": 497.54,
+          "translation": "Yaoundé."
+        }
+      ]
+    }
+  ]
+}
