@@ -1,0 +1,3454 @@
+{
+  "id": 77074343,
+  "title": "07.05.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-05-07",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/B6CBEF97_2.mp3",
+  "duration": 452,
+  "imageUrl": "https://static.dw.com/image/74351363_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Iran prüft Vorschlag der USA für Kriegsende",
+      "words": [
+        {
+          "word": "Iran",
+          "start": 15.34,
+          "end": 15.68,
+          "translation": "Iran"
+        },
+        {
+          "word": "prüft",
+          "start": 15.68,
+          "end": 16.22,
+          "translation": "checks"
+        },
+        {
+          "word": "Vorschlag",
+          "start": 16.22,
+          "end": 16.84,
+          "translation": "Proposal"
+        },
+        {
+          "word": "der",
+          "start": 16.84,
+          "end": 17.14,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 17.14,
+          "end": 17.56,
+          "translation": "USA"
+        },
+        {
+          "word": "für",
+          "start": 17.56,
+          "end": 18.26,
+          "translation": "for"
+        },
+        {
+          "word": "Kriegsende",
+          "start": 18.26,
+          "end": 19.0,
+          "translation": "End of the war"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die Staatsführung in Teheran prüft einen neuen Verhandlungsvorschlag der USA. Irans Außenamtssprecher Ismail Baghai sagte der iranischen Nachrichtenagentur ISNA, Teheran werde anschließend seine Position an den Vermittlerstaat Pakistan weiterleiten. Zugleich wies er einen Bericht der US-Nachrichtenseite „Axios“ über ein möglicherweise kurz bevorstehendes Abkommen zwischen den Konfliktparteien als überzogen zurück. „Axios“ hatte unter Berufung auf US-Quellen berichtet, ein Dokument zur Beilegung des Krieges stehe kurz vor dem gemeinsamen Abschluss. US-Präsident Donald Trump drohte unterdessen, sollte sich Iran nicht auf eine Vereinbarung einlassen, würden wieder „Bombardements beginnen“.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 19.74,
+          "end": 20.82,
+          "translation": "The"
+        },
+        {
+          "word": "Staatsführung",
+          "start": 20.82,
+          "end": 21.78,
+          "translation": "Governance"
+        },
+        {
+          "word": "in",
+          "start": 21.78,
+          "end": 22.0,
+          "translation": "in"
+        },
+        {
+          "word": "Teheran",
+          "start": 22.0,
+          "end": 22.76,
+          "translation": "Tehran"
+        },
+        {
+          "word": "prüft",
+          "start": 22.76,
+          "end": 23.38,
+          "translation": "checks"
+        },
+        {
+          "word": "einen",
+          "start": 23.38,
+          "end": 23.74,
+          "translation": "one"
+        },
+        {
+          "word": "neuen",
+          "start": 23.74,
+          "end": 24.24,
+          "translation": "new"
+        },
+        {
+          "word": "Verhandlungsvorschlag",
+          "start": 24.24,
+          "end": 25.7,
+          "translation": "Negotiation proposal"
+        },
+        {
+          "word": "der",
+          "start": 25.7,
+          "end": 26.02,
+          "translation": "the"
+        },
+        {
+          "word": "USA.",
+          "start": 26.02,
+          "end": 26.58,
+          "translation": "USA."
+        },
+        {
+          "word": "Irans",
+          "start": 26.58,
+          "end": 28.1,
+          "translation": "Iran's"
+        },
+        {
+          "word": "Außenamtssprecher",
+          "start": 28.1,
+          "end": 28.96,
+          "translation": "Foreign Office Spokesman"
+        },
+        {
+          "word": "Ismail",
+          "start": 28.96,
+          "end": 29.82,
+          "translation": "Ismail"
+        },
+        {
+          "word": "Baghai",
+          "start": 29.82,
+          "end": 30.68,
+          "translation": "Baghai"
+        },
+        {
+          "word": "sagte",
+          "start": 30.68,
+          "end": 31.48,
+          "translation": "said"
+        },
+        {
+          "word": "der",
+          "start": 31.48,
+          "end": 32.0,
+          "translation": "the"
+        },
+        {
+          "word": "iranischen",
+          "start": 32.0,
+          "end": 32.92,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Nachrichtenagentur",
+          "start": 32.92,
+          "end": 34.3,
+          "translation": "News agency"
+        },
+        {
+          "word": "ISNA,",
+          "start": 34.3,
+          "end": 34.88,
+          "translation": "ISNA,"
+        },
+        {
+          "word": "Teheran",
+          "start": 35.48,
+          "end": 36.18,
+          "translation": "Tehran"
+        },
+        {
+          "word": "werde",
+          "start": 36.18,
+          "end": 36.4,
+          "translation": "will"
+        },
+        {
+          "word": "anschließend",
+          "start": 36.4,
+          "end": 37.56,
+          "translation": "subsequently"
+        },
+        {
+          "word": "seine",
+          "start": 37.56,
+          "end": 37.98,
+          "translation": "his"
+        },
+        {
+          "word": "Position",
+          "start": 37.98,
+          "end": 38.7,
+          "translation": "Position"
+        },
+        {
+          "word": "an",
+          "start": 38.7,
+          "end": 39.22,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 39.22,
+          "end": 39.44,
+          "translation": "the"
+        },
+        {
+          "word": "Vermittlerstaat",
+          "start": 39.44,
+          "end": 40.56,
+          "translation": "Intermediary state"
+        },
+        {
+          "word": "Pakistan",
+          "start": 40.56,
+          "end": 41.1,
+          "translation": "Pakistan"
+        },
+        {
+          "word": "weiterleiten.",
+          "start": 41.1,
+          "end": 41.74,
+          "translation": "forward."
+        },
+        {
+          "word": "Zugleich",
+          "start": 42.94,
+          "end": 43.58,
+          "translation": "At the same time"
+        },
+        {
+          "word": "wies",
+          "start": 43.58,
+          "end": 44.18,
+          "translation": "as"
+        },
+        {
+          "word": "er",
+          "start": 44.18,
+          "end": 44.36,
+          "translation": "he"
+        },
+        {
+          "word": "einen",
+          "start": 44.36,
+          "end": 44.88,
+          "translation": "one"
+        },
+        {
+          "word": "Bericht",
+          "start": 44.88,
+          "end": 45.46,
+          "translation": "Report"
+        },
+        {
+          "word": "der",
+          "start": 45.46,
+          "end": 45.88,
+          "translation": "the"
+        },
+        {
+          "word": "US-Nachrichtenseite",
+          "start": 45.88,
+          "end": 47.3,
+          "translation": "US news site"
+        },
+        {
+          "word": "„Axios“",
+          "start": 47.3,
+          "end": 48.72,
+          "translation": "\"Axios\""
+        },
+        {
+          "word": "über",
+          "start": 48.72,
+          "end": 49.56,
+          "translation": "about"
+        },
+        {
+          "word": "ein",
+          "start": 49.56,
+          "end": 50.06,
+          "translation": "a"
+        },
+        {
+          "word": "möglicherweise",
+          "start": 50.06,
+          "end": 51.18,
+          "translation": "possibly"
+        },
+        {
+          "word": "kurz",
+          "start": 51.18,
+          "end": 51.78,
+          "translation": "short"
+        },
+        {
+          "word": "bevorstehendes",
+          "start": 51.78,
+          "end": 52.92,
+          "translation": "forthcoming"
+        },
+        {
+          "word": "Abkommen",
+          "start": 52.92,
+          "end": 53.56,
+          "translation": "Agreement"
+        },
+        {
+          "word": "zwischen",
+          "start": 53.56,
+          "end": 54.5,
+          "translation": "between"
+        },
+        {
+          "word": "den",
+          "start": 54.5,
+          "end": 54.98,
+          "translation": "the"
+        },
+        {
+          "word": "Konfliktparteien",
+          "start": 54.98,
+          "end": 55.62,
+          "translation": "Parties to the conflict"
+        },
+        {
+          "word": "als",
+          "start": 55.62,
+          "end": 56.88,
+          "translation": "as"
+        },
+        {
+          "word": "überzogen",
+          "start": 56.88,
+          "end": 57.98,
+          "translation": "overdrawn"
+        },
+        {
+          "word": "zurück.",
+          "start": 57.98,
+          "end": 58.56,
+          "translation": "back."
+        },
+        {
+          "word": "„Axios“",
+          "start": 58.56,
+          "end": 60.06,
+          "translation": "\"Axios\""
+        },
+        {
+          "word": "hatte",
+          "start": 60.06,
+          "end": 60.54,
+          "translation": "had"
+        },
+        {
+          "word": "unter",
+          "start": 60.54,
+          "end": 61.08,
+          "translation": "under"
+        },
+        {
+          "word": "Berufung",
+          "start": 61.08,
+          "end": 61.96,
+          "translation": "Appeal"
+        },
+        {
+          "word": "auf",
+          "start": 61.96,
+          "end": 62.38,
+          "translation": "on"
+        },
+        {
+          "word": "US-Quellen",
+          "start": 62.38,
+          "end": 63.44,
+          "translation": "US sources"
+        },
+        {
+          "word": "berichtet,",
+          "start": 63.44,
+          "end": 63.98,
+          "translation": "reported,"
+        },
+        {
+          "word": "ein",
+          "start": 63.98,
+          "end": 64.82,
+          "translation": "a"
+        },
+        {
+          "word": "Dokument",
+          "start": 64.82,
+          "end": 65.48,
+          "translation": "Document"
+        },
+        {
+          "word": "zur",
+          "start": 65.48,
+          "end": 66.08,
+          "translation": "to the"
+        },
+        {
+          "word": "Beilegung",
+          "start": 66.08,
+          "end": 66.88,
+          "translation": "Settlement"
+        },
+        {
+          "word": "des",
+          "start": 66.88,
+          "end": 67.16,
+          "translation": "of the"
+        },
+        {
+          "word": "Krieges",
+          "start": 67.16,
+          "end": 67.8,
+          "translation": "War"
+        },
+        {
+          "word": "stehe",
+          "start": 67.8,
+          "end": 68.22,
+          "translation": "stand"
+        },
+        {
+          "word": "kurz",
+          "start": 68.22,
+          "end": 68.68,
+          "translation": "short"
+        },
+        {
+          "word": "vor",
+          "start": 68.68,
+          "end": 69.02,
+          "translation": "before"
+        },
+        {
+          "word": "dem",
+          "start": 69.02,
+          "end": 69.26,
+          "translation": "the"
+        },
+        {
+          "word": "gemeinsamen",
+          "start": 69.26,
+          "end": 70.16,
+          "translation": "common"
+        },
+        {
+          "word": "Abschluss.",
+          "start": 70.16,
+          "end": 70.74,
+          "translation": "Conclusion."
+        },
+        {
+          "word": "US-Präsident",
+          "start": 70.74,
+          "end": 72.8,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 72.8,
+          "end": 73.26,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 73.26,
+          "end": 73.76,
+          "translation": "Trump"
+        },
+        {
+          "word": "drohte",
+          "start": 73.76,
+          "end": 74.4,
+          "translation": "threatened"
+        },
+        {
+          "word": "unterdessen,",
+          "start": 74.4,
+          "end": 75.24,
+          "translation": "meanwhile,"
+        },
+        {
+          "word": "sollte",
+          "start": 75.84,
+          "end": 76.02,
+          "translation": "should"
+        },
+        {
+          "word": "sich",
+          "start": 76.02,
+          "end": 76.48,
+          "translation": "itself"
+        },
+        {
+          "word": "Iran",
+          "start": 76.48,
+          "end": 76.82,
+          "translation": "Iran"
+        },
+        {
+          "word": "nicht",
+          "start": 76.82,
+          "end": 77.18,
+          "translation": "not"
+        },
+        {
+          "word": "auf",
+          "start": 77.18,
+          "end": 77.58,
+          "translation": "on"
+        },
+        {
+          "word": "eine",
+          "start": 77.58,
+          "end": 78.0,
+          "translation": "one"
+        },
+        {
+          "word": "Vereinbarung",
+          "start": 78.0,
+          "end": 79.04,
+          "translation": "Agreement"
+        },
+        {
+          "word": "einlassen,",
+          "start": 79.04,
+          "end": 79.56,
+          "translation": "get involved,"
+        },
+        {
+          "word": "würden",
+          "start": 80.26,
+          "end": 80.54,
+          "translation": "would"
+        },
+        {
+          "word": "wieder",
+          "start": 80.54,
+          "end": 81.08,
+          "translation": "again"
+        },
+        {
+          "word": "„Bombardements",
+          "start": 81.08,
+          "end": 82.22,
+          "translation": "\"Bombardments"
+        },
+        {
+          "word": "beginnen“.",
+          "start": 82.22,
+          "end": 82.68,
+          "translation": "begin\"."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "EU will sexualisierte Deepfakes verbieten",
+      "words": [
+        {
+          "word": "EU",
+          "start": 84.4,
+          "end": 85.74,
+          "translation": "EU"
+        },
+        {
+          "word": "will",
+          "start": 85.74,
+          "end": 86.22,
+          "translation": "wants"
+        },
+        {
+          "word": "sexualisierte",
+          "start": 86.22,
+          "end": 87.44,
+          "translation": "sexualized"
+        },
+        {
+          "word": "Deepfakes",
+          "start": 87.44,
+          "end": 88.32,
+          "translation": "Deepfakes"
+        },
+        {
+          "word": "verbieten",
+          "start": 88.32,
+          "end": 88.88,
+          "translation": "prohibit"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "KI-Anwendungen zur missbräuchlichen Erstellung sexualisierter Deepfakes sollen in der EU künftig verboten werden. Darauf einigten sich Vertreter der Mitgliedstaaten und des Europäischen Parlaments, wie die zyprische EU-Ratspräsidentschaft mitteilte. Die Änderung ist Teil einer Reform des KI-Gesetzes, mit der zugleich andere Vorgaben vereinfacht werden sollen. Ziel ist es, das wirtschaftliche Potenzial von Künstlicher Intelligenz in Europa besser zu nutzen. Deepfakes können etwa Gesichter oder Stimmen täuschend echt in andere Inhalte einfügen. Durch KI ist es deutlich einfacher geworden, solche Fälschungen herzustellen.",
+      "words": [
+        {
+          "word": "KI-Anwendungen",
+          "start": 88.88,
+          "end": 91.42,
+          "translation": "AI applications"
+        },
+        {
+          "word": "zur",
+          "start": 91.42,
+          "end": 91.78,
+          "translation": "to the"
+        },
+        {
+          "word": "missbräuchlichen",
+          "start": 91.78,
+          "end": 92.88,
+          "translation": "abusive"
+        },
+        {
+          "word": "Erstellung",
+          "start": 92.88,
+          "end": 93.52,
+          "translation": "Creation"
+        },
+        {
+          "word": "sexualisierter",
+          "start": 93.52,
+          "end": 94.94,
+          "translation": "sexualized"
+        },
+        {
+          "word": "Deepfakes",
+          "start": 94.94,
+          "end": 95.84,
+          "translation": "Deepfakes"
+        },
+        {
+          "word": "sollen",
+          "start": 95.84,
+          "end": 96.46,
+          "translation": "should"
+        },
+        {
+          "word": "in",
+          "start": 96.46,
+          "end": 97.0,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 97.0,
+          "end": 97.26,
+          "translation": "the"
+        },
+        {
+          "word": "EU",
+          "start": 97.26,
+          "end": 97.84,
+          "translation": "EU"
+        },
+        {
+          "word": "künftig",
+          "start": 97.84,
+          "end": 98.54,
+          "translation": "in the future"
+        },
+        {
+          "word": "verboten",
+          "start": 98.54,
+          "end": 99.28,
+          "translation": "forbidden"
+        },
+        {
+          "word": "werden.",
+          "start": 99.28,
+          "end": 99.76,
+          "translation": "become."
+        },
+        {
+          "word": "Darauf",
+          "start": 100.34,
+          "end": 101.02,
+          "translation": "On it"
+        },
+        {
+          "word": "einigten",
+          "start": 101.02,
+          "end": 101.72,
+          "translation": "agreed"
+        },
+        {
+          "word": "sich",
+          "start": 101.72,
+          "end": 102.02,
+          "translation": "itself"
+        },
+        {
+          "word": "Vertreter",
+          "start": 102.02,
+          "end": 102.68,
+          "translation": "Representative"
+        },
+        {
+          "word": "der",
+          "start": 102.68,
+          "end": 103.02,
+          "translation": "the"
+        },
+        {
+          "word": "Mitgliedstaaten",
+          "start": 103.02,
+          "end": 104.14,
+          "translation": "Member states"
+        },
+        {
+          "word": "und",
+          "start": 104.14,
+          "end": 104.8,
+          "translation": "and"
+        },
+        {
+          "word": "des",
+          "start": 104.8,
+          "end": 105.34,
+          "translation": "of the"
+        },
+        {
+          "word": "Europäischen",
+          "start": 105.34,
+          "end": 106.24,
+          "translation": "European"
+        },
+        {
+          "word": "Parlaments,",
+          "start": 106.24,
+          "end": 107.12,
+          "translation": "Parliament,"
+        },
+        {
+          "word": "wie",
+          "start": 107.12,
+          "end": 107.72,
+          "translation": "like"
+        },
+        {
+          "word": "die",
+          "start": 107.72,
+          "end": 107.98,
+          "translation": "the"
+        },
+        {
+          "word": "zyprische",
+          "start": 107.98,
+          "end": 109.29,
+          "translation": "Cypriot"
+        },
+        {
+          "word": "EU-Ratspräsidentschaft",
+          "start": 109.29,
+          "end": 110.6,
+          "translation": "EU Council Presidency"
+        },
+        {
+          "word": "mitteilte.",
+          "start": 110.6,
+          "end": 111.58,
+          "translation": "announced."
+        },
+        {
+          "word": "Die",
+          "start": 111.58,
+          "end": 112.78,
+          "translation": "The"
+        },
+        {
+          "word": "Änderung",
+          "start": 112.78,
+          "end": 113.6,
+          "translation": "Amendment"
+        },
+        {
+          "word": "ist",
+          "start": 113.6,
+          "end": 113.92,
+          "translation": "is"
+        },
+        {
+          "word": "Teil",
+          "start": 113.92,
+          "end": 114.4,
+          "translation": "Part"
+        },
+        {
+          "word": "einer",
+          "start": 114.4,
+          "end": 114.86,
+          "translation": "one"
+        },
+        {
+          "word": "Reform",
+          "start": 114.86,
+          "end": 115.36,
+          "translation": "Reform"
+        },
+        {
+          "word": "des",
+          "start": 115.36,
+          "end": 115.8,
+          "translation": "of the"
+        },
+        {
+          "word": "KI-Gesetzes,",
+          "start": 115.8,
+          "end": 117.5,
+          "translation": "AI Act,"
+        },
+        {
+          "word": "mit",
+          "start": 117.5,
+          "end": 117.66,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 117.66,
+          "end": 117.98,
+          "translation": "the"
+        },
+        {
+          "word": "zugleich",
+          "start": 117.98,
+          "end": 118.56,
+          "translation": "at the same time"
+        },
+        {
+          "word": "andere",
+          "start": 118.56,
+          "end": 119.4,
+          "translation": "other"
+        },
+        {
+          "word": "Vorgaben",
+          "start": 119.4,
+          "end": 120.3,
+          "translation": "Specifications"
+        },
+        {
+          "word": "vereinfacht",
+          "start": 120.3,
+          "end": 121.28,
+          "translation": "Simplified"
+        },
+        {
+          "word": "werden",
+          "start": 121.28,
+          "end": 121.76,
+          "translation": "become"
+        },
+        {
+          "word": "sollen.",
+          "start": 121.76,
+          "end": 122.18,
+          "translation": "should."
+        },
+        {
+          "word": "Ziel",
+          "start": 123.06,
+          "end": 123.42,
+          "translation": "Goal"
+        },
+        {
+          "word": "ist",
+          "start": 123.42,
+          "end": 123.78,
+          "translation": "is"
+        },
+        {
+          "word": "es,",
+          "start": 123.78,
+          "end": 124.08,
+          "translation": "it,"
+        },
+        {
+          "word": "das",
+          "start": 124.48,
+          "end": 124.6,
+          "translation": "the"
+        },
+        {
+          "word": "wirtschaftliche",
+          "start": 124.6,
+          "end": 125.5,
+          "translation": "economic"
+        },
+        {
+          "word": "Potenzial",
+          "start": 125.5,
+          "end": 126.38,
+          "translation": "Potential"
+        },
+        {
+          "word": "von",
+          "start": 126.38,
+          "end": 126.88,
+          "translation": "from"
+        },
+        {
+          "word": "Künstlicher",
+          "start": 126.88,
+          "end": 127.68,
+          "translation": "Artificial"
+        },
+        {
+          "word": "Intelligenz",
+          "start": 127.68,
+          "end": 128.68,
+          "translation": "Intelligence"
+        },
+        {
+          "word": "in",
+          "start": 128.68,
+          "end": 128.88,
+          "translation": "in"
+        },
+        {
+          "word": "Europa",
+          "start": 128.88,
+          "end": 129.46,
+          "translation": "Europe"
+        },
+        {
+          "word": "besser",
+          "start": 129.46,
+          "end": 130.1,
+          "translation": "better"
+        },
+        {
+          "word": "zu",
+          "start": 130.1,
+          "end": 130.5,
+          "translation": "to"
+        },
+        {
+          "word": "nutzen.",
+          "start": 130.5,
+          "end": 130.92,
+          "translation": "use."
+        },
+        {
+          "word": "Deepfakes",
+          "start": 131.92,
+          "end": 132.78,
+          "translation": "Deepfakes"
+        },
+        {
+          "word": "können",
+          "start": 132.78,
+          "end": 133.24,
+          "translation": "can"
+        },
+        {
+          "word": "etwa",
+          "start": 133.24,
+          "end": 133.76,
+          "translation": "about"
+        },
+        {
+          "word": "Gesichter",
+          "start": 133.76,
+          "end": 134.58,
+          "translation": "Faces"
+        },
+        {
+          "word": "oder",
+          "start": 134.58,
+          "end": 135.0,
+          "translation": "or"
+        },
+        {
+          "word": "Stimmen",
+          "start": 135.0,
+          "end": 135.62,
+          "translation": "Voices"
+        },
+        {
+          "word": "täuschend",
+          "start": 135.62,
+          "end": 136.56,
+          "translation": "deceptive"
+        },
+        {
+          "word": "echt",
+          "start": 136.56,
+          "end": 137.02,
+          "translation": "genuine"
+        },
+        {
+          "word": "in",
+          "start": 137.02,
+          "end": 137.46,
+          "translation": "in"
+        },
+        {
+          "word": "andere",
+          "start": 137.46,
+          "end": 138.02,
+          "translation": "other"
+        },
+        {
+          "word": "Inhalte",
+          "start": 138.02,
+          "end": 138.82,
+          "translation": "Contents"
+        },
+        {
+          "word": "einfügen.",
+          "start": 138.82,
+          "end": 139.64,
+          "translation": "insert."
+        },
+        {
+          "word": "Durch",
+          "start": 140.32,
+          "end": 140.68,
+          "translation": "Through"
+        },
+        {
+          "word": "KI",
+          "start": 140.68,
+          "end": 141.24,
+          "translation": "AI"
+        },
+        {
+          "word": "ist",
+          "start": 141.24,
+          "end": 141.66,
+          "translation": "is"
+        },
+        {
+          "word": "es",
+          "start": 141.66,
+          "end": 141.92,
+          "translation": "it"
+        },
+        {
+          "word": "deutlich",
+          "start": 141.92,
+          "end": 142.42,
+          "translation": "clear"
+        },
+        {
+          "word": "einfacher",
+          "start": 142.42,
+          "end": 143.14,
+          "translation": "simpler"
+        },
+        {
+          "word": "geworden,",
+          "start": 143.14,
+          "end": 143.62,
+          "translation": "become,"
+        },
+        {
+          "word": "solche",
+          "start": 144.12,
+          "end": 144.64,
+          "translation": "such"
+        },
+        {
+          "word": "Fälschungen",
+          "start": 144.64,
+          "end": 145.36,
+          "translation": "Forgeries"
+        },
+        {
+          "word": "herzustellen.",
+          "start": 145.36,
+          "end": 146.36,
+          "translation": "produce."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "EU ringt weiter um Zollabkommen mit US-Präsident Trump",
+      "words": [
+        {
+          "word": "EU",
+          "start": 148.76,
+          "end": 149.02,
+          "translation": "EU"
+        },
+        {
+          "word": "ringt",
+          "start": 149.02,
+          "end": 149.56,
+          "translation": "wrestles"
+        },
+        {
+          "word": "weiter",
+          "start": 149.56,
+          "end": 149.98,
+          "translation": "more"
+        },
+        {
+          "word": "um",
+          "start": 149.98,
+          "end": 150.4,
+          "translation": "to"
+        },
+        {
+          "word": "Zollabkommen",
+          "start": 150.4,
+          "end": 151.4,
+          "translation": "Customs agreement"
+        },
+        {
+          "word": "mit",
+          "start": 151.4,
+          "end": 151.72,
+          "translation": "with"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 151.72,
+          "end": 152.9,
+          "translation": "US President"
+        },
+        {
+          "word": "Trump",
+          "start": 152.9,
+          "end": 153.48,
+          "translation": "Trump"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "In der EU gibt es weiter keine Einigung über die Umsetzung des Zollabkommens mit US-Präsident Donald Trump. Vertreter des Europaparlaments und der 27 Mitgliedstaaten fanden in der Nacht nach Angaben von Verhandlungsteilnehmern keinen Kompromiss. EU-Kommissionspräsidentin Ursula von der Leyen hatte die Vereinbarung im vergangenen August mit Trump geschlossen. Die USA sagen darin zu, Zölle auf EU-Produkte auf maximal 15 Prozent zu begrenzen. Im Gegenzug soll die EU unter anderem Zölle auf US-Industriewaren, Autos und bestimmte Agrarprodukte abbauen. Zuletzt hatte Trump nach einem Streit mit Bundeskanzler Friedrich Merz über den Iran-Krieg mit höheren Zöllen auf europäische Autos gedroht.",
+      "words": [
+        {
+          "word": "In",
+          "start": 154.42,
+          "end": 154.98,
+          "translation": "In"
+        },
+        {
+          "word": "der",
+          "start": 154.98,
+          "end": 155.24,
+          "translation": "the"
+        },
+        {
+          "word": "EU",
+          "start": 155.24,
+          "end": 155.72,
+          "translation": "EU"
+        },
+        {
+          "word": "gibt",
+          "start": 155.72,
+          "end": 156.02,
+          "translation": "gives"
+        },
+        {
+          "word": "es",
+          "start": 156.02,
+          "end": 156.4,
+          "translation": "it"
+        },
+        {
+          "word": "weiter",
+          "start": 156.4,
+          "end": 156.8,
+          "translation": "more"
+        },
+        {
+          "word": "keine",
+          "start": 156.8,
+          "end": 157.34,
+          "translation": "none"
+        },
+        {
+          "word": "Einigung",
+          "start": 157.34,
+          "end": 158.06,
+          "translation": "Agreement"
+        },
+        {
+          "word": "über",
+          "start": 158.06,
+          "end": 158.7,
+          "translation": "about"
+        },
+        {
+          "word": "die",
+          "start": 158.7,
+          "end": 159.0,
+          "translation": "the"
+        },
+        {
+          "word": "Umsetzung",
+          "start": 159.0,
+          "end": 159.84,
+          "translation": "Implementation"
+        },
+        {
+          "word": "des",
+          "start": 159.84,
+          "end": 160.26,
+          "translation": "of the"
+        },
+        {
+          "word": "Zollabkommens",
+          "start": 160.26,
+          "end": 161.54,
+          "translation": "Customs agreement"
+        },
+        {
+          "word": "mit",
+          "start": 161.54,
+          "end": 162.02,
+          "translation": "with"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 162.02,
+          "end": 163.36,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 163.36,
+          "end": 163.92,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump.",
+          "start": 163.92,
+          "end": 164.32,
+          "translation": "Trump."
+        },
+        {
+          "word": "Vertreter",
+          "start": 165.12,
+          "end": 165.9,
+          "translation": "Representative"
+        },
+        {
+          "word": "des",
+          "start": 165.9,
+          "end": 166.3,
+          "translation": "of the"
+        },
+        {
+          "word": "Europaparlaments",
+          "start": 166.3,
+          "end": 167.66,
+          "translation": "European Parliament"
+        },
+        {
+          "word": "und",
+          "start": 167.66,
+          "end": 168.22,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 168.22,
+          "end": 168.58,
+          "translation": "the"
+        },
+        {
+          "word": "27",
+          "start": 168.58,
+          "end": 169.3,
+          "translation": "27"
+        },
+        {
+          "word": "Mitgliedstaaten",
+          "start": 169.3,
+          "end": 170.86,
+          "translation": "Member states"
+        },
+        {
+          "word": "fanden",
+          "start": 170.86,
+          "end": 171.8,
+          "translation": "found"
+        },
+        {
+          "word": "in",
+          "start": 171.8,
+          "end": 172.22,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 172.22,
+          "end": 172.42,
+          "translation": "the"
+        },
+        {
+          "word": "Nacht",
+          "start": 172.42,
+          "end": 172.84,
+          "translation": "Night"
+        },
+        {
+          "word": "nach",
+          "start": 172.84,
+          "end": 173.28,
+          "translation": "to"
+        },
+        {
+          "word": "Angaben",
+          "start": 173.28,
+          "end": 174.12,
+          "translation": "Details"
+        },
+        {
+          "word": "von",
+          "start": 174.12,
+          "end": 174.6,
+          "translation": "from"
+        },
+        {
+          "word": "Verhandlungsteilnehmern",
+          "start": 174.6,
+          "end": 176.5,
+          "translation": "Negotiating participants"
+        },
+        {
+          "word": "keinen",
+          "start": 176.5,
+          "end": 176.92,
+          "translation": "none"
+        },
+        {
+          "word": "Kompromiss.",
+          "start": 176.92,
+          "end": 177.76,
+          "translation": "Compromise."
+        },
+        {
+          "word": "EU-Kommissionspräsidentin",
+          "start": 177.76,
+          "end": 181.42,
+          "translation": "EU Commission President"
+        },
+        {
+          "word": "Ursula",
+          "start": 181.42,
+          "end": 181.84,
+          "translation": "Ursula"
+        },
+        {
+          "word": "von",
+          "start": 181.84,
+          "end": 182.14,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 182.14,
+          "end": 182.36,
+          "translation": "the"
+        },
+        {
+          "word": "Leyen",
+          "start": 182.36,
+          "end": 182.78,
+          "translation": "Leyen"
+        },
+        {
+          "word": "hatte",
+          "start": 182.78,
+          "end": 183.42,
+          "translation": "had"
+        },
+        {
+          "word": "die",
+          "start": 183.42,
+          "end": 183.92,
+          "translation": "the"
+        },
+        {
+          "word": "Vereinbarung",
+          "start": 183.92,
+          "end": 184.96,
+          "translation": "Agreement"
+        },
+        {
+          "word": "im",
+          "start": 184.96,
+          "end": 185.46,
+          "translation": "in the"
+        },
+        {
+          "word": "vergangenen",
+          "start": 185.46,
+          "end": 186.44,
+          "translation": "past"
+        },
+        {
+          "word": "August",
+          "start": 186.44,
+          "end": 186.78,
+          "translation": "august"
+        },
+        {
+          "word": "mit",
+          "start": 186.78,
+          "end": 187.3,
+          "translation": "with"
+        },
+        {
+          "word": "Trump",
+          "start": 187.3,
+          "end": 187.7,
+          "translation": "Trump"
+        },
+        {
+          "word": "geschlossen.",
+          "start": 187.7,
+          "end": 188.24,
+          "translation": "closed."
+        },
+        {
+          "word": "Die",
+          "start": 189.22,
+          "end": 189.56,
+          "translation": "The"
+        },
+        {
+          "word": "USA",
+          "start": 189.56,
+          "end": 189.9,
+          "translation": "USA"
+        },
+        {
+          "word": "sagen",
+          "start": 189.9,
+          "end": 190.8,
+          "translation": "say"
+        },
+        {
+          "word": "darin",
+          "start": 190.8,
+          "end": 191.26,
+          "translation": "therein"
+        },
+        {
+          "word": "zu,",
+          "start": 191.26,
+          "end": 191.7,
+          "translation": "to,"
+        },
+        {
+          "word": "Zölle",
+          "start": 191.7,
+          "end": 192.7,
+          "translation": "Customs duties"
+        },
+        {
+          "word": "auf",
+          "start": 192.7,
+          "end": 193.12,
+          "translation": "on"
+        },
+        {
+          "word": "EU-Produkte",
+          "start": 193.12,
+          "end": 194.32,
+          "translation": "EU products"
+        },
+        {
+          "word": "auf",
+          "start": 194.32,
+          "end": 194.8,
+          "translation": "on"
+        },
+        {
+          "word": "maximal",
+          "start": 194.8,
+          "end": 195.42,
+          "translation": "maximum"
+        },
+        {
+          "word": "15",
+          "start": 195.42,
+          "end": 196.42,
+          "translation": "15"
+        },
+        {
+          "word": "Prozent",
+          "start": 196.42,
+          "end": 196.92,
+          "translation": "Percent"
+        },
+        {
+          "word": "zu",
+          "start": 196.92,
+          "end": 197.56,
+          "translation": "to"
+        },
+        {
+          "word": "begrenzen.",
+          "start": 197.56,
+          "end": 198.2,
+          "translation": "limit."
+        },
+        {
+          "word": "Im",
+          "start": 198.84,
+          "end": 199.42,
+          "translation": "In the"
+        },
+        {
+          "word": "Gegenzug",
+          "start": 199.42,
+          "end": 200.14,
+          "translation": "Counter move"
+        },
+        {
+          "word": "soll",
+          "start": 200.14,
+          "end": 200.54,
+          "translation": "should"
+        },
+        {
+          "word": "die",
+          "start": 200.54,
+          "end": 200.82,
+          "translation": "the"
+        },
+        {
+          "word": "EU",
+          "start": 200.82,
+          "end": 201.4,
+          "translation": "EU"
+        },
+        {
+          "word": "unter",
+          "start": 201.4,
+          "end": 202.04,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 202.04,
+          "end": 202.74,
+          "translation": "other"
+        },
+        {
+          "word": "Zölle",
+          "start": 202.74,
+          "end": 203.44,
+          "translation": "Customs duties"
+        },
+        {
+          "word": "auf",
+          "start": 203.44,
+          "end": 203.88,
+          "translation": "on"
+        },
+        {
+          "word": "US-Industriewaren,",
+          "start": 203.88,
+          "end": 206.18,
+          "translation": "US industrial goods,"
+        },
+        {
+          "word": "Autos",
+          "start": 206.18,
+          "end": 206.86,
+          "translation": "Cars"
+        },
+        {
+          "word": "und",
+          "start": 206.86,
+          "end": 207.4,
+          "translation": "and"
+        },
+        {
+          "word": "bestimmte",
+          "start": 207.4,
+          "end": 208.34,
+          "translation": "certain"
+        },
+        {
+          "word": "Agrarprodukte",
+          "start": 208.34,
+          "end": 209.6,
+          "translation": "Agricultural products"
+        },
+        {
+          "word": "abbauen.",
+          "start": 209.6,
+          "end": 210.3,
+          "translation": "dismantle."
+        },
+        {
+          "word": "Zuletzt",
+          "start": 211.26,
+          "end": 211.96,
+          "translation": "Last"
+        },
+        {
+          "word": "hatte",
+          "start": 211.96,
+          "end": 212.2,
+          "translation": "had"
+        },
+        {
+          "word": "Trump",
+          "start": 212.2,
+          "end": 212.78,
+          "translation": "Trump"
+        },
+        {
+          "word": "nach",
+          "start": 212.78,
+          "end": 213.16,
+          "translation": "to"
+        },
+        {
+          "word": "einem",
+          "start": 213.16,
+          "end": 213.68,
+          "translation": "one"
+        },
+        {
+          "word": "Streit",
+          "start": 213.68,
+          "end": 214.34,
+          "translation": "Dispute"
+        },
+        {
+          "word": "mit",
+          "start": 214.34,
+          "end": 214.56,
+          "translation": "with"
+        },
+        {
+          "word": "Bundeskanzler",
+          "start": 214.56,
+          "end": 215.7,
+          "translation": "Federal Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 215.7,
+          "end": 216.28,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 216.28,
+          "end": 216.84,
+          "translation": "Merz"
+        },
+        {
+          "word": "über",
+          "start": 216.84,
+          "end": 217.3,
+          "translation": "about"
+        },
+        {
+          "word": "den",
+          "start": 217.3,
+          "end": 217.62,
+          "translation": "the"
+        },
+        {
+          "word": "Iran-Krieg",
+          "start": 217.62,
+          "end": 218.9,
+          "translation": "Iran war"
+        },
+        {
+          "word": "mit",
+          "start": 218.9,
+          "end": 219.14,
+          "translation": "with"
+        },
+        {
+          "word": "höheren",
+          "start": 219.14,
+          "end": 219.76,
+          "translation": "higher"
+        },
+        {
+          "word": "Zöllen",
+          "start": 219.76,
+          "end": 220.34,
+          "translation": "Customs duties"
+        },
+        {
+          "word": "auf",
+          "start": 220.34,
+          "end": 220.74,
+          "translation": "on"
+        },
+        {
+          "word": "europäische",
+          "start": 220.74,
+          "end": 221.66,
+          "translation": "european"
+        },
+        {
+          "word": "Autos",
+          "start": 221.66,
+          "end": 222.44,
+          "translation": "Cars"
+        },
+        {
+          "word": "gedroht.",
+          "start": 222.44,
+          "end": 223.1,
+          "translation": "threatened."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Wadephul legt Sechs-Punkte-Plan für EU-Reformen vor",
+      "words": [
+        {
+          "word": "Wadephul",
+          "start": 223.1,
+          "end": 226.28,
+          "translation": "Wadephul"
+        },
+        {
+          "word": "legt",
+          "start": 226.28,
+          "end": 226.62,
+          "translation": "lays"
+        },
+        {
+          "word": "Sechs-Punkte-Plan",
+          "start": 226.62,
+          "end": 227.68,
+          "translation": "Six-point plan"
+        },
+        {
+          "word": "für",
+          "start": 227.68,
+          "end": 228.22,
+          "translation": "for"
+        },
+        {
+          "word": "EU-Reformen",
+          "start": 228.22,
+          "end": 229.4,
+          "translation": "EU reforms"
+        },
+        {
+          "word": "vor",
+          "start": 229.4,
+          "end": 229.72,
+          "translation": "before"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der deutsche Außenminister Johann Wadephul fordert schnelle und weitreichende Reformen der Europäischen Union. In einer Grundsatzrede bei der Konrad-Adenauer-Stiftung sprach sich Wadephul dafür aus, dass kleinere Gruppen von Mitgliedstaaten enger zusammenarbeiten, wenn unter allen 27 EU-Ländern kein Konsens erreichbar sei. Zudem plädierte er dafür, das Einstimmigkeitsprinzip in außenpolitischen Fragen durch Entscheidungen mit qualifizierter Mehrheit zu ersetzen. So könnten langwierige Blockaden einzelner Staaten verhindert werden. Gerade in Sicherheitsfragen könne das Einstimmigkeitsprinzip „eine existenzielle Gefahr“ darstellen, sagte Wadephul.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 230.6,
+          "end": 231.26,
+          "translation": "The"
+        },
+        {
+          "word": "deutsche",
+          "start": 231.26,
+          "end": 231.78,
+          "translation": "German"
+        },
+        {
+          "word": "Außenminister",
+          "start": 231.78,
+          "end": 232.96,
+          "translation": "Foreign Minister"
+        },
+        {
+          "word": "Johann",
+          "start": 232.96,
+          "end": 233.52,
+          "translation": "John"
+        },
+        {
+          "word": "Wadephul",
+          "start": 233.52,
+          "end": 234.6,
+          "translation": "Wadephul"
+        },
+        {
+          "word": "fordert",
+          "start": 234.6,
+          "end": 235.44,
+          "translation": "demands"
+        },
+        {
+          "word": "schnelle",
+          "start": 235.44,
+          "end": 236.12,
+          "translation": "quick"
+        },
+        {
+          "word": "und",
+          "start": 236.12,
+          "end": 236.58,
+          "translation": "and"
+        },
+        {
+          "word": "weitreichende",
+          "start": 236.58,
+          "end": 237.5,
+          "translation": "far-reaching"
+        },
+        {
+          "word": "Reformen",
+          "start": 237.5,
+          "end": 238.46,
+          "translation": "Reforms"
+        },
+        {
+          "word": "der",
+          "start": 238.46,
+          "end": 238.68,
+          "translation": "the"
+        },
+        {
+          "word": "Europäischen",
+          "start": 238.68,
+          "end": 239.64,
+          "translation": "European"
+        },
+        {
+          "word": "Union.",
+          "start": 239.64,
+          "end": 240.24,
+          "translation": "Union."
+        },
+        {
+          "word": "In",
+          "start": 240.9,
+          "end": 241.48,
+          "translation": "In"
+        },
+        {
+          "word": "einer",
+          "start": 241.48,
+          "end": 241.86,
+          "translation": "one"
+        },
+        {
+          "word": "Grundsatzrede",
+          "start": 241.86,
+          "end": 243.1,
+          "translation": "Keynote speech"
+        },
+        {
+          "word": "bei",
+          "start": 243.1,
+          "end": 243.4,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 243.4,
+          "end": 243.7,
+          "translation": "the"
+        },
+        {
+          "word": "Konrad-Adenauer-Stiftung",
+          "start": 243.7,
+          "end": 245.82,
+          "translation": "Konrad Adenauer Foundation"
+        },
+        {
+          "word": "sprach",
+          "start": 245.82,
+          "end": 246.54,
+          "translation": "spoke"
+        },
+        {
+          "word": "sich",
+          "start": 246.54,
+          "end": 246.98,
+          "translation": "itself"
+        },
+        {
+          "word": "Wadephul",
+          "start": 246.98,
+          "end": 247.8,
+          "translation": "Wadephul"
+        },
+        {
+          "word": "dafür",
+          "start": 247.8,
+          "end": 248.12,
+          "translation": "for this"
+        },
+        {
+          "word": "aus,",
+          "start": 248.12,
+          "end": 248.68,
+          "translation": "from,"
+        },
+        {
+          "word": "dass",
+          "start": 249.08,
+          "end": 249.3,
+          "translation": "that"
+        },
+        {
+          "word": "kleinere",
+          "start": 249.3,
+          "end": 250.1,
+          "translation": "smaller"
+        },
+        {
+          "word": "Gruppen",
+          "start": 250.1,
+          "end": 250.6,
+          "translation": "Groups"
+        },
+        {
+          "word": "von",
+          "start": 250.6,
+          "end": 251.04,
+          "translation": "from"
+        },
+        {
+          "word": "Mitgliedstaaten",
+          "start": 251.04,
+          "end": 252.28,
+          "translation": "Member states"
+        },
+        {
+          "word": "enger",
+          "start": 252.28,
+          "end": 252.84,
+          "translation": "narrower"
+        },
+        {
+          "word": "zusammenarbeiten,",
+          "start": 252.84,
+          "end": 254.1,
+          "translation": "work together,"
+        },
+        {
+          "word": "wenn",
+          "start": 254.7,
+          "end": 255.02,
+          "translation": "when"
+        },
+        {
+          "word": "unter",
+          "start": 255.02,
+          "end": 255.64,
+          "translation": "under"
+        },
+        {
+          "word": "allen",
+          "start": 255.64,
+          "end": 256.16,
+          "translation": "all"
+        },
+        {
+          "word": "27",
+          "start": 256.16,
+          "end": 257.32,
+          "translation": "27"
+        },
+        {
+          "word": "EU-Ländern",
+          "start": 257.32,
+          "end": 258.44,
+          "translation": "EU countries"
+        },
+        {
+          "word": "kein",
+          "start": 258.44,
+          "end": 259.08,
+          "translation": "none"
+        },
+        {
+          "word": "Konsens",
+          "start": 259.08,
+          "end": 259.78,
+          "translation": "Consensus"
+        },
+        {
+          "word": "erreichbar",
+          "start": 259.78,
+          "end": 260.6,
+          "translation": "reachable"
+        },
+        {
+          "word": "sei.",
+          "start": 260.6,
+          "end": 261.02,
+          "translation": "be."
+        },
+        {
+          "word": "Zudem",
+          "start": 262.02,
+          "end": 262.7,
+          "translation": "In addition"
+        },
+        {
+          "word": "plädierte",
+          "start": 262.7,
+          "end": 263.34,
+          "translation": "pleaded"
+        },
+        {
+          "word": "er",
+          "start": 263.34,
+          "end": 263.68,
+          "translation": "he"
+        },
+        {
+          "word": "dafür,",
+          "start": 263.68,
+          "end": 264.14,
+          "translation": "for this,"
+        },
+        {
+          "word": "das",
+          "start": 264.14,
+          "end": 264.9,
+          "translation": "the"
+        },
+        {
+          "word": "Einstimmigkeitsprinzip",
+          "start": 264.9,
+          "end": 267.04,
+          "translation": "Unanimity principle"
+        },
+        {
+          "word": "in",
+          "start": 267.04,
+          "end": 267.56,
+          "translation": "in"
+        },
+        {
+          "word": "außenpolitischen",
+          "start": 267.56,
+          "end": 268.84,
+          "translation": "foreign policy"
+        },
+        {
+          "word": "Fragen",
+          "start": 268.84,
+          "end": 269.34,
+          "translation": "Questions"
+        },
+        {
+          "word": "durch",
+          "start": 269.34,
+          "end": 270.08,
+          "translation": "through"
+        },
+        {
+          "word": "Entscheidungen",
+          "start": 270.08,
+          "end": 271.16,
+          "translation": "Decisions"
+        },
+        {
+          "word": "mit",
+          "start": 271.16,
+          "end": 271.62,
+          "translation": "with"
+        },
+        {
+          "word": "qualifizierter",
+          "start": 271.62,
+          "end": 272.84,
+          "translation": "more qualified"
+        },
+        {
+          "word": "Mehrheit",
+          "start": 272.84,
+          "end": 273.5,
+          "translation": "Majority"
+        },
+        {
+          "word": "zu",
+          "start": 273.5,
+          "end": 273.88,
+          "translation": "to"
+        },
+        {
+          "word": "ersetzen.",
+          "start": 273.88,
+          "end": 274.5,
+          "translation": "replace."
+        },
+        {
+          "word": "So",
+          "start": 275.42,
+          "end": 275.86,
+          "translation": "So"
+        },
+        {
+          "word": "könnten",
+          "start": 275.86,
+          "end": 276.32,
+          "translation": "could"
+        },
+        {
+          "word": "langwierige",
+          "start": 276.32,
+          "end": 277.36,
+          "translation": "protracted"
+        },
+        {
+          "word": "Blockaden",
+          "start": 277.36,
+          "end": 278.06,
+          "translation": "Blockages"
+        },
+        {
+          "word": "einzelner",
+          "start": 278.06,
+          "end": 278.98,
+          "translation": "individual"
+        },
+        {
+          "word": "Staaten",
+          "start": 278.98,
+          "end": 279.62,
+          "translation": "States"
+        },
+        {
+          "word": "verhindert",
+          "start": 279.62,
+          "end": 280.48,
+          "translation": "prevents"
+        },
+        {
+          "word": "werden.",
+          "start": 280.48,
+          "end": 280.98,
+          "translation": "become."
+        },
+        {
+          "word": "Gerade",
+          "start": 280.98,
+          "end": 282.24,
+          "translation": "Straight"
+        },
+        {
+          "word": "in",
+          "start": 282.24,
+          "end": 282.8,
+          "translation": "in"
+        },
+        {
+          "word": "Sicherheitsfragen",
+          "start": 282.8,
+          "end": 283.94,
+          "translation": "Security issues"
+        },
+        {
+          "word": "könne",
+          "start": 283.94,
+          "end": 284.84,
+          "translation": "can"
+        },
+        {
+          "word": "das",
+          "start": 284.84,
+          "end": 285.22,
+          "translation": "the"
+        },
+        {
+          "word": "Einstimmigkeitsprinzip",
+          "start": 285.22,
+          "end": 287.06,
+          "translation": "Unanimity principle"
+        },
+        {
+          "word": "„eine",
+          "start": 287.06,
+          "end": 287.82,
+          "translation": "\"one"
+        },
+        {
+          "word": "existenzielle",
+          "start": 287.82,
+          "end": 288.98,
+          "translation": "existential"
+        },
+        {
+          "word": "Gefahr“",
+          "start": 288.98,
+          "end": 289.48,
+          "translation": "Danger\""
+        },
+        {
+          "word": "darstellen,",
+          "start": 289.48,
+          "end": 290.34,
+          "translation": "represent,"
+        },
+        {
+          "word": "sagte",
+          "start": 290.56,
+          "end": 290.76,
+          "translation": "said"
+        },
+        {
+          "word": "Wadephul.",
+          "start": 290.76,
+          "end": 293.52,
+          "translation": "Wadephul."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Hantavirus-Kontaktperson in Klinik in Deutschland angekommen",
+      "words": [
+        {
+          "word": "Hantavirus-Kontaktperson",
+          "start": 293.52,
+          "end": 296.28,
+          "translation": "Hantavirus contact person"
+        },
+        {
+          "word": "in",
+          "start": 296.28,
+          "end": 296.8,
+          "translation": "in"
+        },
+        {
+          "word": "Klinik",
+          "start": 296.8,
+          "end": 297.48,
+          "translation": "Clinic"
+        },
+        {
+          "word": "in",
+          "start": 297.48,
+          "end": 297.72,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland",
+          "start": 297.72,
+          "end": 298.2,
+          "translation": "Germany"
+        },
+        {
+          "word": "angekommen",
+          "start": 298.2,
+          "end": 299.1,
+          "translation": "arrived"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der Hantavirus-Ausbruch auf dem Kreuzfahrtschiff „MV Hondius“ beschäftigt nun auch Ärzte in Deutschland. Eine Person, die an Bord Kontakt zu einem Hantavirus-Fall hatte, ist am Mittwochabend zur vorsorglichen Untersuchung im Universitätsklinikum Düsseldorf eingetroffen. Einsatzkräfte der Feuerwehr Düsseldorf hatten sie zuvor am Flughafen Amsterdam übernommen und mit einem Spezialkonvoi nach Düsseldorf gebracht. Nach mehreren Hantavirus-Infektionen auf der „Hondius“ waren drei Menschen gestorben: ein älteres Ehepaar aus den Niederlanden sowie eine deutsche Frau. Drei weitere Personen wurden unter medizinischer Begleitung von Bord gebracht, wie die Weltgesundheitsorganisation (WHO) mitteilte.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 299.86,
+          "end": 300.72,
+          "translation": "The"
+        },
+        {
+          "word": "Hantavirus-Ausbruch",
+          "start": 300.72,
+          "end": 302.54,
+          "translation": "Hantavirus outbreak"
+        },
+        {
+          "word": "auf",
+          "start": 302.54,
+          "end": 302.76,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 302.76,
+          "end": 303.02,
+          "translation": "the"
+        },
+        {
+          "word": "Kreuzfahrtschiff",
+          "start": 303.02,
+          "end": 304.2,
+          "translation": "Cruise ship"
+        },
+        {
+          "word": "„MV",
+          "start": 304.2,
+          "end": 304.9,
+          "translation": "\"MV"
+        },
+        {
+          "word": "Hondius“",
+          "start": 304.9,
+          "end": 305.76,
+          "translation": "Hondius\""
+        },
+        {
+          "word": "beschäftigt",
+          "start": 305.76,
+          "end": 306.94,
+          "translation": "busy"
+        },
+        {
+          "word": "nun",
+          "start": 306.94,
+          "end": 307.24,
+          "translation": "now"
+        },
+        {
+          "word": "auch",
+          "start": 307.24,
+          "end": 307.84,
+          "translation": "also"
+        },
+        {
+          "word": "Ärzte",
+          "start": 307.84,
+          "end": 308.5,
+          "translation": "Doctors"
+        },
+        {
+          "word": "in",
+          "start": 308.5,
+          "end": 308.84,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland.",
+          "start": 308.84,
+          "end": 309.36,
+          "translation": "Germany."
+        },
+        {
+          "word": "Eine",
+          "start": 310.16,
+          "end": 310.72,
+          "translation": "One"
+        },
+        {
+          "word": "Person,",
+          "start": 310.72,
+          "end": 311.2,
+          "translation": "Person,"
+        },
+        {
+          "word": "die",
+          "start": 311.62,
+          "end": 311.72,
+          "translation": "the"
+        },
+        {
+          "word": "an",
+          "start": 311.72,
+          "end": 311.96,
+          "translation": "on"
+        },
+        {
+          "word": "Bord",
+          "start": 311.96,
+          "end": 312.36,
+          "translation": "Board"
+        },
+        {
+          "word": "Kontakt",
+          "start": 312.36,
+          "end": 313.04,
+          "translation": "Contact us"
+        },
+        {
+          "word": "zu",
+          "start": 313.04,
+          "end": 313.62,
+          "translation": "to"
+        },
+        {
+          "word": "einem",
+          "start": 313.62,
+          "end": 314.04,
+          "translation": "one"
+        },
+        {
+          "word": "Hantavirus-Fall",
+          "start": 314.04,
+          "end": 315.36,
+          "translation": "Hantavirus case"
+        },
+        {
+          "word": "hatte,",
+          "start": 315.36,
+          "end": 315.82,
+          "translation": "had,"
+        },
+        {
+          "word": "ist",
+          "start": 316.46,
+          "end": 316.62,
+          "translation": "is"
+        },
+        {
+          "word": "am",
+          "start": 316.62,
+          "end": 316.98,
+          "translation": "on"
+        },
+        {
+          "word": "Mittwochabend",
+          "start": 316.98,
+          "end": 317.96,
+          "translation": "Wednesday evening"
+        },
+        {
+          "word": "zur",
+          "start": 317.96,
+          "end": 318.46,
+          "translation": "to the"
+        },
+        {
+          "word": "vorsorglichen",
+          "start": 318.46,
+          "end": 319.58,
+          "translation": "precautionary"
+        },
+        {
+          "word": "Untersuchung",
+          "start": 319.58,
+          "end": 320.66,
+          "translation": "Investigation"
+        },
+        {
+          "word": "im",
+          "start": 320.66,
+          "end": 321.34,
+          "translation": "in the"
+        },
+        {
+          "word": "Universitätsklinikum",
+          "start": 321.34,
+          "end": 323.22,
+          "translation": "University Hospital"
+        },
+        {
+          "word": "Düsseldorf",
+          "start": 323.22,
+          "end": 324.08,
+          "translation": "Düsseldorf"
+        },
+        {
+          "word": "eingetroffen.",
+          "start": 324.08,
+          "end": 325.02,
+          "translation": "arrived."
+        },
+        {
+          "word": "Einsatzkräfte",
+          "start": 326.18,
+          "end": 327.3,
+          "translation": "Emergency services"
+        },
+        {
+          "word": "der",
+          "start": 327.3,
+          "end": 327.62,
+          "translation": "the"
+        },
+        {
+          "word": "Feuerwehr",
+          "start": 327.62,
+          "end": 328.2,
+          "translation": "Fire department"
+        },
+        {
+          "word": "Düsseldorf",
+          "start": 328.2,
+          "end": 329.04,
+          "translation": "Düsseldorf"
+        },
+        {
+          "word": "hatten",
+          "start": 329.04,
+          "end": 329.64,
+          "translation": "had"
+        },
+        {
+          "word": "sie",
+          "start": 329.64,
+          "end": 329.98,
+          "translation": "them"
+        },
+        {
+          "word": "zuvor",
+          "start": 329.98,
+          "end": 330.68,
+          "translation": "before"
+        },
+        {
+          "word": "am",
+          "start": 330.68,
+          "end": 331.1,
+          "translation": "on"
+        },
+        {
+          "word": "Flughafen",
+          "start": 331.1,
+          "end": 332.06,
+          "translation": "Airport"
+        },
+        {
+          "word": "Amsterdam",
+          "start": 332.06,
+          "end": 333.0,
+          "translation": "Amsterdam"
+        },
+        {
+          "word": "übernommen",
+          "start": 333.0,
+          "end": 333.74,
+          "translation": "adopted"
+        },
+        {
+          "word": "und",
+          "start": 333.74,
+          "end": 334.54,
+          "translation": "and"
+        },
+        {
+          "word": "mit",
+          "start": 334.54,
+          "end": 334.92,
+          "translation": "with"
+        },
+        {
+          "word": "einem",
+          "start": 334.92,
+          "end": 335.46,
+          "translation": "one"
+        },
+        {
+          "word": "Spezialkonvoi",
+          "start": 335.46,
+          "end": 336.76,
+          "translation": "Special convoy"
+        },
+        {
+          "word": "nach",
+          "start": 336.76,
+          "end": 337.18,
+          "translation": "to"
+        },
+        {
+          "word": "Düsseldorf",
+          "start": 337.18,
+          "end": 337.94,
+          "translation": "Düsseldorf"
+        },
+        {
+          "word": "gebracht.",
+          "start": 337.94,
+          "end": 338.42,
+          "translation": "brought."
+        },
+        {
+          "word": "Nach",
+          "start": 339.16,
+          "end": 339.72,
+          "translation": "After"
+        },
+        {
+          "word": "mehreren",
+          "start": 339.72,
+          "end": 340.52,
+          "translation": "several"
+        },
+        {
+          "word": "Hantavirus-Infektionen",
+          "start": 340.52,
+          "end": 342.52,
+          "translation": "Hantavirus infections"
+        },
+        {
+          "word": "auf",
+          "start": 342.52,
+          "end": 342.94,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 342.94,
+          "end": 343.2,
+          "translation": "the"
+        },
+        {
+          "word": "„Hondius“",
+          "start": 343.2,
+          "end": 343.96,
+          "translation": "\"Hondius\""
+        },
+        {
+          "word": "waren",
+          "start": 343.96,
+          "end": 344.78,
+          "translation": "were"
+        },
+        {
+          "word": "drei",
+          "start": 344.78,
+          "end": 345.24,
+          "translation": "three"
+        },
+        {
+          "word": "Menschen",
+          "start": 345.24,
+          "end": 345.8,
+          "translation": "People"
+        },
+        {
+          "word": "gestorben:",
+          "start": 345.8,
+          "end": 346.66,
+          "translation": "died:"
+        },
+        {
+          "word": "ein",
+          "start": 347.5,
+          "end": 347.8,
+          "translation": "a"
+        },
+        {
+          "word": "älteres",
+          "start": 347.8,
+          "end": 348.52,
+          "translation": "older"
+        },
+        {
+          "word": "Ehepaar",
+          "start": 348.52,
+          "end": 349.1,
+          "translation": "Married couple"
+        },
+        {
+          "word": "aus",
+          "start": 349.1,
+          "end": 349.48,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 349.48,
+          "end": 349.68,
+          "translation": "the"
+        },
+        {
+          "word": "Niederlanden",
+          "start": 349.68,
+          "end": 350.66,
+          "translation": "Netherlands"
+        },
+        {
+          "word": "sowie",
+          "start": 350.66,
+          "end": 351.36,
+          "translation": "and"
+        },
+        {
+          "word": "eine",
+          "start": 351.36,
+          "end": 351.9,
+          "translation": "one"
+        },
+        {
+          "word": "deutsche",
+          "start": 351.9,
+          "end": 352.34,
+          "translation": "German"
+        },
+        {
+          "word": "Frau.",
+          "start": 352.34,
+          "end": 352.7,
+          "translation": "Ms."
+        },
+        {
+          "word": "Drei",
+          "start": 353.66,
+          "end": 353.98,
+          "translation": "Three"
+        },
+        {
+          "word": "weitere",
+          "start": 353.98,
+          "end": 354.54,
+          "translation": "more"
+        },
+        {
+          "word": "Personen",
+          "start": 354.54,
+          "end": 355.16,
+          "translation": "People"
+        },
+        {
+          "word": "wurden",
+          "start": 355.16,
+          "end": 355.7,
+          "translation": "were"
+        },
+        {
+          "word": "unter",
+          "start": 355.7,
+          "end": 356.3,
+          "translation": "under"
+        },
+        {
+          "word": "medizinischer",
+          "start": 356.3,
+          "end": 357.32,
+          "translation": "more medical"
+        },
+        {
+          "word": "Begleitung",
+          "start": 357.32,
+          "end": 358.0,
+          "translation": "Accompaniment"
+        },
+        {
+          "word": "von",
+          "start": 358.0,
+          "end": 358.36,
+          "translation": "from"
+        },
+        {
+          "word": "Bord",
+          "start": 358.36,
+          "end": 358.72,
+          "translation": "Board"
+        },
+        {
+          "word": "gebracht,",
+          "start": 358.72,
+          "end": 359.2,
+          "translation": "brought,"
+        },
+        {
+          "word": "wie",
+          "start": 359.62,
+          "end": 359.88,
+          "translation": "like"
+        },
+        {
+          "word": "die",
+          "start": 359.88,
+          "end": 360.14,
+          "translation": "the"
+        },
+        {
+          "word": "Weltgesundheitsorganisation",
+          "start": 360.14,
+          "end": 362.12,
+          "translation": "World Health Organization"
+        },
+        {
+          "word": "(WHO)",
+          "start": 362.12,
+          "end": 363.2,
+          "translation": "(WHO)"
+        },
+        {
+          "word": "mitteilte.",
+          "start": 363.2,
+          "end": 364.32,
+          "translation": "announced."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "CNN-Gründer Ted Turner im Alter von 87 Jahren gestorben",
+      "words": [
+        {
+          "word": "CNN-Gründer",
+          "start": 364.32,
+          "end": 367.44,
+          "translation": "CNN founder"
+        },
+        {
+          "word": "Ted",
+          "start": 367.44,
+          "end": 367.66,
+          "translation": "Ted"
+        },
+        {
+          "word": "Turner",
+          "start": 367.66,
+          "end": 368.14,
+          "translation": "Turner"
+        },
+        {
+          "word": "im",
+          "start": 368.14,
+          "end": 368.72,
+          "translation": "in the"
+        },
+        {
+          "word": "Alter",
+          "start": 368.72,
+          "end": 369.16,
+          "translation": "Age"
+        },
+        {
+          "word": "von",
+          "start": 369.16,
+          "end": 369.62,
+          "translation": "from"
+        },
+        {
+          "word": "87",
+          "start": 369.62,
+          "end": 370.34,
+          "translation": "87"
+        },
+        {
+          "word": "Jahren",
+          "start": 370.34,
+          "end": 370.98,
+          "translation": "years"
+        },
+        {
+          "word": "gestorben",
+          "start": 370.98,
+          "end": 371.74,
+          "translation": "died"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der einflussreiche US-Medienunternehmer Ted Turner ist tot. Der Gründer des Nachrichtensenders CNN starb am Mittwoch im Alter von 87 Jahren, wie der Sender mitteilte. CNN würdigte Turner als „Pionier des Kabelfernsehens“, der mit Nachrichten rund um die Uhr die Fernsehberichterstattung revolutioniert habe. CNN-Chef Mark Thompson bezeichnete Turner als den „Riesen, auf dessen Schultern wir stehen“. Turner hatte CNN 1980 gegründet und damit den ersten rund um die Uhr sendenden Nachrichtensender geschaffen. Zu seinem Medienimperium gehörten später unter anderem die Sender TBS, TNT und Cartoon Network. Vor acht Jahren hatte Turner öffentlich gemacht, an einer Demenzerkrankung zu leiden.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 372.84,
+          "end": 373.2,
+          "translation": "The"
+        },
+        {
+          "word": "einflussreiche",
+          "start": 373.2,
+          "end": 374.28,
+          "translation": "influential"
+        },
+        {
+          "word": "US-Medienunternehmer",
+          "start": 374.28,
+          "end": 376.32,
+          "translation": "US media entrepreneur"
+        },
+        {
+          "word": "Ted",
+          "start": 376.32,
+          "end": 376.72,
+          "translation": "Ted"
+        },
+        {
+          "word": "Turner",
+          "start": 376.72,
+          "end": 377.3,
+          "translation": "Turner"
+        },
+        {
+          "word": "ist",
+          "start": 377.3,
+          "end": 377.72,
+          "translation": "is"
+        },
+        {
+          "word": "tot.",
+          "start": 377.72,
+          "end": 378.0,
+          "translation": "dead."
+        },
+        {
+          "word": "Der",
+          "start": 378.74,
+          "end": 379.18,
+          "translation": "The"
+        },
+        {
+          "word": "Gründer",
+          "start": 379.18,
+          "end": 379.74,
+          "translation": "Founder"
+        },
+        {
+          "word": "des",
+          "start": 379.74,
+          "end": 380.04,
+          "translation": "of the"
+        },
+        {
+          "word": "Nachrichtensenders",
+          "start": 380.04,
+          "end": 381.18,
+          "translation": "news channel"
+        },
+        {
+          "word": "CNN",
+          "start": 381.18,
+          "end": 381.84,
+          "translation": "CNN"
+        },
+        {
+          "word": "starb",
+          "start": 381.84,
+          "end": 382.9,
+          "translation": "died"
+        },
+        {
+          "word": "am",
+          "start": 382.9,
+          "end": 383.08,
+          "translation": "on"
+        },
+        {
+          "word": "Mittwoch",
+          "start": 383.08,
+          "end": 383.7,
+          "translation": "Wednesday"
+        },
+        {
+          "word": "im",
+          "start": 383.7,
+          "end": 383.94,
+          "translation": "in the"
+        },
+        {
+          "word": "Alter",
+          "start": 383.94,
+          "end": 384.34,
+          "translation": "Age"
+        },
+        {
+          "word": "von",
+          "start": 384.34,
+          "end": 384.7,
+          "translation": "from"
+        },
+        {
+          "word": "87",
+          "start": 384.7,
+          "end": 385.46,
+          "translation": "87"
+        },
+        {
+          "word": "Jahren,",
+          "start": 385.46,
+          "end": 386.22,
+          "translation": "years,"
+        },
+        {
+          "word": "wie",
+          "start": 386.42,
+          "end": 386.8,
+          "translation": "like"
+        },
+        {
+          "word": "der",
+          "start": 386.8,
+          "end": 387.04,
+          "translation": "the"
+        },
+        {
+          "word": "Sender",
+          "start": 387.04,
+          "end": 387.38,
+          "translation": "Transmitter"
+        },
+        {
+          "word": "mitteilte.",
+          "start": 387.38,
+          "end": 388.3,
+          "translation": "announced."
+        },
+        {
+          "word": "CNN",
+          "start": 389.3,
+          "end": 389.92,
+          "translation": "CNN"
+        },
+        {
+          "word": "würdigte",
+          "start": 389.92,
+          "end": 390.74,
+          "translation": "honored"
+        },
+        {
+          "word": "Turner",
+          "start": 390.74,
+          "end": 391.08,
+          "translation": "Turner"
+        },
+        {
+          "word": "als",
+          "start": 391.08,
+          "end": 391.68,
+          "translation": "as"
+        },
+        {
+          "word": "„Pionier",
+          "start": 391.68,
+          "end": 392.54,
+          "translation": "\"Pioneer"
+        },
+        {
+          "word": "des",
+          "start": 392.54,
+          "end": 392.8,
+          "translation": "of the"
+        },
+        {
+          "word": "Kabelfernsehens“,",
+          "start": 392.8,
+          "end": 394.2,
+          "translation": "Cable television\","
+        },
+        {
+          "word": "der",
+          "start": 394.5,
+          "end": 394.74,
+          "translation": "the"
+        },
+        {
+          "word": "mit",
+          "start": 394.74,
+          "end": 394.98,
+          "translation": "with"
+        },
+        {
+          "word": "Nachrichten",
+          "start": 394.98,
+          "end": 395.6,
+          "translation": "News"
+        },
+        {
+          "word": "rund",
+          "start": 395.6,
+          "end": 396.1,
+          "translation": "round"
+        },
+        {
+          "word": "um",
+          "start": 396.1,
+          "end": 396.48,
+          "translation": "to"
+        },
+        {
+          "word": "die",
+          "start": 396.48,
+          "end": 396.68,
+          "translation": "the"
+        },
+        {
+          "word": "Uhr",
+          "start": 396.68,
+          "end": 397.0,
+          "translation": "clock"
+        },
+        {
+          "word": "die",
+          "start": 397.0,
+          "end": 397.66,
+          "translation": "the"
+        },
+        {
+          "word": "Fernsehberichterstattung",
+          "start": 397.66,
+          "end": 399.44,
+          "translation": "Television reporting"
+        },
+        {
+          "word": "revolutioniert",
+          "start": 399.44,
+          "end": 400.5,
+          "translation": "revolutionized"
+        },
+        {
+          "word": "habe.",
+          "start": 400.5,
+          "end": 401.0,
+          "translation": "have."
+        },
+        {
+          "word": "CNN-Chef",
+          "start": 401.0,
+          "end": 403.06,
+          "translation": "CNN boss"
+        },
+        {
+          "word": "Mark",
+          "start": 403.06,
+          "end": 403.32,
+          "translation": "Mark"
+        },
+        {
+          "word": "Thompson",
+          "start": 403.32,
+          "end": 403.86,
+          "translation": "Thompson"
+        },
+        {
+          "word": "bezeichnete",
+          "start": 403.86,
+          "end": 404.88,
+          "translation": "labeled"
+        },
+        {
+          "word": "Turner",
+          "start": 404.88,
+          "end": 405.38,
+          "translation": "Turner"
+        },
+        {
+          "word": "als",
+          "start": 405.38,
+          "end": 405.96,
+          "translation": "as"
+        },
+        {
+          "word": "den",
+          "start": 405.96,
+          "end": 406.52,
+          "translation": "the"
+        },
+        {
+          "word": "„Riesen,",
+          "start": 406.52,
+          "end": 407.02,
+          "translation": "\"Giants,"
+        },
+        {
+          "word": "auf",
+          "start": 407.02,
+          "end": 407.42,
+          "translation": "on"
+        },
+        {
+          "word": "dessen",
+          "start": 407.42,
+          "end": 407.86,
+          "translation": "whose"
+        },
+        {
+          "word": "Schultern",
+          "start": 407.86,
+          "end": 408.38,
+          "translation": "Shoulders"
+        },
+        {
+          "word": "wir",
+          "start": 408.38,
+          "end": 408.62,
+          "translation": "we"
+        },
+        {
+          "word": "stehen“.",
+          "start": 408.62,
+          "end": 409.06,
+          "translation": "stand\"."
+        },
+        {
+          "word": "Turner",
+          "start": 410.06,
+          "end": 410.7,
+          "translation": "Turner"
+        },
+        {
+          "word": "hatte",
+          "start": 410.7,
+          "end": 411.12,
+          "translation": "had"
+        },
+        {
+          "word": "CNN",
+          "start": 411.12,
+          "end": 411.86,
+          "translation": "CNN"
+        },
+        {
+          "word": "1980",
+          "start": 411.86,
+          "end": 413.04,
+          "translation": "1980"
+        },
+        {
+          "word": "gegründet",
+          "start": 413.04,
+          "end": 414.18,
+          "translation": "founded"
+        },
+        {
+          "word": "und",
+          "start": 414.18,
+          "end": 414.82,
+          "translation": "and"
+        },
+        {
+          "word": "damit",
+          "start": 414.82,
+          "end": 415.38,
+          "translation": "so that"
+        },
+        {
+          "word": "den",
+          "start": 415.38,
+          "end": 415.82,
+          "translation": "the"
+        },
+        {
+          "word": "ersten",
+          "start": 415.82,
+          "end": 416.4,
+          "translation": "first"
+        },
+        {
+          "word": "rund",
+          "start": 416.4,
+          "end": 416.94,
+          "translation": "round"
+        },
+        {
+          "word": "um",
+          "start": 416.94,
+          "end": 417.2,
+          "translation": "to"
+        },
+        {
+          "word": "die",
+          "start": 417.2,
+          "end": 417.44,
+          "translation": "the"
+        },
+        {
+          "word": "Uhr",
+          "start": 417.44,
+          "end": 417.8,
+          "translation": "clock"
+        },
+        {
+          "word": "sendenden",
+          "start": 417.8,
+          "end": 418.46,
+          "translation": "sending"
+        },
+        {
+          "word": "Nachrichtensender",
+          "start": 418.46,
+          "end": 419.7,
+          "translation": "News channel"
+        },
+        {
+          "word": "geschaffen.",
+          "start": 419.7,
+          "end": 420.34,
+          "translation": "created."
+        },
+        {
+          "word": "Zu",
+          "start": 421.32,
+          "end": 421.62,
+          "translation": "To"
+        },
+        {
+          "word": "seinem",
+          "start": 421.62,
+          "end": 422.06,
+          "translation": "his"
+        },
+        {
+          "word": "Medienimperium",
+          "start": 422.06,
+          "end": 423.54,
+          "translation": "Media empire"
+        },
+        {
+          "word": "gehörten",
+          "start": 423.54,
+          "end": 424.52,
+          "translation": "belonged"
+        },
+        {
+          "word": "später",
+          "start": 424.52,
+          "end": 425.06,
+          "translation": "later"
+        },
+        {
+          "word": "unter",
+          "start": 425.06,
+          "end": 425.68,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 425.68,
+          "end": 426.28,
+          "translation": "other"
+        },
+        {
+          "word": "die",
+          "start": 426.28,
+          "end": 426.62,
+          "translation": "the"
+        },
+        {
+          "word": "Sender",
+          "start": 426.62,
+          "end": 427.06,
+          "translation": "Transmitter"
+        },
+        {
+          "word": "TBS,",
+          "start": 427.06,
+          "end": 427.84,
+          "translation": "TBS,"
+        },
+        {
+          "word": "TNT",
+          "start": 428.54,
+          "end": 428.94,
+          "translation": "TNT"
+        },
+        {
+          "word": "und",
+          "start": 428.94,
+          "end": 429.54,
+          "translation": "and"
+        },
+        {
+          "word": "Cartoon",
+          "start": 429.54,
+          "end": 430.1,
+          "translation": "Cartoon"
+        },
+        {
+          "word": "Network.",
+          "start": 430.1,
+          "end": 430.56,
+          "translation": "Network."
+        },
+        {
+          "word": "Vor",
+          "start": 431.54,
+          "end": 431.88,
+          "translation": "Before"
+        },
+        {
+          "word": "acht",
+          "start": 431.88,
+          "end": 432.2,
+          "translation": "eight"
+        },
+        {
+          "word": "Jahren",
+          "start": 432.2,
+          "end": 432.64,
+          "translation": "years"
+        },
+        {
+          "word": "hatte",
+          "start": 432.64,
+          "end": 432.96,
+          "translation": "had"
+        },
+        {
+          "word": "Turner",
+          "start": 432.96,
+          "end": 433.48,
+          "translation": "Turner"
+        },
+        {
+          "word": "öffentlich",
+          "start": 433.48,
+          "end": 434.22,
+          "translation": "Public"
+        },
+        {
+          "word": "gemacht,",
+          "start": 434.22,
+          "end": 434.86,
+          "translation": "made,"
+        },
+        {
+          "word": "an",
+          "start": 435.32,
+          "end": 435.46,
+          "translation": "on"
+        },
+        {
+          "word": "einer",
+          "start": 435.46,
+          "end": 435.98,
+          "translation": "one"
+        },
+        {
+          "word": "Demenzerkrankung",
+          "start": 435.98,
+          "end": 437.26,
+          "translation": "Dementia"
+        },
+        {
+          "word": "zu",
+          "start": 437.26,
+          "end": 437.58,
+          "translation": "to"
+        },
+        {
+          "word": "leiden.",
+          "start": 437.58,
+          "end": 437.96,
+          "translation": "suffer."
+        }
+      ]
+    }
+  ]
+}
