@@ -1,0 +1,3592 @@
+{
+  "id": 78095311,
+  "title": "24.07.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-07-24",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/F263BB16_2.mp3",
+  "duration": 583,
+  "imageUrl": "https://static.dw.com/image/77311671_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "USA verhängen neue Zölle gegen 60 Handelspartner",
+      "words": [
+        {
+          "word": "USA",
+          "start": 17.06,
+          "end": 17.98,
+          "translation": "USA"
+        },
+        {
+          "word": "verhängen",
+          "start": 17.98,
+          "end": 19.5,
+          "translation": "impose"
+        },
+        {
+          "word": "neue",
+          "start": 19.5,
+          "end": 19.86,
+          "translation": "new"
+        },
+        {
+          "word": "Zölle",
+          "start": 19.86,
+          "end": 20.56,
+          "translation": "Customs duties"
+        },
+        {
+          "word": "gegen",
+          "start": 20.56,
+          "end": 21.46,
+          "translation": "vs."
+        },
+        {
+          "word": "60",
+          "start": 21.46,
+          "end": 22.26,
+          "translation": "60"
+        },
+        {
+          "word": "Handelspartner",
+          "start": 22.26,
+          "end": 23.88,
+          "translation": "Trading partner"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die US-Regierung hat neue Zölle auf Importe aus rund 60 Ländern und Wirtschaftsräumen angekündigt, darunter auch die EU. Das Weiße Haus begründete den Schritt mit einem unzureichenden Vorgehen der Handelspartner gegen Zwangsarbeit. Die Aufschläge von zehn bis 12,5 Prozent sollten in der Nacht zu diesem Freitag in Kraft treten und einen bisherigen weltweiten Sonderzoll von zehn Prozent ablösen. Für Einfuhren aus der EU, Großbritannien und Kanada gilt weiterhin ein allgemeiner Zollsatz von zehn Prozent. Importe aus China und Japan werden dagegen mit 12,5 Prozent belegt. Die Regelung betrifft den Großteil des US-Handels. Für Stahl, Aluminium und andere Produktgruppen gelten weiterhin höhere branchenspezifische Zölle.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 24.46,
+          "end": 24.72,
+          "translation": "The"
+        },
+        {
+          "word": "US-Regierung",
+          "start": 24.72,
+          "end": 26.34,
+          "translation": "US government"
+        },
+        {
+          "word": "hat",
+          "start": 26.34,
+          "end": 26.7,
+          "translation": "has"
+        },
+        {
+          "word": "neue",
+          "start": 26.7,
+          "end": 27.3,
+          "translation": "new"
+        },
+        {
+          "word": "Zölle",
+          "start": 27.3,
+          "end": 28.04,
+          "translation": "Customs duties"
+        },
+        {
+          "word": "auf",
+          "start": 28.04,
+          "end": 28.64,
+          "translation": "on"
+        },
+        {
+          "word": "Importe",
+          "start": 28.64,
+          "end": 29.52,
+          "translation": "Imports"
+        },
+        {
+          "word": "aus",
+          "start": 30.3,
+          "end": 30.48,
+          "translation": "from"
+        },
+        {
+          "word": "rund",
+          "start": 30.48,
+          "end": 30.82,
+          "translation": "round"
+        },
+        {
+          "word": "60",
+          "start": 30.82,
+          "end": 31.62,
+          "translation": "60"
+        },
+        {
+          "word": "Ländern",
+          "start": 31.62,
+          "end": 32.22,
+          "translation": "Countries"
+        },
+        {
+          "word": "und",
+          "start": 32.22,
+          "end": 32.92,
+          "translation": "and"
+        },
+        {
+          "word": "Wirtschaftsräumen",
+          "start": 32.92,
+          "end": 34.6,
+          "translation": "Economic Regions"
+        },
+        {
+          "word": "angekündigt,",
+          "start": 34.6,
+          "end": 35.92,
+          "translation": "announced,"
+        },
+        {
+          "word": "darunter",
+          "start": 36.36,
+          "end": 37.06,
+          "translation": "including"
+        },
+        {
+          "word": "auch",
+          "start": 37.06,
+          "end": 37.78,
+          "translation": "also"
+        },
+        {
+          "word": "die",
+          "start": 37.78,
+          "end": 38.08,
+          "translation": "the"
+        },
+        {
+          "word": "EU.",
+          "start": 38.08,
+          "end": 38.86,
+          "translation": "EU."
+        },
+        {
+          "word": "Das",
+          "start": 39.42,
+          "end": 40.12,
+          "translation": "The"
+        },
+        {
+          "word": "Weiße",
+          "start": 40.12,
+          "end": 40.96,
+          "translation": "White"
+        },
+        {
+          "word": "Haus",
+          "start": 40.96,
+          "end": 41.44,
+          "translation": "House"
+        },
+        {
+          "word": "begründete",
+          "start": 41.44,
+          "end": 42.5,
+          "translation": "justified"
+        },
+        {
+          "word": "den",
+          "start": 42.5,
+          "end": 42.84,
+          "translation": "the"
+        },
+        {
+          "word": "Schritt",
+          "start": 42.84,
+          "end": 43.26,
+          "translation": "Step"
+        },
+        {
+          "word": "mit",
+          "start": 43.26,
+          "end": 44.14,
+          "translation": "with"
+        },
+        {
+          "word": "einem",
+          "start": 44.14,
+          "end": 44.74,
+          "translation": "one"
+        },
+        {
+          "word": "unzureichenden",
+          "start": 44.74,
+          "end": 46.32,
+          "translation": "insufficient"
+        },
+        {
+          "word": "Vorgehen",
+          "start": 46.32,
+          "end": 47.44,
+          "translation": "Procedure"
+        },
+        {
+          "word": "der",
+          "start": 47.44,
+          "end": 47.76,
+          "translation": "the"
+        },
+        {
+          "word": "Handelspartner",
+          "start": 47.76,
+          "end": 49.22,
+          "translation": "Trading partner"
+        },
+        {
+          "word": "gegen",
+          "start": 49.22,
+          "end": 50.18,
+          "translation": "vs."
+        },
+        {
+          "word": "Zwangsarbeit.",
+          "start": 50.18,
+          "end": 51.76,
+          "translation": "Forced labor."
+        },
+        {
+          "word": "Die",
+          "start": 52.44,
+          "end": 53.14,
+          "translation": "The"
+        },
+        {
+          "word": "Aufschläge",
+          "start": 53.14,
+          "end": 54.24,
+          "translation": "Serves"
+        },
+        {
+          "word": "von",
+          "start": 54.24,
+          "end": 54.64,
+          "translation": "from"
+        },
+        {
+          "word": "zehn",
+          "start": 54.64,
+          "end": 55.24,
+          "translation": "ten"
+        },
+        {
+          "word": "bis",
+          "start": 55.24,
+          "end": 55.6,
+          "translation": "to"
+        },
+        {
+          "word": "12,5",
+          "start": 55.6,
+          "end": 57.36,
+          "translation": "12.5"
+        },
+        {
+          "word": "Prozent",
+          "start": 57.36,
+          "end": 58.4,
+          "translation": "Percent"
+        },
+        {
+          "word": "sollten",
+          "start": 58.4,
+          "end": 59.48,
+          "translation": "should"
+        },
+        {
+          "word": "in",
+          "start": 59.48,
+          "end": 59.92,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 59.92,
+          "end": 60.14,
+          "translation": "the"
+        },
+        {
+          "word": "Nacht",
+          "start": 60.14,
+          "end": 60.62,
+          "translation": "Night"
+        },
+        {
+          "word": "zu",
+          "start": 60.62,
+          "end": 61.02,
+          "translation": "to"
+        },
+        {
+          "word": "diesem",
+          "start": 61.02,
+          "end": 61.62,
+          "translation": "this"
+        },
+        {
+          "word": "Freitag",
+          "start": 61.62,
+          "end": 62.66,
+          "translation": "Friday"
+        },
+        {
+          "word": "in",
+          "start": 62.66,
+          "end": 63.22,
+          "translation": "in"
+        },
+        {
+          "word": "Kraft",
+          "start": 63.22,
+          "end": 63.78,
+          "translation": "Power"
+        },
+        {
+          "word": "treten",
+          "start": 63.78,
+          "end": 64.56,
+          "translation": "step"
+        },
+        {
+          "word": "und",
+          "start": 64.56,
+          "end": 65.4,
+          "translation": "and"
+        },
+        {
+          "word": "einen",
+          "start": 65.4,
+          "end": 66.0,
+          "translation": "one"
+        },
+        {
+          "word": "bisherigen",
+          "start": 66.0,
+          "end": 67.24,
+          "translation": "previous"
+        },
+        {
+          "word": "weltweiten",
+          "start": 67.24,
+          "end": 68.42,
+          "translation": "worldwide"
+        },
+        {
+          "word": "Sonderzoll",
+          "start": 68.42,
+          "end": 69.66,
+          "translation": "Special Duty"
+        },
+        {
+          "word": "von",
+          "start": 69.66,
+          "end": 70.4,
+          "translation": "from"
+        },
+        {
+          "word": "zehn",
+          "start": 70.4,
+          "end": 70.92,
+          "translation": "ten"
+        },
+        {
+          "word": "Prozent",
+          "start": 70.92,
+          "end": 71.66,
+          "translation": "Percent"
+        },
+        {
+          "word": "ablösen.",
+          "start": 71.66,
+          "end": 73.04,
+          "translation": "replace."
+        },
+        {
+          "word": "Für",
+          "start": 73.76,
+          "end": 74.14,
+          "translation": "For"
+        },
+        {
+          "word": "Einfuhren",
+          "start": 74.14,
+          "end": 75.34,
+          "translation": "Imports"
+        },
+        {
+          "word": "aus",
+          "start": 75.34,
+          "end": 75.84,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 75.84,
+          "end": 76.24,
+          "translation": "the"
+        },
+        {
+          "word": "EU,",
+          "start": 76.24,
+          "end": 77.06,
+          "translation": "EU,"
+        },
+        {
+          "word": "Großbritannien",
+          "start": 77.48,
+          "end": 78.74,
+          "translation": "Great Britain"
+        },
+        {
+          "word": "und",
+          "start": 78.74,
+          "end": 79.56,
+          "translation": "and"
+        },
+        {
+          "word": "Kanada",
+          "start": 79.56,
+          "end": 80.4,
+          "translation": "Canada"
+        },
+        {
+          "word": "gilt",
+          "start": 80.4,
+          "end": 81.3,
+          "translation": "applies"
+        },
+        {
+          "word": "weiterhin",
+          "start": 81.3,
+          "end": 82.24,
+          "translation": "furthermore"
+        },
+        {
+          "word": "ein",
+          "start": 82.24,
+          "end": 82.82,
+          "translation": "a"
+        },
+        {
+          "word": "allgemeiner",
+          "start": 82.82,
+          "end": 84.02,
+          "translation": "more generally"
+        },
+        {
+          "word": "Zollsatz",
+          "start": 84.02,
+          "end": 85.08,
+          "translation": "Tariff Rate"
+        },
+        {
+          "word": "von",
+          "start": 85.08,
+          "end": 85.74,
+          "translation": "from"
+        },
+        {
+          "word": "zehn",
+          "start": 85.74,
+          "end": 86.36,
+          "translation": "ten"
+        },
+        {
+          "word": "Prozent.",
+          "start": 86.36,
+          "end": 87.38,
+          "translation": "percent."
+        },
+        {
+          "word": "Importe",
+          "start": 87.38,
+          "end": 89.28,
+          "translation": "Imports"
+        },
+        {
+          "word": "aus",
+          "start": 89.28,
+          "end": 89.68,
+          "translation": "from"
+        },
+        {
+          "word": "China",
+          "start": 89.68,
+          "end": 90.2,
+          "translation": "China"
+        },
+        {
+          "word": "und",
+          "start": 90.2,
+          "end": 90.9,
+          "translation": "and"
+        },
+        {
+          "word": "Japan",
+          "start": 90.9,
+          "end": 91.7,
+          "translation": "Japan"
+        },
+        {
+          "word": "werden",
+          "start": 91.7,
+          "end": 92.74,
+          "translation": "become"
+        },
+        {
+          "word": "dagegen",
+          "start": 92.74,
+          "end": 93.66,
+          "translation": "on the other hand"
+        },
+        {
+          "word": "mit",
+          "start": 93.66,
+          "end": 94.42,
+          "translation": "with"
+        },
+        {
+          "word": "12,5",
+          "start": 94.42,
+          "end": 96.06,
+          "translation": "12.5"
+        },
+        {
+          "word": "Prozent",
+          "start": 96.06,
+          "end": 96.96,
+          "translation": "Percent"
+        },
+        {
+          "word": "belegt.",
+          "start": 96.96,
+          "end": 97.88,
+          "translation": "occupied."
+        },
+        {
+          "word": "Die",
+          "start": 98.7,
+          "end": 99.26,
+          "translation": "The"
+        },
+        {
+          "word": "Regelung",
+          "start": 99.26,
+          "end": 100.2,
+          "translation": "Regulation"
+        },
+        {
+          "word": "betrifft",
+          "start": 100.2,
+          "end": 101.04,
+          "translation": "concerns"
+        },
+        {
+          "word": "den",
+          "start": 101.04,
+          "end": 101.3,
+          "translation": "the"
+        },
+        {
+          "word": "Großteil",
+          "start": 101.3,
+          "end": 102.28,
+          "translation": "Large part"
+        },
+        {
+          "word": "des",
+          "start": 102.28,
+          "end": 102.84,
+          "translation": "of the"
+        },
+        {
+          "word": "US-Handels.",
+          "start": 102.84,
+          "end": 104.4,
+          "translation": "U.S. Trade."
+        },
+        {
+          "word": "Für",
+          "start": 104.4,
+          "end": 105.76,
+          "translation": "For"
+        },
+        {
+          "word": "Stahl,",
+          "start": 105.76,
+          "end": 106.56,
+          "translation": "Steel,"
+        },
+        {
+          "word": "Aluminium",
+          "start": 106.82,
+          "end": 107.78,
+          "translation": "Aluminum"
+        },
+        {
+          "word": "und",
+          "start": 107.78,
+          "end": 108.6,
+          "translation": "and"
+        },
+        {
+          "word": "andere",
+          "start": 108.6,
+          "end": 109.2,
+          "translation": "other"
+        },
+        {
+          "word": "Produktgruppen",
+          "start": 109.2,
+          "end": 110.72,
+          "translation": "Product Groups"
+        },
+        {
+          "word": "gelten",
+          "start": 110.72,
+          "end": 111.72,
+          "translation": "apply"
+        },
+        {
+          "word": "weiterhin",
+          "start": 111.72,
+          "end": 112.7,
+          "translation": "furthermore"
+        },
+        {
+          "word": "höhere",
+          "start": 112.7,
+          "end": 113.9,
+          "translation": "higher"
+        },
+        {
+          "word": "branchenspezifische",
+          "start": 113.9,
+          "end": 116.3,
+          "translation": "industry-specific"
+        },
+        {
+          "word": "Zölle.",
+          "start": 116.3,
+          "end": 116.92,
+          "translation": "Customs duties."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Frankreich bittet um EU-Hilfe gegen Waldbrände",
+      "words": [
+        {
+          "word": "Frankreich",
+          "start": 118.2,
+          "end": 119.12,
+          "translation": "France"
+        },
+        {
+          "word": "bittet",
+          "start": 119.12,
+          "end": 119.86,
+          "translation": "asks"
+        },
+        {
+          "word": "um",
+          "start": 119.86,
+          "end": 120.34,
+          "translation": "to"
+        },
+        {
+          "word": "EU-Hilfe",
+          "start": 120.34,
+          "end": 121.76,
+          "translation": "EU aid"
+        },
+        {
+          "word": "gegen",
+          "start": 121.76,
+          "end": 122.48,
+          "translation": "vs."
+        },
+        {
+          "word": "Waldbrände",
+          "start": 122.48,
+          "end": 124.6,
+          "translation": "Forest fires"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Wegen der schweren Waldbrände hat Frankreich andere EU-Staaten um Unterstützung gebeten. Präsident Emmanuel Macron erklärte, sein Land habe die Aktivierung des EU-Zivilschutzmechanismus beantragt und werde dadurch rasch Hilfe bei der Brandbekämpfung aus der Luft erhalten. Löschflugzeuge und Schwerlasthubschrauber aus Kroatien, Portugal, Tschechien und der Slowakei sollen die französischen Einsatzkräfte verstärken. Frankreich wird seit Wochen von immer neuen Großbränden heimgesucht. Die Feuerwehr ist vielerorts an der Belastungsgrenze.",
+      "words": [
+        {
+          "word": "Wegen",
+          "start": 124.6,
+          "end": 124.9,
+          "translation": "Because of"
+        },
+        {
+          "word": "der",
+          "start": 124.9,
+          "end": 125.26,
+          "translation": "the"
+        },
+        {
+          "word": "schweren",
+          "start": 125.26,
+          "end": 126.08,
+          "translation": "heavy"
+        },
+        {
+          "word": "Waldbrände",
+          "start": 126.08,
+          "end": 127.22,
+          "translation": "Forest fires"
+        },
+        {
+          "word": "hat",
+          "start": 127.22,
+          "end": 127.62,
+          "translation": "has"
+        },
+        {
+          "word": "Frankreich",
+          "start": 127.62,
+          "end": 128.64,
+          "translation": "France"
+        },
+        {
+          "word": "andere",
+          "start": 128.64,
+          "end": 129.42,
+          "translation": "other"
+        },
+        {
+          "word": "EU-Staaten",
+          "start": 129.42,
+          "end": 131.24,
+          "translation": "EU countries"
+        },
+        {
+          "word": "um",
+          "start": 131.24,
+          "end": 131.88,
+          "translation": "to"
+        },
+        {
+          "word": "Unterstützung",
+          "start": 131.88,
+          "end": 133.04,
+          "translation": "Support"
+        },
+        {
+          "word": "gebeten.",
+          "start": 133.04,
+          "end": 133.74,
+          "translation": "invited."
+        },
+        {
+          "word": "Präsident",
+          "start": 134.74,
+          "end": 135.68,
+          "translation": "President"
+        },
+        {
+          "word": "Emmanuel",
+          "start": 135.68,
+          "end": 136.82,
+          "translation": "Emmanuel"
+        },
+        {
+          "word": "Macron",
+          "start": 136.82,
+          "end": 137.44,
+          "translation": "Macron"
+        },
+        {
+          "word": "erklärte,",
+          "start": 137.44,
+          "end": 138.78,
+          "translation": "explained,"
+        },
+        {
+          "word": "sein",
+          "start": 139.4,
+          "end": 139.78,
+          "translation": "be"
+        },
+        {
+          "word": "Land",
+          "start": 139.78,
+          "end": 140.16,
+          "translation": "Country"
+        },
+        {
+          "word": "habe",
+          "start": 140.16,
+          "end": 140.64,
+          "translation": "have"
+        },
+        {
+          "word": "die",
+          "start": 140.64,
+          "end": 141.12,
+          "translation": "the"
+        },
+        {
+          "word": "Aktivierung",
+          "start": 141.12,
+          "end": 142.46,
+          "translation": "Activation"
+        },
+        {
+          "word": "des",
+          "start": 142.46,
+          "end": 143.0,
+          "translation": "of the"
+        },
+        {
+          "word": "EU-Zivilschutzmechanismus",
+          "start": 143.0,
+          "end": 146.8,
+          "translation": "EU Civil Protection Mechanism"
+        },
+        {
+          "word": "beantragt",
+          "start": 146.8,
+          "end": 148.28,
+          "translation": "requested"
+        },
+        {
+          "word": "und",
+          "start": 148.28,
+          "end": 149.26,
+          "translation": "and"
+        },
+        {
+          "word": "werde",
+          "start": 149.26,
+          "end": 149.7,
+          "translation": "will"
+        },
+        {
+          "word": "dadurch",
+          "start": 149.7,
+          "end": 150.48,
+          "translation": "thereby"
+        },
+        {
+          "word": "rasch",
+          "start": 150.48,
+          "end": 151.14,
+          "translation": "quickly"
+        },
+        {
+          "word": "Hilfe",
+          "start": 151.14,
+          "end": 151.8,
+          "translation": "Help"
+        },
+        {
+          "word": "bei",
+          "start": 151.8,
+          "end": 152.6,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 152.6,
+          "end": 152.84,
+          "translation": "the"
+        },
+        {
+          "word": "Brandbekämpfung",
+          "start": 152.84,
+          "end": 154.44,
+          "translation": "Firefighting"
+        },
+        {
+          "word": "aus",
+          "start": 154.44,
+          "end": 154.74,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 154.74,
+          "end": 155.06,
+          "translation": "the"
+        },
+        {
+          "word": "Luft",
+          "start": 155.06,
+          "end": 155.46,
+          "translation": "Air"
+        },
+        {
+          "word": "erhalten.",
+          "start": 155.46,
+          "end": 156.32,
+          "translation": "received."
+        },
+        {
+          "word": "Löschflugzeuge",
+          "start": 157.78,
+          "end": 159.18,
+          "translation": "Firefighting aircraft"
+        },
+        {
+          "word": "und",
+          "start": 159.18,
+          "end": 159.82,
+          "translation": "and"
+        },
+        {
+          "word": "Schwerlasthubschrauber",
+          "start": 159.82,
+          "end": 162.34,
+          "translation": "Heavy-lift helicopter"
+        },
+        {
+          "word": "aus",
+          "start": 162.34,
+          "end": 163.34,
+          "translation": "from"
+        },
+        {
+          "word": "Kroatien,",
+          "start": 163.34,
+          "end": 165.04,
+          "translation": "Croatia,"
+        },
+        {
+          "word": "Portugal,",
+          "start": 165.04,
+          "end": 165.54,
+          "translation": "Portugal,"
+        },
+        {
+          "word": "Tschechien",
+          "start": 166.5,
+          "end": 167.0,
+          "translation": "Czech Republic"
+        },
+        {
+          "word": "und",
+          "start": 167.0,
+          "end": 167.94,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 167.94,
+          "end": 168.22,
+          "translation": "the"
+        },
+        {
+          "word": "Slowakei",
+          "start": 168.22,
+          "end": 169.3,
+          "translation": "Slovakia"
+        },
+        {
+          "word": "sollen",
+          "start": 169.3,
+          "end": 170.26,
+          "translation": "should"
+        },
+        {
+          "word": "die",
+          "start": 170.26,
+          "end": 170.74,
+          "translation": "the"
+        },
+        {
+          "word": "französischen",
+          "start": 170.74,
+          "end": 172.0,
+          "translation": "French"
+        },
+        {
+          "word": "Einsatzkräfte",
+          "start": 172.0,
+          "end": 173.42,
+          "translation": "Emergency services"
+        },
+        {
+          "word": "verstärken.",
+          "start": 173.42,
+          "end": 174.58,
+          "translation": "reinforce."
+        },
+        {
+          "word": "Frankreich",
+          "start": 175.58,
+          "end": 176.56,
+          "translation": "France"
+        },
+        {
+          "word": "wird",
+          "start": 176.56,
+          "end": 176.96,
+          "translation": "becomes"
+        },
+        {
+          "word": "seit",
+          "start": 176.96,
+          "end": 177.42,
+          "translation": "since"
+        },
+        {
+          "word": "Wochen",
+          "start": 177.42,
+          "end": 178.02,
+          "translation": "Weeks"
+        },
+        {
+          "word": "von",
+          "start": 178.02,
+          "end": 178.82,
+          "translation": "from"
+        },
+        {
+          "word": "immer",
+          "start": 178.82,
+          "end": 179.4,
+          "translation": "always"
+        },
+        {
+          "word": "neuen",
+          "start": 179.4,
+          "end": 180.02,
+          "translation": "new"
+        },
+        {
+          "word": "Großbränden",
+          "start": 180.02,
+          "end": 181.46,
+          "translation": "Major Fires"
+        },
+        {
+          "word": "heimgesucht.",
+          "start": 181.46,
+          "end": 182.64,
+          "translation": "haunted."
+        },
+        {
+          "word": "Die",
+          "start": 183.12,
+          "end": 183.78,
+          "translation": "The"
+        },
+        {
+          "word": "Feuerwehr",
+          "start": 183.78,
+          "end": 184.6,
+          "translation": "Fire department"
+        },
+        {
+          "word": "ist",
+          "start": 184.6,
+          "end": 185.1,
+          "translation": "is"
+        },
+        {
+          "word": "vielerorts",
+          "start": 185.1,
+          "end": 186.42,
+          "translation": "in many places"
+        },
+        {
+          "word": "an",
+          "start": 186.42,
+          "end": 187.02,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 187.02,
+          "end": 187.32,
+          "translation": "the"
+        },
+        {
+          "word": "Belastungsgrenze.",
+          "start": 187.32,
+          "end": 189.1,
+          "translation": "Load limit."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Trump will Schiffsschäden mit Iran-Geldern bezahlen",
+      "words": [
+        {
+          "word": "Trump",
+          "start": 189.94,
+          "end": 190.84,
+          "translation": "Trump"
+        },
+        {
+          "word": "will",
+          "start": 190.84,
+          "end": 191.36,
+          "translation": "wants"
+        },
+        {
+          "word": "Schiffsschäden",
+          "start": 191.36,
+          "end": 192.58,
+          "translation": "Damage to Ships"
+        },
+        {
+          "word": "mit",
+          "start": 192.58,
+          "end": 193.02,
+          "translation": "with"
+        },
+        {
+          "word": "Iran-Geldern",
+          "start": 193.02,
+          "end": 194.48,
+          "translation": "Funds from Iran"
+        },
+        {
+          "word": "bezahlen",
+          "start": 194.48,
+          "end": 195.28,
+          "translation": "pay"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Angesichts der zunehmenden Angriffe auf Schiffe in der Straße von Hormus und den angrenzenden Gewässern will US-Präsident Donald Trump eingefrorene iranische Gelder zur Begleichung von Schäden verwenden. Künftig würden Schäden an Schiffen, Ladung und damit verbundenen Gütern aus den von den USA verwahrten und kontrollierten iranischen Mitteln bezahlt, schrieb Trump auf seiner Plattform Truth Social. Unterdessen griffen die US-Streitkräfte nach eigenen Angaben den Iran in der dreizehnten Nacht in Folge an. Die Angriffe hätten sich gegen militärische Ziele gerichtet, erklärte das US-Regionalkommando CENTCOM. Ziel sei es, den Iran zur Rechenschaft zu ziehen und die von den Revolutionsgarden ausgehende Bedrohung für die Handelsschifffahrt zu verringern.",
+      "words": [
+        {
+          "word": "Angesichts",
+          "start": 195.94,
+          "end": 196.72,
+          "translation": "In view of"
+        },
+        {
+          "word": "der",
+          "start": 196.72,
+          "end": 197.18,
+          "translation": "the"
+        },
+        {
+          "word": "zunehmenden",
+          "start": 197.18,
+          "end": 198.3,
+          "translation": "increasing"
+        },
+        {
+          "word": "Angriffe",
+          "start": 198.3,
+          "end": 199.3,
+          "translation": "Attacks"
+        },
+        {
+          "word": "auf",
+          "start": 199.3,
+          "end": 199.74,
+          "translation": "on"
+        },
+        {
+          "word": "Schiffe",
+          "start": 199.74,
+          "end": 200.38,
+          "translation": "Ships"
+        },
+        {
+          "word": "in",
+          "start": 200.38,
+          "end": 200.8,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 200.8,
+          "end": 201.02,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 201.02,
+          "end": 201.54,
+          "translation": "Street"
+        },
+        {
+          "word": "von",
+          "start": 201.54,
+          "end": 202.14,
+          "translation": "from"
+        },
+        {
+          "word": "Hormus",
+          "start": 202.14,
+          "end": 202.98,
+          "translation": "Hormuz"
+        },
+        {
+          "word": "und",
+          "start": 202.98,
+          "end": 203.82,
+          "translation": "and"
+        },
+        {
+          "word": "den",
+          "start": 203.82,
+          "end": 204.3,
+          "translation": "the"
+        },
+        {
+          "word": "angrenzenden",
+          "start": 204.3,
+          "end": 205.62,
+          "translation": "adjacent"
+        },
+        {
+          "word": "Gewässern",
+          "start": 205.62,
+          "end": 206.52,
+          "translation": "Waters"
+        },
+        {
+          "word": "will",
+          "start": 206.52,
+          "end": 207.32,
+          "translation": "wants"
+        },
+        {
+          "word": "US-Präsident",
+          "start": 207.32,
+          "end": 208.98,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 208.98,
+          "end": 209.52,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 209.52,
+          "end": 210.28,
+          "translation": "Trump"
+        },
+        {
+          "word": "eingefrorene",
+          "start": 210.28,
+          "end": 212.04,
+          "translation": "frozen"
+        },
+        {
+          "word": "iranische",
+          "start": 212.04,
+          "end": 213.3,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Gelder",
+          "start": 213.3,
+          "end": 213.94,
+          "translation": "Funds"
+        },
+        {
+          "word": "zur",
+          "start": 213.94,
+          "end": 214.84,
+          "translation": "to the"
+        },
+        {
+          "word": "Begleichung",
+          "start": 214.84,
+          "end": 215.82,
+          "translation": "Payment"
+        },
+        {
+          "word": "von",
+          "start": 215.82,
+          "end": 216.22,
+          "translation": "from"
+        },
+        {
+          "word": "Schäden",
+          "start": 216.22,
+          "end": 216.84,
+          "translation": "Damage"
+        },
+        {
+          "word": "verwenden.",
+          "start": 216.84,
+          "end": 217.72,
+          "translation": "use."
+        },
+        {
+          "word": "Künftig",
+          "start": 218.6,
+          "end": 219.3,
+          "translation": "In the future"
+        },
+        {
+          "word": "würden",
+          "start": 219.3,
+          "end": 219.92,
+          "translation": "would"
+        },
+        {
+          "word": "Schäden",
+          "start": 219.92,
+          "end": 220.62,
+          "translation": "Damage"
+        },
+        {
+          "word": "an",
+          "start": 220.62,
+          "end": 221.04,
+          "translation": "on"
+        },
+        {
+          "word": "Schiffen,",
+          "start": 221.04,
+          "end": 221.76,
+          "translation": "Ships,"
+        },
+        {
+          "word": "Ladung",
+          "start": 222.36,
+          "end": 223.0,
+          "translation": "Cargo"
+        },
+        {
+          "word": "und",
+          "start": 223.0,
+          "end": 223.9,
+          "translation": "and"
+        },
+        {
+          "word": "damit",
+          "start": 223.9,
+          "end": 224.48,
+          "translation": "so that"
+        },
+        {
+          "word": "verbundenen",
+          "start": 224.48,
+          "end": 225.8,
+          "translation": "related"
+        },
+        {
+          "word": "Gütern",
+          "start": 225.8,
+          "end": 226.32,
+          "translation": "Goods"
+        },
+        {
+          "word": "aus",
+          "start": 226.32,
+          "end": 227.2,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 227.2,
+          "end": 227.52,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 227.52,
+          "end": 227.84,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 227.84,
+          "end": 228.08,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 228.08,
+          "end": 228.68,
+          "translation": "USA"
+        },
+        {
+          "word": "verwahrten",
+          "start": 228.68,
+          "end": 230.32,
+          "translation": "held"
+        },
+        {
+          "word": "und",
+          "start": 230.32,
+          "end": 231.22,
+          "translation": "and"
+        },
+        {
+          "word": "kontrollierten",
+          "start": 231.22,
+          "end": 232.5,
+          "translation": "controlled"
+        },
+        {
+          "word": "iranischen",
+          "start": 232.5,
+          "end": 233.7,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Mitteln",
+          "start": 233.7,
+          "end": 234.34,
+          "translation": "Means"
+        },
+        {
+          "word": "bezahlt,",
+          "start": 234.34,
+          "end": 235.3,
+          "translation": "paid,"
+        },
+        {
+          "word": "schrieb",
+          "start": 235.85,
+          "end": 236.48,
+          "translation": "wrote"
+        },
+        {
+          "word": "Trump",
+          "start": 236.48,
+          "end": 236.92,
+          "translation": "Trump"
+        },
+        {
+          "word": "auf",
+          "start": 236.92,
+          "end": 237.42,
+          "translation": "on"
+        },
+        {
+          "word": "seiner",
+          "start": 237.42,
+          "end": 237.82,
+          "translation": "his"
+        },
+        {
+          "word": "Plattform",
+          "start": 237.82,
+          "end": 238.6,
+          "translation": "Platform"
+        },
+        {
+          "word": "Truth",
+          "start": 238.6,
+          "end": 239.18,
+          "translation": "Truth"
+        },
+        {
+          "word": "Social.",
+          "start": 239.18,
+          "end": 239.98,
+          "translation": "Social."
+        },
+        {
+          "word": "Unterdessen",
+          "start": 239.98,
+          "end": 242.2,
+          "translation": "Meanwhile"
+        },
+        {
+          "word": "griffen",
+          "start": 242.2,
+          "end": 242.9,
+          "translation": "gripped"
+        },
+        {
+          "word": "die",
+          "start": 242.9,
+          "end": 243.08,
+          "translation": "the"
+        },
+        {
+          "word": "US-Streitkräfte",
+          "start": 243.08,
+          "end": 245.18,
+          "translation": "US Armed Forces"
+        },
+        {
+          "word": "nach",
+          "start": 245.18,
+          "end": 245.96,
+          "translation": "to"
+        },
+        {
+          "word": "eigenen",
+          "start": 245.96,
+          "end": 246.78,
+          "translation": "own"
+        },
+        {
+          "word": "Angaben",
+          "start": 246.78,
+          "end": 247.82,
+          "translation": "Details"
+        },
+        {
+          "word": "den",
+          "start": 247.82,
+          "end": 248.24,
+          "translation": "the"
+        },
+        {
+          "word": "Iran",
+          "start": 248.24,
+          "end": 248.9,
+          "translation": "Iran"
+        },
+        {
+          "word": "in",
+          "start": 248.9,
+          "end": 249.82,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 249.82,
+          "end": 250.06,
+          "translation": "the"
+        },
+        {
+          "word": "dreizehnten",
+          "start": 250.06,
+          "end": 251.3,
+          "translation": "thirteenth"
+        },
+        {
+          "word": "Nacht",
+          "start": 251.3,
+          "end": 251.74,
+          "translation": "Night"
+        },
+        {
+          "word": "in",
+          "start": 251.74,
+          "end": 252.22,
+          "translation": "in"
+        },
+        {
+          "word": "Folge",
+          "start": 252.22,
+          "end": 252.84,
+          "translation": "Consequence"
+        },
+        {
+          "word": "an.",
+          "start": 252.84,
+          "end": 253.42,
+          "translation": "to."
+        },
+        {
+          "word": "Die",
+          "start": 254.1,
+          "end": 254.72,
+          "translation": "The"
+        },
+        {
+          "word": "Angriffe",
+          "start": 254.72,
+          "end": 255.66,
+          "translation": "Attacks"
+        },
+        {
+          "word": "hätten",
+          "start": 255.66,
+          "end": 256.12,
+          "translation": "would have"
+        },
+        {
+          "word": "sich",
+          "start": 256.12,
+          "end": 256.58,
+          "translation": "itself"
+        },
+        {
+          "word": "gegen",
+          "start": 256.58,
+          "end": 257.16,
+          "translation": "vs."
+        },
+        {
+          "word": "militärische",
+          "start": 257.16,
+          "end": 258.56,
+          "translation": "military"
+        },
+        {
+          "word": "Ziele",
+          "start": 258.56,
+          "end": 259.2,
+          "translation": "Goals"
+        },
+        {
+          "word": "gerichtet,",
+          "start": 259.2,
+          "end": 259.94,
+          "translation": "directed,"
+        },
+        {
+          "word": "erklärte",
+          "start": 261.06,
+          "end": 261.84,
+          "translation": "explained"
+        },
+        {
+          "word": "das",
+          "start": 261.84,
+          "end": 262.22,
+          "translation": "the"
+        },
+        {
+          "word": "US-Regionalkommando",
+          "start": 262.22,
+          "end": 264.73,
+          "translation": "US Regional Command"
+        },
+        {
+          "word": "CENTCOM.",
+          "start": 264.73,
+          "end": 267.24,
+          "translation": "CENTCOM."
+        },
+        {
+          "word": "Ziel",
+          "start": 267.24,
+          "end": 267.64,
+          "translation": "Goal"
+        },
+        {
+          "word": "sei",
+          "start": 267.64,
+          "end": 268.06,
+          "translation": "be"
+        },
+        {
+          "word": "es,",
+          "start": 268.06,
+          "end": 268.5,
+          "translation": "it,"
+        },
+        {
+          "word": "den",
+          "start": 268.62,
+          "end": 268.88,
+          "translation": "the"
+        },
+        {
+          "word": "Iran",
+          "start": 268.88,
+          "end": 269.5,
+          "translation": "Iran"
+        },
+        {
+          "word": "zur",
+          "start": 269.5,
+          "end": 270.02,
+          "translation": "to the"
+        },
+        {
+          "word": "Rechenschaft",
+          "start": 270.02,
+          "end": 270.7,
+          "translation": "Accountability"
+        },
+        {
+          "word": "zu",
+          "start": 270.7,
+          "end": 271.44,
+          "translation": "to"
+        },
+        {
+          "word": "ziehen",
+          "start": 271.44,
+          "end": 271.94,
+          "translation": "draw"
+        },
+        {
+          "word": "und",
+          "start": 271.94,
+          "end": 273.12,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 273.12,
+          "end": 273.56,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 273.56,
+          "end": 273.88,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 273.88,
+          "end": 274.26,
+          "translation": "the"
+        },
+        {
+          "word": "Revolutionsgarden",
+          "start": 274.26,
+          "end": 276.1,
+          "translation": "Revolutionary Guards"
+        },
+        {
+          "word": "ausgehende",
+          "start": 276.1,
+          "end": 277.46,
+          "translation": "outgoing"
+        },
+        {
+          "word": "Bedrohung",
+          "start": 277.46,
+          "end": 278.54,
+          "translation": "Threat"
+        },
+        {
+          "word": "für",
+          "start": 278.54,
+          "end": 279.28,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 279.28,
+          "end": 279.52,
+          "translation": "the"
+        },
+        {
+          "word": "Handelsschifffahrt",
+          "start": 279.52,
+          "end": 281.14,
+          "translation": "Merchant shipping"
+        },
+        {
+          "word": "zu",
+          "start": 281.14,
+          "end": 281.66,
+          "translation": "to"
+        },
+        {
+          "word": "verringern.",
+          "start": 281.66,
+          "end": 282.56,
+          "translation": "reduce."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Trump knüpft Saudi-Atomdeal an Anerkennung Israels",
+      "words": [
+        {
+          "word": "Trump",
+          "start": 283.42,
+          "end": 284.16,
+          "translation": "Trump"
+        },
+        {
+          "word": "knüpft",
+          "start": 284.16,
+          "end": 284.9,
+          "translation": "ties"
+        },
+        {
+          "word": "Saudi-Atomdeal",
+          "start": 284.9,
+          "end": 286.94,
+          "translation": "Saudi Nuclear Deal"
+        },
+        {
+          "word": "an",
+          "start": 286.94,
+          "end": 287.4,
+          "translation": "on"
+        },
+        {
+          "word": "Anerkennung",
+          "start": 287.4,
+          "end": 288.54,
+          "translation": "Recognition"
+        },
+        {
+          "word": "Israels",
+          "start": 288.54,
+          "end": 289.9,
+          "translation": "Israel's"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "US-Präsident Donald Trump verknüpft das Atomabkommen mit Saudi-Arabien überraschend mit einer Normalisierung der Beziehungen des Königreichs zu Israel. Der Deal sei „komplett abhängig“ davon, dass Riad den Abraham-Abkommen beitrete, schrieb Trump auf Truth Social. Mit diesen von den USA vermittelten Abkommen normalisierten 2020 die Vereinigten Arabischen Emirate, Bahrain, Marokko und der Sudan ihre Beziehungen zu Israel. Noch am Vortag hatte die US-Regierung eine Vereinbarung zur Unterstützung eines saudischen Zivilatomprogramms verkündet, ohne eine solche Bedingung zu nennen. Für Israel wäre eine Anerkennung durch Saudi-Arabien ein großer diplomatischer Erfolg. Bislang unterhalten beide Staaten offiziell keine Beziehungen.",
+      "words": [
+        {
+          "word": "US-Präsident",
+          "start": 289.9,
+          "end": 291.62,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 291.62,
+          "end": 292.18,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 292.18,
+          "end": 293.04,
+          "translation": "Trump"
+        },
+        {
+          "word": "verknüpft",
+          "start": 293.04,
+          "end": 294.46,
+          "translation": "linked"
+        },
+        {
+          "word": "das",
+          "start": 294.46,
+          "end": 294.8,
+          "translation": "the"
+        },
+        {
+          "word": "Atomabkommen",
+          "start": 294.8,
+          "end": 296.54,
+          "translation": "Nuclear agreement"
+        },
+        {
+          "word": "mit",
+          "start": 296.54,
+          "end": 296.9,
+          "translation": "with"
+        },
+        {
+          "word": "Saudi-Arabien",
+          "start": 296.9,
+          "end": 299.16,
+          "translation": "Saudi Arabia"
+        },
+        {
+          "word": "überraschend",
+          "start": 299.16,
+          "end": 300.12,
+          "translation": "surprising"
+        },
+        {
+          "word": "mit",
+          "start": 300.12,
+          "end": 300.42,
+          "translation": "with"
+        },
+        {
+          "word": "einer",
+          "start": 300.42,
+          "end": 300.96,
+          "translation": "one"
+        },
+        {
+          "word": "Normalisierung",
+          "start": 300.96,
+          "end": 302.62,
+          "translation": "Normalization"
+        },
+        {
+          "word": "der",
+          "start": 302.62,
+          "end": 303.22,
+          "translation": "the"
+        },
+        {
+          "word": "Beziehungen",
+          "start": 303.22,
+          "end": 304.2,
+          "translation": "Relationships"
+        },
+        {
+          "word": "des",
+          "start": 304.2,
+          "end": 304.7,
+          "translation": "of the"
+        },
+        {
+          "word": "Königreichs",
+          "start": 304.7,
+          "end": 306.04,
+          "translation": "Kingdom's"
+        },
+        {
+          "word": "zu",
+          "start": 306.04,
+          "end": 306.66,
+          "translation": "to"
+        },
+        {
+          "word": "Israel.",
+          "start": 306.66,
+          "end": 307.52,
+          "translation": "Israel."
+        },
+        {
+          "word": "Der",
+          "start": 308.4,
+          "end": 309.08,
+          "translation": "The"
+        },
+        {
+          "word": "Deal",
+          "start": 309.08,
+          "end": 309.52,
+          "translation": "Deal"
+        },
+        {
+          "word": "sei",
+          "start": 309.52,
+          "end": 309.96,
+          "translation": "be"
+        },
+        {
+          "word": "„komplett",
+          "start": 309.96,
+          "end": 310.84,
+          "translation": "\"completely"
+        },
+        {
+          "word": "abhängig“",
+          "start": 310.84,
+          "end": 311.94,
+          "translation": "\"dependent\""
+        },
+        {
+          "word": "davon,",
+          "start": 311.94,
+          "end": 312.54,
+          "translation": "of which,"
+        },
+        {
+          "word": "dass",
+          "start": 313.06,
+          "end": 313.44,
+          "translation": "that"
+        },
+        {
+          "word": "Riad",
+          "start": 313.44,
+          "end": 314.2,
+          "translation": "Riad"
+        },
+        {
+          "word": "den",
+          "start": 314.2,
+          "end": 314.6,
+          "translation": "the"
+        },
+        {
+          "word": "Abraham-Abkommen",
+          "start": 314.6,
+          "end": 316.5,
+          "translation": "Abraham Accords"
+        },
+        {
+          "word": "beitrete,",
+          "start": 316.5,
+          "end": 317.62,
+          "translation": "join,"
+        },
+        {
+          "word": "schrieb",
+          "start": 318.74,
+          "end": 319.02,
+          "translation": "wrote"
+        },
+        {
+          "word": "Trump",
+          "start": 319.02,
+          "end": 319.56,
+          "translation": "Trump"
+        },
+        {
+          "word": "auf",
+          "start": 319.56,
+          "end": 320.1,
+          "translation": "on"
+        },
+        {
+          "word": "Truth",
+          "start": 320.1,
+          "end": 320.54,
+          "translation": "Truth"
+        },
+        {
+          "word": "Social.",
+          "start": 320.54,
+          "end": 321.34,
+          "translation": "Social."
+        },
+        {
+          "word": "Mit",
+          "start": 321.96,
+          "end": 322.66,
+          "translation": "With"
+        },
+        {
+          "word": "diesen",
+          "start": 322.66,
+          "end": 323.3,
+          "translation": "this"
+        },
+        {
+          "word": "von",
+          "start": 323.3,
+          "end": 323.76,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 323.76,
+          "end": 324.14,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 324.14,
+          "end": 324.8,
+          "translation": "USA"
+        },
+        {
+          "word": "vermittelten",
+          "start": 324.8,
+          "end": 326.56,
+          "translation": "mediated"
+        },
+        {
+          "word": "Abkommen",
+          "start": 326.56,
+          "end": 327.32,
+          "translation": "Agreement"
+        },
+        {
+          "word": "normalisierten",
+          "start": 327.32,
+          "end": 329.42,
+          "translation": "normalized"
+        },
+        {
+          "word": "2020",
+          "start": 329.42,
+          "end": 331.28,
+          "translation": "2020"
+        },
+        {
+          "word": "die",
+          "start": 331.28,
+          "end": 332.26,
+          "translation": "the"
+        },
+        {
+          "word": "Vereinigten",
+          "start": 332.26,
+          "end": 333.38,
+          "translation": "United"
+        },
+        {
+          "word": "Arabischen",
+          "start": 333.38,
+          "end": 334.48,
+          "translation": "Arabic"
+        },
+        {
+          "word": "Emirate,",
+          "start": 334.48,
+          "end": 335.5,
+          "translation": "Emirates,"
+        },
+        {
+          "word": "Bahrain,",
+          "start": 335.5,
+          "end": 337.46,
+          "translation": "Bahrain,"
+        },
+        {
+          "word": "Marokko",
+          "start": 337.46,
+          "end": 338.18,
+          "translation": "Morocco"
+        },
+        {
+          "word": "und",
+          "start": 338.18,
+          "end": 339.04,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 339.04,
+          "end": 339.34,
+          "translation": "the"
+        },
+        {
+          "word": "Sudan",
+          "start": 339.34,
+          "end": 339.96,
+          "translation": "Sudan"
+        },
+        {
+          "word": "ihre",
+          "start": 339.96,
+          "end": 341.02,
+          "translation": "their"
+        },
+        {
+          "word": "Beziehungen",
+          "start": 341.02,
+          "end": 341.96,
+          "translation": "Relationships"
+        },
+        {
+          "word": "zu",
+          "start": 341.96,
+          "end": 342.48,
+          "translation": "to"
+        },
+        {
+          "word": "Israel.",
+          "start": 342.48,
+          "end": 343.36,
+          "translation": "Israel."
+        },
+        {
+          "word": "Noch",
+          "start": 344.02,
+          "end": 344.72,
+          "translation": "Still"
+        },
+        {
+          "word": "am",
+          "start": 344.72,
+          "end": 345.14,
+          "translation": "on"
+        },
+        {
+          "word": "Vortag",
+          "start": 345.14,
+          "end": 346.06,
+          "translation": "Previous day"
+        },
+        {
+          "word": "hatte",
+          "start": 346.06,
+          "end": 346.44,
+          "translation": "had"
+        },
+        {
+          "word": "die",
+          "start": 346.44,
+          "end": 346.88,
+          "translation": "the"
+        },
+        {
+          "word": "US-Regierung",
+          "start": 346.88,
+          "end": 348.54,
+          "translation": "US government"
+        },
+        {
+          "word": "eine",
+          "start": 348.54,
+          "end": 349.52,
+          "translation": "one"
+        },
+        {
+          "word": "Vereinbarung",
+          "start": 349.52,
+          "end": 350.94,
+          "translation": "Agreement"
+        },
+        {
+          "word": "zur",
+          "start": 350.94,
+          "end": 351.42,
+          "translation": "to the"
+        },
+        {
+          "word": "Unterstützung",
+          "start": 351.42,
+          "end": 352.58,
+          "translation": "Support"
+        },
+        {
+          "word": "eines",
+          "start": 352.58,
+          "end": 353.64,
+          "translation": "one"
+        },
+        {
+          "word": "saudischen",
+          "start": 353.64,
+          "end": 354.7,
+          "translation": "Saudi"
+        },
+        {
+          "word": "Zivilatomprogramms",
+          "start": 354.7,
+          "end": 357.26,
+          "translation": "Civil Nuclear Program"
+        },
+        {
+          "word": "verkündet,",
+          "start": 357.26,
+          "end": 358.2,
+          "translation": "announced,"
+        },
+        {
+          "word": "ohne",
+          "start": 358.88,
+          "end": 359.34,
+          "translation": "without"
+        },
+        {
+          "word": "eine",
+          "start": 359.34,
+          "end": 359.88,
+          "translation": "one"
+        },
+        {
+          "word": "solche",
+          "start": 359.88,
+          "end": 360.54,
+          "translation": "such"
+        },
+        {
+          "word": "Bedingung",
+          "start": 360.54,
+          "end": 361.36,
+          "translation": "Condition"
+        },
+        {
+          "word": "zu",
+          "start": 361.36,
+          "end": 361.8,
+          "translation": "to"
+        },
+        {
+          "word": "nennen.",
+          "start": 361.8,
+          "end": 362.18,
+          "translation": "name."
+        },
+        {
+          "word": "Für",
+          "start": 362.18,
+          "end": 363.58,
+          "translation": "For"
+        },
+        {
+          "word": "Israel",
+          "start": 363.58,
+          "end": 364.44,
+          "translation": "Israel"
+        },
+        {
+          "word": "wäre",
+          "start": 364.44,
+          "end": 364.96,
+          "translation": "would be"
+        },
+        {
+          "word": "eine",
+          "start": 364.96,
+          "end": 365.66,
+          "translation": "one"
+        },
+        {
+          "word": "Anerkennung",
+          "start": 365.66,
+          "end": 366.84,
+          "translation": "Recognition"
+        },
+        {
+          "word": "durch",
+          "start": 366.84,
+          "end": 367.26,
+          "translation": "through"
+        },
+        {
+          "word": "Saudi-Arabien",
+          "start": 367.26,
+          "end": 369.04,
+          "translation": "Saudi Arabia"
+        },
+        {
+          "word": "ein",
+          "start": 369.04,
+          "end": 369.88,
+          "translation": "a"
+        },
+        {
+          "word": "großer",
+          "start": 369.88,
+          "end": 370.62,
+          "translation": "large"
+        },
+        {
+          "word": "diplomatischer",
+          "start": 370.62,
+          "end": 372.04,
+          "translation": "more diplomatic"
+        },
+        {
+          "word": "Erfolg.",
+          "start": 372.04,
+          "end": 372.86,
+          "translation": "Success."
+        },
+        {
+          "word": "Bislang",
+          "start": 373.86,
+          "end": 374.78,
+          "translation": "So far"
+        },
+        {
+          "word": "unterhalten",
+          "start": 374.78,
+          "end": 375.74,
+          "translation": "entertain"
+        },
+        {
+          "word": "beide",
+          "start": 375.74,
+          "end": 376.42,
+          "translation": "both"
+        },
+        {
+          "word": "Staaten",
+          "start": 376.42,
+          "end": 377.28,
+          "translation": "States"
+        },
+        {
+          "word": "offiziell",
+          "start": 377.28,
+          "end": 378.72,
+          "translation": "official"
+        },
+        {
+          "word": "keine",
+          "start": 378.72,
+          "end": 379.54,
+          "translation": "none"
+        },
+        {
+          "word": "Beziehungen.",
+          "start": 379.54,
+          "end": 380.62,
+          "translation": "Relationships."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Burnham will Steuern für britische Pubs senken",
+      "words": [
+        {
+          "word": "Burnham",
+          "start": 381.62,
+          "end": 382.7,
+          "translation": "Burnham"
+        },
+        {
+          "word": "will",
+          "start": 382.7,
+          "end": 383.08,
+          "translation": "wants"
+        },
+        {
+          "word": "Steuern",
+          "start": 383.08,
+          "end": 383.9,
+          "translation": "Taxes"
+        },
+        {
+          "word": "für",
+          "start": 383.9,
+          "end": 384.24,
+          "translation": "for"
+        },
+        {
+          "word": "britische",
+          "start": 384.24,
+          "end": 385.12,
+          "translation": "british"
+        },
+        {
+          "word": "Pubs",
+          "start": 385.12,
+          "end": 385.56,
+          "translation": "Pubs"
+        },
+        {
+          "word": "senken",
+          "start": 385.56,
+          "end": 386.58,
+          "translation": "lower"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Pubs, Diskotheken und Konzertstätten in Großbritannien sollen künftig 20 Prozent weniger Gewerbesteuer zahlen. Das kündigte der neue Premierminister Andy Burnham an. Die Entlastung soll ab April 2027 rund 32.000 Betrieben zugutekommen und ihnen jährlich jeweils etwa 1100 Pfund sparen. Finanziert werden soll sie durch höhere Abgaben für Unternehmen, die laut Burnham keinen positiven Beitrag für Gemeinden leisten, darunter E-Zigaretten-Geschäfte. Die Maßnahme kostet den Staat schätzungsweise 100 Millionen Pfund pro Jahr. Viele Pubs leiden unter steigenden Energie- und Personalkosten. Im Schnitt schließt täglich ein Betrieb. Die oppositionellen Tories forderten Burnham auf, die Finanzierung genauer darzulegen.",
+      "words": [
+        {
+          "word": "Pubs,",
+          "start": 386.58,
+          "end": 387.84,
+          "translation": "Pubs,"
+        },
+        {
+          "word": "Diskotheken",
+          "start": 387.84,
+          "end": 389.1,
+          "translation": "Nightclubs"
+        },
+        {
+          "word": "und",
+          "start": 389.1,
+          "end": 389.58,
+          "translation": "and"
+        },
+        {
+          "word": "Konzertstätten",
+          "start": 389.58,
+          "end": 391.08,
+          "translation": "Concert Venues"
+        },
+        {
+          "word": "in",
+          "start": 391.08,
+          "end": 391.42,
+          "translation": "in"
+        },
+        {
+          "word": "Großbritannien",
+          "start": 391.42,
+          "end": 393.0,
+          "translation": "Great Britain"
+        },
+        {
+          "word": "sollen",
+          "start": 393.0,
+          "end": 393.72,
+          "translation": "should"
+        },
+        {
+          "word": "künftig",
+          "start": 393.72,
+          "end": 394.56,
+          "translation": "in the future"
+        },
+        {
+          "word": "20",
+          "start": 394.56,
+          "end": 395.42,
+          "translation": "20"
+        },
+        {
+          "word": "Prozent",
+          "start": 395.42,
+          "end": 396.18,
+          "translation": "Percent"
+        },
+        {
+          "word": "weniger",
+          "start": 396.18,
+          "end": 397.18,
+          "translation": "less"
+        },
+        {
+          "word": "Gewerbesteuer",
+          "start": 397.18,
+          "end": 398.72,
+          "translation": "Business Tax"
+        },
+        {
+          "word": "zahlen.",
+          "start": 398.72,
+          "end": 399.4,
+          "translation": "pay."
+        },
+        {
+          "word": "Das",
+          "start": 399.94,
+          "end": 400.64,
+          "translation": "The"
+        },
+        {
+          "word": "kündigte",
+          "start": 400.64,
+          "end": 401.52,
+          "translation": "announced"
+        },
+        {
+          "word": "der",
+          "start": 401.52,
+          "end": 401.9,
+          "translation": "the"
+        },
+        {
+          "word": "neue",
+          "start": 401.9,
+          "end": 402.42,
+          "translation": "new"
+        },
+        {
+          "word": "Premierminister",
+          "start": 402.42,
+          "end": 403.92,
+          "translation": "Prime Minister"
+        },
+        {
+          "word": "Andy",
+          "start": 403.92,
+          "end": 404.7,
+          "translation": "Andy"
+        },
+        {
+          "word": "Burnham",
+          "start": 404.7,
+          "end": 405.54,
+          "translation": "Burnham"
+        },
+        {
+          "word": "an.",
+          "start": 405.54,
+          "end": 406.02,
+          "translation": "to."
+        },
+        {
+          "word": "Die",
+          "start": 406.92,
+          "end": 407.38,
+          "translation": "The"
+        },
+        {
+          "word": "Entlastung",
+          "start": 407.38,
+          "end": 408.42,
+          "translation": "Relief"
+        },
+        {
+          "word": "soll",
+          "start": 408.42,
+          "end": 408.64,
+          "translation": "should"
+        },
+        {
+          "word": "ab",
+          "start": 408.64,
+          "end": 409.08,
+          "translation": "from"
+        },
+        {
+          "word": "April",
+          "start": 409.08,
+          "end": 409.82,
+          "translation": "April"
+        },
+        {
+          "word": "2027",
+          "start": 409.82,
+          "end": 412.36,
+          "translation": "2027"
+        },
+        {
+          "word": "rund",
+          "start": 412.36,
+          "end": 413.28,
+          "translation": "round"
+        },
+        {
+          "word": "32.000",
+          "start": 413.28,
+          "end": 415.78,
+          "translation": "32,000"
+        },
+        {
+          "word": "Betrieben",
+          "start": 415.78,
+          "end": 416.56,
+          "translation": "Operated"
+        },
+        {
+          "word": "zugutekommen",
+          "start": 416.56,
+          "end": 418.4,
+          "translation": "benefit"
+        },
+        {
+          "word": "und",
+          "start": 418.4,
+          "end": 419.52,
+          "translation": "and"
+        },
+        {
+          "word": "ihnen",
+          "start": 419.52,
+          "end": 420.04,
+          "translation": "them"
+        },
+        {
+          "word": "jährlich",
+          "start": 420.04,
+          "end": 420.9,
+          "translation": "yearly"
+        },
+        {
+          "word": "jeweils",
+          "start": 420.9,
+          "end": 421.84,
+          "translation": "each"
+        },
+        {
+          "word": "etwa",
+          "start": 421.84,
+          "end": 422.36,
+          "translation": "about"
+        },
+        {
+          "word": "1100",
+          "start": 422.36,
+          "end": 424.44,
+          "translation": "1100"
+        },
+        {
+          "word": "Pfund",
+          "start": 424.44,
+          "end": 425.24,
+          "translation": "Pound"
+        },
+        {
+          "word": "sparen.",
+          "start": 425.24,
+          "end": 426.16,
+          "translation": "save."
+        },
+        {
+          "word": "Finanziert",
+          "start": 427.16,
+          "end": 428.22,
+          "translation": "Funded"
+        },
+        {
+          "word": "werden",
+          "start": 428.22,
+          "end": 428.8,
+          "translation": "become"
+        },
+        {
+          "word": "soll",
+          "start": 428.8,
+          "end": 429.58,
+          "translation": "should"
+        },
+        {
+          "word": "sie",
+          "start": 429.58,
+          "end": 429.94,
+          "translation": "them"
+        },
+        {
+          "word": "durch",
+          "start": 429.94,
+          "end": 430.36,
+          "translation": "through"
+        },
+        {
+          "word": "höhere",
+          "start": 430.36,
+          "end": 431.08,
+          "translation": "higher"
+        },
+        {
+          "word": "Abgaben",
+          "start": 431.08,
+          "end": 432.0,
+          "translation": "Levies"
+        },
+        {
+          "word": "für",
+          "start": 432.0,
+          "end": 432.48,
+          "translation": "for"
+        },
+        {
+          "word": "Unternehmen,",
+          "start": 432.48,
+          "end": 433.48,
+          "translation": "Company,"
+        },
+        {
+          "word": "die",
+          "start": 434.08,
+          "end": 434.4,
+          "translation": "the"
+        },
+        {
+          "word": "laut",
+          "start": 434.4,
+          "end": 434.8,
+          "translation": "according to"
+        },
+        {
+          "word": "Burnham",
+          "start": 434.8,
+          "end": 435.56,
+          "translation": "Burnham"
+        },
+        {
+          "word": "keinen",
+          "start": 435.56,
+          "end": 436.5,
+          "translation": "none"
+        },
+        {
+          "word": "positiven",
+          "start": 436.5,
+          "end": 437.74,
+          "translation": "positive"
+        },
+        {
+          "word": "Beitrag",
+          "start": 437.74,
+          "end": 438.56,
+          "translation": "Contribution"
+        },
+        {
+          "word": "für",
+          "start": 438.56,
+          "end": 439.38,
+          "translation": "for"
+        },
+        {
+          "word": "Gemeinden",
+          "start": 439.38,
+          "end": 440.26,
+          "translation": "Municipalities"
+        },
+        {
+          "word": "leisten,",
+          "start": 440.26,
+          "end": 440.88,
+          "translation": "to be able to,"
+        },
+        {
+          "word": "darunter",
+          "start": 441.66,
+          "end": 442.6,
+          "translation": "including"
+        },
+        {
+          "word": "E-Zigaretten-Geschäfte.",
+          "start": 442.6,
+          "end": 445.8,
+          "translation": "E-cigarette stores."
+        },
+        {
+          "word": "Die",
+          "start": 445.8,
+          "end": 446.5,
+          "translation": "The"
+        },
+        {
+          "word": "Maßnahme",
+          "start": 446.5,
+          "end": 447.4,
+          "translation": "Measure"
+        },
+        {
+          "word": "kostet",
+          "start": 447.4,
+          "end": 448.2,
+          "translation": "costs"
+        },
+        {
+          "word": "den",
+          "start": 448.2,
+          "end": 448.54,
+          "translation": "the"
+        },
+        {
+          "word": "Staat",
+          "start": 448.54,
+          "end": 449.08,
+          "translation": "State"
+        },
+        {
+          "word": "schätzungsweise",
+          "start": 449.08,
+          "end": 450.42,
+          "translation": "estimated"
+        },
+        {
+          "word": "100",
+          "start": 450.42,
+          "end": 451.5,
+          "translation": "100"
+        },
+        {
+          "word": "Millionen",
+          "start": 451.5,
+          "end": 452.3,
+          "translation": "million"
+        },
+        {
+          "word": "Pfund",
+          "start": 452.3,
+          "end": 453.26,
+          "translation": "Pound"
+        },
+        {
+          "word": "pro",
+          "start": 453.26,
+          "end": 453.72,
+          "translation": "per"
+        },
+        {
+          "word": "Jahr.",
+          "start": 453.72,
+          "end": 454.16,
+          "translation": "Year."
+        },
+        {
+          "word": "Viele",
+          "start": 455.28,
+          "end": 455.76,
+          "translation": "Many"
+        },
+        {
+          "word": "Pubs",
+          "start": 455.76,
+          "end": 456.3,
+          "translation": "Pubs"
+        },
+        {
+          "word": "leiden",
+          "start": 456.3,
+          "end": 457.02,
+          "translation": "suffer"
+        },
+        {
+          "word": "unter",
+          "start": 457.02,
+          "end": 457.68,
+          "translation": "under"
+        },
+        {
+          "word": "steigenden",
+          "start": 457.68,
+          "end": 458.66,
+          "translation": "rising"
+        },
+        {
+          "word": "Energie-",
+          "start": 458.66,
+          "end": 459.56,
+          "translation": "Energy"
+        },
+        {
+          "word": "und",
+          "start": 459.56,
+          "end": 460.26,
+          "translation": "and"
+        },
+        {
+          "word": "Personalkosten.",
+          "start": 460.26,
+          "end": 461.96,
+          "translation": "Personnel costs."
+        },
+        {
+          "word": "Im",
+          "start": 462.54,
+          "end": 463.24,
+          "translation": "In the"
+        },
+        {
+          "word": "Schnitt",
+          "start": 463.24,
+          "end": 463.68,
+          "translation": "Cut"
+        },
+        {
+          "word": "schließt",
+          "start": 463.68,
+          "end": 464.72,
+          "translation": "closes"
+        },
+        {
+          "word": "täglich",
+          "start": 464.72,
+          "end": 465.36,
+          "translation": "daily"
+        },
+        {
+          "word": "ein",
+          "start": 465.36,
+          "end": 466.02,
+          "translation": "a"
+        },
+        {
+          "word": "Betrieb.",
+          "start": 466.02,
+          "end": 466.76,
+          "translation": "Operation."
+        },
+        {
+          "word": "Die",
+          "start": 467.92,
+          "end": 468.12,
+          "translation": "The"
+        },
+        {
+          "word": "oppositionellen",
+          "start": 468.12,
+          "end": 469.72,
+          "translation": "oppositional"
+        },
+        {
+          "word": "Tories",
+          "start": 469.72,
+          "end": 470.5,
+          "translation": "Tories"
+        },
+        {
+          "word": "forderten",
+          "start": 470.5,
+          "end": 471.78,
+          "translation": "demanded"
+        },
+        {
+          "word": "Burnham",
+          "start": 471.78,
+          "end": 472.6,
+          "translation": "Burnham"
+        },
+        {
+          "word": "auf,",
+          "start": 472.6,
+          "end": 473.12,
+          "translation": "on,"
+        },
+        {
+          "word": "die",
+          "start": 473.12,
+          "end": 473.76,
+          "translation": "the"
+        },
+        {
+          "word": "Finanzierung",
+          "start": 473.76,
+          "end": 474.92,
+          "translation": "Financing"
+        },
+        {
+          "word": "genauer",
+          "start": 474.92,
+          "end": 475.86,
+          "translation": "more accurate"
+        },
+        {
+          "word": "darzulegen.",
+          "start": 475.86,
+          "end": 476.98,
+          "translation": "explain."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "EZB lässt Leitzinsen unverändert",
+      "words": [
+        {
+          "word": "EZB",
+          "start": 476.98,
+          "end": 479.3,
+          "translation": "ECB"
+        },
+        {
+          "word": "lässt",
+          "start": 479.3,
+          "end": 479.96,
+          "translation": "leaves"
+        },
+        {
+          "word": "Leitzinsen",
+          "start": 479.96,
+          "end": 481.34,
+          "translation": "Key interest rates"
+        },
+        {
+          "word": "unverändert",
+          "start": 481.34,
+          "end": 482.48,
+          "translation": "unchanged"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Nach der Zinserhöhung im Juni schwenkt die Europäische Zentralbank (EZB) vorerst wieder auf einen abwartenden Kurs ein. Der für Sparer wichtige Einlagenzins bleibt bei 2,25 Prozent. Die EZB verwies auf stark schwankende Energiepreise und hohe Unsicherheit infolge des Iran-Kriegs. Die Folgen des Energieschocks für die Inflation seien noch nicht vollständig spürbar. Zugleich bekräftigte sie ihr Ziel, die Teuerung mittelfristig bei zwei Prozent zu stabilisieren. Die Inflation im Euroraum war im Juni auf 2,8 Prozent gesunken. Vertreter der deutschen Industrie und Versicherungswirtschaft begrüßten die Zinspause angesichts der schwachen Konjunktur.",
+      "words": [
+        {
+          "word": "Nach",
+          "start": 483.28,
+          "end": 483.56,
+          "translation": "After"
+        },
+        {
+          "word": "der",
+          "start": 483.56,
+          "end": 484.04,
+          "translation": "the"
+        },
+        {
+          "word": "Zinserhöhung",
+          "start": 484.04,
+          "end": 485.6,
+          "translation": "Interest Rate Hike"
+        },
+        {
+          "word": "im",
+          "start": 485.6,
+          "end": 485.9,
+          "translation": "in the"
+        },
+        {
+          "word": "Juni",
+          "start": 485.9,
+          "end": 486.62,
+          "translation": "June"
+        },
+        {
+          "word": "schwenkt",
+          "start": 486.62,
+          "end": 487.72,
+          "translation": "swivels"
+        },
+        {
+          "word": "die",
+          "start": 487.72,
+          "end": 488.08,
+          "translation": "the"
+        },
+        {
+          "word": "Europäische",
+          "start": 488.08,
+          "end": 489.42,
+          "translation": "European"
+        },
+        {
+          "word": "Zentralbank",
+          "start": 489.42,
+          "end": 490.74,
+          "translation": "Central Bank"
+        },
+        {
+          "word": "(EZB)",
+          "start": 490.74,
+          "end": 492.64,
+          "translation": "(ECB)"
+        },
+        {
+          "word": "vorerst",
+          "start": 492.64,
+          "end": 494.12,
+          "translation": "for the time being"
+        },
+        {
+          "word": "wieder",
+          "start": 494.12,
+          "end": 494.52,
+          "translation": "again"
+        },
+        {
+          "word": "auf",
+          "start": 494.52,
+          "end": 495.02,
+          "translation": "on"
+        },
+        {
+          "word": "einen",
+          "start": 495.02,
+          "end": 495.46,
+          "translation": "one"
+        },
+        {
+          "word": "abwartenden",
+          "start": 495.46,
+          "end": 496.78,
+          "translation": "wait-and-see"
+        },
+        {
+          "word": "Kurs",
+          "start": 496.78,
+          "end": 497.32,
+          "translation": "Course"
+        },
+        {
+          "word": "ein.",
+          "start": 497.32,
+          "end": 497.84,
+          "translation": "in."
+        },
+        {
+          "word": "Der",
+          "start": 497.84,
+          "end": 499.06,
+          "translation": "The"
+        },
+        {
+          "word": "für",
+          "start": 499.06,
+          "end": 499.38,
+          "translation": "for"
+        },
+        {
+          "word": "Sparer",
+          "start": 499.38,
+          "end": 500.12,
+          "translation": "Savers"
+        },
+        {
+          "word": "wichtige",
+          "start": 500.12,
+          "end": 501.2,
+          "translation": "important"
+        },
+        {
+          "word": "Einlagenzins",
+          "start": 501.2,
+          "end": 503.04,
+          "translation": "Deposit interest"
+        },
+        {
+          "word": "bleibt",
+          "start": 503.04,
+          "end": 503.88,
+          "translation": "remains"
+        },
+        {
+          "word": "bei",
+          "start": 503.88,
+          "end": 504.44,
+          "translation": "with"
+        },
+        {
+          "word": "2,25",
+          "start": 504.44,
+          "end": 506.21,
+          "translation": "2.25"
+        },
+        {
+          "word": "Prozent.",
+          "start": 506.21,
+          "end": 507.98,
+          "translation": "percent."
+        },
+        {
+          "word": "Die",
+          "start": 507.98,
+          "end": 509.56,
+          "translation": "The"
+        },
+        {
+          "word": "EZB",
+          "start": 509.56,
+          "end": 510.6,
+          "translation": "ECB"
+        },
+        {
+          "word": "verwies",
+          "start": 510.6,
+          "end": 511.48,
+          "translation": "referred"
+        },
+        {
+          "word": "auf",
+          "start": 511.48,
+          "end": 512.0,
+          "translation": "on"
+        },
+        {
+          "word": "stark",
+          "start": 512.0,
+          "end": 512.58,
+          "translation": "strong"
+        },
+        {
+          "word": "schwankende",
+          "start": 512.58,
+          "end": 513.72,
+          "translation": "fluctuating"
+        },
+        {
+          "word": "Energiepreise",
+          "start": 513.72,
+          "end": 515.34,
+          "translation": "Energy prices"
+        },
+        {
+          "word": "und",
+          "start": 515.34,
+          "end": 516.44,
+          "translation": "and"
+        },
+        {
+          "word": "hohe",
+          "start": 516.44,
+          "end": 517.08,
+          "translation": "high"
+        },
+        {
+          "word": "Unsicherheit",
+          "start": 517.08,
+          "end": 518.3,
+          "translation": "Uncertainty"
+        },
+        {
+          "word": "infolge",
+          "start": 518.3,
+          "end": 519.5,
+          "translation": "as a result of"
+        },
+        {
+          "word": "des",
+          "start": 519.5,
+          "end": 520.0,
+          "translation": "of the"
+        },
+        {
+          "word": "Iran-Kriegs.",
+          "start": 520.0,
+          "end": 521.9,
+          "translation": "Iran war."
+        },
+        {
+          "word": "Die",
+          "start": 521.9,
+          "end": 522.58,
+          "translation": "The"
+        },
+        {
+          "word": "Folgen",
+          "start": 522.58,
+          "end": 523.26,
+          "translation": "Consequences"
+        },
+        {
+          "word": "des",
+          "start": 523.26,
+          "end": 523.76,
+          "translation": "of the"
+        },
+        {
+          "word": "Energieschocks",
+          "start": 523.76,
+          "end": 525.14,
+          "translation": "Energy Crises"
+        },
+        {
+          "word": "für",
+          "start": 525.14,
+          "end": 525.84,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 525.84,
+          "end": 526.1,
+          "translation": "the"
+        },
+        {
+          "word": "Inflation",
+          "start": 526.1,
+          "end": 527.06,
+          "translation": "Inflation"
+        },
+        {
+          "word": "seien",
+          "start": 527.06,
+          "end": 528.44,
+          "translation": "be"
+        },
+        {
+          "word": "noch",
+          "start": 528.44,
+          "end": 528.68,
+          "translation": "still"
+        },
+        {
+          "word": "nicht",
+          "start": 528.68,
+          "end": 529.12,
+          "translation": "not"
+        },
+        {
+          "word": "vollständig",
+          "start": 529.12,
+          "end": 530.46,
+          "translation": "complete"
+        },
+        {
+          "word": "spürbar.",
+          "start": 530.46,
+          "end": 531.34,
+          "translation": "Noticeable."
+        },
+        {
+          "word": "Zugleich",
+          "start": 532.4,
+          "end": 533.18,
+          "translation": "At the same time"
+        },
+        {
+          "word": "bekräftigte",
+          "start": 533.18,
+          "end": 534.56,
+          "translation": "affirmed"
+        },
+        {
+          "word": "sie",
+          "start": 534.56,
+          "end": 534.82,
+          "translation": "them"
+        },
+        {
+          "word": "ihr",
+          "start": 534.82,
+          "end": 535.3,
+          "translation": "her"
+        },
+        {
+          "word": "Ziel,",
+          "start": 535.3,
+          "end": 535.82,
+          "translation": "Target,"
+        },
+        {
+          "word": "die",
+          "start": 536.3,
+          "end": 536.7,
+          "translation": "the"
+        },
+        {
+          "word": "Teuerung",
+          "start": 536.7,
+          "end": 537.68,
+          "translation": "Inflation"
+        },
+        {
+          "word": "mittelfristig",
+          "start": 537.68,
+          "end": 539.14,
+          "translation": "Medium-term"
+        },
+        {
+          "word": "bei",
+          "start": 539.14,
+          "end": 539.7,
+          "translation": "with"
+        },
+        {
+          "word": "zwei",
+          "start": 539.7,
+          "end": 540.3,
+          "translation": "two"
+        },
+        {
+          "word": "Prozent",
+          "start": 540.3,
+          "end": 540.9,
+          "translation": "Percent"
+        },
+        {
+          "word": "zu",
+          "start": 540.9,
+          "end": 541.76,
+          "translation": "to"
+        },
+        {
+          "word": "stabilisieren.",
+          "start": 541.76,
+          "end": 543.26,
+          "translation": "stabilize."
+        },
+        {
+          "word": "Die",
+          "start": 544.02,
+          "end": 544.72,
+          "translation": "The"
+        },
+        {
+          "word": "Inflation",
+          "start": 544.72,
+          "end": 545.82,
+          "translation": "Inflation"
+        },
+        {
+          "word": "im",
+          "start": 545.82,
+          "end": 546.42,
+          "translation": "in the"
+        },
+        {
+          "word": "Euroraum",
+          "start": 546.42,
+          "end": 547.64,
+          "translation": "Eurozone"
+        },
+        {
+          "word": "war",
+          "start": 547.64,
+          "end": 548.28,
+          "translation": "was"
+        },
+        {
+          "word": "im",
+          "start": 548.28,
+          "end": 548.8,
+          "translation": "in the"
+        },
+        {
+          "word": "Juni",
+          "start": 548.8,
+          "end": 549.54,
+          "translation": "June"
+        },
+        {
+          "word": "auf",
+          "start": 549.54,
+          "end": 549.92,
+          "translation": "on"
+        },
+        {
+          "word": "2,8",
+          "start": 549.92,
+          "end": 551.06,
+          "translation": "2,8"
+        },
+        {
+          "word": "Prozent",
+          "start": 551.06,
+          "end": 552.2,
+          "translation": "Percent"
+        },
+        {
+          "word": "gesunken.",
+          "start": 552.2,
+          "end": 553.18,
+          "translation": "decreased."
+        },
+        {
+          "word": "Vertreter",
+          "start": 554.3,
+          "end": 555.5,
+          "translation": "Representative"
+        },
+        {
+          "word": "der",
+          "start": 555.5,
+          "end": 555.88,
+          "translation": "the"
+        },
+        {
+          "word": "deutschen",
+          "start": 555.88,
+          "end": 556.56,
+          "translation": "German"
+        },
+        {
+          "word": "Industrie",
+          "start": 556.56,
+          "end": 557.68,
+          "translation": "Industry"
+        },
+        {
+          "word": "und",
+          "start": 557.68,
+          "end": 558.62,
+          "translation": "and"
+        },
+        {
+          "word": "Versicherungswirtschaft",
+          "start": 558.62,
+          "end": 560.52,
+          "translation": "Insurance Industry"
+        },
+        {
+          "word": "begrüßten",
+          "start": 560.52,
+          "end": 562.16,
+          "translation": "welcomed"
+        },
+        {
+          "word": "die",
+          "start": 562.16,
+          "end": 562.56,
+          "translation": "the"
+        },
+        {
+          "word": "Zinspause",
+          "start": 562.56,
+          "end": 563.5,
+          "translation": "Interest Payment Moratorium"
+        },
+        {
+          "word": "angesichts",
+          "start": 563.5,
+          "end": 565.08,
+          "translation": "in view of"
+        },
+        {
+          "word": "der",
+          "start": 565.08,
+          "end": 565.5,
+          "translation": "the"
+        },
+        {
+          "word": "schwachen",
+          "start": 565.5,
+          "end": 566.22,
+          "translation": "weak"
+        },
+        {
+          "word": "Konjunktur.",
+          "start": 566.22,
+          "end": 567.54,
+          "translation": "Economy."
+        }
+      ]
+    }
+  ]
+}
