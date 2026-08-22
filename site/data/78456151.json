@@ -1,0 +1,3286 @@
+{
+  "id": 78456151,
+  "title": "21.08.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-08-21",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/058AD3EA_2.mp3",
+  "duration": 543,
+  "imageUrl": "https://static.dw.com/image/78451129_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Verletzte und Schäden nach Erdbeben in Peru",
+      "words": [
+        {
+          "word": "Verletzte",
+          "start": 16.32,
+          "end": 17.64,
+          "translation": "Injured"
+        },
+        {
+          "word": "und",
+          "start": 17.64,
+          "end": 18.02,
+          "translation": "and"
+        },
+        {
+          "word": "Schäden",
+          "start": 18.02,
+          "end": 18.68,
+          "translation": "Damage"
+        },
+        {
+          "word": "nach",
+          "start": 18.68,
+          "end": 19.4,
+          "translation": "to"
+        },
+        {
+          "word": "Erdbeben",
+          "start": 19.4,
+          "end": 20.32,
+          "translation": "Earthquake"
+        },
+        {
+          "word": "in",
+          "start": 20.32,
+          "end": 20.78,
+          "translation": "in"
+        },
+        {
+          "word": "Peru",
+          "start": 20.78,
+          "end": 21.36,
+          "translation": "Peru"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Ein starkes Erdbeben hat das Zentrum Perus erschüttert. Mindestens zwei Menschen wurden verletzt und mehr als 30 Gebäude beschädigt, wie der Sender Latina Noticias unter Berufung auf den Zivilschutz berichtete. Die US-Erdbebenwarte USGS gab die Stärke mit 6,7 an. Das Epizentrum lag demnach 31 Kilometer nordwestlich von Aniso in der Provinz Parinacochas, in rund 99 Kilometern Tiefe. Erschütterungen waren auch in Cusco, Arequipa, Junín und der Hauptstadt Lima zu spüren. Nach Angaben der peruanischen Marine bestand keine Tsunami-Gefahr. Das Geophysikalische Institut Perus hatte die Stärke zunächst mit 7,2 angegeben.",
+      "words": [
+        {
+          "word": "Ein",
+          "start": 22.64,
+          "end": 23.14,
+          "translation": "A"
+        },
+        {
+          "word": "starkes",
+          "start": 23.14,
+          "end": 24.0,
+          "translation": "strong"
+        },
+        {
+          "word": "Erdbeben",
+          "start": 24.0,
+          "end": 25.02,
+          "translation": "Earthquake"
+        },
+        {
+          "word": "hat",
+          "start": 25.02,
+          "end": 25.62,
+          "translation": "has"
+        },
+        {
+          "word": "das",
+          "start": 25.62,
+          "end": 25.98,
+          "translation": "the"
+        },
+        {
+          "word": "Zentrum",
+          "start": 25.98,
+          "end": 26.76,
+          "translation": "Center"
+        },
+        {
+          "word": "Perus",
+          "start": 26.76,
+          "end": 27.74,
+          "translation": "Peru"
+        },
+        {
+          "word": "erschüttert.",
+          "start": 27.74,
+          "end": 28.41,
+          "translation": "shaken."
+        },
+        {
+          "word": "Mindestens",
+          "start": 28.41,
+          "end": 30.19,
+          "translation": "At least"
+        },
+        {
+          "word": "zwei",
+          "start": 30.19,
+          "end": 30.87,
+          "translation": "two"
+        },
+        {
+          "word": "Menschen",
+          "start": 30.87,
+          "end": 31.51,
+          "translation": "People"
+        },
+        {
+          "word": "wurden",
+          "start": 31.51,
+          "end": 32.05,
+          "translation": "were"
+        },
+        {
+          "word": "verletzt",
+          "start": 32.05,
+          "end": 32.93,
+          "translation": "injured"
+        },
+        {
+          "word": "und",
+          "start": 32.93,
+          "end": 33.73,
+          "translation": "and"
+        },
+        {
+          "word": "mehr",
+          "start": 33.73,
+          "end": 34.17,
+          "translation": "more"
+        },
+        {
+          "word": "als",
+          "start": 34.17,
+          "end": 34.55,
+          "translation": "as"
+        },
+        {
+          "word": "30",
+          "start": 34.55,
+          "end": 35.15,
+          "translation": "30"
+        },
+        {
+          "word": "Gebäude",
+          "start": 35.15,
+          "end": 36.03,
+          "translation": "Building"
+        },
+        {
+          "word": "beschädigt,",
+          "start": 36.03,
+          "end": 36.71,
+          "translation": "damaged,"
+        },
+        {
+          "word": "wie",
+          "start": 37.59,
+          "end": 37.93,
+          "translation": "like"
+        },
+        {
+          "word": "der",
+          "start": 37.93,
+          "end": 38.19,
+          "translation": "the"
+        },
+        {
+          "word": "Sender",
+          "start": 38.19,
+          "end": 38.73,
+          "translation": "Transmitter"
+        },
+        {
+          "word": "Latina",
+          "start": 38.73,
+          "end": 39.71,
+          "translation": "Latina"
+        },
+        {
+          "word": "Noticias",
+          "start": 39.71,
+          "end": 40.73,
+          "translation": "News"
+        },
+        {
+          "word": "unter",
+          "start": 40.73,
+          "end": 41.97,
+          "translation": "under"
+        },
+        {
+          "word": "Berufung",
+          "start": 41.97,
+          "end": 43.05,
+          "translation": "Appeal"
+        },
+        {
+          "word": "auf",
+          "start": 43.05,
+          "end": 43.29,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 43.29,
+          "end": 43.63,
+          "translation": "the"
+        },
+        {
+          "word": "Zivilschutz",
+          "start": 43.63,
+          "end": 44.79,
+          "translation": "Civil defense"
+        },
+        {
+          "word": "berichtete.",
+          "start": 44.79,
+          "end": 45.79,
+          "translation": "reported."
+        },
+        {
+          "word": "Die",
+          "start": 47.07,
+          "end": 47.27,
+          "translation": "The"
+        },
+        {
+          "word": "US-Erdbebenwarte",
+          "start": 47.27,
+          "end": 50.15,
+          "translation": "US earthquake monitoring center"
+        },
+        {
+          "word": "USGS",
+          "start": 50.15,
+          "end": 51.47,
+          "translation": "USGS"
+        },
+        {
+          "word": "gab",
+          "start": 52.29,
+          "end": 52.61,
+          "translation": "gave"
+        },
+        {
+          "word": "die",
+          "start": 52.61,
+          "end": 52.97,
+          "translation": "the"
+        },
+        {
+          "word": "Stärke",
+          "start": 52.97,
+          "end": 53.65,
+          "translation": "Strength"
+        },
+        {
+          "word": "mit",
+          "start": 53.65,
+          "end": 54.05,
+          "translation": "with"
+        },
+        {
+          "word": "6,7",
+          "start": 54.05,
+          "end": 55.41,
+          "translation": "6,7"
+        },
+        {
+          "word": "an.",
+          "start": 55.41,
+          "end": 56.03,
+          "translation": "to."
+        },
+        {
+          "word": "Das",
+          "start": 56.03,
+          "end": 57.43,
+          "translation": "The"
+        },
+        {
+          "word": "Epizentrum",
+          "start": 57.43,
+          "end": 58.89,
+          "translation": "Epicenter"
+        },
+        {
+          "word": "lag",
+          "start": 58.89,
+          "end": 59.57,
+          "translation": "lay"
+        },
+        {
+          "word": "demnach",
+          "start": 59.57,
+          "end": 60.61,
+          "translation": "therefore"
+        },
+        {
+          "word": "31",
+          "start": 60.61,
+          "end": 61.71,
+          "translation": "31"
+        },
+        {
+          "word": "Kilometer",
+          "start": 61.71,
+          "end": 62.91,
+          "translation": "Kilometers"
+        },
+        {
+          "word": "nordwestlich",
+          "start": 62.91,
+          "end": 64.47,
+          "translation": "northwest"
+        },
+        {
+          "word": "von",
+          "start": 64.47,
+          "end": 65.13,
+          "translation": "from"
+        },
+        {
+          "word": "Aniso",
+          "start": 65.13,
+          "end": 66.07,
+          "translation": "Aniso"
+        },
+        {
+          "word": "in",
+          "start": 66.07,
+          "end": 67.03,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 67.03,
+          "end": 67.25,
+          "translation": "the"
+        },
+        {
+          "word": "Provinz",
+          "start": 67.25,
+          "end": 68.23,
+          "translation": "Province"
+        },
+        {
+          "word": "Parinacochas,",
+          "start": 68.23,
+          "end": 70.91,
+          "translation": "Parinacochas,"
+        },
+        {
+          "word": "in",
+          "start": 70.91,
+          "end": 71.05,
+          "translation": "in"
+        },
+        {
+          "word": "rund",
+          "start": 71.05,
+          "end": 71.39,
+          "translation": "round"
+        },
+        {
+          "word": "99",
+          "start": 71.39,
+          "end": 72.61,
+          "translation": "99"
+        },
+        {
+          "word": "Kilometern",
+          "start": 72.61,
+          "end": 74.01,
+          "translation": "Kilometers"
+        },
+        {
+          "word": "Tiefe.",
+          "start": 74.01,
+          "end": 74.71,
+          "translation": "Depth."
+        },
+        {
+          "word": "Erschütterungen",
+          "start": 74.71,
+          "end": 77.37,
+          "translation": "Vibrations"
+        },
+        {
+          "word": "waren",
+          "start": 77.37,
+          "end": 77.79,
+          "translation": "were"
+        },
+        {
+          "word": "auch",
+          "start": 77.79,
+          "end": 78.41,
+          "translation": "also"
+        },
+        {
+          "word": "in",
+          "start": 78.41,
+          "end": 78.77,
+          "translation": "in"
+        },
+        {
+          "word": "Cusco,",
+          "start": 78.77,
+          "end": 79.98,
+          "translation": "Cusco,"
+        },
+        {
+          "word": "Arequipa,",
+          "start": 79.98,
+          "end": 81.18,
+          "translation": "Arequipa,"
+        },
+        {
+          "word": "Junín",
+          "start": 81.18,
+          "end": 82.39,
+          "translation": "Junín"
+        },
+        {
+          "word": "und",
+          "start": 82.39,
+          "end": 83.29,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 83.29,
+          "end": 83.59,
+          "translation": "the"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 83.59,
+          "end": 84.41,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Lima",
+          "start": 84.41,
+          "end": 85.03,
+          "translation": "Lima"
+        },
+        {
+          "word": "zu",
+          "start": 85.03,
+          "end": 85.57,
+          "translation": "to"
+        },
+        {
+          "word": "spüren.",
+          "start": 85.57,
+          "end": 86.27,
+          "translation": "feel."
+        },
+        {
+          "word": "Nach",
+          "start": 87.43,
+          "end": 87.83,
+          "translation": "After"
+        },
+        {
+          "word": "Angaben",
+          "start": 87.83,
+          "end": 88.77,
+          "translation": "Details"
+        },
+        {
+          "word": "der",
+          "start": 88.77,
+          "end": 89.23,
+          "translation": "the"
+        },
+        {
+          "word": "peruanischen",
+          "start": 89.23,
+          "end": 90.37,
+          "translation": "Peruvian"
+        },
+        {
+          "word": "Marine",
+          "start": 90.37,
+          "end": 91.23,
+          "translation": "Navy"
+        },
+        {
+          "word": "bestand",
+          "start": 91.23,
+          "end": 92.27,
+          "translation": "inventory"
+        },
+        {
+          "word": "keine",
+          "start": 92.27,
+          "end": 93.13,
+          "translation": "none"
+        },
+        {
+          "word": "Tsunami-Gefahr.",
+          "start": 93.13,
+          "end": 94.83,
+          "translation": "Tsunami danger."
+        },
+        {
+          "word": "Das",
+          "start": 94.83,
+          "end": 96.13,
+          "translation": "The"
+        },
+        {
+          "word": "Geophysikalische",
+          "start": 96.13,
+          "end": 97.95,
+          "translation": "Geophysical"
+        },
+        {
+          "word": "Institut",
+          "start": 97.95,
+          "end": 98.95,
+          "translation": "Institute"
+        },
+        {
+          "word": "Perus",
+          "start": 98.95,
+          "end": 99.89,
+          "translation": "Peru"
+        },
+        {
+          "word": "hatte",
+          "start": 99.89,
+          "end": 100.43,
+          "translation": "had"
+        },
+        {
+          "word": "die",
+          "start": 100.43,
+          "end": 100.89,
+          "translation": "the"
+        },
+        {
+          "word": "Stärke",
+          "start": 100.89,
+          "end": 101.47,
+          "translation": "Strength"
+        },
+        {
+          "word": "zunächst",
+          "start": 101.47,
+          "end": 102.25,
+          "translation": "first"
+        },
+        {
+          "word": "mit",
+          "start": 102.25,
+          "end": 102.79,
+          "translation": "with"
+        },
+        {
+          "word": "7,2",
+          "start": 102.79,
+          "end": 104.25,
+          "translation": "7.2"
+        },
+        {
+          "word": "angegeben.",
+          "start": 104.25,
+          "end": 105.37,
+          "translation": "specified."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Waldbrand in Hürtgenwald nach einer Woche gelöscht",
+      "words": [
+        {
+          "word": "Waldbrand",
+          "start": 107.45,
+          "end": 108.45,
+          "translation": "Forest fire"
+        },
+        {
+          "word": "in",
+          "start": 108.45,
+          "end": 109.11,
+          "translation": "in"
+        },
+        {
+          "word": "Hürtgenwald",
+          "start": 109.11,
+          "end": 110.15,
+          "translation": "Hürtgenwald"
+        },
+        {
+          "word": "nach",
+          "start": 110.15,
+          "end": 110.73,
+          "translation": "to"
+        },
+        {
+          "word": "einer",
+          "start": 110.73,
+          "end": 111.43,
+          "translation": "one"
+        },
+        {
+          "word": "Woche",
+          "start": 111.43,
+          "end": 111.97,
+          "translation": "week"
+        },
+        {
+          "word": "gelöscht",
+          "start": 111.97,
+          "end": 112.95,
+          "translation": "deleted"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der größte Waldbrand in der Geschichte des westdeutschen Bundeslandes Nordrhein-Westfalen ist nach einer Woche gelöscht. Das teilte der Bürgermeister von Hürtgenwald, Stephan Cranen, mit. Die letzten Einsatzkräfte zögen sich aus dem Brandgebiet zurück. Ende vergangener Woche hatte das Feuer begonnen. Ein Ortsteil musste zeitweise geräumt werden. Nach Angaben Cranens wurden weder Menschen verletzt noch Häuser beschädigt. Er dankte den haupt- und ehrenamtlichen Einsatzkräften sowie den Bewohnern für ihren Zusammenhalt. Das betroffene Waldgebiet bleibt vorerst gesperrt, da Bäume durch das Feuer geschwächt und instabil sein können.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 113.95,
+          "end": 114.71,
+          "translation": "The"
+        },
+        {
+          "word": "größte",
+          "start": 114.71,
+          "end": 115.59,
+          "translation": "largest"
+        },
+        {
+          "word": "Waldbrand",
+          "start": 115.59,
+          "end": 116.47,
+          "translation": "Forest fire"
+        },
+        {
+          "word": "in",
+          "start": 116.47,
+          "end": 117.39,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 117.39,
+          "end": 117.59,
+          "translation": "the"
+        },
+        {
+          "word": "Geschichte",
+          "start": 117.59,
+          "end": 118.23,
+          "translation": "History"
+        },
+        {
+          "word": "des",
+          "start": 118.23,
+          "end": 118.89,
+          "translation": "of the"
+        },
+        {
+          "word": "westdeutschen",
+          "start": 118.89,
+          "end": 120.15,
+          "translation": "West German"
+        },
+        {
+          "word": "Bundeslandes",
+          "start": 120.15,
+          "end": 121.65,
+          "translation": "Federal state"
+        },
+        {
+          "word": "Nordrhein-Westfalen",
+          "start": 121.65,
+          "end": 123.91,
+          "translation": "North Rhine-Westphalia"
+        },
+        {
+          "word": "ist",
+          "start": 123.91,
+          "end": 125.09,
+          "translation": "is"
+        },
+        {
+          "word": "nach",
+          "start": 125.09,
+          "end": 125.53,
+          "translation": "to"
+        },
+        {
+          "word": "einer",
+          "start": 125.53,
+          "end": 126.15,
+          "translation": "one"
+        },
+        {
+          "word": "Woche",
+          "start": 126.15,
+          "end": 126.69,
+          "translation": "week"
+        },
+        {
+          "word": "gelöscht.",
+          "start": 126.69,
+          "end": 127.67,
+          "translation": "Deleted."
+        },
+        {
+          "word": "Das",
+          "start": 128.35,
+          "end": 129.05,
+          "translation": "The"
+        },
+        {
+          "word": "teilte",
+          "start": 129.05,
+          "end": 129.61,
+          "translation": "shared"
+        },
+        {
+          "word": "der",
+          "start": 129.61,
+          "end": 130.09,
+          "translation": "the"
+        },
+        {
+          "word": "Bürgermeister",
+          "start": 130.09,
+          "end": 131.41,
+          "translation": "Mayor"
+        },
+        {
+          "word": "von",
+          "start": 131.41,
+          "end": 131.95,
+          "translation": "from"
+        },
+        {
+          "word": "Hürtgenwald,",
+          "start": 131.95,
+          "end": 133.07,
+          "translation": "Hürtgenwald,"
+        },
+        {
+          "word": "Stephan",
+          "start": 133.07,
+          "end": 134.08,
+          "translation": "Stephan"
+        },
+        {
+          "word": "Cranen,",
+          "start": 134.08,
+          "end": 135.1,
+          "translation": "Cranen,"
+        },
+        {
+          "word": "mit.",
+          "start": 135.1,
+          "end": 136.11,
+          "translation": "with."
+        },
+        {
+          "word": "Die",
+          "start": 136.11,
+          "end": 136.81,
+          "translation": "The"
+        },
+        {
+          "word": "letzten",
+          "start": 136.81,
+          "end": 137.47,
+          "translation": "last"
+        },
+        {
+          "word": "Einsatzkräfte",
+          "start": 137.47,
+          "end": 139.27,
+          "translation": "Emergency services"
+        },
+        {
+          "word": "zögen",
+          "start": 139.27,
+          "end": 140.39,
+          "translation": "would move"
+        },
+        {
+          "word": "sich",
+          "start": 140.39,
+          "end": 140.79,
+          "translation": "itself"
+        },
+        {
+          "word": "aus",
+          "start": 140.79,
+          "end": 141.05,
+          "translation": "from"
+        },
+        {
+          "word": "dem",
+          "start": 141.05,
+          "end": 141.37,
+          "translation": "the"
+        },
+        {
+          "word": "Brandgebiet",
+          "start": 141.37,
+          "end": 142.51,
+          "translation": "Fire-affected area"
+        },
+        {
+          "word": "zurück.",
+          "start": 142.51,
+          "end": 143.29,
+          "translation": "back."
+        },
+        {
+          "word": "Ende",
+          "start": 144.41,
+          "end": 144.91,
+          "translation": "End"
+        },
+        {
+          "word": "vergangener",
+          "start": 144.91,
+          "end": 146.09,
+          "translation": "past"
+        },
+        {
+          "word": "Woche",
+          "start": 146.09,
+          "end": 146.57,
+          "translation": "week"
+        },
+        {
+          "word": "hatte",
+          "start": 146.57,
+          "end": 147.35,
+          "translation": "had"
+        },
+        {
+          "word": "das",
+          "start": 147.35,
+          "end": 147.89,
+          "translation": "the"
+        },
+        {
+          "word": "Feuer",
+          "start": 147.89,
+          "end": 148.31,
+          "translation": "Fire"
+        },
+        {
+          "word": "begonnen.",
+          "start": 148.31,
+          "end": 149.13,
+          "translation": "started."
+        },
+        {
+          "word": "Ein",
+          "start": 149.95,
+          "end": 150.35,
+          "translation": "A"
+        },
+        {
+          "word": "Ortsteil",
+          "start": 150.35,
+          "end": 151.49,
+          "translation": "Neighborhood"
+        },
+        {
+          "word": "musste",
+          "start": 151.49,
+          "end": 151.97,
+          "translation": "had to"
+        },
+        {
+          "word": "zeitweise",
+          "start": 151.97,
+          "end": 152.91,
+          "translation": "at times"
+        },
+        {
+          "word": "geräumt",
+          "start": 152.91,
+          "end": 154.11,
+          "translation": "cleared"
+        },
+        {
+          "word": "werden.",
+          "start": 154.11,
+          "end": 154.55,
+          "translation": "become."
+        },
+        {
+          "word": "Nach",
+          "start": 155.55,
+          "end": 155.91,
+          "translation": "After"
+        },
+        {
+          "word": "Angaben",
+          "start": 155.91,
+          "end": 156.85,
+          "translation": "Details"
+        },
+        {
+          "word": "Cranens",
+          "start": 156.85,
+          "end": 157.89,
+          "translation": "Cranens"
+        },
+        {
+          "word": "wurden",
+          "start": 157.89,
+          "end": 158.77,
+          "translation": "were"
+        },
+        {
+          "word": "weder",
+          "start": 158.77,
+          "end": 159.51,
+          "translation": "neither"
+        },
+        {
+          "word": "Menschen",
+          "start": 159.51,
+          "end": 160.09,
+          "translation": "People"
+        },
+        {
+          "word": "verletzt",
+          "start": 160.09,
+          "end": 161.15,
+          "translation": "injured"
+        },
+        {
+          "word": "noch",
+          "start": 161.15,
+          "end": 161.89,
+          "translation": "still"
+        },
+        {
+          "word": "Häuser",
+          "start": 161.89,
+          "end": 162.69,
+          "translation": "Houses"
+        },
+        {
+          "word": "beschädigt.",
+          "start": 162.69,
+          "end": 163.73,
+          "translation": "damaged."
+        },
+        {
+          "word": "Er",
+          "start": 164.41,
+          "end": 165.11,
+          "translation": "He"
+        },
+        {
+          "word": "dankte",
+          "start": 165.11,
+          "end": 165.89,
+          "translation": "thanked"
+        },
+        {
+          "word": "den",
+          "start": 165.89,
+          "end": 166.37,
+          "translation": "the"
+        },
+        {
+          "word": "haupt-",
+          "start": 166.37,
+          "end": 166.75,
+          "translation": "main-"
+        },
+        {
+          "word": "und",
+          "start": 166.75,
+          "end": 167.77,
+          "translation": "and"
+        },
+        {
+          "word": "ehrenamtlichen",
+          "start": 167.77,
+          "end": 169.27,
+          "translation": "volunteer"
+        },
+        {
+          "word": "Einsatzkräften",
+          "start": 169.27,
+          "end": 170.83,
+          "translation": "emergency services"
+        },
+        {
+          "word": "sowie",
+          "start": 170.83,
+          "end": 172.15,
+          "translation": "and"
+        },
+        {
+          "word": "den",
+          "start": 172.15,
+          "end": 172.57,
+          "translation": "the"
+        },
+        {
+          "word": "Bewohnern",
+          "start": 172.57,
+          "end": 173.79,
+          "translation": "Residents"
+        },
+        {
+          "word": "für",
+          "start": 173.79,
+          "end": 174.13,
+          "translation": "for"
+        },
+        {
+          "word": "ihren",
+          "start": 174.13,
+          "end": 174.77,
+          "translation": "their"
+        },
+        {
+          "word": "Zusammenhalt.",
+          "start": 174.77,
+          "end": 176.09,
+          "translation": "Cohesion."
+        },
+        {
+          "word": "Das",
+          "start": 176.87,
+          "end": 177.63,
+          "translation": "The"
+        },
+        {
+          "word": "betroffene",
+          "start": 177.63,
+          "end": 178.65,
+          "translation": "affected"
+        },
+        {
+          "word": "Waldgebiet",
+          "start": 178.65,
+          "end": 179.81,
+          "translation": "Forest area"
+        },
+        {
+          "word": "bleibt",
+          "start": 179.81,
+          "end": 180.49,
+          "translation": "remains"
+        },
+        {
+          "word": "vorerst",
+          "start": 180.49,
+          "end": 181.61,
+          "translation": "for the time being"
+        },
+        {
+          "word": "gesperrt,",
+          "start": 181.61,
+          "end": 182.55,
+          "translation": "blocked,"
+        },
+        {
+          "word": "da",
+          "start": 183.19,
+          "end": 183.53,
+          "translation": "there"
+        },
+        {
+          "word": "Bäume",
+          "start": 183.53,
+          "end": 184.19,
+          "translation": "Trees"
+        },
+        {
+          "word": "durch",
+          "start": 184.19,
+          "end": 184.63,
+          "translation": "through"
+        },
+        {
+          "word": "das",
+          "start": 184.63,
+          "end": 184.99,
+          "translation": "the"
+        },
+        {
+          "word": "Feuer",
+          "start": 184.99,
+          "end": 185.41,
+          "translation": "Fire"
+        },
+        {
+          "word": "geschwächt",
+          "start": 185.41,
+          "end": 186.49,
+          "translation": "weakened"
+        },
+        {
+          "word": "und",
+          "start": 186.49,
+          "end": 187.39,
+          "translation": "and"
+        },
+        {
+          "word": "instabil",
+          "start": 187.39,
+          "end": 188.37,
+          "translation": "unstable"
+        },
+        {
+          "word": "sein",
+          "start": 188.37,
+          "end": 188.95,
+          "translation": "be"
+        },
+        {
+          "word": "können.",
+          "start": 188.95,
+          "end": 189.55,
+          "translation": "can."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Zentralrat der Juden distanziert sich von israelischem Minister",
+      "words": [
+        {
+          "word": "Zentralrat",
+          "start": 191.93,
+          "end": 193.33,
+          "translation": "Central Council"
+        },
+        {
+          "word": "der",
+          "start": 193.33,
+          "end": 193.69,
+          "translation": "the"
+        },
+        {
+          "word": "Juden",
+          "start": 193.69,
+          "end": 194.45,
+          "translation": "Jews"
+        },
+        {
+          "word": "distanziert",
+          "start": 194.45,
+          "end": 195.53,
+          "translation": "distanced"
+        },
+        {
+          "word": "sich",
+          "start": 195.53,
+          "end": 195.87,
+          "translation": "itself"
+        },
+        {
+          "word": "von",
+          "start": 195.87,
+          "end": 196.25,
+          "translation": "from"
+        },
+        {
+          "word": "israelischem",
+          "start": 196.25,
+          "end": 197.83,
+          "translation": "Israeli"
+        },
+        {
+          "word": "Minister",
+          "start": 197.83,
+          "end": 198.43,
+          "translation": "Minister"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der Zentralrat der Juden in Deutschland hat die Äußerungen des israelischen Ministers Itamar Ben-Gvir zu Massentötungen von Palästinensern scharf kritisiert. Ben-Gvirs menschenverachtende Aussagen stünden diametral zu jüdischen Werten und schadeten Israels Ansehen, sagte der Präsident des Zentralrats, Josef Schuster, der Katholischen Nachrichten-Agentur. Er distanziere sich davon ausdrücklich. Der israelische Minister für nationale Sicherheit hatte erklärt, man solle im Gazastreifen jede Nacht 30 bis 40 Palästinenser töten. Zuvor hatte sich auch Bundeskanzler Friedrich Merz empört über die Äußerungen Ben-Gvirs gezeigt.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 199.81,
+          "end": 200.23,
+          "translation": "The"
+        },
+        {
+          "word": "Zentralrat",
+          "start": 200.23,
+          "end": 201.45,
+          "translation": "Central Council"
+        },
+        {
+          "word": "der",
+          "start": 201.45,
+          "end": 201.73,
+          "translation": "the"
+        },
+        {
+          "word": "Juden",
+          "start": 201.73,
+          "end": 202.49,
+          "translation": "Jews"
+        },
+        {
+          "word": "in",
+          "start": 202.49,
+          "end": 202.67,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland",
+          "start": 202.67,
+          "end": 203.47,
+          "translation": "Germany"
+        },
+        {
+          "word": "hat",
+          "start": 203.47,
+          "end": 204.45,
+          "translation": "has"
+        },
+        {
+          "word": "die",
+          "start": 204.45,
+          "end": 204.89,
+          "translation": "the"
+        },
+        {
+          "word": "Äußerungen",
+          "start": 204.89,
+          "end": 205.77,
+          "translation": "Statements"
+        },
+        {
+          "word": "des",
+          "start": 205.77,
+          "end": 206.35,
+          "translation": "of the"
+        },
+        {
+          "word": "israelischen",
+          "start": 206.35,
+          "end": 207.73,
+          "translation": "Israeli"
+        },
+        {
+          "word": "Ministers",
+          "start": 207.73,
+          "end": 208.53,
+          "translation": "Ministers"
+        },
+        {
+          "word": "Itamar",
+          "start": 208.53,
+          "end": 209.53,
+          "translation": "Itamar"
+        },
+        {
+          "word": "Ben-Gvir",
+          "start": 209.53,
+          "end": 210.62,
+          "translation": "Ben-Gvir"
+        },
+        {
+          "word": "zu",
+          "start": 210.62,
+          "end": 211.72,
+          "translation": "to"
+        },
+        {
+          "word": "Massentötungen",
+          "start": 211.72,
+          "end": 212.81,
+          "translation": "Mass Killings"
+        },
+        {
+          "word": "von",
+          "start": 212.81,
+          "end": 213.25,
+          "translation": "from"
+        },
+        {
+          "word": "Palästinensern",
+          "start": 213.25,
+          "end": 214.73,
+          "translation": "Palestinians"
+        },
+        {
+          "word": "scharf",
+          "start": 214.73,
+          "end": 215.65,
+          "translation": "hot"
+        },
+        {
+          "word": "kritisiert.",
+          "start": 215.65,
+          "end": 216.69,
+          "translation": "criticized."
+        },
+        {
+          "word": "Ben-Gvirs",
+          "start": 216.69,
+          "end": 218.68,
+          "translation": "Ben-Gvirs"
+        },
+        {
+          "word": "menschenverachtende",
+          "start": 218.68,
+          "end": 220.67,
+          "translation": "inhuman"
+        },
+        {
+          "word": "Aussagen",
+          "start": 220.67,
+          "end": 221.63,
+          "translation": "Statements"
+        },
+        {
+          "word": "stünden",
+          "start": 222.43,
+          "end": 222.97,
+          "translation": "would stand"
+        },
+        {
+          "word": "diametral",
+          "start": 222.97,
+          "end": 224.25,
+          "translation": "diametrically"
+        },
+        {
+          "word": "zu",
+          "start": 224.25,
+          "end": 225.01,
+          "translation": "to"
+        },
+        {
+          "word": "jüdischen",
+          "start": 225.01,
+          "end": 225.85,
+          "translation": "Jewish"
+        },
+        {
+          "word": "Werten",
+          "start": 225.85,
+          "end": 226.63,
+          "translation": "Values"
+        },
+        {
+          "word": "und",
+          "start": 226.63,
+          "end": 227.45,
+          "translation": "and"
+        },
+        {
+          "word": "schadeten",
+          "start": 227.45,
+          "end": 228.43,
+          "translation": "harmed"
+        },
+        {
+          "word": "Israels",
+          "start": 228.43,
+          "end": 229.69,
+          "translation": "Israel's"
+        },
+        {
+          "word": "Ansehen,",
+          "start": 229.69,
+          "end": 230.33,
+          "translation": "View,"
+        },
+        {
+          "word": "sagte",
+          "start": 230.33,
+          "end": 231.65,
+          "translation": "said"
+        },
+        {
+          "word": "der",
+          "start": 231.65,
+          "end": 231.99,
+          "translation": "the"
+        },
+        {
+          "word": "Präsident",
+          "start": 231.99,
+          "end": 232.79,
+          "translation": "President"
+        },
+        {
+          "word": "des",
+          "start": 232.79,
+          "end": 233.43,
+          "translation": "of the"
+        },
+        {
+          "word": "Zentralrats,",
+          "start": 233.43,
+          "end": 234.51,
+          "translation": "Central Council,"
+        },
+        {
+          "word": "Josef",
+          "start": 234.51,
+          "end": 235.23,
+          "translation": "Joseph"
+        },
+        {
+          "word": "Schuster,",
+          "start": 235.23,
+          "end": 236.07,
+          "translation": "Cobbler,"
+        },
+        {
+          "word": "der",
+          "start": 236.87,
+          "end": 237.03,
+          "translation": "the"
+        },
+        {
+          "word": "Katholischen",
+          "start": 237.03,
+          "end": 238.9,
+          "translation": "Catholic"
+        },
+        {
+          "word": "Nachrichten-Agentur.",
+          "start": 238.9,
+          "end": 240.77,
+          "translation": "News Agency."
+        },
+        {
+          "word": "Er",
+          "start": 240.77,
+          "end": 241.47,
+          "translation": "He"
+        },
+        {
+          "word": "distanziere",
+          "start": 241.47,
+          "end": 242.59,
+          "translation": "distance myself"
+        },
+        {
+          "word": "sich",
+          "start": 242.59,
+          "end": 243.09,
+          "translation": "itself"
+        },
+        {
+          "word": "davon",
+          "start": 243.09,
+          "end": 243.71,
+          "translation": "thereof"
+        },
+        {
+          "word": "ausdrücklich.",
+          "start": 243.71,
+          "end": 245.03,
+          "translation": "expressly."
+        },
+        {
+          "word": "Der",
+          "start": 246.09,
+          "end": 246.47,
+          "translation": "The"
+        },
+        {
+          "word": "israelische",
+          "start": 246.47,
+          "end": 247.79,
+          "translation": "Israeli"
+        },
+        {
+          "word": "Minister",
+          "start": 247.79,
+          "end": 248.61,
+          "translation": "Minister"
+        },
+        {
+          "word": "für",
+          "start": 248.61,
+          "end": 249.47,
+          "translation": "for"
+        },
+        {
+          "word": "nationale",
+          "start": 249.47,
+          "end": 250.41,
+          "translation": "national"
+        },
+        {
+          "word": "Sicherheit",
+          "start": 250.41,
+          "end": 251.43,
+          "translation": "Security"
+        },
+        {
+          "word": "hatte",
+          "start": 251.43,
+          "end": 252.23,
+          "translation": "had"
+        },
+        {
+          "word": "erklärt,",
+          "start": 252.23,
+          "end": 253.21,
+          "translation": "explained,"
+        },
+        {
+          "word": "man",
+          "start": 253.97,
+          "end": 254.07,
+          "translation": "one"
+        },
+        {
+          "word": "solle",
+          "start": 254.07,
+          "end": 254.47,
+          "translation": "should"
+        },
+        {
+          "word": "im",
+          "start": 254.47,
+          "end": 254.95,
+          "translation": "in the"
+        },
+        {
+          "word": "Gazastreifen",
+          "start": 254.95,
+          "end": 256.33,
+          "translation": "Gaza Strip"
+        },
+        {
+          "word": "jede",
+          "start": 256.33,
+          "end": 257.27,
+          "translation": "each"
+        },
+        {
+          "word": "Nacht",
+          "start": 257.27,
+          "end": 257.85,
+          "translation": "Night"
+        },
+        {
+          "word": "30",
+          "start": 257.85,
+          "end": 258.95,
+          "translation": "30"
+        },
+        {
+          "word": "bis",
+          "start": 258.95,
+          "end": 259.41,
+          "translation": "to"
+        },
+        {
+          "word": "40",
+          "start": 259.41,
+          "end": 260.17,
+          "translation": "40"
+        },
+        {
+          "word": "Palästinenser",
+          "start": 260.17,
+          "end": 261.47,
+          "translation": "Palestinians"
+        },
+        {
+          "word": "töten.",
+          "start": 261.47,
+          "end": 262.53,
+          "translation": "kill."
+        },
+        {
+          "word": "Zuvor",
+          "start": 262.53,
+          "end": 264.33,
+          "translation": "Previously"
+        },
+        {
+          "word": "hatte",
+          "start": 264.33,
+          "end": 265.09,
+          "translation": "had"
+        },
+        {
+          "word": "sich",
+          "start": 265.09,
+          "end": 265.53,
+          "translation": "itself"
+        },
+        {
+          "word": "auch",
+          "start": 265.53,
+          "end": 265.97,
+          "translation": "also"
+        },
+        {
+          "word": "Bundeskanzler",
+          "start": 265.97,
+          "end": 267.39,
+          "translation": "Federal Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 267.39,
+          "end": 268.15,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 268.15,
+          "end": 268.79,
+          "translation": "Merz"
+        },
+        {
+          "word": "empört",
+          "start": 269.39,
+          "end": 270.13,
+          "translation": "indignant"
+        },
+        {
+          "word": "über",
+          "start": 270.13,
+          "end": 271.01,
+          "translation": "about"
+        },
+        {
+          "word": "die",
+          "start": 271.01,
+          "end": 271.29,
+          "translation": "the"
+        },
+        {
+          "word": "Äußerungen",
+          "start": 271.29,
+          "end": 272.11,
+          "translation": "Statements"
+        },
+        {
+          "word": "Ben-Gvirs",
+          "start": 272.11,
+          "end": 273.21,
+          "translation": "Ben-Gvirs"
+        },
+        {
+          "word": "gezeigt.",
+          "start": 273.21,
+          "end": 273.95,
+          "translation": "shown."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Washington verschärft Sanktionen gegen Kuba",
+      "words": [
+        {
+          "word": "Washington",
+          "start": 275.95,
+          "end": 276.81,
+          "translation": "Washington"
+        },
+        {
+          "word": "verschärft",
+          "start": 276.81,
+          "end": 277.95,
+          "translation": "aggravated"
+        },
+        {
+          "word": "Sanktionen",
+          "start": 277.95,
+          "end": 279.21,
+          "translation": "Sanctions"
+        },
+        {
+          "word": "gegen",
+          "start": 279.21,
+          "end": 279.61,
+          "translation": "vs."
+        },
+        {
+          "word": "Kuba",
+          "start": 279.61,
+          "end": 281.77,
+          "translation": "Cuba"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die USA haben neue Sanktionen gegen Kuba verhängt. Die Strafmaßnahmen richten sich nach Angaben des Außenministeriums in Washington unter anderem gegen das kubanische Bauministerium sowie mehrere Staatsunternehmen aus dem Metall- und Bergbausektor. Zudem wurden drei hochrangige Vertreter des Kubanischen Instituts für Völkerfreundschaft auf die Sanktionsliste gesetzt. Kubas Außenminister Bruno Rodríguez warf Washington vor, damit der Wirtschaft und der Versorgung der Bevölkerung zu schaden. US-Präsident Donald Trump hatte den Druck auf Kuba zuletzt deutlich erhöht und unter anderem die Ölversorgung des Inselstaats weitgehend blockiert.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 281.77,
+          "end": 282.39,
+          "translation": "The"
+        },
+        {
+          "word": "USA",
+          "start": 282.39,
+          "end": 283.37,
+          "translation": "USA"
+        },
+        {
+          "word": "haben",
+          "start": 283.37,
+          "end": 284.25,
+          "translation": "have"
+        },
+        {
+          "word": "neue",
+          "start": 284.25,
+          "end": 284.85,
+          "translation": "new"
+        },
+        {
+          "word": "Sanktionen",
+          "start": 284.85,
+          "end": 286.27,
+          "translation": "Sanctions"
+        },
+        {
+          "word": "gegen",
+          "start": 286.27,
+          "end": 286.87,
+          "translation": "vs."
+        },
+        {
+          "word": "Kuba",
+          "start": 286.87,
+          "end": 287.59,
+          "translation": "Cuba"
+        },
+        {
+          "word": "verhängt.",
+          "start": 287.59,
+          "end": 288.41,
+          "translation": "imposed."
+        },
+        {
+          "word": "Die",
+          "start": 288.93,
+          "end": 289.63,
+          "translation": "The"
+        },
+        {
+          "word": "Strafmaßnahmen",
+          "start": 289.63,
+          "end": 291.27,
+          "translation": "Penalties"
+        },
+        {
+          "word": "richten",
+          "start": 291.27,
+          "end": 292.39,
+          "translation": "direct"
+        },
+        {
+          "word": "sich",
+          "start": 292.39,
+          "end": 292.69,
+          "translation": "itself"
+        },
+        {
+          "word": "nach",
+          "start": 292.69,
+          "end": 293.17,
+          "translation": "to"
+        },
+        {
+          "word": "Angaben",
+          "start": 293.17,
+          "end": 294.09,
+          "translation": "Details"
+        },
+        {
+          "word": "des",
+          "start": 294.09,
+          "end": 294.53,
+          "translation": "of the"
+        },
+        {
+          "word": "Außenministeriums",
+          "start": 294.53,
+          "end": 296.25,
+          "translation": "Ministry of Foreign Affairs"
+        },
+        {
+          "word": "in",
+          "start": 296.25,
+          "end": 296.63,
+          "translation": "in"
+        },
+        {
+          "word": "Washington",
+          "start": 296.63,
+          "end": 297.33,
+          "translation": "Washington"
+        },
+        {
+          "word": "unter",
+          "start": 298.29,
+          "end": 298.81,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 298.81,
+          "end": 299.69,
+          "translation": "other"
+        },
+        {
+          "word": "gegen",
+          "start": 299.69,
+          "end": 300.27,
+          "translation": "vs."
+        },
+        {
+          "word": "das",
+          "start": 300.27,
+          "end": 300.81,
+          "translation": "the"
+        },
+        {
+          "word": "kubanische",
+          "start": 300.81,
+          "end": 301.91,
+          "translation": "Cuban"
+        },
+        {
+          "word": "Bauministerium",
+          "start": 301.91,
+          "end": 303.75,
+          "translation": "Department of Construction"
+        },
+        {
+          "word": "sowie",
+          "start": 303.75,
+          "end": 304.99,
+          "translation": "and"
+        },
+        {
+          "word": "mehrere",
+          "start": 304.99,
+          "end": 305.71,
+          "translation": "several"
+        },
+        {
+          "word": "Staatsunternehmen",
+          "start": 305.71,
+          "end": 307.93,
+          "translation": "State-owned enterprise"
+        },
+        {
+          "word": "aus",
+          "start": 307.93,
+          "end": 308.67,
+          "translation": "from"
+        },
+        {
+          "word": "dem",
+          "start": 308.67,
+          "end": 309.05,
+          "translation": "the"
+        },
+        {
+          "word": "Metall-",
+          "start": 309.05,
+          "end": 309.57,
+          "translation": "Metal-"
+        },
+        {
+          "word": "und",
+          "start": 310.23,
+          "end": 310.51,
+          "translation": "and"
+        },
+        {
+          "word": "Bergbausektor.",
+          "start": 310.51,
+          "end": 312.01,
+          "translation": "Mining sector."
+        },
+        {
+          "word": "Zudem",
+          "start": 313.01,
+          "end": 313.97,
+          "translation": "In addition"
+        },
+        {
+          "word": "wurden",
+          "start": 313.97,
+          "end": 314.79,
+          "translation": "were"
+        },
+        {
+          "word": "drei",
+          "start": 314.79,
+          "end": 315.37,
+          "translation": "three"
+        },
+        {
+          "word": "hochrangige",
+          "start": 315.37,
+          "end": 316.57,
+          "translation": "high-ranking"
+        },
+        {
+          "word": "Vertreter",
+          "start": 316.57,
+          "end": 317.53,
+          "translation": "Representative"
+        },
+        {
+          "word": "des",
+          "start": 317.53,
+          "end": 318.33,
+          "translation": "of the"
+        },
+        {
+          "word": "Kubanischen",
+          "start": 318.33,
+          "end": 319.39,
+          "translation": "Cuban"
+        },
+        {
+          "word": "Instituts",
+          "start": 319.39,
+          "end": 321.09,
+          "translation": "Institute"
+        },
+        {
+          "word": "für",
+          "start": 321.09,
+          "end": 321.45,
+          "translation": "for"
+        },
+        {
+          "word": "Völkerfreundschaft",
+          "start": 321.45,
+          "end": 323.03,
+          "translation": "Friendship Among Nations"
+        },
+        {
+          "word": "auf",
+          "start": 323.03,
+          "end": 324.05,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 324.05,
+          "end": 324.45,
+          "translation": "the"
+        },
+        {
+          "word": "Sanktionsliste",
+          "start": 324.45,
+          "end": 326.13,
+          "translation": "Sanctions list"
+        },
+        {
+          "word": "gesetzt.",
+          "start": 326.13,
+          "end": 326.83,
+          "translation": "set."
+        },
+        {
+          "word": "Kubas",
+          "start": 326.83,
+          "end": 329.53,
+          "translation": "Cuba's"
+        },
+        {
+          "word": "Außenminister",
+          "start": 329.53,
+          "end": 330.71,
+          "translation": "Foreign Minister"
+        },
+        {
+          "word": "Bruno",
+          "start": 330.71,
+          "end": 331.41,
+          "translation": "Bruno"
+        },
+        {
+          "word": "Rodríguez",
+          "start": 331.41,
+          "end": 332.31,
+          "translation": "Rodríguez"
+        },
+        {
+          "word": "warf",
+          "start": 332.31,
+          "end": 333.57,
+          "translation": "threw"
+        },
+        {
+          "word": "Washington",
+          "start": 333.57,
+          "end": 334.27,
+          "translation": "Washington"
+        },
+        {
+          "word": "vor,",
+          "start": 334.27,
+          "end": 334.91,
+          "translation": "before,"
+        },
+        {
+          "word": "damit",
+          "start": 335.55,
+          "end": 336.13,
+          "translation": "so that"
+        },
+        {
+          "word": "der",
+          "start": 336.13,
+          "end": 336.55,
+          "translation": "the"
+        },
+        {
+          "word": "Wirtschaft",
+          "start": 336.55,
+          "end": 337.21,
+          "translation": "Economy"
+        },
+        {
+          "word": "und",
+          "start": 337.21,
+          "end": 338.15,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 338.15,
+          "end": 338.63,
+          "translation": "the"
+        },
+        {
+          "word": "Versorgung",
+          "start": 338.63,
+          "end": 339.67,
+          "translation": "Supply"
+        },
+        {
+          "word": "der",
+          "start": 339.67,
+          "end": 339.93,
+          "translation": "the"
+        },
+        {
+          "word": "Bevölkerung",
+          "start": 339.93,
+          "end": 341.11,
+          "translation": "Population"
+        },
+        {
+          "word": "zu",
+          "start": 341.11,
+          "end": 341.67,
+          "translation": "to"
+        },
+        {
+          "word": "schaden.",
+          "start": 341.67,
+          "end": 342.31,
+          "translation": "damage."
+        },
+        {
+          "word": "US-Präsident",
+          "start": 342.31,
+          "end": 345.07,
+          "translation": "US President"
+        },
+        {
+          "word": "Donald",
+          "start": 345.07,
+          "end": 345.53,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 345.53,
+          "end": 346.27,
+          "translation": "Trump"
+        },
+        {
+          "word": "hatte",
+          "start": 346.27,
+          "end": 347.11,
+          "translation": "had"
+        },
+        {
+          "word": "den",
+          "start": 347.11,
+          "end": 347.63,
+          "translation": "the"
+        },
+        {
+          "word": "Druck",
+          "start": 347.63,
+          "end": 347.99,
+          "translation": "Print"
+        },
+        {
+          "word": "auf",
+          "start": 347.99,
+          "end": 348.53,
+          "translation": "on"
+        },
+        {
+          "word": "Kuba",
+          "start": 348.53,
+          "end": 349.01,
+          "translation": "Cuba"
+        },
+        {
+          "word": "zuletzt",
+          "start": 349.01,
+          "end": 350.01,
+          "translation": "last"
+        },
+        {
+          "word": "deutlich",
+          "start": 350.01,
+          "end": 350.83,
+          "translation": "clear"
+        },
+        {
+          "word": "erhöht",
+          "start": 350.83,
+          "end": 351.85,
+          "translation": "increased"
+        },
+        {
+          "word": "und",
+          "start": 351.85,
+          "end": 352.83,
+          "translation": "and"
+        },
+        {
+          "word": "unter",
+          "start": 352.83,
+          "end": 353.43,
+          "translation": "under"
+        },
+        {
+          "word": "anderem",
+          "start": 353.43,
+          "end": 354.17,
+          "translation": "other"
+        },
+        {
+          "word": "die",
+          "start": 354.17,
+          "end": 354.77,
+          "translation": "the"
+        },
+        {
+          "word": "Ölversorgung",
+          "start": 354.77,
+          "end": 356.25,
+          "translation": "Oil supply"
+        },
+        {
+          "word": "des",
+          "start": 356.25,
+          "end": 356.55,
+          "translation": "of the"
+        },
+        {
+          "word": "Inselstaats",
+          "start": 356.55,
+          "end": 357.79,
+          "translation": "Island nations"
+        },
+        {
+          "word": "weitgehend",
+          "start": 357.79,
+          "end": 359.29,
+          "translation": "largely"
+        },
+        {
+          "word": "blockiert.",
+          "start": 359.29,
+          "end": 360.15,
+          "translation": "blocked."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Spanien richtet Flüchtlingslager in Ceuta ein",
+      "words": [
+        {
+          "word": "Spanien",
+          "start": 361.85,
+          "end": 363.25,
+          "translation": "Spain"
+        },
+        {
+          "word": "richtet",
+          "start": 363.25,
+          "end": 363.99,
+          "translation": "directed"
+        },
+        {
+          "word": "Flüchtlingslager",
+          "start": 363.99,
+          "end": 365.43,
+          "translation": "Refugee camp"
+        },
+        {
+          "word": "in",
+          "start": 365.43,
+          "end": 366.03,
+          "translation": "in"
+        },
+        {
+          "word": "Ceuta",
+          "start": 366.03,
+          "end": 366.71,
+          "translation": "Ceuta"
+        },
+        {
+          "word": "ein",
+          "start": 366.71,
+          "end": 367.37,
+          "translation": "a"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die spanische Regierung eröffnet in der bei Marokko gelegenen Exklave Ceuta mehrere Aufnahmelager. Ziel sei es, den rund 1800 verbliebenen Flüchtlingen befristet eine Unterkunft zu bieten, erklärte das Migrationsministerium. Ende Juli hatten nach Angaben der spanischen Behörden etwa 72.000 Migranten Ceuta auf dem Landweg oder schwimmend erreicht. Rund 70.000 von ihnen kehrten wenig später nach Marokko zurück. Viele der verbliebenen Migranten verbringen die Nächte momentan wegen fehlender Unterbringungsmöglichkeiten auf der Straße oder am Strand.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 368.53,
+          "end": 368.77,
+          "translation": "The"
+        },
+        {
+          "word": "spanische",
+          "start": 368.77,
+          "end": 369.71,
+          "translation": "Spanish"
+        },
+        {
+          "word": "Regierung",
+          "start": 369.71,
+          "end": 370.57,
+          "translation": "Government"
+        },
+        {
+          "word": "eröffnet",
+          "start": 370.57,
+          "end": 371.93,
+          "translation": "opened"
+        },
+        {
+          "word": "in",
+          "start": 371.93,
+          "end": 372.47,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 372.47,
+          "end": 372.81,
+          "translation": "the"
+        },
+        {
+          "word": "bei",
+          "start": 372.81,
+          "end": 373.17,
+          "translation": "with"
+        },
+        {
+          "word": "Marokko",
+          "start": 373.17,
+          "end": 374.18,
+          "translation": "Morocco"
+        },
+        {
+          "word": "gelegenen",
+          "start": 374.18,
+          "end": 375.19,
+          "translation": "located"
+        },
+        {
+          "word": "Exklave",
+          "start": 375.19,
+          "end": 376.07,
+          "translation": "Exclave"
+        },
+        {
+          "word": "Ceuta",
+          "start": 376.07,
+          "end": 376.89,
+          "translation": "Ceuta"
+        },
+        {
+          "word": "mehrere",
+          "start": 376.89,
+          "end": 378.23,
+          "translation": "several"
+        },
+        {
+          "word": "Aufnahmelager.",
+          "start": 378.23,
+          "end": 379.15,
+          "translation": "Reception camp."
+        },
+        {
+          "word": "Ziel",
+          "start": 380.15,
+          "end": 381.17,
+          "translation": "Goal"
+        },
+        {
+          "word": "sei",
+          "start": 381.17,
+          "end": 381.61,
+          "translation": "be"
+        },
+        {
+          "word": "es,",
+          "start": 381.61,
+          "end": 382.11,
+          "translation": "it,"
+        },
+        {
+          "word": "den",
+          "start": 382.55,
+          "end": 382.83,
+          "translation": "the"
+        },
+        {
+          "word": "rund",
+          "start": 382.83,
+          "end": 383.21,
+          "translation": "round"
+        },
+        {
+          "word": "1800",
+          "start": 383.21,
+          "end": 384.67,
+          "translation": "1800"
+        },
+        {
+          "word": "verbliebenen",
+          "start": 384.67,
+          "end": 386.61,
+          "translation": "remaining"
+        },
+        {
+          "word": "Flüchtlingen",
+          "start": 386.61,
+          "end": 387.61,
+          "translation": "Refugees"
+        },
+        {
+          "word": "befristet",
+          "start": 387.61,
+          "end": 389.23,
+          "translation": "temporary"
+        },
+        {
+          "word": "eine",
+          "start": 389.75,
+          "end": 389.99,
+          "translation": "one"
+        },
+        {
+          "word": "Unterkunft",
+          "start": 389.99,
+          "end": 390.97,
+          "translation": "Accommodations"
+        },
+        {
+          "word": "zu",
+          "start": 390.97,
+          "end": 391.41,
+          "translation": "to"
+        },
+        {
+          "word": "bieten,",
+          "start": 391.41,
+          "end": 391.91,
+          "translation": "offer,"
+        },
+        {
+          "word": "erklärte",
+          "start": 392.73,
+          "end": 393.53,
+          "translation": "explained"
+        },
+        {
+          "word": "das",
+          "start": 393.53,
+          "end": 393.87,
+          "translation": "the"
+        },
+        {
+          "word": "Migrationsministerium.",
+          "start": 393.87,
+          "end": 396.13,
+          "translation": "Ministry of Migration."
+        },
+        {
+          "word": "Ende",
+          "start": 396.87,
+          "end": 397.57,
+          "translation": "End"
+        },
+        {
+          "word": "Juli",
+          "start": 397.57,
+          "end": 398.43,
+          "translation": "July"
+        },
+        {
+          "word": "hatten",
+          "start": 398.43,
+          "end": 399.03,
+          "translation": "had"
+        },
+        {
+          "word": "nach",
+          "start": 399.03,
+          "end": 399.53,
+          "translation": "to"
+        },
+        {
+          "word": "Angaben",
+          "start": 399.53,
+          "end": 400.39,
+          "translation": "Details"
+        },
+        {
+          "word": "der",
+          "start": 400.39,
+          "end": 400.81,
+          "translation": "the"
+        },
+        {
+          "word": "spanischen",
+          "start": 400.81,
+          "end": 401.63,
+          "translation": "Spanish"
+        },
+        {
+          "word": "Behörden",
+          "start": 401.63,
+          "end": 402.63,
+          "translation": "Authorities"
+        },
+        {
+          "word": "etwa",
+          "start": 402.63,
+          "end": 403.75,
+          "translation": "about"
+        },
+        {
+          "word": "72.000",
+          "start": 403.75,
+          "end": 405.97,
+          "translation": "72,000"
+        },
+        {
+          "word": "Migranten",
+          "start": 405.97,
+          "end": 407.11,
+          "translation": "Migrants"
+        },
+        {
+          "word": "Ceuta",
+          "start": 407.11,
+          "end": 408.01,
+          "translation": "Ceuta"
+        },
+        {
+          "word": "auf",
+          "start": 408.01,
+          "end": 408.65,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 408.65,
+          "end": 408.87,
+          "translation": "the"
+        },
+        {
+          "word": "Landweg",
+          "start": 408.87,
+          "end": 409.69,
+          "translation": "Overland route"
+        },
+        {
+          "word": "oder",
+          "start": 409.69,
+          "end": 410.67,
+          "translation": "or"
+        },
+        {
+          "word": "schwimmend",
+          "start": 410.67,
+          "end": 411.61,
+          "translation": "floating"
+        },
+        {
+          "word": "erreicht.",
+          "start": 411.61,
+          "end": 412.37,
+          "translation": "achieved."
+        },
+        {
+          "word": "Rund",
+          "start": 412.91,
+          "end": 413.61,
+          "translation": "Round"
+        },
+        {
+          "word": "70.000",
+          "start": 413.61,
+          "end": 415.11,
+          "translation": "70,000"
+        },
+        {
+          "word": "von",
+          "start": 415.11,
+          "end": 415.43,
+          "translation": "from"
+        },
+        {
+          "word": "ihnen",
+          "start": 415.43,
+          "end": 415.99,
+          "translation": "them"
+        },
+        {
+          "word": "kehrten",
+          "start": 415.99,
+          "end": 416.89,
+          "translation": "returned"
+        },
+        {
+          "word": "wenig",
+          "start": 416.89,
+          "end": 417.45,
+          "translation": "little"
+        },
+        {
+          "word": "später",
+          "start": 417.45,
+          "end": 418.11,
+          "translation": "later"
+        },
+        {
+          "word": "nach",
+          "start": 418.11,
+          "end": 418.77,
+          "translation": "to"
+        },
+        {
+          "word": "Marokko",
+          "start": 418.77,
+          "end": 419.59,
+          "translation": "Morocco"
+        },
+        {
+          "word": "zurück.",
+          "start": 419.59,
+          "end": 420.27,
+          "translation": "back."
+        },
+        {
+          "word": "Viele",
+          "start": 421.25,
+          "end": 421.89,
+          "translation": "Many"
+        },
+        {
+          "word": "der",
+          "start": 421.89,
+          "end": 422.31,
+          "translation": "the"
+        },
+        {
+          "word": "verbliebenen",
+          "start": 422.31,
+          "end": 423.57,
+          "translation": "remaining"
+        },
+        {
+          "word": "Migranten",
+          "start": 423.57,
+          "end": 424.53,
+          "translation": "Migrants"
+        },
+        {
+          "word": "verbringen",
+          "start": 424.53,
+          "end": 425.51,
+          "translation": "spend"
+        },
+        {
+          "word": "die",
+          "start": 425.51,
+          "end": 425.95,
+          "translation": "the"
+        },
+        {
+          "word": "Nächte",
+          "start": 425.95,
+          "end": 426.51,
+          "translation": "Nights"
+        },
+        {
+          "word": "momentan",
+          "start": 426.51,
+          "end": 427.57,
+          "translation": "at the moment"
+        },
+        {
+          "word": "wegen",
+          "start": 427.57,
+          "end": 428.47,
+          "translation": "because of"
+        },
+        {
+          "word": "fehlender",
+          "start": 428.47,
+          "end": 429.49,
+          "translation": "missing"
+        },
+        {
+          "word": "Unterbringungsmöglichkeiten",
+          "start": 429.49,
+          "end": 432.25,
+          "translation": "Accommodation Options"
+        },
+        {
+          "word": "auf",
+          "start": 432.25,
+          "end": 433.09,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 433.09,
+          "end": 433.33,
+          "translation": "the"
+        },
+        {
+          "word": "Straße",
+          "start": 433.33,
+          "end": 434.03,
+          "translation": "Street"
+        },
+        {
+          "word": "oder",
+          "start": 434.03,
+          "end": 434.97,
+          "translation": "or"
+        },
+        {
+          "word": "am",
+          "start": 434.97,
+          "end": 435.53,
+          "translation": "on"
+        },
+        {
+          "word": "Strand.",
+          "start": 435.53,
+          "end": 436.09,
+          "translation": "Beach."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Bangladesch hat ein neues Staatsoberhaupt",
+      "words": [
+        {
+          "word": "Bangladesch",
+          "start": 436.09,
+          "end": 440.37,
+          "translation": "Bangladesh"
+        },
+        {
+          "word": "hat",
+          "start": 440.37,
+          "end": 440.93,
+          "translation": "has"
+        },
+        {
+          "word": "ein",
+          "start": 440.93,
+          "end": 441.31,
+          "translation": "a"
+        },
+        {
+          "word": "neues",
+          "start": 441.31,
+          "end": 441.71,
+          "translation": "new"
+        },
+        {
+          "word": "Staatsoberhaupt",
+          "start": 441.71,
+          "end": 443.47,
+          "translation": "Head of state"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Das Parlament in Bangladesch hat den früheren Generalsekretär der Regierungspartei zum neuen Staatspräsidenten gewählt. Wegen der Zwei-Drittel-Mehrheit seiner Nationalistischen Partei BNP gewann der 78-jährige Mirza Fakhrul Islam Alamgir die Abstimmung deutlich. Der Präsident spielt in dem südasiatischen Land vor allem eine zeremonielle Rolle jenseits der Tagespolitik. Trotzdem hat die Wahl nach Ansicht von Beobachtern eine große symbolische Bedeutung. Erst im Februar übernahm der langjährige BNP-Vorsitzende Tarique Rahman das Amt des Regierungschefs. Die BNP hatte die Parlamentswahl gewonnen und damit die größte islamistische Partei Bangladeschs, Jamaat-e-Islami, überholt.",
+      "words": [
+        {
+          "word": "Das",
+          "start": 444.01,
+          "end": 445.01,
+          "translation": "The"
+        },
+        {
+          "word": "Parlament",
+          "start": 445.01,
+          "end": 445.67,
+          "translation": "Parliament"
+        },
+        {
+          "word": "in",
+          "start": 445.67,
+          "end": 446.21,
+          "translation": "in"
+        },
+        {
+          "word": "Bangladesch",
+          "start": 446.21,
+          "end": 447.03,
+          "translation": "Bangladesh"
+        },
+        {
+          "word": "hat",
+          "start": 447.03,
+          "end": 447.93,
+          "translation": "has"
+        },
+        {
+          "word": "den",
+          "start": 447.93,
+          "end": 448.29,
+          "translation": "the"
+        },
+        {
+          "word": "früheren",
+          "start": 448.29,
+          "end": 449.23,
+          "translation": "earlier"
+        },
+        {
+          "word": "Generalsekretär",
+          "start": 449.23,
+          "end": 451.01,
+          "translation": "Secretary General"
+        },
+        {
+          "word": "der",
+          "start": 451.01,
+          "end": 451.59,
+          "translation": "the"
+        },
+        {
+          "word": "Regierungspartei",
+          "start": 451.59,
+          "end": 453.25,
+          "translation": "Governing party"
+        },
+        {
+          "word": "zum",
+          "start": 453.25,
+          "end": 453.99,
+          "translation": "to the"
+        },
+        {
+          "word": "neuen",
+          "start": 453.99,
+          "end": 454.55,
+          "translation": "new"
+        },
+        {
+          "word": "Staatspräsidenten",
+          "start": 454.55,
+          "end": 456.45,
+          "translation": "Presidents"
+        },
+        {
+          "word": "gewählt.",
+          "start": 456.45,
+          "end": 457.11,
+          "translation": "elected."
+        },
+        {
+          "word": "Wegen",
+          "start": 457.81,
+          "end": 458.51,
+          "translation": "Because of"
+        },
+        {
+          "word": "der",
+          "start": 458.51,
+          "end": 458.87,
+          "translation": "the"
+        },
+        {
+          "word": "Zwei-Drittel-Mehrheit",
+          "start": 458.87,
+          "end": 460.91,
+          "translation": "Two-thirds majority"
+        },
+        {
+          "word": "seiner",
+          "start": 460.91,
+          "end": 461.35,
+          "translation": "his"
+        },
+        {
+          "word": "Nationalistischen",
+          "start": 461.35,
+          "end": 463.17,
+          "translation": "Nationalist"
+        },
+        {
+          "word": "Partei",
+          "start": 463.17,
+          "end": 464.01,
+          "translation": "Party"
+        },
+        {
+          "word": "BNP",
+          "start": 464.01,
+          "end": 465.55,
+          "translation": "BNP"
+        },
+        {
+          "word": "gewann",
+          "start": 465.55,
+          "end": 466.75,
+          "translation": "won"
+        },
+        {
+          "word": "der",
+          "start": 466.75,
+          "end": 467.15,
+          "translation": "the"
+        },
+        {
+          "word": "78-jährige",
+          "start": 467.15,
+          "end": 468.64,
+          "translation": "78-year-old"
+        },
+        {
+          "word": "Mirza",
+          "start": 468.64,
+          "end": 470.14,
+          "translation": "Mirza"
+        },
+        {
+          "word": "Fakhrul",
+          "start": 470.14,
+          "end": 471.63,
+          "translation": "Fakhrul"
+        },
+        {
+          "word": "Islam",
+          "start": 471.63,
+          "end": 472.53,
+          "translation": "Islam"
+        },
+        {
+          "word": "Alamgir",
+          "start": 472.53,
+          "end": 473.87,
+          "translation": "Alamgir"
+        },
+        {
+          "word": "die",
+          "start": 473.87,
+          "end": 474.71,
+          "translation": "the"
+        },
+        {
+          "word": "Abstimmung",
+          "start": 474.71,
+          "end": 475.57,
+          "translation": "Voting"
+        },
+        {
+          "word": "deutlich.",
+          "start": 475.57,
+          "end": 476.37,
+          "translation": "clearly."
+        },
+        {
+          "word": "Der",
+          "start": 477.15,
+          "end": 477.83,
+          "translation": "The"
+        },
+        {
+          "word": "Präsident",
+          "start": 477.83,
+          "end": 478.59,
+          "translation": "President"
+        },
+        {
+          "word": "spielt",
+          "start": 478.59,
+          "end": 479.65,
+          "translation": "plays"
+        },
+        {
+          "word": "in",
+          "start": 479.65,
+          "end": 480.07,
+          "translation": "in"
+        },
+        {
+          "word": "dem",
+          "start": 480.07,
+          "end": 480.33,
+          "translation": "the"
+        },
+        {
+          "word": "südasiatischen",
+          "start": 480.33,
+          "end": 481.93,
+          "translation": "South Asian"
+        },
+        {
+          "word": "Land",
+          "start": 481.93,
+          "end": 482.43,
+          "translation": "Country"
+        },
+        {
+          "word": "vor",
+          "start": 482.43,
+          "end": 483.13,
+          "translation": "before"
+        },
+        {
+          "word": "allem",
+          "start": 483.13,
+          "end": 483.61,
+          "translation": "all"
+        },
+        {
+          "word": "eine",
+          "start": 483.61,
+          "end": 484.21,
+          "translation": "one"
+        },
+        {
+          "word": "zeremonielle",
+          "start": 484.21,
+          "end": 485.69,
+          "translation": "ceremonial"
+        },
+        {
+          "word": "Rolle",
+          "start": 485.69,
+          "end": 486.17,
+          "translation": "Role"
+        },
+        {
+          "word": "jenseits",
+          "start": 486.73,
+          "end": 487.35,
+          "translation": "beyond"
+        },
+        {
+          "word": "der",
+          "start": 487.35,
+          "end": 487.79,
+          "translation": "the"
+        },
+        {
+          "word": "Tagespolitik.",
+          "start": 487.79,
+          "end": 489.03,
+          "translation": "Current affairs."
+        },
+        {
+          "word": "Trotzdem",
+          "start": 490.37,
+          "end": 491.05,
+          "translation": "Nevertheless"
+        },
+        {
+          "word": "hat",
+          "start": 491.05,
+          "end": 491.51,
+          "translation": "has"
+        },
+        {
+          "word": "die",
+          "start": 491.51,
+          "end": 491.83,
+          "translation": "the"
+        },
+        {
+          "word": "Wahl",
+          "start": 491.83,
+          "end": 492.21,
+          "translation": "Choice"
+        },
+        {
+          "word": "nach",
+          "start": 492.21,
+          "end": 492.87,
+          "translation": "to"
+        },
+        {
+          "word": "Ansicht",
+          "start": 492.87,
+          "end": 493.63,
+          "translation": "View"
+        },
+        {
+          "word": "von",
+          "start": 493.63,
+          "end": 494.01,
+          "translation": "from"
+        },
+        {
+          "word": "Beobachtern",
+          "start": 494.01,
+          "end": 495.19,
+          "translation": "Observers"
+        },
+        {
+          "word": "eine",
+          "start": 495.19,
+          "end": 495.99,
+          "translation": "one"
+        },
+        {
+          "word": "große",
+          "start": 495.99,
+          "end": 496.75,
+          "translation": "large"
+        },
+        {
+          "word": "symbolische",
+          "start": 496.75,
+          "end": 497.91,
+          "translation": "symbolic"
+        },
+        {
+          "word": "Bedeutung.",
+          "start": 497.91,
+          "end": 498.85,
+          "translation": "Meaning."
+        },
+        {
+          "word": "Erst",
+          "start": 499.23,
+          "end": 499.93,
+          "translation": "First"
+        },
+        {
+          "word": "im",
+          "start": 499.93,
+          "end": 500.29,
+          "translation": "in the"
+        },
+        {
+          "word": "Februar",
+          "start": 500.29,
+          "end": 501.31,
+          "translation": "february"
+        },
+        {
+          "word": "übernahm",
+          "start": 501.31,
+          "end": 502.51,
+          "translation": "taken over"
+        },
+        {
+          "word": "der",
+          "start": 502.51,
+          "end": 502.75,
+          "translation": "the"
+        },
+        {
+          "word": "langjährige",
+          "start": 502.75,
+          "end": 503.89,
+          "translation": "longstanding"
+        },
+        {
+          "word": "BNP-Vorsitzende",
+          "start": 503.89,
+          "end": 505.3,
+          "translation": "BNP Chairwoman"
+        },
+        {
+          "word": "Tarique",
+          "start": 505.3,
+          "end": 506.7,
+          "translation": "Tarique"
+        },
+        {
+          "word": "Rahman",
+          "start": 506.7,
+          "end": 508.11,
+          "translation": "Rahman"
+        },
+        {
+          "word": "das",
+          "start": 508.11,
+          "end": 509.15,
+          "translation": "the"
+        },
+        {
+          "word": "Amt",
+          "start": 509.15,
+          "end": 509.73,
+          "translation": "Office"
+        },
+        {
+          "word": "des",
+          "start": 509.73,
+          "end": 510.05,
+          "translation": "of the"
+        },
+        {
+          "word": "Regierungschefs.",
+          "start": 510.05,
+          "end": 511.33,
+          "translation": "Heads of government."
+        },
+        {
+          "word": "Die",
+          "start": 512.41,
+          "end": 512.67,
+          "translation": "The"
+        },
+        {
+          "word": "BNP",
+          "start": 512.67,
+          "end": 513.91,
+          "translation": "BNP"
+        },
+        {
+          "word": "hatte",
+          "start": 513.91,
+          "end": 514.67,
+          "translation": "had"
+        },
+        {
+          "word": "die",
+          "start": 514.67,
+          "end": 515.13,
+          "translation": "the"
+        },
+        {
+          "word": "Parlamentswahl",
+          "start": 515.13,
+          "end": 516.35,
+          "translation": "Parliamentary election"
+        },
+        {
+          "word": "gewonnen",
+          "start": 516.35,
+          "end": 517.01,
+          "translation": "won"
+        },
+        {
+          "word": "und",
+          "start": 517.01,
+          "end": 518.05,
+          "translation": "and"
+        },
+        {
+          "word": "damit",
+          "start": 518.05,
+          "end": 518.65,
+          "translation": "so that"
+        },
+        {
+          "word": "die",
+          "start": 518.65,
+          "end": 519.03,
+          "translation": "the"
+        },
+        {
+          "word": "größte",
+          "start": 519.03,
+          "end": 519.87,
+          "translation": "largest"
+        },
+        {
+          "word": "islamistische",
+          "start": 519.87,
+          "end": 521.19,
+          "translation": "Islamist"
+        },
+        {
+          "word": "Partei",
+          "start": 521.19,
+          "end": 521.97,
+          "translation": "Party"
+        },
+        {
+          "word": "Bangladeschs,",
+          "start": 521.97,
+          "end": 524.13,
+          "translation": "Bangladesh's,"
+        },
+        {
+          "word": "Jamaat-e-Islami,",
+          "start": 524.13,
+          "end": 526.29,
+          "translation": "Jamaat-e-Islami,"
+        },
+        {
+          "word": "überholt.",
+          "start": 526.29,
+          "end": 527.01,
+          "translation": "overhauled."
+        }
+      ]
+    }
+  ]
+}
