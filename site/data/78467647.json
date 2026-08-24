@@ -1,0 +1,3700 @@
+{
+  "id": 78467647,
+  "title": "22.08.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-08-22",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/D59C1851_2.mp3",
+  "duration": 545,
+  "imageUrl": "https://static.dw.com/image/78094012_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Neue US-Zölle gegen Kanada in Kraft getreten",
+      "words": [
+        {
+          "word": "Neue",
+          "start": 19.0,
+          "end": 19.84,
+          "translation": "New"
+        },
+        {
+          "word": "US-Zölle",
+          "start": 19.84,
+          "end": 21.1,
+          "translation": "US tariffs"
+        },
+        {
+          "word": "gegen",
+          "start": 21.1,
+          "end": 21.64,
+          "translation": "vs."
+        },
+        {
+          "word": "Kanada",
+          "start": 21.64,
+          "end": 22.42,
+          "translation": "Canada"
+        },
+        {
+          "word": "in",
+          "start": 22.42,
+          "end": 22.88,
+          "translation": "in"
+        },
+        {
+          "word": "Kraft",
+          "start": 22.88,
+          "end": 23.4,
+          "translation": "Power"
+        },
+        {
+          "word": "getreten",
+          "start": 23.4,
+          "end": 24.3,
+          "translation": "kicked"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Im Zollstreit zwischen den USA und Kanada haben sich beide Seiten nicht auf ein Handelsabkommen einigen können. Die US-Regierung kündigte daraufhin Strafzölle in Höhe von 50 Prozent ‌auf ⁠bestimmte Importe ⁠aus dem nördlichen Nachbarland an. Betroffen sind kanadische Waren im Wert von ​rund 28 Milliarden US-Dollar. Die Zölle traten an diesem Samstag kurz ​nach Mitternacht in Kraft. Der US-Handelsbeauftragte Jamieson Greer machte die Regierung in Ottawa für das Scheitern verantwortlich. Dagegen erklärte der kanadische Premierminister Mark Carney, die von den USA vorgelegten Konditionen seien „unfair“ gewesen. Er kündigte an, sein Land werde mit Gegenzöllen auf US-Produkte reagieren.",
+      "words": [
+        {
+          "word": "Im",
+          "start": 24.96,
+          "end": 25.18,
+          "translation": "In the"
+        },
+        {
+          "word": "Zollstreit",
+          "start": 25.18,
+          "end": 26.36,
+          "translation": "Customs dispute"
+        },
+        {
+          "word": "zwischen",
+          "start": 26.36,
+          "end": 26.84,
+          "translation": "between"
+        },
+        {
+          "word": "den",
+          "start": 26.84,
+          "end": 27.14,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 27.14,
+          "end": 27.74,
+          "translation": "USA"
+        },
+        {
+          "word": "und",
+          "start": 27.74,
+          "end": 28.8,
+          "translation": "and"
+        },
+        {
+          "word": "Kanada",
+          "start": 28.8,
+          "end": 29.54,
+          "translation": "Canada"
+        },
+        {
+          "word": "haben",
+          "start": 29.54,
+          "end": 30.54,
+          "translation": "have"
+        },
+        {
+          "word": "sich",
+          "start": 30.54,
+          "end": 30.98,
+          "translation": "itself"
+        },
+        {
+          "word": "beide",
+          "start": 30.98,
+          "end": 31.6,
+          "translation": "both"
+        },
+        {
+          "word": "Seiten",
+          "start": 31.6,
+          "end": 32.32,
+          "translation": "Pages"
+        },
+        {
+          "word": "nicht",
+          "start": 32.32,
+          "end": 32.88,
+          "translation": "not"
+        },
+        {
+          "word": "auf",
+          "start": 32.88,
+          "end": 33.46,
+          "translation": "on"
+        },
+        {
+          "word": "ein",
+          "start": 33.46,
+          "end": 33.84,
+          "translation": "a"
+        },
+        {
+          "word": "Handelsabkommen",
+          "start": 33.84,
+          "end": 35.32,
+          "translation": "Trade agreement"
+        },
+        {
+          "word": "einigen",
+          "start": 35.32,
+          "end": 36.3,
+          "translation": "some"
+        },
+        {
+          "word": "können.",
+          "start": 36.3,
+          "end": 36.86,
+          "translation": "can."
+        },
+        {
+          "word": "Die",
+          "start": 37.32,
+          "end": 38.02,
+          "translation": "The"
+        },
+        {
+          "word": "US-Regierung",
+          "start": 38.02,
+          "end": 39.56,
+          "translation": "US government"
+        },
+        {
+          "word": "kündigte",
+          "start": 39.56,
+          "end": 40.74,
+          "translation": "announced"
+        },
+        {
+          "word": "daraufhin",
+          "start": 40.74,
+          "end": 41.88,
+          "translation": "thereupon"
+        },
+        {
+          "word": "Strafzölle",
+          "start": 41.88,
+          "end": 43.48,
+          "translation": "Punitive tariffs"
+        },
+        {
+          "word": "in",
+          "start": 43.48,
+          "end": 44.22,
+          "translation": "in"
+        },
+        {
+          "word": "Höhe",
+          "start": 44.22,
+          "end": 44.68,
+          "translation": "Height"
+        },
+        {
+          "word": "von",
+          "start": 44.68,
+          "end": 45.0,
+          "translation": "from"
+        },
+        {
+          "word": "50",
+          "start": 45.0,
+          "end": 45.84,
+          "translation": "50"
+        },
+        {
+          "word": "Prozent",
+          "start": 45.84,
+          "end": 46.66,
+          "translation": "Percent"
+        },
+        {
+          "word": "‌auf",
+          "start": 46.66,
+          "end": 47.62,
+          "translation": "‌on"
+        },
+        {
+          "word": "⁠bestimmte",
+          "start": 47.62,
+          "end": 48.64,
+          "translation": "⁠certain"
+        },
+        {
+          "word": "Importe",
+          "start": 48.64,
+          "end": 49.52,
+          "translation": "Imports"
+        },
+        {
+          "word": "⁠aus",
+          "start": 49.52,
+          "end": 50.44,
+          "translation": "from"
+        },
+        {
+          "word": "dem",
+          "start": 50.44,
+          "end": 50.76,
+          "translation": "the"
+        },
+        {
+          "word": "nördlichen",
+          "start": 50.76,
+          "end": 51.66,
+          "translation": "northern"
+        },
+        {
+          "word": "Nachbarland",
+          "start": 51.66,
+          "end": 52.86,
+          "translation": "Neighboring country"
+        },
+        {
+          "word": "an.",
+          "start": 52.86,
+          "end": 53.36,
+          "translation": "to."
+        },
+        {
+          "word": "Betroffen",
+          "start": 54.18,
+          "end": 55.16,
+          "translation": "Affected"
+        },
+        {
+          "word": "sind",
+          "start": 55.16,
+          "end": 56.14,
+          "translation": "are"
+        },
+        {
+          "word": "kanadische",
+          "start": 56.14,
+          "end": 57.2,
+          "translation": "Canadian"
+        },
+        {
+          "word": "Waren",
+          "start": 57.2,
+          "end": 57.94,
+          "translation": "Goods"
+        },
+        {
+          "word": "im",
+          "start": 57.94,
+          "end": 58.62,
+          "translation": "in the"
+        },
+        {
+          "word": "Wert",
+          "start": 58.62,
+          "end": 58.98,
+          "translation": "Value"
+        },
+        {
+          "word": "von",
+          "start": 58.98,
+          "end": 59.44,
+          "translation": "from"
+        },
+        {
+          "word": "​rund",
+          "start": 59.44,
+          "end": 59.78,
+          "translation": "​around"
+        },
+        {
+          "word": "28",
+          "start": 59.78,
+          "end": 60.98,
+          "translation": "28"
+        },
+        {
+          "word": "Milliarden",
+          "start": 60.98,
+          "end": 61.98,
+          "translation": "billion"
+        },
+        {
+          "word": "US-Dollar.",
+          "start": 61.98,
+          "end": 63.96,
+          "translation": "US dollar."
+        },
+        {
+          "word": "Die",
+          "start": 63.96,
+          "end": 64.96,
+          "translation": "The"
+        },
+        {
+          "word": "Zölle",
+          "start": 64.96,
+          "end": 65.56,
+          "translation": "Customs duties"
+        },
+        {
+          "word": "traten",
+          "start": 65.56,
+          "end": 66.24,
+          "translation": "stepped"
+        },
+        {
+          "word": "an",
+          "start": 66.24,
+          "end": 66.62,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 66.62,
+          "end": 67.26,
+          "translation": "this"
+        },
+        {
+          "word": "Samstag",
+          "start": 67.26,
+          "end": 68.12,
+          "translation": "Saturday"
+        },
+        {
+          "word": "kurz",
+          "start": 68.12,
+          "end": 68.96,
+          "translation": "short"
+        },
+        {
+          "word": "​nach",
+          "start": 68.96,
+          "end": 69.56,
+          "translation": "to"
+        },
+        {
+          "word": "Mitternacht",
+          "start": 69.56,
+          "end": 70.44,
+          "translation": "Midnight"
+        },
+        {
+          "word": "in",
+          "start": 70.44,
+          "end": 70.98,
+          "translation": "in"
+        },
+        {
+          "word": "Kraft.",
+          "start": 70.98,
+          "end": 71.5,
+          "translation": "Power."
+        },
+        {
+          "word": "Der",
+          "start": 72.6,
+          "end": 73.04,
+          "translation": "The"
+        },
+        {
+          "word": "US-Handelsbeauftragte",
+          "start": 73.04,
+          "end": 74.6,
+          "translation": "U.S. Trade Representative"
+        },
+        {
+          "word": "Jamieson",
+          "start": 74.6,
+          "end": 76.16,
+          "translation": "Jamieson"
+        },
+        {
+          "word": "Greer",
+          "start": 76.16,
+          "end": 77.72,
+          "translation": "Greer"
+        },
+        {
+          "word": "machte",
+          "start": 77.72,
+          "end": 79.08,
+          "translation": "made"
+        },
+        {
+          "word": "die",
+          "start": 79.08,
+          "end": 79.4,
+          "translation": "the"
+        },
+        {
+          "word": "Regierung",
+          "start": 79.4,
+          "end": 80.16,
+          "translation": "Government"
+        },
+        {
+          "word": "in",
+          "start": 80.16,
+          "end": 80.7,
+          "translation": "in"
+        },
+        {
+          "word": "Ottawa",
+          "start": 80.7,
+          "end": 81.42,
+          "translation": "Ottawa"
+        },
+        {
+          "word": "für",
+          "start": 81.42,
+          "end": 82.26,
+          "translation": "for"
+        },
+        {
+          "word": "das",
+          "start": 82.26,
+          "end": 82.6,
+          "translation": "the"
+        },
+        {
+          "word": "Scheitern",
+          "start": 82.6,
+          "end": 83.36,
+          "translation": "Failure"
+        },
+        {
+          "word": "verantwortlich.",
+          "start": 83.36,
+          "end": 84.82,
+          "translation": "responsible."
+        },
+        {
+          "word": "Dagegen",
+          "start": 84.82,
+          "end": 86.44,
+          "translation": "On the other hand"
+        },
+        {
+          "word": "erklärte",
+          "start": 86.44,
+          "end": 87.5,
+          "translation": "explained"
+        },
+        {
+          "word": "der",
+          "start": 87.5,
+          "end": 87.86,
+          "translation": "the"
+        },
+        {
+          "word": "kanadische",
+          "start": 87.86,
+          "end": 89.0,
+          "translation": "Canadian"
+        },
+        {
+          "word": "Premierminister",
+          "start": 89.0,
+          "end": 90.52,
+          "translation": "Prime Minister"
+        },
+        {
+          "word": "Mark",
+          "start": 90.52,
+          "end": 91.38,
+          "translation": "Mark"
+        },
+        {
+          "word": "Carney,",
+          "start": 91.38,
+          "end": 92.64,
+          "translation": "Carney,"
+        },
+        {
+          "word": "die",
+          "start": 92.64,
+          "end": 92.96,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 92.96,
+          "end": 93.32,
+          "translation": "from"
+        },
+        {
+          "word": "den",
+          "start": 93.32,
+          "end": 93.62,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 93.62,
+          "end": 94.46,
+          "translation": "USA"
+        },
+        {
+          "word": "vorgelegten",
+          "start": 94.46,
+          "end": 96.2,
+          "translation": "presented"
+        },
+        {
+          "word": "Konditionen",
+          "start": 96.2,
+          "end": 97.96,
+          "translation": "Terms and conditions"
+        },
+        {
+          "word": "seien",
+          "start": 97.96,
+          "end": 98.62,
+          "translation": "be"
+        },
+        {
+          "word": "„unfair“",
+          "start": 98.62,
+          "end": 99.46,
+          "translation": "\"unfair\""
+        },
+        {
+          "word": "gewesen.",
+          "start": 99.46,
+          "end": 100.32,
+          "translation": "been."
+        },
+        {
+          "word": "Er",
+          "start": 101.0,
+          "end": 101.38,
+          "translation": "He"
+        },
+        {
+          "word": "kündigte",
+          "start": 101.38,
+          "end": 102.08,
+          "translation": "announced"
+        },
+        {
+          "word": "an,",
+          "start": 102.08,
+          "end": 102.5,
+          "translation": "to,"
+        },
+        {
+          "word": "sein",
+          "start": 103.04,
+          "end": 103.36,
+          "translation": "be"
+        },
+        {
+          "word": "Land",
+          "start": 103.36,
+          "end": 103.9,
+          "translation": "Country"
+        },
+        {
+          "word": "werde",
+          "start": 103.9,
+          "end": 104.5,
+          "translation": "will"
+        },
+        {
+          "word": "mit",
+          "start": 104.5,
+          "end": 104.84,
+          "translation": "with"
+        },
+        {
+          "word": "Gegenzöllen",
+          "start": 104.84,
+          "end": 105.92,
+          "translation": "Countervailing duties"
+        },
+        {
+          "word": "auf",
+          "start": 105.92,
+          "end": 106.52,
+          "translation": "on"
+        },
+        {
+          "word": "US-Produkte",
+          "start": 106.52,
+          "end": 108.14,
+          "translation": "U.S. Products"
+        },
+        {
+          "word": "reagieren.",
+          "start": 108.14,
+          "end": 109.32,
+          "translation": "respond."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Russland greift Einkaufszentrum in Ukraine an",
+      "words": [
+        {
+          "word": "Russland",
+          "start": 110.32,
+          "end": 111.26,
+          "translation": "Russia"
+        },
+        {
+          "word": "greift",
+          "start": 111.26,
+          "end": 111.82,
+          "translation": "grabs"
+        },
+        {
+          "word": "Einkaufszentrum",
+          "start": 111.82,
+          "end": 113.46,
+          "translation": "Shopping Center"
+        },
+        {
+          "word": "in",
+          "start": 113.46,
+          "end": 113.9,
+          "translation": "in"
+        },
+        {
+          "word": "Ukraine",
+          "start": 113.9,
+          "end": 114.62,
+          "translation": "Ukraine"
+        },
+        {
+          "word": "an",
+          "start": 114.62,
+          "end": 115.5,
+          "translation": "on"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Bei einem russischen Drohnenangriff sind in der ukrainischen Großstadt Krywyj Rih mindestens 16 Menschen in einem Einkaufszentrum getötet worden. Mehr als 130 Menschen wurden nach Behördenangaben verletzt. Unter ihnen seien viele Schwerverletzte und über 20 Kinder, hieß es weiter. Präsident Wolodymyr Selenskyj sprach in sozialen Medien von einem „absolut zynischen und hinterhältigen Angriff auf ein gewöhnliches Einkaufszentrum“. Nach seinen Angaben gab es zwei Angriffswellen. „Eine halbe Stunde nach dem ersten Treffer und dem Ausbruch eines Brandes folgte ein erneuter Angriff auf die Rettungskräfte“, berichtete er. Krywyj Rih, die Heimatstadt von Selenskyj, liegt rund 350 Kilometer südöstlich der ukrainischen Hauptstadt Kyjiw.",
+      "words": [
+        {
+          "word": "Bei",
+          "start": 116.12,
+          "end": 116.44,
+          "translation": "With"
+        },
+        {
+          "word": "einem",
+          "start": 116.44,
+          "end": 116.98,
+          "translation": "one"
+        },
+        {
+          "word": "russischen",
+          "start": 116.98,
+          "end": 117.82,
+          "translation": "russian"
+        },
+        {
+          "word": "Drohnenangriff",
+          "start": 117.82,
+          "end": 119.44,
+          "translation": "Drone attack"
+        },
+        {
+          "word": "sind",
+          "start": 119.44,
+          "end": 119.88,
+          "translation": "are"
+        },
+        {
+          "word": "in",
+          "start": 119.88,
+          "end": 120.22,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 120.22,
+          "end": 120.46,
+          "translation": "the"
+        },
+        {
+          "word": "ukrainischen",
+          "start": 120.46,
+          "end": 121.8,
+          "translation": "Ukrainian"
+        },
+        {
+          "word": "Großstadt",
+          "start": 121.8,
+          "end": 122.74,
+          "translation": "Big city"
+        },
+        {
+          "word": "Krywyj",
+          "start": 122.74,
+          "end": 123.45,
+          "translation": "Kryvyj"
+        },
+        {
+          "word": "Rih",
+          "start": 123.45,
+          "end": 124.16,
+          "translation": "Rih"
+        },
+        {
+          "word": "mindestens",
+          "start": 124.16,
+          "end": 125.64,
+          "translation": "at least"
+        },
+        {
+          "word": "16",
+          "start": 125.64,
+          "end": 126.32,
+          "translation": "16"
+        },
+        {
+          "word": "Menschen",
+          "start": 126.32,
+          "end": 127.22,
+          "translation": "People"
+        },
+        {
+          "word": "in",
+          "start": 127.22,
+          "end": 127.84,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 127.84,
+          "end": 128.22,
+          "translation": "one"
+        },
+        {
+          "word": "Einkaufszentrum",
+          "start": 128.22,
+          "end": 130.2,
+          "translation": "Shopping Center"
+        },
+        {
+          "word": "getötet",
+          "start": 130.2,
+          "end": 131.24,
+          "translation": "killed"
+        },
+        {
+          "word": "worden.",
+          "start": 131.24,
+          "end": 131.78,
+          "translation": "been."
+        },
+        {
+          "word": "Mehr",
+          "start": 132.24,
+          "end": 132.94,
+          "translation": "More"
+        },
+        {
+          "word": "als",
+          "start": 132.94,
+          "end": 133.46,
+          "translation": "as"
+        },
+        {
+          "word": "130",
+          "start": 133.46,
+          "end": 134.58,
+          "translation": "130"
+        },
+        {
+          "word": "Menschen",
+          "start": 134.58,
+          "end": 135.7,
+          "translation": "People"
+        },
+        {
+          "word": "wurden",
+          "start": 135.7,
+          "end": 136.6,
+          "translation": "were"
+        },
+        {
+          "word": "nach",
+          "start": 136.6,
+          "end": 137.06,
+          "translation": "to"
+        },
+        {
+          "word": "Behördenangaben",
+          "start": 137.06,
+          "end": 138.88,
+          "translation": "Authority information"
+        },
+        {
+          "word": "verletzt.",
+          "start": 138.88,
+          "end": 139.86,
+          "translation": "injured."
+        },
+        {
+          "word": "Unter",
+          "start": 140.52,
+          "end": 141.16,
+          "translation": "Under"
+        },
+        {
+          "word": "ihnen",
+          "start": 141.16,
+          "end": 141.7,
+          "translation": "them"
+        },
+        {
+          "word": "seien",
+          "start": 141.7,
+          "end": 142.54,
+          "translation": "be"
+        },
+        {
+          "word": "viele",
+          "start": 142.54,
+          "end": 143.04,
+          "translation": "many"
+        },
+        {
+          "word": "Schwerverletzte",
+          "start": 143.04,
+          "end": 144.5,
+          "translation": "Seriously Injured"
+        },
+        {
+          "word": "und",
+          "start": 144.5,
+          "end": 145.26,
+          "translation": "and"
+        },
+        {
+          "word": "über",
+          "start": 145.26,
+          "end": 145.84,
+          "translation": "about"
+        },
+        {
+          "word": "20",
+          "start": 145.84,
+          "end": 146.62,
+          "translation": "20"
+        },
+        {
+          "word": "Kinder,",
+          "start": 146.62,
+          "end": 147.34,
+          "translation": "Children,"
+        },
+        {
+          "word": "hieß",
+          "start": 147.34,
+          "end": 148.26,
+          "translation": "was called"
+        },
+        {
+          "word": "es",
+          "start": 148.26,
+          "end": 148.56,
+          "translation": "it"
+        },
+        {
+          "word": "weiter.",
+          "start": 148.56,
+          "end": 149.1,
+          "translation": "continue."
+        },
+        {
+          "word": "Präsident",
+          "start": 150.02,
+          "end": 150.72,
+          "translation": "President"
+        },
+        {
+          "word": "Wolodymyr",
+          "start": 150.72,
+          "end": 151.74,
+          "translation": "Volodymyr"
+        },
+        {
+          "word": "Selenskyj",
+          "start": 151.74,
+          "end": 152.76,
+          "translation": "Selensky"
+        },
+        {
+          "word": "sprach",
+          "start": 152.76,
+          "end": 153.9,
+          "translation": "spoke"
+        },
+        {
+          "word": "in",
+          "start": 153.9,
+          "end": 154.28,
+          "translation": "in"
+        },
+        {
+          "word": "sozialen",
+          "start": 154.28,
+          "end": 155.44,
+          "translation": "social"
+        },
+        {
+          "word": "Medien",
+          "start": 155.44,
+          "end": 155.92,
+          "translation": "Media"
+        },
+        {
+          "word": "von",
+          "start": 155.92,
+          "end": 156.66,
+          "translation": "from"
+        },
+        {
+          "word": "einem",
+          "start": 156.66,
+          "end": 157.26,
+          "translation": "one"
+        },
+        {
+          "word": "„absolut",
+          "start": 157.26,
+          "end": 158.24,
+          "translation": "\"absolutely"
+        },
+        {
+          "word": "zynischen",
+          "start": 158.24,
+          "end": 159.48,
+          "translation": "cynical"
+        },
+        {
+          "word": "und",
+          "start": 159.48,
+          "end": 160.24,
+          "translation": "and"
+        },
+        {
+          "word": "hinterhältigen",
+          "start": 160.24,
+          "end": 161.62,
+          "translation": "underhanded"
+        },
+        {
+          "word": "Angriff",
+          "start": 161.62,
+          "end": 162.3,
+          "translation": "Attack"
+        },
+        {
+          "word": "auf",
+          "start": 162.3,
+          "end": 163.12,
+          "translation": "on"
+        },
+        {
+          "word": "ein",
+          "start": 163.12,
+          "end": 163.58,
+          "translation": "a"
+        },
+        {
+          "word": "gewöhnliches",
+          "start": 163.58,
+          "end": 164.88,
+          "translation": "ordinary"
+        },
+        {
+          "word": "Einkaufszentrum“.",
+          "start": 164.88,
+          "end": 166.36,
+          "translation": "\"Shopping Center.\""
+        },
+        {
+          "word": "Nach",
+          "start": 166.92,
+          "end": 167.62,
+          "translation": "After"
+        },
+        {
+          "word": "seinen",
+          "start": 167.62,
+          "end": 168.28,
+          "translation": "his"
+        },
+        {
+          "word": "Angaben",
+          "start": 168.28,
+          "end": 169.2,
+          "translation": "Details"
+        },
+        {
+          "word": "gab",
+          "start": 169.2,
+          "end": 169.6,
+          "translation": "gave"
+        },
+        {
+          "word": "es",
+          "start": 169.6,
+          "end": 170.06,
+          "translation": "it"
+        },
+        {
+          "word": "zwei",
+          "start": 170.06,
+          "end": 170.66,
+          "translation": "two"
+        },
+        {
+          "word": "Angriffswellen.",
+          "start": 170.66,
+          "end": 172.18,
+          "translation": "Waves of attacks."
+        },
+        {
+          "word": "„Eine",
+          "start": 173.02,
+          "end": 173.36,
+          "translation": "\"A"
+        },
+        {
+          "word": "halbe",
+          "start": 173.36,
+          "end": 173.94,
+          "translation": "half"
+        },
+        {
+          "word": "Stunde",
+          "start": 173.94,
+          "end": 174.5,
+          "translation": "Hour"
+        },
+        {
+          "word": "nach",
+          "start": 174.5,
+          "end": 175.2,
+          "translation": "to"
+        },
+        {
+          "word": "dem",
+          "start": 175.2,
+          "end": 175.58,
+          "translation": "the"
+        },
+        {
+          "word": "ersten",
+          "start": 175.58,
+          "end": 176.22,
+          "translation": "first"
+        },
+        {
+          "word": "Treffer",
+          "start": 176.22,
+          "end": 176.94,
+          "translation": "Hits"
+        },
+        {
+          "word": "und",
+          "start": 176.94,
+          "end": 177.74,
+          "translation": "and"
+        },
+        {
+          "word": "dem",
+          "start": 177.74,
+          "end": 178.18,
+          "translation": "the"
+        },
+        {
+          "word": "Ausbruch",
+          "start": 178.18,
+          "end": 179.08,
+          "translation": "Breakout"
+        },
+        {
+          "word": "eines",
+          "start": 179.08,
+          "end": 179.52,
+          "translation": "one"
+        },
+        {
+          "word": "Brandes",
+          "start": 179.52,
+          "end": 180.5,
+          "translation": "Brandes"
+        },
+        {
+          "word": "folgte",
+          "start": 180.5,
+          "end": 181.72,
+          "translation": "followed"
+        },
+        {
+          "word": "ein",
+          "start": 181.72,
+          "end": 182.24,
+          "translation": "a"
+        },
+        {
+          "word": "erneuter",
+          "start": 182.24,
+          "end": 183.0,
+          "translation": "once again"
+        },
+        {
+          "word": "Angriff",
+          "start": 183.0,
+          "end": 183.78,
+          "translation": "Attack"
+        },
+        {
+          "word": "auf",
+          "start": 183.78,
+          "end": 184.58,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 184.58,
+          "end": 184.92,
+          "translation": "the"
+        },
+        {
+          "word": "Rettungskräfte“,",
+          "start": 184.92,
+          "end": 186.14,
+          "translation": "\"Rescue workers,\""
+        },
+        {
+          "word": "berichtete",
+          "start": 186.88,
+          "end": 187.56,
+          "translation": "reported"
+        },
+        {
+          "word": "er.",
+          "start": 187.56,
+          "end": 187.98,
+          "translation": "he."
+        },
+        {
+          "word": "Krywyj",
+          "start": 187.98,
+          "end": 189.1,
+          "translation": "Kryvyj"
+        },
+        {
+          "word": "Rih,",
+          "start": 189.1,
+          "end": 190.22,
+          "translation": "Rih,"
+        },
+        {
+          "word": "die",
+          "start": 190.22,
+          "end": 190.5,
+          "translation": "the"
+        },
+        {
+          "word": "Heimatstadt",
+          "start": 190.5,
+          "end": 191.46,
+          "translation": "Hometown"
+        },
+        {
+          "word": "von",
+          "start": 191.46,
+          "end": 191.88,
+          "translation": "from"
+        },
+        {
+          "word": "Selenskyj,",
+          "start": 191.88,
+          "end": 193.36,
+          "translation": "Selenskyj,"
+        },
+        {
+          "word": "liegt",
+          "start": 193.36,
+          "end": 193.58,
+          "translation": "lies"
+        },
+        {
+          "word": "rund",
+          "start": 193.58,
+          "end": 193.96,
+          "translation": "round"
+        },
+        {
+          "word": "350",
+          "start": 193.96,
+          "end": 195.58,
+          "translation": "350"
+        },
+        {
+          "word": "Kilometer",
+          "start": 195.58,
+          "end": 196.12,
+          "translation": "Kilometers"
+        },
+        {
+          "word": "südöstlich",
+          "start": 196.12,
+          "end": 197.9,
+          "translation": "south-east"
+        },
+        {
+          "word": "der",
+          "start": 197.9,
+          "end": 198.68,
+          "translation": "the"
+        },
+        {
+          "word": "ukrainischen",
+          "start": 198.68,
+          "end": 200.02,
+          "translation": "Ukrainian"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 200.02,
+          "end": 200.78,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Kyjiw.",
+          "start": 200.78,
+          "end": 202.33,
+          "translation": "Kyiv."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Ein Toter und Verletzte bei Angriff mit Schwert in Schweden",
+      "words": [
+        {
+          "word": "Ein",
+          "start": 202.33,
+          "end": 202.98,
+          "translation": "A"
+        },
+        {
+          "word": "Toter",
+          "start": 202.98,
+          "end": 203.68,
+          "translation": "Dead"
+        },
+        {
+          "word": "und",
+          "start": 203.68,
+          "end": 204.12,
+          "translation": "and"
+        },
+        {
+          "word": "Verletzte",
+          "start": 204.12,
+          "end": 205.0,
+          "translation": "Injured"
+        },
+        {
+          "word": "bei",
+          "start": 205.0,
+          "end": 205.46,
+          "translation": "with"
+        },
+        {
+          "word": "Angriff",
+          "start": 205.46,
+          "end": 206.16,
+          "translation": "Attack"
+        },
+        {
+          "word": "mit",
+          "start": 206.16,
+          "end": 206.66,
+          "translation": "with"
+        },
+        {
+          "word": "Schwert",
+          "start": 206.66,
+          "end": 207.34,
+          "translation": "Sword"
+        },
+        {
+          "word": "in",
+          "start": 207.34,
+          "end": 207.98,
+          "translation": "in"
+        },
+        {
+          "word": "Schweden",
+          "start": 207.98,
+          "end": 208.72,
+          "translation": "Sweden"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "An einer Schule in Zentralschweden ist bei einer Attacke mit einem Schwert ein Mensch getötet worden. Unter den drei Verletzten sind zwei Teenager mit schweren Wunden, wie die Polizei weiter mitteilte. Sicherheitskräfte schossen auf den 18-jährigen Angreifer und nahmen ihn fest. Die ‌Tat ereignete sich an der Brinell-Oberschule in der Kleinstadt Fagersta. Für ‌viele Schüler war es der erste ‌Tag ​nach den Sommerferien. Dem öffentlich-rechtlichen Sender SVT zufolge trug der Angreifer einen Helm. Es handele sich ​um einen ehemaligen Schüler, der wegen Körperverletzung vorbestraft sei, berichtete der Sender weiter.",
+      "words": [
+        {
+          "word": "An",
+          "start": 209.36,
+          "end": 209.64,
+          "translation": "To"
+        },
+        {
+          "word": "einer",
+          "start": 209.64,
+          "end": 210.06,
+          "translation": "one"
+        },
+        {
+          "word": "Schule",
+          "start": 210.06,
+          "end": 210.62,
+          "translation": "School"
+        },
+        {
+          "word": "in",
+          "start": 210.62,
+          "end": 211.02,
+          "translation": "in"
+        },
+        {
+          "word": "Zentralschweden",
+          "start": 211.02,
+          "end": 212.74,
+          "translation": "Central Sweden"
+        },
+        {
+          "word": "ist",
+          "start": 212.74,
+          "end": 213.48,
+          "translation": "is"
+        },
+        {
+          "word": "bei",
+          "start": 213.48,
+          "end": 213.86,
+          "translation": "with"
+        },
+        {
+          "word": "einer",
+          "start": 213.86,
+          "end": 214.34,
+          "translation": "one"
+        },
+        {
+          "word": "Attacke",
+          "start": 214.34,
+          "end": 215.14,
+          "translation": "Attack"
+        },
+        {
+          "word": "mit",
+          "start": 215.14,
+          "end": 215.38,
+          "translation": "with"
+        },
+        {
+          "word": "einem",
+          "start": 215.38,
+          "end": 215.8,
+          "translation": "one"
+        },
+        {
+          "word": "Schwert",
+          "start": 215.8,
+          "end": 216.6,
+          "translation": "Sword"
+        },
+        {
+          "word": "ein",
+          "start": 216.6,
+          "end": 217.28,
+          "translation": "a"
+        },
+        {
+          "word": "Mensch",
+          "start": 217.28,
+          "end": 217.92,
+          "translation": "Human"
+        },
+        {
+          "word": "getötet",
+          "start": 217.92,
+          "end": 218.64,
+          "translation": "killed"
+        },
+        {
+          "word": "worden.",
+          "start": 218.64,
+          "end": 219.18,
+          "translation": "been."
+        },
+        {
+          "word": "Unter",
+          "start": 219.96,
+          "end": 220.52,
+          "translation": "Under"
+        },
+        {
+          "word": "den",
+          "start": 220.52,
+          "end": 220.82,
+          "translation": "the"
+        },
+        {
+          "word": "drei",
+          "start": 220.82,
+          "end": 221.22,
+          "translation": "three"
+        },
+        {
+          "word": "Verletzten",
+          "start": 221.22,
+          "end": 222.3,
+          "translation": "Injured"
+        },
+        {
+          "word": "sind",
+          "start": 222.3,
+          "end": 222.64,
+          "translation": "are"
+        },
+        {
+          "word": "zwei",
+          "start": 222.64,
+          "end": 223.3,
+          "translation": "two"
+        },
+        {
+          "word": "Teenager",
+          "start": 223.3,
+          "end": 224.3,
+          "translation": "Teenagers"
+        },
+        {
+          "word": "mit",
+          "start": 224.3,
+          "end": 224.94,
+          "translation": "with"
+        },
+        {
+          "word": "schweren",
+          "start": 224.94,
+          "end": 225.88,
+          "translation": "heavy"
+        },
+        {
+          "word": "Wunden,",
+          "start": 225.88,
+          "end": 226.36,
+          "translation": "Wounds,"
+        },
+        {
+          "word": "wie",
+          "start": 226.36,
+          "end": 227.1,
+          "translation": "like"
+        },
+        {
+          "word": "die",
+          "start": 227.1,
+          "end": 227.32,
+          "translation": "the"
+        },
+        {
+          "word": "Polizei",
+          "start": 227.32,
+          "end": 228.02,
+          "translation": "Police"
+        },
+        {
+          "word": "weiter",
+          "start": 228.02,
+          "end": 228.86,
+          "translation": "more"
+        },
+        {
+          "word": "mitteilte.",
+          "start": 228.86,
+          "end": 229.9,
+          "translation": "announced."
+        },
+        {
+          "word": "Sicherheitskräfte",
+          "start": 230.9,
+          "end": 232.42,
+          "translation": "Security forces"
+        },
+        {
+          "word": "schossen",
+          "start": 232.42,
+          "end": 233.2,
+          "translation": "shot"
+        },
+        {
+          "word": "auf",
+          "start": 233.2,
+          "end": 233.76,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 233.76,
+          "end": 234.02,
+          "translation": "the"
+        },
+        {
+          "word": "18-jährigen",
+          "start": 234.02,
+          "end": 235.62,
+          "translation": "18-year-old"
+        },
+        {
+          "word": "Angreifer",
+          "start": 235.62,
+          "end": 236.58,
+          "translation": "Attacker"
+        },
+        {
+          "word": "und",
+          "start": 236.58,
+          "end": 237.48,
+          "translation": "and"
+        },
+        {
+          "word": "nahmen",
+          "start": 237.48,
+          "end": 238.04,
+          "translation": "took"
+        },
+        {
+          "word": "ihn",
+          "start": 238.04,
+          "end": 238.42,
+          "translation": "him"
+        },
+        {
+          "word": "fest.",
+          "start": 238.42,
+          "end": 238.86,
+          "translation": "fixed."
+        },
+        {
+          "word": "Die",
+          "start": 239.66,
+          "end": 240.28,
+          "translation": "The"
+        },
+        {
+          "word": "‌Tat",
+          "start": 240.28,
+          "end": 240.72,
+          "translation": "‌Act"
+        },
+        {
+          "word": "ereignete",
+          "start": 240.72,
+          "end": 241.84,
+          "translation": "occurred"
+        },
+        {
+          "word": "sich",
+          "start": 241.84,
+          "end": 242.18,
+          "translation": "itself"
+        },
+        {
+          "word": "an",
+          "start": 242.18,
+          "end": 242.58,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 242.58,
+          "end": 242.84,
+          "translation": "the"
+        },
+        {
+          "word": "Brinell-Oberschule",
+          "start": 242.84,
+          "end": 244.82,
+          "translation": "Brinell High School"
+        },
+        {
+          "word": "in",
+          "start": 244.82,
+          "end": 245.6,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 245.6,
+          "end": 245.84,
+          "translation": "the"
+        },
+        {
+          "word": "Kleinstadt",
+          "start": 245.84,
+          "end": 246.72,
+          "translation": "Small town"
+        },
+        {
+          "word": "Fagersta.",
+          "start": 246.72,
+          "end": 248.65,
+          "translation": "Fagersta."
+        },
+        {
+          "word": "Für",
+          "start": 248.65,
+          "end": 249.26,
+          "translation": "For"
+        },
+        {
+          "word": "‌viele",
+          "start": 249.26,
+          "end": 249.88,
+          "translation": "‌many"
+        },
+        {
+          "word": "Schüler",
+          "start": 249.88,
+          "end": 250.42,
+          "translation": "Pupils"
+        },
+        {
+          "word": "war",
+          "start": 250.42,
+          "end": 251.08,
+          "translation": "was"
+        },
+        {
+          "word": "es",
+          "start": 251.08,
+          "end": 251.4,
+          "translation": "it"
+        },
+        {
+          "word": "der",
+          "start": 251.4,
+          "end": 251.6,
+          "translation": "the"
+        },
+        {
+          "word": "erste",
+          "start": 251.6,
+          "end": 252.24,
+          "translation": "first"
+        },
+        {
+          "word": "‌Tag",
+          "start": 252.24,
+          "end": 252.82,
+          "translation": "‌Day"
+        },
+        {
+          "word": "​nach",
+          "start": 252.82,
+          "end": 253.14,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 253.14,
+          "end": 253.58,
+          "translation": "the"
+        },
+        {
+          "word": "Sommerferien.",
+          "start": 253.58,
+          "end": 254.78,
+          "translation": "Summer vacation."
+        },
+        {
+          "word": "Dem",
+          "start": 255.52,
+          "end": 255.86,
+          "translation": "The"
+        },
+        {
+          "word": "öffentlich-rechtlichen",
+          "start": 255.86,
+          "end": 257.7,
+          "translation": "public law"
+        },
+        {
+          "word": "Sender",
+          "start": 257.7,
+          "end": 258.18,
+          "translation": "Transmitter"
+        },
+        {
+          "word": "SVT",
+          "start": 258.18,
+          "end": 259.54,
+          "translation": "SVT"
+        },
+        {
+          "word": "zufolge",
+          "start": 259.54,
+          "end": 260.6,
+          "translation": "according to"
+        },
+        {
+          "word": "trug",
+          "start": 260.6,
+          "end": 261.8,
+          "translation": "wore"
+        },
+        {
+          "word": "der",
+          "start": 261.8,
+          "end": 261.98,
+          "translation": "the"
+        },
+        {
+          "word": "Angreifer",
+          "start": 261.98,
+          "end": 262.9,
+          "translation": "Attacker"
+        },
+        {
+          "word": "einen",
+          "start": 262.9,
+          "end": 263.48,
+          "translation": "one"
+        },
+        {
+          "word": "Helm.",
+          "start": 263.48,
+          "end": 264.18,
+          "translation": "Helmet."
+        },
+        {
+          "word": "Es",
+          "start": 264.84,
+          "end": 265.3,
+          "translation": "It"
+        },
+        {
+          "word": "handele",
+          "start": 265.3,
+          "end": 265.78,
+          "translation": "act"
+        },
+        {
+          "word": "sich",
+          "start": 265.78,
+          "end": 266.14,
+          "translation": "itself"
+        },
+        {
+          "word": "​um",
+          "start": 266.14,
+          "end": 266.48,
+          "translation": "​to"
+        },
+        {
+          "word": "einen",
+          "start": 266.48,
+          "end": 266.98,
+          "translation": "one"
+        },
+        {
+          "word": "ehemaligen",
+          "start": 266.98,
+          "end": 268.1,
+          "translation": "former"
+        },
+        {
+          "word": "Schüler,",
+          "start": 268.1,
+          "end": 268.7,
+          "translation": "Students,"
+        },
+        {
+          "word": "der",
+          "start": 269.24,
+          "end": 269.48,
+          "translation": "the"
+        },
+        {
+          "word": "wegen",
+          "start": 269.48,
+          "end": 270.02,
+          "translation": "because of"
+        },
+        {
+          "word": "Körperverletzung",
+          "start": 270.02,
+          "end": 271.36,
+          "translation": "Bodily injury"
+        },
+        {
+          "word": "vorbestraft",
+          "start": 271.36,
+          "end": 272.54,
+          "translation": "with a criminal record"
+        },
+        {
+          "word": "sei,",
+          "start": 272.54,
+          "end": 273.16,
+          "translation": "be,"
+        },
+        {
+          "word": "berichtete",
+          "start": 273.8,
+          "end": 274.6,
+          "translation": "reported"
+        },
+        {
+          "word": "der",
+          "start": 274.6,
+          "end": 275.0,
+          "translation": "the"
+        },
+        {
+          "word": "Sender",
+          "start": 275.0,
+          "end": 275.5,
+          "translation": "Transmitter"
+        },
+        {
+          "word": "weiter.",
+          "start": 275.5,
+          "end": 276.14,
+          "translation": "continue."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Studie untersucht Bedeutung von Migration für Ostdeutschland",
+      "words": [
+        {
+          "word": "Studie",
+          "start": 277.14,
+          "end": 278.2,
+          "translation": "Study"
+        },
+        {
+          "word": "untersucht",
+          "start": 278.2,
+          "end": 279.36,
+          "translation": "examined"
+        },
+        {
+          "word": "Bedeutung",
+          "start": 279.36,
+          "end": 280.36,
+          "translation": "Meaning"
+        },
+        {
+          "word": "von",
+          "start": 280.36,
+          "end": 280.72,
+          "translation": "from"
+        },
+        {
+          "word": "Migration",
+          "start": 280.72,
+          "end": 281.64,
+          "translation": "Migration"
+        },
+        {
+          "word": "für",
+          "start": 281.64,
+          "end": 282.38,
+          "translation": "for"
+        },
+        {
+          "word": "Ostdeutschland",
+          "start": 282.38,
+          "end": 283.14,
+          "translation": "Eastern Germany"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Den ostdeutschen Bundesländern droht laut einer Studie ein massiver Rückgang der erwerbsfähigen Bevölkerung, wenn es dort keine Zuwanderung mehr gibt. Wie aus einer Prognose des Kölner Instituts der deutschen Wirtschaft hervorgeht, würde die Zahl der Einwohner zwischen 15 und 66 Jahren ohne Migration bis 2045 um fast 22 Prozent sinken. Der Untersuchung zufolge wären Mecklenburg-Vorpommern und Sachsen-Anhalt von dieser Entwicklung besonders betroffen. In beiden Bundesländern finden im September Landtagswahlen statt. Aktuelle Umfragen sehen die in Teilen rechtsextreme Alternative für Deutschland (AfD) jeweils als stärkste Kraft. In Sachsen-Anhalt könnte die AfD sogar die Regierung stellen. Die Partei will die Zuwanderung nach Deutschland deutlich beschränken und viele Migranten in ihre Heimatländer zurückschicken.",
+      "words": [
+        {
+          "word": "Den",
+          "start": 284.32,
+          "end": 284.66,
+          "translation": "The"
+        },
+        {
+          "word": "ostdeutschen",
+          "start": 284.66,
+          "end": 285.86,
+          "translation": "East German"
+        },
+        {
+          "word": "Bundesländern",
+          "start": 285.86,
+          "end": 287.1,
+          "translation": "Federal States"
+        },
+        {
+          "word": "droht",
+          "start": 287.1,
+          "end": 288.0,
+          "translation": "threatens"
+        },
+        {
+          "word": "laut",
+          "start": 288.0,
+          "end": 288.36,
+          "translation": "according to"
+        },
+        {
+          "word": "einer",
+          "start": 288.36,
+          "end": 288.9,
+          "translation": "one"
+        },
+        {
+          "word": "Studie",
+          "start": 288.9,
+          "end": 289.7,
+          "translation": "Study"
+        },
+        {
+          "word": "ein",
+          "start": 289.7,
+          "end": 290.5,
+          "translation": "a"
+        },
+        {
+          "word": "massiver",
+          "start": 290.5,
+          "end": 291.36,
+          "translation": "more massive"
+        },
+        {
+          "word": "Rückgang",
+          "start": 291.36,
+          "end": 292.18,
+          "translation": "Decrease"
+        },
+        {
+          "word": "der",
+          "start": 292.18,
+          "end": 292.62,
+          "translation": "the"
+        },
+        {
+          "word": "erwerbsfähigen",
+          "start": 292.62,
+          "end": 294.36,
+          "translation": "of working age"
+        },
+        {
+          "word": "Bevölkerung,",
+          "start": 294.36,
+          "end": 295.54,
+          "translation": "Population,"
+        },
+        {
+          "word": "wenn",
+          "start": 295.92,
+          "end": 296.2,
+          "translation": "when"
+        },
+        {
+          "word": "es",
+          "start": 296.2,
+          "end": 296.66,
+          "translation": "it"
+        },
+        {
+          "word": "dort",
+          "start": 296.66,
+          "end": 297.04,
+          "translation": "there"
+        },
+        {
+          "word": "keine",
+          "start": 297.04,
+          "end": 297.76,
+          "translation": "none"
+        },
+        {
+          "word": "Zuwanderung",
+          "start": 297.76,
+          "end": 298.94,
+          "translation": "Immigration"
+        },
+        {
+          "word": "mehr",
+          "start": 298.94,
+          "end": 299.24,
+          "translation": "more"
+        },
+        {
+          "word": "gibt.",
+          "start": 299.24,
+          "end": 299.64,
+          "translation": "gives."
+        },
+        {
+          "word": "Wie",
+          "start": 300.24,
+          "end": 300.94,
+          "translation": "How"
+        },
+        {
+          "word": "aus",
+          "start": 300.94,
+          "end": 301.36,
+          "translation": "from"
+        },
+        {
+          "word": "einer",
+          "start": 301.36,
+          "end": 301.84,
+          "translation": "one"
+        },
+        {
+          "word": "Prognose",
+          "start": 301.84,
+          "end": 302.92,
+          "translation": "Forecast"
+        },
+        {
+          "word": "des",
+          "start": 302.92,
+          "end": 303.5,
+          "translation": "of the"
+        },
+        {
+          "word": "Kölner",
+          "start": 303.5,
+          "end": 304.24,
+          "translation": "Cologne"
+        },
+        {
+          "word": "Instituts",
+          "start": 304.24,
+          "end": 305.54,
+          "translation": "Institute"
+        },
+        {
+          "word": "der",
+          "start": 305.54,
+          "end": 306.06,
+          "translation": "the"
+        },
+        {
+          "word": "deutschen",
+          "start": 306.06,
+          "end": 306.8,
+          "translation": "German"
+        },
+        {
+          "word": "Wirtschaft",
+          "start": 306.8,
+          "end": 307.52,
+          "translation": "Economy"
+        },
+        {
+          "word": "hervorgeht,",
+          "start": 307.52,
+          "end": 308.86,
+          "translation": "emerges,"
+        },
+        {
+          "word": "würde",
+          "start": 309.66,
+          "end": 309.94,
+          "translation": "would"
+        },
+        {
+          "word": "die",
+          "start": 309.94,
+          "end": 310.38,
+          "translation": "the"
+        },
+        {
+          "word": "Zahl",
+          "start": 310.38,
+          "end": 310.8,
+          "translation": "Number"
+        },
+        {
+          "word": "der",
+          "start": 310.8,
+          "end": 311.16,
+          "translation": "the"
+        },
+        {
+          "word": "Einwohner",
+          "start": 311.16,
+          "end": 312.14,
+          "translation": "Inhabitants"
+        },
+        {
+          "word": "zwischen",
+          "start": 312.14,
+          "end": 313.18,
+          "translation": "between"
+        },
+        {
+          "word": "15",
+          "start": 313.18,
+          "end": 314.04,
+          "translation": "15"
+        },
+        {
+          "word": "und",
+          "start": 314.04,
+          "end": 314.56,
+          "translation": "and"
+        },
+        {
+          "word": "66",
+          "start": 314.56,
+          "end": 315.52,
+          "translation": "66"
+        },
+        {
+          "word": "Jahren",
+          "start": 315.52,
+          "end": 316.52,
+          "translation": "years"
+        },
+        {
+          "word": "ohne",
+          "start": 316.52,
+          "end": 317.4,
+          "translation": "without"
+        },
+        {
+          "word": "Migration",
+          "start": 317.4,
+          "end": 318.34,
+          "translation": "Migration"
+        },
+        {
+          "word": "bis",
+          "start": 318.34,
+          "end": 319.28,
+          "translation": "to"
+        },
+        {
+          "word": "2045",
+          "start": 319.28,
+          "end": 321.62,
+          "translation": "2045"
+        },
+        {
+          "word": "um",
+          "start": 321.62,
+          "end": 322.78,
+          "translation": "to"
+        },
+        {
+          "word": "fast",
+          "start": 322.78,
+          "end": 323.24,
+          "translation": "almost"
+        },
+        {
+          "word": "22",
+          "start": 323.24,
+          "end": 324.52,
+          "translation": "22"
+        },
+        {
+          "word": "Prozent",
+          "start": 324.52,
+          "end": 325.6,
+          "translation": "Percent"
+        },
+        {
+          "word": "sinken.",
+          "start": 325.6,
+          "end": 326.76,
+          "translation": "sink."
+        },
+        {
+          "word": "Der",
+          "start": 327.28,
+          "end": 327.98,
+          "translation": "The"
+        },
+        {
+          "word": "Untersuchung",
+          "start": 327.98,
+          "end": 329.22,
+          "translation": "Investigation"
+        },
+        {
+          "word": "zufolge",
+          "start": 329.22,
+          "end": 330.06,
+          "translation": "according to"
+        },
+        {
+          "word": "wären",
+          "start": 330.06,
+          "end": 331.02,
+          "translation": "would be"
+        },
+        {
+          "word": "Mecklenburg-Vorpommern",
+          "start": 331.02,
+          "end": 333.16,
+          "translation": "Mecklenburg-Western Pomerania"
+        },
+        {
+          "word": "und",
+          "start": 333.16,
+          "end": 334.08,
+          "translation": "and"
+        },
+        {
+          "word": "Sachsen-Anhalt",
+          "start": 334.08,
+          "end": 335.62,
+          "translation": "Saxony-Anhalt"
+        },
+        {
+          "word": "von",
+          "start": 335.62,
+          "end": 336.4,
+          "translation": "from"
+        },
+        {
+          "word": "dieser",
+          "start": 336.4,
+          "end": 337.0,
+          "translation": "this"
+        },
+        {
+          "word": "Entwicklung",
+          "start": 337.0,
+          "end": 337.9,
+          "translation": "Development"
+        },
+        {
+          "word": "besonders",
+          "start": 337.9,
+          "end": 338.92,
+          "translation": "especially"
+        },
+        {
+          "word": "betroffen.",
+          "start": 338.92,
+          "end": 339.8,
+          "translation": "affected."
+        },
+        {
+          "word": "In",
+          "start": 340.44,
+          "end": 341.14,
+          "translation": "In"
+        },
+        {
+          "word": "beiden",
+          "start": 341.14,
+          "end": 341.74,
+          "translation": "both"
+        },
+        {
+          "word": "Bundesländern",
+          "start": 341.74,
+          "end": 343.02,
+          "translation": "Federal States"
+        },
+        {
+          "word": "finden",
+          "start": 343.02,
+          "end": 343.68,
+          "translation": "Find"
+        },
+        {
+          "word": "im",
+          "start": 343.68,
+          "end": 344.08,
+          "translation": "in the"
+        },
+        {
+          "word": "September",
+          "start": 344.08,
+          "end": 344.98,
+          "translation": "September"
+        },
+        {
+          "word": "Landtagswahlen",
+          "start": 344.98,
+          "end": 346.98,
+          "translation": "State Legislative Elections"
+        },
+        {
+          "word": "statt.",
+          "start": 346.98,
+          "end": 347.42,
+          "translation": "takes place."
+        },
+        {
+          "word": "Aktuelle",
+          "start": 348.32,
+          "end": 349.18,
+          "translation": "Current"
+        },
+        {
+          "word": "Umfragen",
+          "start": 349.18,
+          "end": 350.08,
+          "translation": "Surveys"
+        },
+        {
+          "word": "sehen",
+          "start": 350.08,
+          "end": 351.02,
+          "translation": "See"
+        },
+        {
+          "word": "die",
+          "start": 351.02,
+          "end": 351.52,
+          "translation": "the"
+        },
+        {
+          "word": "in",
+          "start": 351.52,
+          "end": 351.88,
+          "translation": "in"
+        },
+        {
+          "word": "Teilen",
+          "start": 351.88,
+          "end": 352.46,
+          "translation": "Share"
+        },
+        {
+          "word": "rechtsextreme",
+          "start": 352.46,
+          "end": 353.94,
+          "translation": "right-wing extremists"
+        },
+        {
+          "word": "Alternative",
+          "start": 353.94,
+          "end": 355.54,
+          "translation": "Alternative"
+        },
+        {
+          "word": "für",
+          "start": 355.54,
+          "end": 356.1,
+          "translation": "for"
+        },
+        {
+          "word": "Deutschland",
+          "start": 356.1,
+          "end": 356.86,
+          "translation": "Germany"
+        },
+        {
+          "word": "(AfD)",
+          "start": 357.56,
+          "end": 358.36,
+          "translation": "(AfD)"
+        },
+        {
+          "word": "jeweils",
+          "start": 359.32,
+          "end": 359.82,
+          "translation": "each"
+        },
+        {
+          "word": "als",
+          "start": 359.82,
+          "end": 360.28,
+          "translation": "as"
+        },
+        {
+          "word": "stärkste",
+          "start": 360.28,
+          "end": 361.1,
+          "translation": "strongest"
+        },
+        {
+          "word": "Kraft.",
+          "start": 361.1,
+          "end": 361.6,
+          "translation": "Power."
+        },
+        {
+          "word": "In",
+          "start": 362.12,
+          "end": 362.82,
+          "translation": "In"
+        },
+        {
+          "word": "Sachsen-Anhalt",
+          "start": 362.82,
+          "end": 364.28,
+          "translation": "Saxony-Anhalt"
+        },
+        {
+          "word": "könnte",
+          "start": 364.28,
+          "end": 364.8,
+          "translation": "could"
+        },
+        {
+          "word": "die",
+          "start": 364.8,
+          "end": 365.44,
+          "translation": "the"
+        },
+        {
+          "word": "AfD",
+          "start": 365.44,
+          "end": 366.3,
+          "translation": "AfD"
+        },
+        {
+          "word": "sogar",
+          "start": 366.3,
+          "end": 367.38,
+          "translation": "even"
+        },
+        {
+          "word": "die",
+          "start": 367.38,
+          "end": 367.9,
+          "translation": "the"
+        },
+        {
+          "word": "Regierung",
+          "start": 367.9,
+          "end": 368.66,
+          "translation": "Government"
+        },
+        {
+          "word": "stellen.",
+          "start": 368.66,
+          "end": 369.28,
+          "translation": "place."
+        },
+        {
+          "word": "Die",
+          "start": 370.2,
+          "end": 370.48,
+          "translation": "The"
+        },
+        {
+          "word": "Partei",
+          "start": 370.48,
+          "end": 371.26,
+          "translation": "Party"
+        },
+        {
+          "word": "will",
+          "start": 371.26,
+          "end": 371.84,
+          "translation": "wants"
+        },
+        {
+          "word": "die",
+          "start": 371.84,
+          "end": 372.14,
+          "translation": "the"
+        },
+        {
+          "word": "Zuwanderung",
+          "start": 372.14,
+          "end": 373.22,
+          "translation": "Immigration"
+        },
+        {
+          "word": "nach",
+          "start": 373.22,
+          "end": 373.56,
+          "translation": "to"
+        },
+        {
+          "word": "Deutschland",
+          "start": 373.56,
+          "end": 374.26,
+          "translation": "Germany"
+        },
+        {
+          "word": "deutlich",
+          "start": 374.26,
+          "end": 375.32,
+          "translation": "clear"
+        },
+        {
+          "word": "beschränken",
+          "start": 375.32,
+          "end": 376.38,
+          "translation": "limit"
+        },
+        {
+          "word": "und",
+          "start": 376.38,
+          "end": 377.32,
+          "translation": "and"
+        },
+        {
+          "word": "viele",
+          "start": 377.32,
+          "end": 377.88,
+          "translation": "many"
+        },
+        {
+          "word": "Migranten",
+          "start": 377.88,
+          "end": 378.98,
+          "translation": "Migrants"
+        },
+        {
+          "word": "in",
+          "start": 378.98,
+          "end": 379.46,
+          "translation": "in"
+        },
+        {
+          "word": "ihre",
+          "start": 379.46,
+          "end": 379.88,
+          "translation": "their"
+        },
+        {
+          "word": "Heimatländer",
+          "start": 379.88,
+          "end": 380.96,
+          "translation": "Countries of origin"
+        },
+        {
+          "word": "zurückschicken.",
+          "start": 380.96,
+          "end": 382.2,
+          "translation": "send back."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Neuer Waldbrand in Spanien – hunderte Menschen fliehen",
+      "words": [
+        {
+          "word": "Neuer",
+          "start": 383.2,
+          "end": 383.96,
+          "translation": "New"
+        },
+        {
+          "word": "Waldbrand",
+          "start": 383.96,
+          "end": 384.7,
+          "translation": "Forest fire"
+        },
+        {
+          "word": "in",
+          "start": 384.7,
+          "end": 385.18,
+          "translation": "in"
+        },
+        {
+          "word": "Spanien",
+          "start": 385.18,
+          "end": 386.02,
+          "translation": "Spain"
+        },
+        {
+          "word": "–",
+          "start": 386.02,
+          "end": 386.58,
+          "translation": "-"
+        },
+        {
+          "word": "hunderte",
+          "start": 386.58,
+          "end": 387.18,
+          "translation": "hundreds"
+        },
+        {
+          "word": "Menschen",
+          "start": 387.18,
+          "end": 387.78,
+          "translation": "People"
+        },
+        {
+          "word": "fliehen",
+          "start": 387.78,
+          "end": 388.7,
+          "translation": "flee"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die Behörden der Region Valencia im Osten Spaniens haben wegen eines näher rückenden Waldbrandes die Evakuierung des Ortes Gátova angeordnet. Mehrere Hundert Menschen wurden aufgefordert, sich Richtung Süden zu begeben. Auf Bildern des staatlichen TV-Senders RTVE war zu sehen, dass die Flammen bereits nahe an bebautes Gebiet herangerückt sind. Das Feuer im Naturpark der Sierra Calderona war nach Behördenangaben durch einen Blitzeinschlag am späten Donnerstagabend ausgelöst worden.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 389.14,
+          "end": 389.44,
+          "translation": "The"
+        },
+        {
+          "word": "Behörden",
+          "start": 389.44,
+          "end": 390.38,
+          "translation": "Authorities"
+        },
+        {
+          "word": "der",
+          "start": 390.38,
+          "end": 390.7,
+          "translation": "the"
+        },
+        {
+          "word": "Region",
+          "start": 390.7,
+          "end": 391.34,
+          "translation": "Region"
+        },
+        {
+          "word": "Valencia",
+          "start": 391.34,
+          "end": 392.4,
+          "translation": "Valencia"
+        },
+        {
+          "word": "im",
+          "start": 392.4,
+          "end": 393.04,
+          "translation": "in the"
+        },
+        {
+          "word": "Osten",
+          "start": 393.04,
+          "end": 393.64,
+          "translation": "East"
+        },
+        {
+          "word": "Spaniens",
+          "start": 393.64,
+          "end": 394.8,
+          "translation": "Spain"
+        },
+        {
+          "word": "haben",
+          "start": 394.8,
+          "end": 395.64,
+          "translation": "have"
+        },
+        {
+          "word": "wegen",
+          "start": 395.64,
+          "end": 396.26,
+          "translation": "because of"
+        },
+        {
+          "word": "eines",
+          "start": 396.26,
+          "end": 396.82,
+          "translation": "one"
+        },
+        {
+          "word": "näher",
+          "start": 396.82,
+          "end": 397.5,
+          "translation": "closer"
+        },
+        {
+          "word": "rückenden",
+          "start": 397.5,
+          "end": 398.24,
+          "translation": "receding"
+        },
+        {
+          "word": "Waldbrandes",
+          "start": 398.24,
+          "end": 399.7,
+          "translation": "Forest fire"
+        },
+        {
+          "word": "die",
+          "start": 400.06,
+          "end": 400.44,
+          "translation": "the"
+        },
+        {
+          "word": "Evakuierung",
+          "start": 400.44,
+          "end": 402.0,
+          "translation": "Evacuation"
+        },
+        {
+          "word": "des",
+          "start": 402.0,
+          "end": 402.32,
+          "translation": "of the"
+        },
+        {
+          "word": "Ortes",
+          "start": 402.32,
+          "end": 403.12,
+          "translation": "Locally"
+        },
+        {
+          "word": "Gátova",
+          "start": 403.12,
+          "end": 403.98,
+          "translation": "Gátova"
+        },
+        {
+          "word": "angeordnet.",
+          "start": 403.98,
+          "end": 405.3,
+          "translation": "arranged."
+        },
+        {
+          "word": "Mehrere",
+          "start": 406.28,
+          "end": 406.86,
+          "translation": "Several"
+        },
+        {
+          "word": "Hundert",
+          "start": 406.86,
+          "end": 407.34,
+          "translation": "One hundred"
+        },
+        {
+          "word": "Menschen",
+          "start": 407.34,
+          "end": 408.18,
+          "translation": "People"
+        },
+        {
+          "word": "wurden",
+          "start": 408.18,
+          "end": 408.76,
+          "translation": "were"
+        },
+        {
+          "word": "aufgefordert,",
+          "start": 408.76,
+          "end": 410.12,
+          "translation": "requested,"
+        },
+        {
+          "word": "sich",
+          "start": 410.58,
+          "end": 410.96,
+          "translation": "itself"
+        },
+        {
+          "word": "Richtung",
+          "start": 410.96,
+          "end": 411.44,
+          "translation": "Direction"
+        },
+        {
+          "word": "Süden",
+          "start": 411.44,
+          "end": 412.12,
+          "translation": "South"
+        },
+        {
+          "word": "zu",
+          "start": 412.12,
+          "end": 412.48,
+          "translation": "to"
+        },
+        {
+          "word": "begeben.",
+          "start": 412.48,
+          "end": 413.08,
+          "translation": "go."
+        },
+        {
+          "word": "Auf",
+          "start": 413.08,
+          "end": 414.01,
+          "translation": "On"
+        },
+        {
+          "word": "Bildern",
+          "start": 414.01,
+          "end": 414.94,
+          "translation": "Pictures"
+        },
+        {
+          "word": "des",
+          "start": 414.94,
+          "end": 415.28,
+          "translation": "of the"
+        },
+        {
+          "word": "staatlichen",
+          "start": 415.28,
+          "end": 416.22,
+          "translation": "state"
+        },
+        {
+          "word": "TV-Senders",
+          "start": 416.22,
+          "end": 417.66,
+          "translation": "TV stations"
+        },
+        {
+          "word": "RTVE",
+          "start": 417.66,
+          "end": 419.1,
+          "translation": "RTVE"
+        },
+        {
+          "word": "war",
+          "start": 419.1,
+          "end": 420.28,
+          "translation": "was"
+        },
+        {
+          "word": "zu",
+          "start": 420.28,
+          "end": 420.62,
+          "translation": "to"
+        },
+        {
+          "word": "sehen,",
+          "start": 420.62,
+          "end": 421.1,
+          "translation": "see,"
+        },
+        {
+          "word": "dass",
+          "start": 421.68,
+          "end": 421.8,
+          "translation": "that"
+        },
+        {
+          "word": "die",
+          "start": 421.8,
+          "end": 422.1,
+          "translation": "the"
+        },
+        {
+          "word": "Flammen",
+          "start": 422.1,
+          "end": 422.66,
+          "translation": "Flames"
+        },
+        {
+          "word": "bereits",
+          "start": 422.66,
+          "end": 423.26,
+          "translation": "already"
+        },
+        {
+          "word": "nahe",
+          "start": 423.26,
+          "end": 423.84,
+          "translation": "near"
+        },
+        {
+          "word": "an",
+          "start": 423.84,
+          "end": 424.4,
+          "translation": "on"
+        },
+        {
+          "word": "bebautes",
+          "start": 424.4,
+          "end": 425.42,
+          "translation": "developed"
+        },
+        {
+          "word": "Gebiet",
+          "start": 425.42,
+          "end": 426.06,
+          "translation": "Area"
+        },
+        {
+          "word": "herangerückt",
+          "start": 426.06,
+          "end": 427.4,
+          "translation": "moved closer"
+        },
+        {
+          "word": "sind.",
+          "start": 427.4,
+          "end": 427.86,
+          "translation": "are."
+        },
+        {
+          "word": "Das",
+          "start": 428.24,
+          "end": 428.94,
+          "translation": "The"
+        },
+        {
+          "word": "Feuer",
+          "start": 428.94,
+          "end": 429.44,
+          "translation": "Fire"
+        },
+        {
+          "word": "im",
+          "start": 429.44,
+          "end": 429.9,
+          "translation": "in the"
+        },
+        {
+          "word": "Naturpark",
+          "start": 429.9,
+          "end": 430.96,
+          "translation": "Nature Park"
+        },
+        {
+          "word": "der",
+          "start": 430.96,
+          "end": 431.54,
+          "translation": "the"
+        },
+        {
+          "word": "Sierra",
+          "start": 431.54,
+          "end": 432.24,
+          "translation": "Sierra"
+        },
+        {
+          "word": "Calderona",
+          "start": 432.24,
+          "end": 433.4,
+          "translation": "Calderona"
+        },
+        {
+          "word": "war",
+          "start": 433.4,
+          "end": 434.38,
+          "translation": "was"
+        },
+        {
+          "word": "nach",
+          "start": 434.38,
+          "end": 434.78,
+          "translation": "to"
+        },
+        {
+          "word": "Behördenangaben",
+          "start": 434.78,
+          "end": 436.42,
+          "translation": "Authority information"
+        },
+        {
+          "word": "durch",
+          "start": 436.42,
+          "end": 437.24,
+          "translation": "through"
+        },
+        {
+          "word": "einen",
+          "start": 437.24,
+          "end": 437.84,
+          "translation": "one"
+        },
+        {
+          "word": "Blitzeinschlag",
+          "start": 437.84,
+          "end": 439.92,
+          "translation": "Lightning strike"
+        },
+        {
+          "word": "am",
+          "start": 439.92,
+          "end": 440.06,
+          "translation": "on"
+        },
+        {
+          "word": "späten",
+          "start": 440.06,
+          "end": 440.82,
+          "translation": "late"
+        },
+        {
+          "word": "Donnerstagabend",
+          "start": 440.82,
+          "end": 442.5,
+          "translation": "Thursday evening"
+        },
+        {
+          "word": "ausgelöst",
+          "start": 442.5,
+          "end": 443.56,
+          "translation": "triggered"
+        },
+        {
+          "word": "worden.",
+          "start": 443.56,
+          "end": 444.12,
+          "translation": "been."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Untersuchungshaft nach Festnahme im Fall Nord-Stream-Pipelines",
+      "words": [
+        {
+          "word": "Untersuchungshaft",
+          "start": 444.12,
+          "end": 447.02,
+          "translation": "Pre-trial detention"
+        },
+        {
+          "word": "nach",
+          "start": 447.02,
+          "end": 447.44,
+          "translation": "to"
+        },
+        {
+          "word": "Festnahme",
+          "start": 447.44,
+          "end": 448.36,
+          "translation": "Arrest"
+        },
+        {
+          "word": "im",
+          "start": 448.36,
+          "end": 449.02,
+          "translation": "in the"
+        },
+        {
+          "word": "Fall",
+          "start": 449.02,
+          "end": 449.38,
+          "translation": "Case"
+        },
+        {
+          "word": "Nord-Stream-Pipelines",
+          "start": 449.38,
+          "end": 452.32,
+          "translation": "Nord Stream Pipelines"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Ein Gericht in Kroatien hat Untersuchungshaft für einen Ukrainer angeordnet, der an den Anschlägen auf die Nord-Stream-Pipelines im September 2022 in der Ostsee beteiligt gewesen sein soll. Nach Medienberichten wurde damit ein Verfahren zu seiner Auslieferung nach Deutschland eingeleitet. Der Mann war am Mittwoch aufgrund eines von der Bundesrepublik ausgestellten Europäischen Haftbefehls in der kroatischen Stadt Pula festgenommen worden. Der Ukrainer soll einer der Taucher gewesen sein, die die Sprengladungen an den Pipelines angebracht hatten. Bei dem Anschlag waren drei von vier Erdgasleitungen zwischen Russland und Deutschland in der Nähe der dänischen Ostseeinsel Bornholm gesprengt worden.",
+      "words": [
+        {
+          "word": "Ein",
+          "start": 452.32,
+          "end": 452.58,
+          "translation": "A"
+        },
+        {
+          "word": "Gericht",
+          "start": 452.58,
+          "end": 453.2,
+          "translation": "Court of law"
+        },
+        {
+          "word": "in",
+          "start": 453.2,
+          "end": 453.46,
+          "translation": "in"
+        },
+        {
+          "word": "Kroatien",
+          "start": 453.46,
+          "end": 454.68,
+          "translation": "Croatia"
+        },
+        {
+          "word": "hat",
+          "start": 454.68,
+          "end": 455.0,
+          "translation": "has"
+        },
+        {
+          "word": "Untersuchungshaft",
+          "start": 455.0,
+          "end": 456.8,
+          "translation": "Pre-trial detention"
+        },
+        {
+          "word": "für",
+          "start": 456.8,
+          "end": 457.1,
+          "translation": "for"
+        },
+        {
+          "word": "einen",
+          "start": 457.1,
+          "end": 457.56,
+          "translation": "one"
+        },
+        {
+          "word": "Ukrainer",
+          "start": 457.56,
+          "end": 458.58,
+          "translation": "Ukrainians"
+        },
+        {
+          "word": "angeordnet,",
+          "start": 458.58,
+          "end": 459.86,
+          "translation": "arranged,"
+        },
+        {
+          "word": "der",
+          "start": 460.34,
+          "end": 460.68,
+          "translation": "the"
+        },
+        {
+          "word": "an",
+          "start": 460.68,
+          "end": 461.06,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 461.06,
+          "end": 461.3,
+          "translation": "the"
+        },
+        {
+          "word": "Anschlägen",
+          "start": 461.3,
+          "end": 462.42,
+          "translation": "Stops"
+        },
+        {
+          "word": "auf",
+          "start": 462.42,
+          "end": 462.78,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 462.78,
+          "end": 463.12,
+          "translation": "the"
+        },
+        {
+          "word": "Nord-Stream-Pipelines",
+          "start": 463.12,
+          "end": 465.18,
+          "translation": "Nord Stream Pipelines"
+        },
+        {
+          "word": "im",
+          "start": 465.18,
+          "end": 465.9,
+          "translation": "in the"
+        },
+        {
+          "word": "September",
+          "start": 465.9,
+          "end": 466.64,
+          "translation": "September"
+        },
+        {
+          "word": "2022",
+          "start": 466.64,
+          "end": 468.22,
+          "translation": "2022"
+        },
+        {
+          "word": "in",
+          "start": 468.22,
+          "end": 469.82,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 469.82,
+          "end": 470.08,
+          "translation": "the"
+        },
+        {
+          "word": "Ostsee",
+          "start": 470.08,
+          "end": 470.78,
+          "translation": "Baltic Sea"
+        },
+        {
+          "word": "beteiligt",
+          "start": 470.78,
+          "end": 471.94,
+          "translation": "involved"
+        },
+        {
+          "word": "gewesen",
+          "start": 471.94,
+          "end": 472.36,
+          "translation": "been"
+        },
+        {
+          "word": "sein",
+          "start": 472.36,
+          "end": 473.0,
+          "translation": "be"
+        },
+        {
+          "word": "soll.",
+          "start": 473.0,
+          "end": 473.38,
+          "translation": "should."
+        },
+        {
+          "word": "Nach",
+          "start": 474.12,
+          "end": 474.7,
+          "translation": "After"
+        },
+        {
+          "word": "Medienberichten",
+          "start": 474.7,
+          "end": 476.14,
+          "translation": "Media reports"
+        },
+        {
+          "word": "wurde",
+          "start": 476.14,
+          "end": 476.92,
+          "translation": "was"
+        },
+        {
+          "word": "damit",
+          "start": 476.92,
+          "end": 477.62,
+          "translation": "so that"
+        },
+        {
+          "word": "ein",
+          "start": 477.62,
+          "end": 478.1,
+          "translation": "a"
+        },
+        {
+          "word": "Verfahren",
+          "start": 478.1,
+          "end": 479.04,
+          "translation": "Procedure"
+        },
+        {
+          "word": "zu",
+          "start": 479.04,
+          "end": 479.66,
+          "translation": "to"
+        },
+        {
+          "word": "seiner",
+          "start": 479.66,
+          "end": 480.08,
+          "translation": "his"
+        },
+        {
+          "word": "Auslieferung",
+          "start": 480.08,
+          "end": 481.46,
+          "translation": "Delivery"
+        },
+        {
+          "word": "nach",
+          "start": 481.46,
+          "end": 481.72,
+          "translation": "to"
+        },
+        {
+          "word": "Deutschland",
+          "start": 481.72,
+          "end": 482.46,
+          "translation": "Germany"
+        },
+        {
+          "word": "eingeleitet.",
+          "start": 482.46,
+          "end": 483.64,
+          "translation": "introduced."
+        },
+        {
+          "word": "Der",
+          "start": 484.68,
+          "end": 485.02,
+          "translation": "The"
+        },
+        {
+          "word": "Mann",
+          "start": 485.02,
+          "end": 485.3,
+          "translation": "Man"
+        },
+        {
+          "word": "war",
+          "start": 485.3,
+          "end": 485.94,
+          "translation": "was"
+        },
+        {
+          "word": "am",
+          "start": 485.94,
+          "end": 486.4,
+          "translation": "on"
+        },
+        {
+          "word": "Mittwoch",
+          "start": 486.4,
+          "end": 487.14,
+          "translation": "Wednesday"
+        },
+        {
+          "word": "aufgrund",
+          "start": 487.14,
+          "end": 487.76,
+          "translation": "due to"
+        },
+        {
+          "word": "eines",
+          "start": 487.76,
+          "end": 488.42,
+          "translation": "one"
+        },
+        {
+          "word": "von",
+          "start": 488.42,
+          "end": 488.84,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 488.84,
+          "end": 489.12,
+          "translation": "the"
+        },
+        {
+          "word": "Bundesrepublik",
+          "start": 489.12,
+          "end": 490.6,
+          "translation": "Federal Republic of Germany"
+        },
+        {
+          "word": "ausgestellten",
+          "start": 490.6,
+          "end": 492.0,
+          "translation": "exhibited"
+        },
+        {
+          "word": "Europäischen",
+          "start": 492.0,
+          "end": 493.68,
+          "translation": "European"
+        },
+        {
+          "word": "Haftbefehls",
+          "start": 493.68,
+          "end": 495.12,
+          "translation": "Arrest warrant"
+        },
+        {
+          "word": "in",
+          "start": 495.12,
+          "end": 495.82,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 495.82,
+          "end": 496.08,
+          "translation": "the"
+        },
+        {
+          "word": "kroatischen",
+          "start": 496.08,
+          "end": 497.22,
+          "translation": "Croatian"
+        },
+        {
+          "word": "Stadt",
+          "start": 497.22,
+          "end": 497.7,
+          "translation": "City"
+        },
+        {
+          "word": "Pula",
+          "start": 497.7,
+          "end": 498.38,
+          "translation": "Pula"
+        },
+        {
+          "word": "festgenommen",
+          "start": 498.38,
+          "end": 499.66,
+          "translation": "arrested"
+        },
+        {
+          "word": "worden.",
+          "start": 499.66,
+          "end": 500.4,
+          "translation": "been."
+        },
+        {
+          "word": "Der",
+          "start": 501.16,
+          "end": 501.8,
+          "translation": "The"
+        },
+        {
+          "word": "Ukrainer",
+          "start": 501.8,
+          "end": 502.78,
+          "translation": "Ukrainians"
+        },
+        {
+          "word": "soll",
+          "start": 502.78,
+          "end": 503.2,
+          "translation": "should"
+        },
+        {
+          "word": "einer",
+          "start": 503.2,
+          "end": 503.8,
+          "translation": "one"
+        },
+        {
+          "word": "der",
+          "start": 503.8,
+          "end": 504.22,
+          "translation": "the"
+        },
+        {
+          "word": "Taucher",
+          "start": 504.22,
+          "end": 504.84,
+          "translation": "Diver"
+        },
+        {
+          "word": "gewesen",
+          "start": 504.84,
+          "end": 505.38,
+          "translation": "been"
+        },
+        {
+          "word": "sein,",
+          "start": 505.38,
+          "end": 506.2,
+          "translation": "be,"
+        },
+        {
+          "word": "die",
+          "start": 506.7,
+          "end": 507.0,
+          "translation": "the"
+        },
+        {
+          "word": "die",
+          "start": 507.0,
+          "end": 507.28,
+          "translation": "the"
+        },
+        {
+          "word": "Sprengladungen",
+          "start": 507.28,
+          "end": 508.66,
+          "translation": "Explosive charges"
+        },
+        {
+          "word": "an",
+          "start": 508.66,
+          "end": 509.1,
+          "translation": "on"
+        },
+        {
+          "word": "den",
+          "start": 509.1,
+          "end": 509.36,
+          "translation": "the"
+        },
+        {
+          "word": "Pipelines",
+          "start": 509.36,
+          "end": 510.12,
+          "translation": "Pipelines"
+        },
+        {
+          "word": "angebracht",
+          "start": 510.12,
+          "end": 511.22,
+          "translation": "appropriate"
+        },
+        {
+          "word": "hatten.",
+          "start": 511.22,
+          "end": 511.92,
+          "translation": "had."
+        },
+        {
+          "word": "Bei",
+          "start": 512.82,
+          "end": 513.2,
+          "translation": "With"
+        },
+        {
+          "word": "dem",
+          "start": 513.2,
+          "end": 513.48,
+          "translation": "the"
+        },
+        {
+          "word": "Anschlag",
+          "start": 513.48,
+          "end": 514.3,
+          "translation": "Stop"
+        },
+        {
+          "word": "waren",
+          "start": 514.3,
+          "end": 515.04,
+          "translation": "were"
+        },
+        {
+          "word": "drei",
+          "start": 515.04,
+          "end": 515.72,
+          "translation": "three"
+        },
+        {
+          "word": "von",
+          "start": 515.72,
+          "end": 516.2,
+          "translation": "from"
+        },
+        {
+          "word": "vier",
+          "start": 516.2,
+          "end": 516.78,
+          "translation": "four"
+        },
+        {
+          "word": "Erdgasleitungen",
+          "start": 516.78,
+          "end": 518.52,
+          "translation": "Natural Gas Pipelines"
+        },
+        {
+          "word": "zwischen",
+          "start": 518.52,
+          "end": 519.3,
+          "translation": "between"
+        },
+        {
+          "word": "Russland",
+          "start": 519.3,
+          "end": 520.38,
+          "translation": "Russia"
+        },
+        {
+          "word": "und",
+          "start": 520.38,
+          "end": 520.78,
+          "translation": "and"
+        },
+        {
+          "word": "Deutschland",
+          "start": 520.78,
+          "end": 521.42,
+          "translation": "Germany"
+        },
+        {
+          "word": "in",
+          "start": 521.42,
+          "end": 522.5,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 522.5,
+          "end": 522.74,
+          "translation": "the"
+        },
+        {
+          "word": "Nähe",
+          "start": 522.74,
+          "end": 523.26,
+          "translation": "Proximity"
+        },
+        {
+          "word": "der",
+          "start": 523.26,
+          "end": 523.6,
+          "translation": "the"
+        },
+        {
+          "word": "dänischen",
+          "start": 523.6,
+          "end": 524.44,
+          "translation": "Danish"
+        },
+        {
+          "word": "Ostseeinsel",
+          "start": 524.44,
+          "end": 526.02,
+          "translation": "Baltic Sea island"
+        },
+        {
+          "word": "Bornholm",
+          "start": 526.02,
+          "end": 527.2,
+          "translation": "Bornholm"
+        },
+        {
+          "word": "gesprengt",
+          "start": 527.2,
+          "end": 528.38,
+          "translation": "blown up"
+        },
+        {
+          "word": "worden.",
+          "start": 528.38,
+          "end": 529.0,
+          "translation": "been."
+        }
+      ]
+    }
+  ]
+}
