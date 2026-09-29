@@ -1,0 +1,3472 @@
+{
+  "id": 79469845,
+  "title": "29.09.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-09-29",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/C07BF2BC_2.mp3",
+  "duration": 502,
+  "imageUrl": "https://static.dw.com/image/78061989_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "OpenAI stoppt neues KI-Modell wegen Sicherheitsbedenken",
+      "words": [
+        {
+          "word": "OpenAI",
+          "start": 19.1,
+          "end": 20.12,
+          "translation": "OpenAI"
+        },
+        {
+          "word": "stoppt",
+          "start": 20.12,
+          "end": 20.98,
+          "translation": "stops"
+        },
+        {
+          "word": "neues",
+          "start": 20.98,
+          "end": 21.44,
+          "translation": "new"
+        },
+        {
+          "word": "KI-Modell",
+          "start": 21.44,
+          "end": 22.58,
+          "translation": "AI model"
+        },
+        {
+          "word": "wegen",
+          "start": 22.58,
+          "end": 22.92,
+          "translation": "because of"
+        },
+        {
+          "word": "Sicherheitsbedenken",
+          "start": 22.92,
+          "end": 24.52,
+          "translation": "Security Concerns"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der ChatGPT-Entwickler OpenAI hat die geplante Veröffentlichung seines neuen KI-Modells GPT 6.1 Astra aus Sicherheitsgründen gestrichen. In Tests habe das Modell Nutzer teils nicht ehrlich über seine Aktionen informiert und mitunter ohne Erlaubnis gehandelt, sagte OpenAI-Sicherheitsmanagerin Saachi Jain dem „Wall Street Journal“. Erst am Wochenende hatte OpenAI das Training seiner leistungsstärksten Modelle ausgesetzt. Ein anderes KI-System hatte in einem Test eine Netzwerklücke genutzt, um trotz fehlenden Internetzugangs Antworten eines externen Chatbots abzurufen. Der US-Bundesstaat Florida fordert inzwischen per Gerichtsantrag zusätzliche Sicherheitsauflagen für die Entwicklung neuer KI-Modelle.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 25.2,
+          "end": 25.78,
+          "translation": "The"
+        },
+        {
+          "word": "ChatGPT-Entwickler",
+          "start": 25.78,
+          "end": 27.5,
+          "translation": "ChatGPT developer"
+        },
+        {
+          "word": "OpenAI",
+          "start": 27.5,
+          "end": 28.42,
+          "translation": "OpenAI"
+        },
+        {
+          "word": "hat",
+          "start": 28.42,
+          "end": 28.96,
+          "translation": "has"
+        },
+        {
+          "word": "die",
+          "start": 28.96,
+          "end": 29.22,
+          "translation": "the"
+        },
+        {
+          "word": "geplante",
+          "start": 29.22,
+          "end": 29.82,
+          "translation": "planned"
+        },
+        {
+          "word": "Veröffentlichung",
+          "start": 29.82,
+          "end": 30.94,
+          "translation": "Publication"
+        },
+        {
+          "word": "seines",
+          "start": 30.94,
+          "end": 31.44,
+          "translation": "his"
+        },
+        {
+          "word": "neuen",
+          "start": 31.44,
+          "end": 31.78,
+          "translation": "new"
+        },
+        {
+          "word": "KI-Modells",
+          "start": 31.78,
+          "end": 32.94,
+          "translation": "AI models"
+        },
+        {
+          "word": "GPT",
+          "start": 32.94,
+          "end": 34.14,
+          "translation": "GPT"
+        },
+        {
+          "word": "6.1",
+          "start": 34.14,
+          "end": 35.28,
+          "translation": "6.1"
+        },
+        {
+          "word": "Astra",
+          "start": 35.28,
+          "end": 36.06,
+          "translation": "Astra"
+        },
+        {
+          "word": "aus",
+          "start": 36.06,
+          "end": 36.62,
+          "translation": "from"
+        },
+        {
+          "word": "Sicherheitsgründen",
+          "start": 36.62,
+          "end": 37.84,
+          "translation": "Security reasons"
+        },
+        {
+          "word": "gestrichen.",
+          "start": 37.84,
+          "end": 38.82,
+          "translation": "deleted."
+        },
+        {
+          "word": "In",
+          "start": 39.32,
+          "end": 39.62,
+          "translation": "In"
+        },
+        {
+          "word": "Tests",
+          "start": 39.62,
+          "end": 40.22,
+          "translation": "Tests"
+        },
+        {
+          "word": "habe",
+          "start": 40.22,
+          "end": 40.54,
+          "translation": "have"
+        },
+        {
+          "word": "das",
+          "start": 40.54,
+          "end": 40.84,
+          "translation": "the"
+        },
+        {
+          "word": "Modell",
+          "start": 40.84,
+          "end": 41.42,
+          "translation": "Model"
+        },
+        {
+          "word": "Nutzer",
+          "start": 41.42,
+          "end": 42.06,
+          "translation": "Users"
+        },
+        {
+          "word": "teils",
+          "start": 42.06,
+          "end": 42.62,
+          "translation": "partly"
+        },
+        {
+          "word": "nicht",
+          "start": 42.62,
+          "end": 42.86,
+          "translation": "not"
+        },
+        {
+          "word": "ehrlich",
+          "start": 42.86,
+          "end": 43.38,
+          "translation": "honest"
+        },
+        {
+          "word": "über",
+          "start": 43.38,
+          "end": 43.88,
+          "translation": "about"
+        },
+        {
+          "word": "seine",
+          "start": 43.88,
+          "end": 44.32,
+          "translation": "his"
+        },
+        {
+          "word": "Aktionen",
+          "start": 44.32,
+          "end": 45.34,
+          "translation": "Actions"
+        },
+        {
+          "word": "informiert",
+          "start": 45.34,
+          "end": 45.92,
+          "translation": "informed"
+        },
+        {
+          "word": "und",
+          "start": 45.92,
+          "end": 46.78,
+          "translation": "and"
+        },
+        {
+          "word": "mitunter",
+          "start": 46.78,
+          "end": 47.7,
+          "translation": "sometimes"
+        },
+        {
+          "word": "ohne",
+          "start": 47.7,
+          "end": 48.22,
+          "translation": "without"
+        },
+        {
+          "word": "Erlaubnis",
+          "start": 48.22,
+          "end": 49.0,
+          "translation": "Permission"
+        },
+        {
+          "word": "gehandelt,",
+          "start": 49.0,
+          "end": 49.94,
+          "translation": "traded,"
+        },
+        {
+          "word": "sagte",
+          "start": 50.3,
+          "end": 50.7,
+          "translation": "said"
+        },
+        {
+          "word": "OpenAI-Sicherheitsmanagerin",
+          "start": 50.7,
+          "end": 52.45,
+          "translation": "OpenAI Security Manager"
+        },
+        {
+          "word": "Saachi",
+          "start": 52.45,
+          "end": 54.21,
+          "translation": "Saachi"
+        },
+        {
+          "word": "Jain",
+          "start": 54.21,
+          "end": 55.96,
+          "translation": "Yes and no"
+        },
+        {
+          "word": "dem",
+          "start": 55.96,
+          "end": 56.1,
+          "translation": "the"
+        },
+        {
+          "word": "„Wall",
+          "start": 56.1,
+          "end": 56.58,
+          "translation": "\"Wall"
+        },
+        {
+          "word": "Street",
+          "start": 56.58,
+          "end": 57.0,
+          "translation": "Street"
+        },
+        {
+          "word": "Journal“.",
+          "start": 57.0,
+          "end": 57.68,
+          "translation": "Journal\"."
+        },
+        {
+          "word": "Erst",
+          "start": 58.4,
+          "end": 58.68,
+          "translation": "First"
+        },
+        {
+          "word": "am",
+          "start": 58.68,
+          "end": 59.04,
+          "translation": "on"
+        },
+        {
+          "word": "Wochenende",
+          "start": 59.04,
+          "end": 59.98,
+          "translation": "Weekend"
+        },
+        {
+          "word": "hatte",
+          "start": 59.98,
+          "end": 60.34,
+          "translation": "had"
+        },
+        {
+          "word": "OpenAI",
+          "start": 60.34,
+          "end": 61.74,
+          "translation": "OpenAI"
+        },
+        {
+          "word": "das",
+          "start": 61.74,
+          "end": 62.36,
+          "translation": "the"
+        },
+        {
+          "word": "Training",
+          "start": 62.36,
+          "end": 63.02,
+          "translation": "Training"
+        },
+        {
+          "word": "seiner",
+          "start": 63.02,
+          "end": 63.62,
+          "translation": "his"
+        },
+        {
+          "word": "leistungsstärksten",
+          "start": 63.62,
+          "end": 65.04,
+          "translation": "most powerful"
+        },
+        {
+          "word": "Modelle",
+          "start": 65.04,
+          "end": 65.62,
+          "translation": "Models"
+        },
+        {
+          "word": "ausgesetzt.",
+          "start": 65.62,
+          "end": 66.66,
+          "translation": "suspended."
+        },
+        {
+          "word": "Ein",
+          "start": 67.12,
+          "end": 67.82,
+          "translation": "A"
+        },
+        {
+          "word": "anderes",
+          "start": 67.82,
+          "end": 68.62,
+          "translation": "other"
+        },
+        {
+          "word": "KI-System",
+          "start": 68.62,
+          "end": 69.94,
+          "translation": "AI system"
+        },
+        {
+          "word": "hatte",
+          "start": 69.94,
+          "end": 70.66,
+          "translation": "had"
+        },
+        {
+          "word": "in",
+          "start": 70.66,
+          "end": 71.16,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 71.16,
+          "end": 71.68,
+          "translation": "one"
+        },
+        {
+          "word": "Test",
+          "start": 71.68,
+          "end": 72.06,
+          "translation": "Test"
+        },
+        {
+          "word": "eine",
+          "start": 72.06,
+          "end": 72.72,
+          "translation": "one"
+        },
+        {
+          "word": "Netzwerklücke",
+          "start": 72.72,
+          "end": 73.9,
+          "translation": "Network vulnerability"
+        },
+        {
+          "word": "genutzt,",
+          "start": 73.9,
+          "end": 74.64,
+          "translation": "used,"
+        },
+        {
+          "word": "um",
+          "start": 74.96,
+          "end": 75.3,
+          "translation": "to"
+        },
+        {
+          "word": "trotz",
+          "start": 75.3,
+          "end": 76.16,
+          "translation": "despite"
+        },
+        {
+          "word": "fehlenden",
+          "start": 76.16,
+          "end": 76.94,
+          "translation": "missing"
+        },
+        {
+          "word": "Internetzugangs",
+          "start": 76.94,
+          "end": 78.66,
+          "translation": "Internet access"
+        },
+        {
+          "word": "Antworten",
+          "start": 78.66,
+          "end": 79.84,
+          "translation": "Replies"
+        },
+        {
+          "word": "eines",
+          "start": 79.94,
+          "end": 80.24,
+          "translation": "one"
+        },
+        {
+          "word": "externen",
+          "start": 80.24,
+          "end": 81.34,
+          "translation": "external"
+        },
+        {
+          "word": "Chatbots",
+          "start": 81.34,
+          "end": 82.06,
+          "translation": "Chatbots"
+        },
+        {
+          "word": "abzurufen.",
+          "start": 82.06,
+          "end": 83.22,
+          "translation": "to access."
+        },
+        {
+          "word": "Der",
+          "start": 83.96,
+          "end": 84.3,
+          "translation": "The"
+        },
+        {
+          "word": "US-Bundesstaat",
+          "start": 84.3,
+          "end": 86.02,
+          "translation": "US state"
+        },
+        {
+          "word": "Florida",
+          "start": 86.02,
+          "end": 86.62,
+          "translation": "Florida"
+        },
+        {
+          "word": "fordert",
+          "start": 86.62,
+          "end": 87.66,
+          "translation": "demands"
+        },
+        {
+          "word": "inzwischen",
+          "start": 87.66,
+          "end": 88.52,
+          "translation": "in the meantime"
+        },
+        {
+          "word": "per",
+          "start": 88.52,
+          "end": 88.92,
+          "translation": "per"
+        },
+        {
+          "word": "Gerichtsantrag",
+          "start": 88.92,
+          "end": 90.4,
+          "translation": "Court Motion"
+        },
+        {
+          "word": "zusätzliche",
+          "start": 90.4,
+          "end": 91.94,
+          "translation": "additional"
+        },
+        {
+          "word": "Sicherheitsauflagen",
+          "start": 91.94,
+          "end": 93.64,
+          "translation": "Safety Requirements"
+        },
+        {
+          "word": "für",
+          "start": 93.64,
+          "end": 94.26,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 94.26,
+          "end": 94.54,
+          "translation": "the"
+        },
+        {
+          "word": "Entwicklung",
+          "start": 94.54,
+          "end": 95.22,
+          "translation": "Development"
+        },
+        {
+          "word": "neuer",
+          "start": 95.22,
+          "end": 96.08,
+          "translation": "newer"
+        },
+        {
+          "word": "KI-Modelle.",
+          "start": 96.08,
+          "end": 99.28,
+          "translation": "AI models."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "87-Jährige darf nach Protesten in Madrider Wohnung zurück",
+      "words": [
+        {
+          "word": "87-Jährige",
+          "start": 99.28,
+          "end": 102.48,
+          "translation": "87-year-old"
+        },
+        {
+          "word": "darf",
+          "start": 102.48,
+          "end": 102.78,
+          "translation": "may"
+        },
+        {
+          "word": "nach",
+          "start": 102.78,
+          "end": 103.28,
+          "translation": "to"
+        },
+        {
+          "word": "Protesten",
+          "start": 103.28,
+          "end": 104.26,
+          "translation": "Protests"
+        },
+        {
+          "word": "in",
+          "start": 104.26,
+          "end": 104.58,
+          "translation": "in"
+        },
+        {
+          "word": "Madrider",
+          "start": 104.58,
+          "end": 105.41,
+          "translation": "Madrid resident"
+        },
+        {
+          "word": "Wohnung",
+          "start": 105.41,
+          "end": 106.24,
+          "translation": "Apartment"
+        },
+        {
+          "word": "zurück",
+          "start": 106.24,
+          "end": 106.78,
+          "translation": "back"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Nach Protesten gegen ihre Zwangsräumung darf die 87-jährige Maricarmen Abascal in Madrid offenbar in ihre Wohnung zurückkehren. Vertreter der Seniorin einigten sich mit dem Immobilienunternehmen, dem das Gebäude gehört, auf neue Mietbedingungen, berichtete die Zeitung „El País“. Abascal soll demnach weiterhin etwa 500 Euro monatlich für Miete und Nebenkosten zahlen. Am Wochenende hatten Zehntausende gegen die Räumung und die Wohnungsnot in Spanien demonstriert. Abascal hatte seit 1956 in der Wohnung gelebt. Nach dem Verkauf des Gebäudes erklärten die neuen Eigentümer ihren alten Mietvertrag für ungültig. Nach mehreren gescheiterten Räumungsversuchen wurde sie schließlich von der Polizei aus der Wohnung gebracht. Die spanische Regierung arbeitet nun an neuen Maßnahmen gegen Zwangsräumungen.",
+      "words": [
+        {
+          "word": "Nach",
+          "start": 107.74,
+          "end": 108.14,
+          "translation": "After"
+        },
+        {
+          "word": "Protesten",
+          "start": 108.14,
+          "end": 109.16,
+          "translation": "Protests"
+        },
+        {
+          "word": "gegen",
+          "start": 109.16,
+          "end": 109.46,
+          "translation": "vs."
+        },
+        {
+          "word": "ihre",
+          "start": 109.46,
+          "end": 110.06,
+          "translation": "their"
+        },
+        {
+          "word": "Zwangsräumung",
+          "start": 110.06,
+          "end": 111.34,
+          "translation": "Eviction"
+        },
+        {
+          "word": "darf",
+          "start": 111.34,
+          "end": 111.58,
+          "translation": "may"
+        },
+        {
+          "word": "die",
+          "start": 111.58,
+          "end": 111.94,
+          "translation": "the"
+        },
+        {
+          "word": "87-jährige",
+          "start": 111.94,
+          "end": 113.45,
+          "translation": "87-year-old"
+        },
+        {
+          "word": "Maricarmen",
+          "start": 113.45,
+          "end": 114.95,
+          "translation": "Maricarmen"
+        },
+        {
+          "word": "Abascal",
+          "start": 114.95,
+          "end": 116.46,
+          "translation": "Abascal"
+        },
+        {
+          "word": "in",
+          "start": 116.46,
+          "end": 117.22,
+          "translation": "in"
+        },
+        {
+          "word": "Madrid",
+          "start": 117.22,
+          "end": 117.82,
+          "translation": "Madrid"
+        },
+        {
+          "word": "offenbar",
+          "start": 117.82,
+          "end": 118.92,
+          "translation": "obviously"
+        },
+        {
+          "word": "in",
+          "start": 118.92,
+          "end": 119.34,
+          "translation": "in"
+        },
+        {
+          "word": "ihre",
+          "start": 119.34,
+          "end": 119.76,
+          "translation": "their"
+        },
+        {
+          "word": "Wohnung",
+          "start": 119.76,
+          "end": 120.2,
+          "translation": "Apartment"
+        },
+        {
+          "word": "zurückkehren.",
+          "start": 120.2,
+          "end": 121.66,
+          "translation": "return."
+        },
+        {
+          "word": "Vertreter",
+          "start": 122.38,
+          "end": 123.3,
+          "translation": "Representative"
+        },
+        {
+          "word": "der",
+          "start": 123.3,
+          "end": 123.64,
+          "translation": "the"
+        },
+        {
+          "word": "Seniorin",
+          "start": 123.64,
+          "end": 124.46,
+          "translation": "Elderly woman"
+        },
+        {
+          "word": "einigten",
+          "start": 124.46,
+          "end": 125.3,
+          "translation": "agreed"
+        },
+        {
+          "word": "sich",
+          "start": 125.3,
+          "end": 125.84,
+          "translation": "itself"
+        },
+        {
+          "word": "mit",
+          "start": 125.84,
+          "end": 126.1,
+          "translation": "with"
+        },
+        {
+          "word": "dem",
+          "start": 126.1,
+          "end": 126.46,
+          "translation": "the"
+        },
+        {
+          "word": "Immobilienunternehmen,",
+          "start": 126.46,
+          "end": 127.46,
+          "translation": "Real estate companies,"
+        },
+        {
+          "word": "dem",
+          "start": 128.76,
+          "end": 129.06,
+          "translation": "the"
+        },
+        {
+          "word": "das",
+          "start": 129.06,
+          "end": 129.54,
+          "translation": "the"
+        },
+        {
+          "word": "Gebäude",
+          "start": 129.54,
+          "end": 130.26,
+          "translation": "Building"
+        },
+        {
+          "word": "gehört,",
+          "start": 130.26,
+          "end": 130.82,
+          "translation": "belongs,"
+        },
+        {
+          "word": "auf",
+          "start": 130.82,
+          "end": 131.68,
+          "translation": "on"
+        },
+        {
+          "word": "neue",
+          "start": 131.68,
+          "end": 132.24,
+          "translation": "new"
+        },
+        {
+          "word": "Mietbedingungen,",
+          "start": 132.24,
+          "end": 133.6,
+          "translation": "Rental Terms and Conditions,"
+        },
+        {
+          "word": "berichtete",
+          "start": 134.1,
+          "end": 134.82,
+          "translation": "reported"
+        },
+        {
+          "word": "die",
+          "start": 134.82,
+          "end": 135.18,
+          "translation": "the"
+        },
+        {
+          "word": "Zeitung",
+          "start": 135.18,
+          "end": 135.9,
+          "translation": "Newspaper"
+        },
+        {
+          "word": "„El",
+          "start": 135.9,
+          "end": 136.78,
+          "translation": "\"El"
+        },
+        {
+          "word": "País“.",
+          "start": 136.78,
+          "end": 137.66,
+          "translation": "\"Country\"."
+        },
+        {
+          "word": "Abascal",
+          "start": 137.66,
+          "end": 138.54,
+          "translation": "Abascal"
+        },
+        {
+          "word": "soll",
+          "start": 138.54,
+          "end": 139.02,
+          "translation": "should"
+        },
+        {
+          "word": "demnach",
+          "start": 139.02,
+          "end": 139.88,
+          "translation": "therefore"
+        },
+        {
+          "word": "weiterhin",
+          "start": 139.88,
+          "end": 140.5,
+          "translation": "furthermore"
+        },
+        {
+          "word": "etwa",
+          "start": 140.5,
+          "end": 141.24,
+          "translation": "about"
+        },
+        {
+          "word": "500",
+          "start": 141.24,
+          "end": 142.14,
+          "translation": "500"
+        },
+        {
+          "word": "Euro",
+          "start": 142.14,
+          "end": 142.62,
+          "translation": "Euro"
+        },
+        {
+          "word": "monatlich",
+          "start": 142.62,
+          "end": 143.68,
+          "translation": "monthly"
+        },
+        {
+          "word": "für",
+          "start": 143.68,
+          "end": 144.2,
+          "translation": "for"
+        },
+        {
+          "word": "Miete",
+          "start": 144.2,
+          "end": 144.74,
+          "translation": "Rent"
+        },
+        {
+          "word": "und",
+          "start": 144.74,
+          "end": 145.36,
+          "translation": "and"
+        },
+        {
+          "word": "Nebenkosten",
+          "start": 145.36,
+          "end": 146.48,
+          "translation": "Utility Costs"
+        },
+        {
+          "word": "zahlen.",
+          "start": 146.48,
+          "end": 147.06,
+          "translation": "pay."
+        },
+        {
+          "word": "Am",
+          "start": 147.86,
+          "end": 148.02,
+          "translation": "On"
+        },
+        {
+          "word": "Wochenende",
+          "start": 148.02,
+          "end": 149.06,
+          "translation": "Weekend"
+        },
+        {
+          "word": "hatten",
+          "start": 149.06,
+          "end": 149.46,
+          "translation": "had"
+        },
+        {
+          "word": "Zehntausende",
+          "start": 149.46,
+          "end": 150.7,
+          "translation": "Tens of thousands"
+        },
+        {
+          "word": "gegen",
+          "start": 150.7,
+          "end": 151.34,
+          "translation": "vs."
+        },
+        {
+          "word": "die",
+          "start": 151.34,
+          "end": 151.78,
+          "translation": "the"
+        },
+        {
+          "word": "Räumung",
+          "start": 151.78,
+          "end": 152.42,
+          "translation": "Eviction"
+        },
+        {
+          "word": "und",
+          "start": 152.42,
+          "end": 153.08,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 153.08,
+          "end": 153.44,
+          "translation": "the"
+        },
+        {
+          "word": "Wohnungsnot",
+          "start": 153.44,
+          "end": 154.4,
+          "translation": "Housing shortage"
+        },
+        {
+          "word": "in",
+          "start": 154.4,
+          "end": 154.76,
+          "translation": "in"
+        },
+        {
+          "word": "Spanien",
+          "start": 154.76,
+          "end": 155.56,
+          "translation": "Spain"
+        },
+        {
+          "word": "demonstriert.",
+          "start": 155.56,
+          "end": 156.8,
+          "translation": "demonstrated."
+        },
+        {
+          "word": "Abascal",
+          "start": 156.8,
+          "end": 158.6,
+          "translation": "Abascal"
+        },
+        {
+          "word": "hatte",
+          "start": 158.6,
+          "end": 159.4,
+          "translation": "had"
+        },
+        {
+          "word": "seit",
+          "start": 159.4,
+          "end": 159.88,
+          "translation": "since"
+        },
+        {
+          "word": "1956",
+          "start": 159.88,
+          "end": 161.3,
+          "translation": "1956"
+        },
+        {
+          "word": "in",
+          "start": 161.3,
+          "end": 162.66,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 162.66,
+          "end": 162.84,
+          "translation": "the"
+        },
+        {
+          "word": "Wohnung",
+          "start": 162.84,
+          "end": 163.3,
+          "translation": "Apartment"
+        },
+        {
+          "word": "gelebt.",
+          "start": 163.3,
+          "end": 164.1,
+          "translation": "lived."
+        },
+        {
+          "word": "Nach",
+          "start": 164.1,
+          "end": 165.1,
+          "translation": "After"
+        },
+        {
+          "word": "dem",
+          "start": 165.1,
+          "end": 165.52,
+          "translation": "the"
+        },
+        {
+          "word": "Verkauf",
+          "start": 165.52,
+          "end": 166.2,
+          "translation": "Sale"
+        },
+        {
+          "word": "des",
+          "start": 166.2,
+          "end": 166.58,
+          "translation": "of the"
+        },
+        {
+          "word": "Gebäudes",
+          "start": 166.58,
+          "end": 167.4,
+          "translation": "Building"
+        },
+        {
+          "word": "erklärten",
+          "start": 167.4,
+          "end": 168.56,
+          "translation": "declared"
+        },
+        {
+          "word": "die",
+          "start": 168.56,
+          "end": 168.76,
+          "translation": "the"
+        },
+        {
+          "word": "neuen",
+          "start": 168.76,
+          "end": 169.18,
+          "translation": "new"
+        },
+        {
+          "word": "Eigentümer",
+          "start": 169.18,
+          "end": 170.32,
+          "translation": "Owner"
+        },
+        {
+          "word": "ihren",
+          "start": 170.32,
+          "end": 170.82,
+          "translation": "their"
+        },
+        {
+          "word": "alten",
+          "start": 170.82,
+          "end": 171.36,
+          "translation": "old"
+        },
+        {
+          "word": "Mietvertrag",
+          "start": 171.36,
+          "end": 172.42,
+          "translation": "Lease Agreement"
+        },
+        {
+          "word": "für",
+          "start": 172.42,
+          "end": 172.86,
+          "translation": "for"
+        },
+        {
+          "word": "ungültig.",
+          "start": 172.86,
+          "end": 174.0,
+          "translation": "Invalid."
+        },
+        {
+          "word": "Nach",
+          "start": 174.72,
+          "end": 174.88,
+          "translation": "After"
+        },
+        {
+          "word": "mehreren",
+          "start": 174.88,
+          "end": 175.76,
+          "translation": "several"
+        },
+        {
+          "word": "gescheiterten",
+          "start": 175.76,
+          "end": 176.72,
+          "translation": "failed"
+        },
+        {
+          "word": "Räumungsversuchen",
+          "start": 176.72,
+          "end": 178.1,
+          "translation": "Attempts to evict"
+        },
+        {
+          "word": "wurde",
+          "start": 178.1,
+          "end": 178.84,
+          "translation": "was"
+        },
+        {
+          "word": "sie",
+          "start": 178.84,
+          "end": 179.22,
+          "translation": "them"
+        },
+        {
+          "word": "schließlich",
+          "start": 179.22,
+          "end": 179.84,
+          "translation": "finally"
+        },
+        {
+          "word": "von",
+          "start": 179.84,
+          "end": 180.36,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 180.36,
+          "end": 180.64,
+          "translation": "the"
+        },
+        {
+          "word": "Polizei",
+          "start": 180.64,
+          "end": 181.48,
+          "translation": "Police"
+        },
+        {
+          "word": "aus",
+          "start": 181.48,
+          "end": 182.02,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 182.02,
+          "end": 182.3,
+          "translation": "the"
+        },
+        {
+          "word": "Wohnung",
+          "start": 182.3,
+          "end": 182.74,
+          "translation": "Apartment"
+        },
+        {
+          "word": "gebracht.",
+          "start": 182.74,
+          "end": 183.36,
+          "translation": "brought."
+        },
+        {
+          "word": "Die",
+          "start": 184.28,
+          "end": 184.58,
+          "translation": "The"
+        },
+        {
+          "word": "spanische",
+          "start": 184.58,
+          "end": 185.4,
+          "translation": "Spanish"
+        },
+        {
+          "word": "Regierung",
+          "start": 185.4,
+          "end": 186.1,
+          "translation": "Government"
+        },
+        {
+          "word": "arbeitet",
+          "start": 186.1,
+          "end": 187.22,
+          "translation": "works"
+        },
+        {
+          "word": "nun",
+          "start": 187.22,
+          "end": 187.62,
+          "translation": "now"
+        },
+        {
+          "word": "an",
+          "start": 187.62,
+          "end": 188.02,
+          "translation": "on"
+        },
+        {
+          "word": "neuen",
+          "start": 188.02,
+          "end": 188.52,
+          "translation": "new"
+        },
+        {
+          "word": "Maßnahmen",
+          "start": 188.52,
+          "end": 189.22,
+          "translation": "Measures"
+        },
+        {
+          "word": "gegen",
+          "start": 189.22,
+          "end": 190.04,
+          "translation": "vs."
+        },
+        {
+          "word": "Zwangsräumungen.",
+          "start": 190.04,
+          "end": 191.5,
+          "translation": "Evictions."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Amnesty wirft Malis Armee Kriegsverbrechen vor",
+      "words": [
+        {
+          "word": "Amnesty",
+          "start": 195.04,
+          "end": 196.44,
+          "translation": "Amnesty"
+        },
+        {
+          "word": "wirft",
+          "start": 196.44,
+          "end": 197.18,
+          "translation": "throws"
+        },
+        {
+          "word": "Malis",
+          "start": 197.18,
+          "end": 197.7,
+          "translation": "Malis"
+        },
+        {
+          "word": "Armee",
+          "start": 197.7,
+          "end": 198.26,
+          "translation": "Army"
+        },
+        {
+          "word": "Kriegsverbrechen",
+          "start": 198.26,
+          "end": 199.68,
+          "translation": "War crimes"
+        },
+        {
+          "word": "vor",
+          "start": 199.68,
+          "end": 200.16,
+          "translation": "before"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Amnesty International wirft der malischen Armee und der russischen Söldnergruppe Wagner Kriegsverbrechen an Zivilisten vor. Bei gemeinsamen Einsätzen zwischen 2023 und 2025 seien an sieben Orten nahe der Grenze zu Mauretanien mindestens 34 Menschen getötet worden, heißt es in einem neuen Bericht. Zudem dokumentiert Amnesty Folter, Misshandlungen und Plünderungen. Fünf Menschen seien infolge von Folter und schlechten Haftbedingungen gestorben. Für den Bericht befragte die Organisation 119 malische Flüchtlinge in Mauretanien. Amnesty fordert unabhängige Ermittlungen. Malis Behörden äußerten sich zunächst nicht zu den Vorwürfen.",
+      "words": [
+        {
+          "word": "Amnesty",
+          "start": 200.52,
+          "end": 201.92,
+          "translation": "Amnesty"
+        },
+        {
+          "word": "International",
+          "start": 201.92,
+          "end": 202.98,
+          "translation": "International"
+        },
+        {
+          "word": "wirft",
+          "start": 202.98,
+          "end": 203.9,
+          "translation": "throws"
+        },
+        {
+          "word": "der",
+          "start": 203.9,
+          "end": 204.14,
+          "translation": "the"
+        },
+        {
+          "word": "malischen",
+          "start": 204.14,
+          "end": 204.94,
+          "translation": "Malian"
+        },
+        {
+          "word": "Armee",
+          "start": 204.94,
+          "end": 205.64,
+          "translation": "Army"
+        },
+        {
+          "word": "und",
+          "start": 205.64,
+          "end": 206.36,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 206.36,
+          "end": 206.74,
+          "translation": "the"
+        },
+        {
+          "word": "russischen",
+          "start": 206.74,
+          "end": 207.6,
+          "translation": "russian"
+        },
+        {
+          "word": "Söldnergruppe",
+          "start": 207.6,
+          "end": 208.92,
+          "translation": "Group of mercenaries"
+        },
+        {
+          "word": "Wagner",
+          "start": 208.92,
+          "end": 209.52,
+          "translation": "Wagner"
+        },
+        {
+          "word": "Kriegsverbrechen",
+          "start": 209.52,
+          "end": 211.26,
+          "translation": "War crimes"
+        },
+        {
+          "word": "an",
+          "start": 211.26,
+          "end": 211.64,
+          "translation": "on"
+        },
+        {
+          "word": "Zivilisten",
+          "start": 211.64,
+          "end": 212.66,
+          "translation": "Civilians"
+        },
+        {
+          "word": "vor.",
+          "start": 212.66,
+          "end": 213.18,
+          "translation": "before."
+        },
+        {
+          "word": "Bei",
+          "start": 213.18,
+          "end": 214.16,
+          "translation": "With"
+        },
+        {
+          "word": "gemeinsamen",
+          "start": 214.16,
+          "end": 215.32,
+          "translation": "common"
+        },
+        {
+          "word": "Einsätzen",
+          "start": 215.32,
+          "end": 216.2,
+          "translation": "Operations"
+        },
+        {
+          "word": "zwischen",
+          "start": 216.2,
+          "end": 216.9,
+          "translation": "between"
+        },
+        {
+          "word": "2023",
+          "start": 216.9,
+          "end": 218.32,
+          "translation": "2023"
+        },
+        {
+          "word": "und",
+          "start": 218.32,
+          "end": 219.64,
+          "translation": "and"
+        },
+        {
+          "word": "2025",
+          "start": 219.64,
+          "end": 221.66,
+          "translation": "2025"
+        },
+        {
+          "word": "seien",
+          "start": 221.66,
+          "end": 223.1,
+          "translation": "be"
+        },
+        {
+          "word": "an",
+          "start": 223.1,
+          "end": 223.42,
+          "translation": "on"
+        },
+        {
+          "word": "sieben",
+          "start": 223.42,
+          "end": 224.12,
+          "translation": "seven"
+        },
+        {
+          "word": "Orten",
+          "start": 224.12,
+          "end": 224.62,
+          "translation": "Locations"
+        },
+        {
+          "word": "nahe",
+          "start": 224.62,
+          "end": 225.24,
+          "translation": "near"
+        },
+        {
+          "word": "der",
+          "start": 225.24,
+          "end": 225.44,
+          "translation": "the"
+        },
+        {
+          "word": "Grenze",
+          "start": 225.44,
+          "end": 226.04,
+          "translation": "Border"
+        },
+        {
+          "word": "zu",
+          "start": 226.04,
+          "end": 226.36,
+          "translation": "to"
+        },
+        {
+          "word": "Mauretanien",
+          "start": 226.36,
+          "end": 228.1,
+          "translation": "Mauritania"
+        },
+        {
+          "word": "mindestens",
+          "start": 228.1,
+          "end": 228.96,
+          "translation": "at least"
+        },
+        {
+          "word": "34",
+          "start": 228.96,
+          "end": 229.94,
+          "translation": "34"
+        },
+        {
+          "word": "Menschen",
+          "start": 229.94,
+          "end": 230.82,
+          "translation": "People"
+        },
+        {
+          "word": "getötet",
+          "start": 230.82,
+          "end": 231.72,
+          "translation": "killed"
+        },
+        {
+          "word": "worden,",
+          "start": 231.72,
+          "end": 232.22,
+          "translation": "been,"
+        },
+        {
+          "word": "heißt",
+          "start": 232.8,
+          "end": 233.0,
+          "translation": "means"
+        },
+        {
+          "word": "es",
+          "start": 233.0,
+          "end": 233.4,
+          "translation": "it"
+        },
+        {
+          "word": "in",
+          "start": 233.4,
+          "end": 233.66,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 233.66,
+          "end": 234.16,
+          "translation": "one"
+        },
+        {
+          "word": "neuen",
+          "start": 234.16,
+          "end": 234.64,
+          "translation": "new"
+        },
+        {
+          "word": "Bericht.",
+          "start": 234.64,
+          "end": 235.52,
+          "translation": "Report."
+        },
+        {
+          "word": "Zudem",
+          "start": 236.26,
+          "end": 236.9,
+          "translation": "In addition"
+        },
+        {
+          "word": "dokumentiert",
+          "start": 236.9,
+          "end": 238.06,
+          "translation": "documented"
+        },
+        {
+          "word": "Amnesty",
+          "start": 238.06,
+          "end": 238.82,
+          "translation": "Amnesty"
+        },
+        {
+          "word": "Folter,",
+          "start": 238.82,
+          "end": 239.72,
+          "translation": "Torture,"
+        },
+        {
+          "word": "Misshandlungen",
+          "start": 240.36,
+          "end": 241.06,
+          "translation": "Abuse"
+        },
+        {
+          "word": "und",
+          "start": 241.06,
+          "end": 241.7,
+          "translation": "and"
+        },
+        {
+          "word": "Plünderungen.",
+          "start": 241.7,
+          "end": 242.74,
+          "translation": "Looting."
+        },
+        {
+          "word": "Fünf",
+          "start": 243.3,
+          "end": 243.7,
+          "translation": "Five"
+        },
+        {
+          "word": "Menschen",
+          "start": 243.7,
+          "end": 244.3,
+          "translation": "People"
+        },
+        {
+          "word": "seien",
+          "start": 244.3,
+          "end": 244.9,
+          "translation": "be"
+        },
+        {
+          "word": "infolge",
+          "start": 244.9,
+          "end": 245.56,
+          "translation": "as a result of"
+        },
+        {
+          "word": "von",
+          "start": 245.56,
+          "end": 245.98,
+          "translation": "from"
+        },
+        {
+          "word": "Folter",
+          "start": 245.98,
+          "end": 246.6,
+          "translation": "Torture"
+        },
+        {
+          "word": "und",
+          "start": 246.6,
+          "end": 246.94,
+          "translation": "and"
+        },
+        {
+          "word": "schlechten",
+          "start": 246.94,
+          "end": 247.6,
+          "translation": "bad"
+        },
+        {
+          "word": "Haftbedingungen",
+          "start": 247.6,
+          "end": 248.7,
+          "translation": "Prison conditions"
+        },
+        {
+          "word": "gestorben.",
+          "start": 248.7,
+          "end": 249.62,
+          "translation": "died."
+        },
+        {
+          "word": "Für",
+          "start": 250.22,
+          "end": 250.56,
+          "translation": "For"
+        },
+        {
+          "word": "den",
+          "start": 250.56,
+          "end": 250.84,
+          "translation": "the"
+        },
+        {
+          "word": "Bericht",
+          "start": 250.84,
+          "end": 251.46,
+          "translation": "Report"
+        },
+        {
+          "word": "befragte",
+          "start": 251.46,
+          "end": 252.38,
+          "translation": "surveyed"
+        },
+        {
+          "word": "die",
+          "start": 252.38,
+          "end": 252.56,
+          "translation": "the"
+        },
+        {
+          "word": "Organisation",
+          "start": 252.56,
+          "end": 253.56,
+          "translation": "Organization"
+        },
+        {
+          "word": "119",
+          "start": 253.56,
+          "end": 255.52,
+          "translation": "119"
+        },
+        {
+          "word": "malische",
+          "start": 255.52,
+          "end": 256.26,
+          "translation": "Malian"
+        },
+        {
+          "word": "Flüchtlinge",
+          "start": 256.26,
+          "end": 257.16,
+          "translation": "Refugees"
+        },
+        {
+          "word": "in",
+          "start": 257.16,
+          "end": 257.44,
+          "translation": "in"
+        },
+        {
+          "word": "Mauretanien.",
+          "start": 257.44,
+          "end": 258.56,
+          "translation": "Mauritania."
+        },
+        {
+          "word": "Amnesty",
+          "start": 258.56,
+          "end": 259.98,
+          "translation": "Amnesty"
+        },
+        {
+          "word": "fordert",
+          "start": 259.98,
+          "end": 260.64,
+          "translation": "demands"
+        },
+        {
+          "word": "unabhängige",
+          "start": 260.64,
+          "end": 261.88,
+          "translation": "independent"
+        },
+        {
+          "word": "Ermittlungen.",
+          "start": 261.88,
+          "end": 262.68,
+          "translation": "Investigations."
+        },
+        {
+          "word": "Malis",
+          "start": 262.68,
+          "end": 263.72,
+          "translation": "Malis"
+        },
+        {
+          "word": "Behörden",
+          "start": 263.72,
+          "end": 264.52,
+          "translation": "Authorities"
+        },
+        {
+          "word": "äußerten",
+          "start": 264.82,
+          "end": 265.26,
+          "translation": "expressed"
+        },
+        {
+          "word": "sich",
+          "start": 265.26,
+          "end": 265.66,
+          "translation": "itself"
+        },
+        {
+          "word": "zunächst",
+          "start": 265.66,
+          "end": 266.08,
+          "translation": "first"
+        },
+        {
+          "word": "nicht",
+          "start": 266.08,
+          "end": 266.52,
+          "translation": "not"
+        },
+        {
+          "word": "zu",
+          "start": 266.52,
+          "end": 266.96,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 266.96,
+          "end": 267.16,
+          "translation": "the"
+        },
+        {
+          "word": "Vorwürfen.",
+          "start": 267.16,
+          "end": 267.98,
+          "translation": "Allegations."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Kreml greift auf Metro-Vermögen in Russland zu",
+      "words": [
+        {
+          "word": "Kreml",
+          "start": 267.98,
+          "end": 272.06,
+          "translation": "Kremlin"
+        },
+        {
+          "word": "greift",
+          "start": 272.06,
+          "end": 272.64,
+          "translation": "grabs"
+        },
+        {
+          "word": "auf",
+          "start": 272.64,
+          "end": 273.06,
+          "translation": "on"
+        },
+        {
+          "word": "Metro-Vermögen",
+          "start": 273.06,
+          "end": 274.3,
+          "translation": "Metro Assets"
+        },
+        {
+          "word": "in",
+          "start": 274.3,
+          "end": 274.66,
+          "translation": "in"
+        },
+        {
+          "word": "Russland",
+          "start": 274.66,
+          "end": 275.38,
+          "translation": "Russia"
+        },
+        {
+          "word": "zu",
+          "start": 275.38,
+          "end": 275.78,
+          "translation": "to"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der russische Präsident Wladimir Putin hat das Russland-Geschäft des deutschen Handelskonzerns Metro unter Zwangsverwaltung gestellt. Sämtliche Vermögenswerte würden „temporär“ an die Managementgesellschaft Torg RUS übertragen, heißt es in einem in Moskau veröffentlichten Dekret. Metro ergeht es damit wie kürzlich dem Schweizer Nahrungsmittelhersteller Nestlé und dem französischen Einzelhändler Auchan. Der Kreml hatte den Schritt mit dem Sitz der Unternehmen in – wie es hieß – „unfreundlichen Staaten“ begründet.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 276.7,
+          "end": 277.04,
+          "translation": "The"
+        },
+        {
+          "word": "russische",
+          "start": 277.04,
+          "end": 277.78,
+          "translation": "Russian"
+        },
+        {
+          "word": "Präsident",
+          "start": 277.78,
+          "end": 278.48,
+          "translation": "President"
+        },
+        {
+          "word": "Wladimir",
+          "start": 278.48,
+          "end": 279.58,
+          "translation": "Vladimir"
+        },
+        {
+          "word": "Putin",
+          "start": 279.58,
+          "end": 280.28,
+          "translation": "Putin"
+        },
+        {
+          "word": "hat",
+          "start": 280.28,
+          "end": 280.74,
+          "translation": "has"
+        },
+        {
+          "word": "das",
+          "start": 280.74,
+          "end": 281.1,
+          "translation": "the"
+        },
+        {
+          "word": "Russland-Geschäft",
+          "start": 281.1,
+          "end": 282.34,
+          "translation": "Business in Russia"
+        },
+        {
+          "word": "des",
+          "start": 282.34,
+          "end": 282.6,
+          "translation": "of the"
+        },
+        {
+          "word": "deutschen",
+          "start": 282.6,
+          "end": 283.2,
+          "translation": "German"
+        },
+        {
+          "word": "Handelskonzerns",
+          "start": 283.2,
+          "end": 284.74,
+          "translation": "Retail Group"
+        },
+        {
+          "word": "Metro",
+          "start": 284.74,
+          "end": 285.28,
+          "translation": "Metro"
+        },
+        {
+          "word": "unter",
+          "start": 285.28,
+          "end": 286.28,
+          "translation": "under"
+        },
+        {
+          "word": "Zwangsverwaltung",
+          "start": 286.28,
+          "end": 287.68,
+          "translation": "Receivership"
+        },
+        {
+          "word": "gestellt.",
+          "start": 287.68,
+          "end": 288.32,
+          "translation": "placed."
+        },
+        {
+          "word": "Sämtliche",
+          "start": 289.14,
+          "end": 289.8,
+          "translation": "All"
+        },
+        {
+          "word": "Vermögenswerte",
+          "start": 289.8,
+          "end": 291.18,
+          "translation": "Assets"
+        },
+        {
+          "word": "würden",
+          "start": 291.18,
+          "end": 291.74,
+          "translation": "would"
+        },
+        {
+          "word": "„temporär“",
+          "start": 291.74,
+          "end": 292.96,
+          "translation": "\"temporary\""
+        },
+        {
+          "word": "an",
+          "start": 292.96,
+          "end": 293.42,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 293.42,
+          "end": 293.62,
+          "translation": "the"
+        },
+        {
+          "word": "Managementgesellschaft",
+          "start": 293.62,
+          "end": 295.3,
+          "translation": "Management Company"
+        },
+        {
+          "word": "Torg",
+          "start": 295.3,
+          "end": 296.1,
+          "translation": "Torg"
+        },
+        {
+          "word": "RUS",
+          "start": 296.1,
+          "end": 296.9,
+          "translation": "RUS"
+        },
+        {
+          "word": "übertragen,",
+          "start": 296.9,
+          "end": 298.18,
+          "translation": "transfer,"
+        },
+        {
+          "word": "heißt",
+          "start": 298.62,
+          "end": 298.9,
+          "translation": "means"
+        },
+        {
+          "word": "es",
+          "start": 298.9,
+          "end": 299.3,
+          "translation": "it"
+        },
+        {
+          "word": "in",
+          "start": 299.3,
+          "end": 299.6,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 299.6,
+          "end": 300.06,
+          "translation": "one"
+        },
+        {
+          "word": "in",
+          "start": 300.06,
+          "end": 300.4,
+          "translation": "in"
+        },
+        {
+          "word": "Moskau",
+          "start": 300.4,
+          "end": 301.62,
+          "translation": "Moscow"
+        },
+        {
+          "word": "veröffentlichten",
+          "start": 301.62,
+          "end": 302.84,
+          "translation": "published"
+        },
+        {
+          "word": "Dekret.",
+          "start": 302.84,
+          "end": 304.06,
+          "translation": "Decree."
+        },
+        {
+          "word": "Metro",
+          "start": 304.06,
+          "end": 304.46,
+          "translation": "Metro"
+        },
+        {
+          "word": "ergeht",
+          "start": 304.46,
+          "end": 305.12,
+          "translation": "is issued"
+        },
+        {
+          "word": "es",
+          "start": 305.12,
+          "end": 305.38,
+          "translation": "it"
+        },
+        {
+          "word": "damit",
+          "start": 305.38,
+          "end": 305.86,
+          "translation": "so that"
+        },
+        {
+          "word": "wie",
+          "start": 305.86,
+          "end": 306.3,
+          "translation": "like"
+        },
+        {
+          "word": "kürzlich",
+          "start": 306.3,
+          "end": 307.02,
+          "translation": "recently"
+        },
+        {
+          "word": "dem",
+          "start": 307.02,
+          "end": 307.46,
+          "translation": "the"
+        },
+        {
+          "word": "Schweizer",
+          "start": 307.46,
+          "end": 308.14,
+          "translation": "Swiss"
+        },
+        {
+          "word": "Nahrungsmittelhersteller",
+          "start": 308.14,
+          "end": 310.08,
+          "translation": "Food manufacturers"
+        },
+        {
+          "word": "Nestlé",
+          "start": 310.08,
+          "end": 311.5,
+          "translation": "Nestlé"
+        },
+        {
+          "word": "und",
+          "start": 311.5,
+          "end": 311.94,
+          "translation": "and"
+        },
+        {
+          "word": "dem",
+          "start": 311.94,
+          "end": 312.22,
+          "translation": "the"
+        },
+        {
+          "word": "französischen",
+          "start": 312.22,
+          "end": 313.4,
+          "translation": "French"
+        },
+        {
+          "word": "Einzelhändler",
+          "start": 313.4,
+          "end": 314.42,
+          "translation": "Retailer"
+        },
+        {
+          "word": "Auchan.",
+          "start": 314.42,
+          "end": 315.52,
+          "translation": "Auchan."
+        },
+        {
+          "word": "Der",
+          "start": 315.52,
+          "end": 316.5,
+          "translation": "The"
+        },
+        {
+          "word": "Kreml",
+          "start": 316.5,
+          "end": 317.28,
+          "translation": "Kremlin"
+        },
+        {
+          "word": "hatte",
+          "start": 317.28,
+          "end": 317.66,
+          "translation": "had"
+        },
+        {
+          "word": "den",
+          "start": 317.66,
+          "end": 318.06,
+          "translation": "the"
+        },
+        {
+          "word": "Schritt",
+          "start": 318.06,
+          "end": 318.42,
+          "translation": "Step"
+        },
+        {
+          "word": "mit",
+          "start": 318.42,
+          "end": 318.9,
+          "translation": "with"
+        },
+        {
+          "word": "dem",
+          "start": 318.9,
+          "end": 319.22,
+          "translation": "the"
+        },
+        {
+          "word": "Sitz",
+          "start": 319.22,
+          "end": 319.64,
+          "translation": "Seat"
+        },
+        {
+          "word": "der",
+          "start": 319.64,
+          "end": 319.96,
+          "translation": "the"
+        },
+        {
+          "word": "Unternehmen",
+          "start": 319.96,
+          "end": 320.6,
+          "translation": "The company"
+        },
+        {
+          "word": "in",
+          "start": 320.6,
+          "end": 321.26,
+          "translation": "in"
+        },
+        {
+          "word": "–",
+          "start": 321.26,
+          "end": 321.61,
+          "translation": "-"
+        },
+        {
+          "word": "wie",
+          "start": 321.61,
+          "end": 321.96,
+          "translation": "like"
+        },
+        {
+          "word": "es",
+          "start": 321.96,
+          "end": 322.32,
+          "translation": "it"
+        },
+        {
+          "word": "hieß",
+          "start": 322.32,
+          "end": 322.67,
+          "translation": "was called"
+        },
+        {
+          "word": "–",
+          "start": 322.67,
+          "end": 323.02,
+          "translation": "-"
+        },
+        {
+          "word": "„unfreundlichen",
+          "start": 323.02,
+          "end": 324.06,
+          "translation": "\"unfriendly"
+        },
+        {
+          "word": "Staaten“",
+          "start": 324.06,
+          "end": 324.76,
+          "translation": "States\""
+        },
+        {
+          "word": "begründet.",
+          "start": 324.76,
+          "end": 325.8,
+          "translation": "justified."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "UN beklagen steigende Flüchtlingszahl im Jemen",
+      "words": [
+        {
+          "word": "UN",
+          "start": 328.78,
+          "end": 329.96,
+          "translation": "UN"
+        },
+        {
+          "word": "beklagen",
+          "start": 329.96,
+          "end": 331.14,
+          "translation": "lament"
+        },
+        {
+          "word": "steigende",
+          "start": 331.14,
+          "end": 331.86,
+          "translation": "rising"
+        },
+        {
+          "word": "Flüchtlingszahl",
+          "start": 331.86,
+          "end": 333.18,
+          "translation": "Number of refugees"
+        },
+        {
+          "word": "im",
+          "start": 333.18,
+          "end": 333.7,
+          "translation": "in the"
+        },
+        {
+          "word": "Jemen",
+          "start": 333.7,
+          "end": 334.22,
+          "translation": "Yemen"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die schweren Kämpfe im Bürgerkriegsland Jemen zwingen immer mehr Menschen in die Flucht. Seit der jüngsten Eskalation des Konflikts an der Westküste im Juni seien schon fast 150.000 Menschen vertrieben worden, teilte die Internationale Organisation für Migration in Genf mit. Man arbeite mit lokalen Behörden und humanitären Partnern zusammen, um Familien mit Notunterkünften, sauberem Wasser und sanitären Einrichtungen zu versorgen. Die UN-Organisation appellierte an die Konfliktparteien, Helfern einen ungehinderten Zugang zu Bedürftigen zu gewähren. Die vom Iran unterstützte Huthi-Miliz im Jemen hatte in jüngster Zeit die Kontrolle über die strategisch wichtige Meerenge von Bab al-Mandab übernommen.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 334.96,
+          "end": 335.4,
+          "translation": "The"
+        },
+        {
+          "word": "schweren",
+          "start": 335.4,
+          "end": 336.2,
+          "translation": "heavy"
+        },
+        {
+          "word": "Kämpfe",
+          "start": 336.2,
+          "end": 336.72,
+          "translation": "Fights"
+        },
+        {
+          "word": "im",
+          "start": 336.72,
+          "end": 337.02,
+          "translation": "in the"
+        },
+        {
+          "word": "Bürgerkriegsland",
+          "start": 337.02,
+          "end": 338.3,
+          "translation": "Civil war country"
+        },
+        {
+          "word": "Jemen",
+          "start": 338.3,
+          "end": 338.98,
+          "translation": "Yemen"
+        },
+        {
+          "word": "zwingen",
+          "start": 338.98,
+          "end": 340.1,
+          "translation": "force"
+        },
+        {
+          "word": "immer",
+          "start": 340.1,
+          "end": 340.44,
+          "translation": "always"
+        },
+        {
+          "word": "mehr",
+          "start": 340.44,
+          "end": 340.9,
+          "translation": "more"
+        },
+        {
+          "word": "Menschen",
+          "start": 340.9,
+          "end": 341.5,
+          "translation": "People"
+        },
+        {
+          "word": "in",
+          "start": 341.5,
+          "end": 341.86,
+          "translation": "in"
+        },
+        {
+          "word": "die",
+          "start": 341.86,
+          "end": 342.12,
+          "translation": "the"
+        },
+        {
+          "word": "Flucht.",
+          "start": 342.12,
+          "end": 342.7,
+          "translation": "Escape."
+        },
+        {
+          "word": "Seit",
+          "start": 342.7,
+          "end": 343.64,
+          "translation": "Since"
+        },
+        {
+          "word": "der",
+          "start": 343.64,
+          "end": 344.02,
+          "translation": "the"
+        },
+        {
+          "word": "jüngsten",
+          "start": 344.02,
+          "end": 344.78,
+          "translation": "recent"
+        },
+        {
+          "word": "Eskalation",
+          "start": 344.78,
+          "end": 345.84,
+          "translation": "Escalation"
+        },
+        {
+          "word": "des",
+          "start": 345.84,
+          "end": 346.28,
+          "translation": "of the"
+        },
+        {
+          "word": "Konflikts",
+          "start": 346.28,
+          "end": 347.3,
+          "translation": "Conflict"
+        },
+        {
+          "word": "an",
+          "start": 347.3,
+          "end": 347.5,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 347.5,
+          "end": 347.68,
+          "translation": "the"
+        },
+        {
+          "word": "Westküste",
+          "start": 347.68,
+          "end": 348.56,
+          "translation": "West Coast"
+        },
+        {
+          "word": "im",
+          "start": 348.56,
+          "end": 348.94,
+          "translation": "in the"
+        },
+        {
+          "word": "Juni",
+          "start": 348.94,
+          "end": 349.58,
+          "translation": "June"
+        },
+        {
+          "word": "seien",
+          "start": 349.58,
+          "end": 350.46,
+          "translation": "be"
+        },
+        {
+          "word": "schon",
+          "start": 350.46,
+          "end": 350.78,
+          "translation": "already"
+        },
+        {
+          "word": "fast",
+          "start": 350.78,
+          "end": 351.24,
+          "translation": "almost"
+        },
+        {
+          "word": "150.000",
+          "start": 351.24,
+          "end": 353.5,
+          "translation": "150,000"
+        },
+        {
+          "word": "Menschen",
+          "start": 353.5,
+          "end": 354.14,
+          "translation": "People"
+        },
+        {
+          "word": "vertrieben",
+          "start": 354.14,
+          "end": 354.96,
+          "translation": "expelled"
+        },
+        {
+          "word": "worden,",
+          "start": 354.96,
+          "end": 355.62,
+          "translation": "been,"
+        },
+        {
+          "word": "teilte",
+          "start": 355.62,
+          "end": 356.6,
+          "translation": "shared"
+        },
+        {
+          "word": "die",
+          "start": 356.6,
+          "end": 356.96,
+          "translation": "the"
+        },
+        {
+          "word": "Internationale",
+          "start": 356.96,
+          "end": 358.56,
+          "translation": "International"
+        },
+        {
+          "word": "Organisation",
+          "start": 358.56,
+          "end": 359.58,
+          "translation": "Organization"
+        },
+        {
+          "word": "für",
+          "start": 359.58,
+          "end": 360.2,
+          "translation": "for"
+        },
+        {
+          "word": "Migration",
+          "start": 360.2,
+          "end": 361.02,
+          "translation": "Migration"
+        },
+        {
+          "word": "in",
+          "start": 361.02,
+          "end": 361.62,
+          "translation": "in"
+        },
+        {
+          "word": "Genf",
+          "start": 361.62,
+          "end": 362.24,
+          "translation": "Geneva"
+        },
+        {
+          "word": "mit.",
+          "start": 362.24,
+          "end": 362.6,
+          "translation": "with."
+        },
+        {
+          "word": "Man",
+          "start": 362.6,
+          "end": 363.54,
+          "translation": "Man"
+        },
+        {
+          "word": "arbeite",
+          "start": 363.54,
+          "end": 364.42,
+          "translation": "work"
+        },
+        {
+          "word": "mit",
+          "start": 364.42,
+          "end": 364.74,
+          "translation": "with"
+        },
+        {
+          "word": "lokalen",
+          "start": 364.74,
+          "end": 365.68,
+          "translation": "local"
+        },
+        {
+          "word": "Behörden",
+          "start": 365.68,
+          "end": 366.36,
+          "translation": "Authorities"
+        },
+        {
+          "word": "und",
+          "start": 366.36,
+          "end": 367.24,
+          "translation": "and"
+        },
+        {
+          "word": "humanitären",
+          "start": 367.24,
+          "end": 368.48,
+          "translation": "humanitarian"
+        },
+        {
+          "word": "Partnern",
+          "start": 368.48,
+          "end": 369.26,
+          "translation": "Partners"
+        },
+        {
+          "word": "zusammen,",
+          "start": 369.26,
+          "end": 369.82,
+          "translation": "together,"
+        },
+        {
+          "word": "um",
+          "start": 370.5,
+          "end": 370.62,
+          "translation": "to"
+        },
+        {
+          "word": "Familien",
+          "start": 370.62,
+          "end": 371.4,
+          "translation": "Families"
+        },
+        {
+          "word": "mit",
+          "start": 371.4,
+          "end": 371.96,
+          "translation": "with"
+        },
+        {
+          "word": "Notunterkünften,",
+          "start": 371.96,
+          "end": 373.46,
+          "translation": "emergency accommodation,"
+        },
+        {
+          "word": "sauberem",
+          "start": 373.46,
+          "end": 374.38,
+          "translation": "cleaner"
+        },
+        {
+          "word": "Wasser",
+          "start": 374.38,
+          "end": 374.92,
+          "translation": "Water"
+        },
+        {
+          "word": "und",
+          "start": 374.92,
+          "end": 375.78,
+          "translation": "and"
+        },
+        {
+          "word": "sanitären",
+          "start": 375.78,
+          "end": 376.86,
+          "translation": "plumbing"
+        },
+        {
+          "word": "Einrichtungen",
+          "start": 376.86,
+          "end": 377.82,
+          "translation": "Facilities"
+        },
+        {
+          "word": "zu",
+          "start": 377.82,
+          "end": 378.2,
+          "translation": "to"
+        },
+        {
+          "word": "versorgen.",
+          "start": 378.2,
+          "end": 378.94,
+          "translation": "supply."
+        },
+        {
+          "word": "Die",
+          "start": 379.3,
+          "end": 379.56,
+          "translation": "The"
+        },
+        {
+          "word": "UN-Organisation",
+          "start": 379.56,
+          "end": 381.18,
+          "translation": "UN organization"
+        },
+        {
+          "word": "appellierte",
+          "start": 381.18,
+          "end": 382.3,
+          "translation": "appealed"
+        },
+        {
+          "word": "an",
+          "start": 382.3,
+          "end": 382.64,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 382.64,
+          "end": 382.86,
+          "translation": "the"
+        },
+        {
+          "word": "Konfliktparteien,",
+          "start": 382.86,
+          "end": 384.36,
+          "translation": "Parties to the conflict,"
+        },
+        {
+          "word": "Helfern",
+          "start": 384.36,
+          "end": 385.18,
+          "translation": "Helpers"
+        },
+        {
+          "word": "einen",
+          "start": 385.18,
+          "end": 385.84,
+          "translation": "one"
+        },
+        {
+          "word": "ungehinderten",
+          "start": 385.84,
+          "end": 387.1,
+          "translation": "unhindered"
+        },
+        {
+          "word": "Zugang",
+          "start": 387.1,
+          "end": 387.86,
+          "translation": "Access"
+        },
+        {
+          "word": "zu",
+          "start": 387.86,
+          "end": 388.28,
+          "translation": "to"
+        },
+        {
+          "word": "Bedürftigen",
+          "start": 388.28,
+          "end": 389.26,
+          "translation": "Those in need"
+        },
+        {
+          "word": "zu",
+          "start": 389.26,
+          "end": 389.64,
+          "translation": "to"
+        },
+        {
+          "word": "gewähren.",
+          "start": 389.64,
+          "end": 390.34,
+          "translation": "grant."
+        },
+        {
+          "word": "Die",
+          "start": 390.34,
+          "end": 391.26,
+          "translation": "The"
+        },
+        {
+          "word": "vom",
+          "start": 391.26,
+          "end": 391.66,
+          "translation": "from the"
+        },
+        {
+          "word": "Iran",
+          "start": 391.66,
+          "end": 392.26,
+          "translation": "Iran"
+        },
+        {
+          "word": "unterstützte",
+          "start": 392.26,
+          "end": 393.54,
+          "translation": "supported"
+        },
+        {
+          "word": "Huthi-Miliz",
+          "start": 393.54,
+          "end": 394.74,
+          "translation": "Houthi militia"
+        },
+        {
+          "word": "im",
+          "start": 394.74,
+          "end": 395.28,
+          "translation": "in the"
+        },
+        {
+          "word": "Jemen",
+          "start": 395.28,
+          "end": 395.84,
+          "translation": "Yemen"
+        },
+        {
+          "word": "hatte",
+          "start": 396.54,
+          "end": 396.74,
+          "translation": "had"
+        },
+        {
+          "word": "in",
+          "start": 396.74,
+          "end": 397.22,
+          "translation": "in"
+        },
+        {
+          "word": "jüngster",
+          "start": 397.22,
+          "end": 397.9,
+          "translation": "youngest"
+        },
+        {
+          "word": "Zeit",
+          "start": 397.9,
+          "end": 398.44,
+          "translation": "Time"
+        },
+        {
+          "word": "die",
+          "start": 398.44,
+          "end": 398.76,
+          "translation": "the"
+        },
+        {
+          "word": "Kontrolle",
+          "start": 398.76,
+          "end": 399.56,
+          "translation": "Control"
+        },
+        {
+          "word": "über",
+          "start": 399.56,
+          "end": 400.28,
+          "translation": "about"
+        },
+        {
+          "word": "die",
+          "start": 400.28,
+          "end": 400.56,
+          "translation": "the"
+        },
+        {
+          "word": "strategisch",
+          "start": 400.56,
+          "end": 401.62,
+          "translation": "strategic"
+        },
+        {
+          "word": "wichtige",
+          "start": 401.62,
+          "end": 402.34,
+          "translation": "important"
+        },
+        {
+          "word": "Meerenge",
+          "start": 402.34,
+          "end": 403.24,
+          "translation": "Strait"
+        },
+        {
+          "word": "von",
+          "start": 403.24,
+          "end": 403.78,
+          "translation": "from"
+        },
+        {
+          "word": "Bab",
+          "start": 403.78,
+          "end": 404.38,
+          "translation": "Bab"
+        },
+        {
+          "word": "al-Mandab",
+          "start": 404.38,
+          "end": 405.34,
+          "translation": "al-Mandab"
+        },
+        {
+          "word": "übernommen.",
+          "start": 405.34,
+          "end": 406.14,
+          "translation": "adopted."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Kasachstan will Deutschland mehr Rohstoffe liefern",
+      "words": [
+        {
+          "word": "Kasachstan",
+          "start": 406.14,
+          "end": 409.38,
+          "translation": "Kazakhstan"
+        },
+        {
+          "word": "will",
+          "start": 409.38,
+          "end": 410.14,
+          "translation": "wants"
+        },
+        {
+          "word": "Deutschland",
+          "start": 410.14,
+          "end": 410.92,
+          "translation": "Germany"
+        },
+        {
+          "word": "mehr",
+          "start": 410.92,
+          "end": 411.54,
+          "translation": "more"
+        },
+        {
+          "word": "Rohstoffe",
+          "start": 411.54,
+          "end": 412.74,
+          "translation": "Raw materials"
+        },
+        {
+          "word": "liefern",
+          "start": 412.74,
+          "end": 413.28,
+          "translation": "deliver"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Kasachstans Präsident Kassym-Schomart Tokajew hat Deutschland eine engere Rohstoff-Partnerschaft angeboten. Sein Land fördere bereits 21 der 34 für Europa strategisch wichtigen Materialien, schreibt Tokajew in einem Gastbeitrag für das „Handelsblatt“. Zu den Rohstoffen, die Kasachstan „verlässlich“ liefern kann, gehören demnach Lithium, Silizium, Kobalt, Niob, Wolfram und Kupfer. Diese Ressourcen seien zentral für die Energiewende, Industrie, Mikroelektronik und digitale Technologien, fügte der Staatschef hinzu. Tokajew wird an diesem Dienstag in Berlin von Bundespräsident Frank-Walter Steinmeier mit militärischen Ehren empfangen. Beide werden auch beim Deutsch-Kasachischen Wirtschaftsforum sprechen.",
+      "words": [
+        {
+          "word": "Kasachstans",
+          "start": 413.28,
+          "end": 415.46,
+          "translation": "Kazakhstan's"
+        },
+        {
+          "word": "Präsident",
+          "start": 415.46,
+          "end": 416.08,
+          "translation": "President"
+        },
+        {
+          "word": "Kassym-Schomart",
+          "start": 416.08,
+          "end": 417.38,
+          "translation": "Kassym-Shomart"
+        },
+        {
+          "word": "Tokajew",
+          "start": 417.38,
+          "end": 418.68,
+          "translation": "Tokayev"
+        },
+        {
+          "word": "hat",
+          "start": 418.68,
+          "end": 419.2,
+          "translation": "has"
+        },
+        {
+          "word": "Deutschland",
+          "start": 419.2,
+          "end": 419.92,
+          "translation": "Germany"
+        },
+        {
+          "word": "eine",
+          "start": 419.92,
+          "end": 420.6,
+          "translation": "one"
+        },
+        {
+          "word": "engere",
+          "start": 420.6,
+          "end": 421.14,
+          "translation": "narrower"
+        },
+        {
+          "word": "Rohstoff-Partnerschaft",
+          "start": 421.14,
+          "end": 423.04,
+          "translation": "Commodities Partnership"
+        },
+        {
+          "word": "angeboten.",
+          "start": 423.04,
+          "end": 424.12,
+          "translation": "offered."
+        },
+        {
+          "word": "Sein",
+          "start": 424.44,
+          "end": 425.14,
+          "translation": "His"
+        },
+        {
+          "word": "Land",
+          "start": 425.14,
+          "end": 425.32,
+          "translation": "Country"
+        },
+        {
+          "word": "fördere",
+          "start": 425.32,
+          "end": 426.14,
+          "translation": "promote"
+        },
+        {
+          "word": "bereits",
+          "start": 426.14,
+          "end": 426.58,
+          "translation": "already"
+        },
+        {
+          "word": "21",
+          "start": 426.58,
+          "end": 427.64,
+          "translation": "21"
+        },
+        {
+          "word": "der",
+          "start": 427.64,
+          "end": 428.34,
+          "translation": "the"
+        },
+        {
+          "word": "34",
+          "start": 428.34,
+          "end": 429.34,
+          "translation": "34"
+        },
+        {
+          "word": "für",
+          "start": 429.34,
+          "end": 430.02,
+          "translation": "for"
+        },
+        {
+          "word": "Europa",
+          "start": 430.02,
+          "end": 430.7,
+          "translation": "Europe"
+        },
+        {
+          "word": "strategisch",
+          "start": 430.7,
+          "end": 432.02,
+          "translation": "strategic"
+        },
+        {
+          "word": "wichtigen",
+          "start": 432.02,
+          "end": 432.74,
+          "translation": "important"
+        },
+        {
+          "word": "Materialien,",
+          "start": 432.74,
+          "end": 434.0,
+          "translation": "Materials,"
+        },
+        {
+          "word": "schreibt",
+          "start": 434.68,
+          "end": 434.94,
+          "translation": "writes"
+        },
+        {
+          "word": "Tokajew",
+          "start": 434.94,
+          "end": 435.9,
+          "translation": "Tokayev"
+        },
+        {
+          "word": "in",
+          "start": 435.9,
+          "end": 436.1,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 436.1,
+          "end": 436.56,
+          "translation": "one"
+        },
+        {
+          "word": "Gastbeitrag",
+          "start": 436.56,
+          "end": 437.58,
+          "translation": "Guest Column"
+        },
+        {
+          "word": "für",
+          "start": 437.58,
+          "end": 438.0,
+          "translation": "for"
+        },
+        {
+          "word": "das",
+          "start": 438.0,
+          "end": 438.36,
+          "translation": "the"
+        },
+        {
+          "word": "„Handelsblatt“.",
+          "start": 438.36,
+          "end": 439.46,
+          "translation": "\"Handelsblatt.\""
+        },
+        {
+          "word": "Zu",
+          "start": 439.98,
+          "end": 440.58,
+          "translation": "To"
+        },
+        {
+          "word": "den",
+          "start": 440.58,
+          "end": 440.96,
+          "translation": "the"
+        },
+        {
+          "word": "Rohstoffen,",
+          "start": 440.96,
+          "end": 441.98,
+          "translation": "Raw materials,"
+        },
+        {
+          "word": "die",
+          "start": 441.98,
+          "end": 442.38,
+          "translation": "the"
+        },
+        {
+          "word": "Kasachstan",
+          "start": 442.38,
+          "end": 443.1,
+          "translation": "Kazakhstan"
+        },
+        {
+          "word": "„verlässlich“",
+          "start": 443.1,
+          "end": 444.42,
+          "translation": "\"reliable\""
+        },
+        {
+          "word": "liefern",
+          "start": 444.42,
+          "end": 444.92,
+          "translation": "deliver"
+        },
+        {
+          "word": "kann,",
+          "start": 444.92,
+          "end": 445.42,
+          "translation": "can,"
+        },
+        {
+          "word": "gehören",
+          "start": 445.96,
+          "end": 446.46,
+          "translation": "belong to"
+        },
+        {
+          "word": "demnach",
+          "start": 446.46,
+          "end": 447.36,
+          "translation": "therefore"
+        },
+        {
+          "word": "Lithium,",
+          "start": 447.36,
+          "end": 448.24,
+          "translation": "Lithium,"
+        },
+        {
+          "word": "Silizium,",
+          "start": 448.24,
+          "end": 450.0,
+          "translation": "Silicon,"
+        },
+        {
+          "word": "Kobalt,",
+          "start": 450.0,
+          "end": 450.5,
+          "translation": "Cobalt,"
+        },
+        {
+          "word": "Niob,",
+          "start": 450.5,
+          "end": 452.34,
+          "translation": "Niobium,"
+        },
+        {
+          "word": "Wolfram",
+          "start": 452.34,
+          "end": 452.78,
+          "translation": "Tungsten"
+        },
+        {
+          "word": "und",
+          "start": 452.78,
+          "end": 453.4,
+          "translation": "and"
+        },
+        {
+          "word": "Kupfer.",
+          "start": 453.4,
+          "end": 454.0,
+          "translation": "Copper."
+        },
+        {
+          "word": "Diese",
+          "start": 454.6,
+          "end": 455.14,
+          "translation": "These"
+        },
+        {
+          "word": "Ressourcen",
+          "start": 455.14,
+          "end": 456.1,
+          "translation": "Resources"
+        },
+        {
+          "word": "seien",
+          "start": 456.1,
+          "end": 456.64,
+          "translation": "be"
+        },
+        {
+          "word": "zentral",
+          "start": 456.64,
+          "end": 457.4,
+          "translation": "central"
+        },
+        {
+          "word": "für",
+          "start": 457.4,
+          "end": 457.78,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 457.78,
+          "end": 458.02,
+          "translation": "the"
+        },
+        {
+          "word": "Energiewende,",
+          "start": 458.02,
+          "end": 459.22,
+          "translation": "Energy transition,"
+        },
+        {
+          "word": "Industrie,",
+          "start": 459.8,
+          "end": 460.58,
+          "translation": "Industry,"
+        },
+        {
+          "word": "Mikroelektronik",
+          "start": 460.58,
+          "end": 462.78,
+          "translation": "Microelectronics"
+        },
+        {
+          "word": "und",
+          "start": 462.78,
+          "end": 463.28,
+          "translation": "and"
+        },
+        {
+          "word": "digitale",
+          "start": 463.28,
+          "end": 464.16,
+          "translation": "digital"
+        },
+        {
+          "word": "Technologien,",
+          "start": 464.16,
+          "end": 465.32,
+          "translation": "Technologies,"
+        },
+        {
+          "word": "fügte",
+          "start": 465.32,
+          "end": 466.22,
+          "translation": "added"
+        },
+        {
+          "word": "der",
+          "start": 466.22,
+          "end": 466.56,
+          "translation": "the"
+        },
+        {
+          "word": "Staatschef",
+          "start": 466.56,
+          "end": 467.56,
+          "translation": "Head of state"
+        },
+        {
+          "word": "hinzu.",
+          "start": 467.56,
+          "end": 468.2,
+          "translation": "added."
+        },
+        {
+          "word": "Tokajew",
+          "start": 468.2,
+          "end": 469.88,
+          "translation": "Tokayev"
+        },
+        {
+          "word": "wird",
+          "start": 469.88,
+          "end": 470.12,
+          "translation": "becomes"
+        },
+        {
+          "word": "an",
+          "start": 470.12,
+          "end": 470.44,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 470.44,
+          "end": 470.86,
+          "translation": "this"
+        },
+        {
+          "word": "Dienstag",
+          "start": 470.86,
+          "end": 471.64,
+          "translation": "Tuesday"
+        },
+        {
+          "word": "in",
+          "start": 471.64,
+          "end": 472.0,
+          "translation": "in"
+        },
+        {
+          "word": "Berlin",
+          "start": 472.0,
+          "end": 472.42,
+          "translation": "Berlin"
+        },
+        {
+          "word": "von",
+          "start": 472.42,
+          "end": 473.22,
+          "translation": "from"
+        },
+        {
+          "word": "Bundespräsident",
+          "start": 473.22,
+          "end": 474.52,
+          "translation": "Federal President"
+        },
+        {
+          "word": "Frank-Walter",
+          "start": 474.52,
+          "end": 475.7,
+          "translation": "Frank-Walter"
+        },
+        {
+          "word": "Steinmeier",
+          "start": 475.7,
+          "end": 476.58,
+          "translation": "Steinmeier"
+        },
+        {
+          "word": "mit",
+          "start": 476.58,
+          "end": 477.22,
+          "translation": "with"
+        },
+        {
+          "word": "militärischen",
+          "start": 477.22,
+          "end": 478.36,
+          "translation": "military"
+        },
+        {
+          "word": "Ehren",
+          "start": 478.36,
+          "end": 478.94,
+          "translation": "Honors"
+        },
+        {
+          "word": "empfangen.",
+          "start": 478.94,
+          "end": 479.68,
+          "translation": "receive."
+        },
+        {
+          "word": "Beide",
+          "start": 480.48,
+          "end": 480.96,
+          "translation": "Both"
+        },
+        {
+          "word": "werden",
+          "start": 480.96,
+          "end": 481.36,
+          "translation": "become"
+        },
+        {
+          "word": "auch",
+          "start": 481.36,
+          "end": 481.76,
+          "translation": "also"
+        },
+        {
+          "word": "beim",
+          "start": 481.76,
+          "end": 482.12,
+          "translation": "at the"
+        },
+        {
+          "word": "Deutsch-Kasachischen",
+          "start": 482.12,
+          "end": 483.44,
+          "translation": "German-Kazakh"
+        },
+        {
+          "word": "Wirtschaftsforum",
+          "start": 483.44,
+          "end": 484.76,
+          "translation": "Economic Forum"
+        },
+        {
+          "word": "sprechen.",
+          "start": 484.76,
+          "end": 485.3,
+          "translation": "speak."
+        }
+      ]
+    }
+  ]
+}
