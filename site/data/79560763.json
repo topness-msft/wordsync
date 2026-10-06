@@ -1,0 +1,3508 @@
+{
+  "id": 79560763,
+  "title": "06.10.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-10-06",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/BE7D5103_2.mp3",
+  "duration": 476,
+  "imageUrl": "https://static.dw.com/image/76524954_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Immer mehr Deutsche wollen Wehrdienst verweigern",
+      "words": [
+        {
+          "word": "Immer",
+          "start": 16.42,
+          "end": 17.04,
+          "translation": "Always"
+        },
+        {
+          "word": "mehr",
+          "start": 17.04,
+          "end": 17.44,
+          "translation": "more"
+        },
+        {
+          "word": "Deutsche",
+          "start": 17.44,
+          "end": 17.94,
+          "translation": "German"
+        },
+        {
+          "word": "wollen",
+          "start": 17.94,
+          "end": 18.46,
+          "translation": "want"
+        },
+        {
+          "word": "Wehrdienst",
+          "start": 18.46,
+          "end": 19.91,
+          "translation": "Military service"
+        },
+        {
+          "word": "verweigern",
+          "start": 19.91,
+          "end": 21.36,
+          "translation": "refuse"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "In Deutschland steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Von Januar bis Ende August gingen bereits mehr als 12.100 beim zuständigen Bundesamt ein, wie eine Sprecherin bestätigte. Damit liegt die Zahl schon jetzt mehr als dreimal so hoch wie im gesamten Jahr 2025. Ein Grund für diese Entwicklung dürfte das neue Wehrdienstgesetz sein, das Anfang 2026 in Kraft trat. Demnach erhalten alle deutschen Staatsbürger im Jahr ihrer Volljährigkeit einen Fragebogen, um ihre Eignung für den Dienst an der Waffe abzufragen. Die im Grundgesetz verankerte Wehrpflicht ist seit 2011 ausgesetzt, könnte aber rasch reaktiviert werden.",
+      "words": [
+        {
+          "word": "In",
+          "start": 21.36,
+          "end": 21.72,
+          "translation": "In"
+        },
+        {
+          "word": "Deutschland",
+          "start": 21.72,
+          "end": 22.26,
+          "translation": "Germany"
+        },
+        {
+          "word": "steigt",
+          "start": 22.26,
+          "end": 22.98,
+          "translation": "rises"
+        },
+        {
+          "word": "die",
+          "start": 22.98,
+          "end": 23.28,
+          "translation": "the"
+        },
+        {
+          "word": "Zahl",
+          "start": 23.28,
+          "end": 23.64,
+          "translation": "Number"
+        },
+        {
+          "word": "der",
+          "start": 23.64,
+          "end": 23.98,
+          "translation": "the"
+        },
+        {
+          "word": "Anträge",
+          "start": 23.98,
+          "end": 24.66,
+          "translation": "Applications"
+        },
+        {
+          "word": "auf",
+          "start": 24.66,
+          "end": 25.38,
+          "translation": "on"
+        },
+        {
+          "word": "Kriegsdienstverweigerung",
+          "start": 25.38,
+          "end": 27.24,
+          "translation": "Conscientious objection"
+        },
+        {
+          "word": "stark",
+          "start": 27.24,
+          "end": 27.6,
+          "translation": "strong"
+        },
+        {
+          "word": "an.",
+          "start": 27.6,
+          "end": 28.08,
+          "translation": "to."
+        },
+        {
+          "word": "Von",
+          "start": 28.08,
+          "end": 29.18,
+          "translation": "From"
+        },
+        {
+          "word": "Januar",
+          "start": 29.18,
+          "end": 29.78,
+          "translation": "January"
+        },
+        {
+          "word": "bis",
+          "start": 29.78,
+          "end": 30.06,
+          "translation": "to"
+        },
+        {
+          "word": "Ende",
+          "start": 30.06,
+          "end": 30.56,
+          "translation": "End"
+        },
+        {
+          "word": "August",
+          "start": 30.56,
+          "end": 30.96,
+          "translation": "august"
+        },
+        {
+          "word": "gingen",
+          "start": 30.96,
+          "end": 31.72,
+          "translation": "went"
+        },
+        {
+          "word": "bereits",
+          "start": 31.72,
+          "end": 32.18,
+          "translation": "already"
+        },
+        {
+          "word": "mehr",
+          "start": 32.18,
+          "end": 32.72,
+          "translation": "more"
+        },
+        {
+          "word": "als",
+          "start": 32.72,
+          "end": 33.18,
+          "translation": "as"
+        },
+        {
+          "word": "12.100",
+          "start": 33.18,
+          "end": 35.02,
+          "translation": "12,100"
+        },
+        {
+          "word": "beim",
+          "start": 35.02,
+          "end": 35.62,
+          "translation": "at the"
+        },
+        {
+          "word": "zuständigen",
+          "start": 35.62,
+          "end": 36.66,
+          "translation": "responsible"
+        },
+        {
+          "word": "Bundesamt",
+          "start": 36.66,
+          "end": 37.52,
+          "translation": "Federal Office"
+        },
+        {
+          "word": "ein,",
+          "start": 37.52,
+          "end": 37.92,
+          "translation": "in,"
+        },
+        {
+          "word": "wie",
+          "start": 38.3,
+          "end": 38.56,
+          "translation": "like"
+        },
+        {
+          "word": "eine",
+          "start": 38.56,
+          "end": 38.98,
+          "translation": "one"
+        },
+        {
+          "word": "Sprecherin",
+          "start": 38.98,
+          "end": 39.9,
+          "translation": "Speaker"
+        },
+        {
+          "word": "bestätigte.",
+          "start": 39.9,
+          "end": 40.84,
+          "translation": "confirmed."
+        },
+        {
+          "word": "Damit",
+          "start": 41.86,
+          "end": 42.44,
+          "translation": "So that"
+        },
+        {
+          "word": "liegt",
+          "start": 42.44,
+          "end": 42.88,
+          "translation": "lies"
+        },
+        {
+          "word": "die",
+          "start": 42.88,
+          "end": 43.26,
+          "translation": "the"
+        },
+        {
+          "word": "Zahl",
+          "start": 43.26,
+          "end": 43.6,
+          "translation": "Number"
+        },
+        {
+          "word": "schon",
+          "start": 43.6,
+          "end": 44.06,
+          "translation": "already"
+        },
+        {
+          "word": "jetzt",
+          "start": 44.06,
+          "end": 44.4,
+          "translation": "now"
+        },
+        {
+          "word": "mehr",
+          "start": 44.4,
+          "end": 44.88,
+          "translation": "more"
+        },
+        {
+          "word": "als",
+          "start": 44.88,
+          "end": 45.38,
+          "translation": "as"
+        },
+        {
+          "word": "dreimal",
+          "start": 45.38,
+          "end": 46.3,
+          "translation": "three times"
+        },
+        {
+          "word": "so",
+          "start": 46.3,
+          "end": 46.66,
+          "translation": "so"
+        },
+        {
+          "word": "hoch",
+          "start": 46.66,
+          "end": 47.16,
+          "translation": "high"
+        },
+        {
+          "word": "wie",
+          "start": 47.16,
+          "end": 47.42,
+          "translation": "like"
+        },
+        {
+          "word": "im",
+          "start": 47.42,
+          "end": 47.66,
+          "translation": "in the"
+        },
+        {
+          "word": "gesamten",
+          "start": 47.66,
+          "end": 48.34,
+          "translation": "entire"
+        },
+        {
+          "word": "Jahr",
+          "start": 48.34,
+          "end": 48.72,
+          "translation": "Year"
+        },
+        {
+          "word": "2025.",
+          "start": 48.72,
+          "end": 50.34,
+          "translation": "2025."
+        },
+        {
+          "word": "Ein",
+          "start": 51.34,
+          "end": 52.14,
+          "translation": "A"
+        },
+        {
+          "word": "Grund",
+          "start": 52.14,
+          "end": 52.48,
+          "translation": "Reason"
+        },
+        {
+          "word": "für",
+          "start": 52.48,
+          "end": 52.82,
+          "translation": "for"
+        },
+        {
+          "word": "diese",
+          "start": 52.82,
+          "end": 53.14,
+          "translation": "these"
+        },
+        {
+          "word": "Entwicklung",
+          "start": 53.14,
+          "end": 53.68,
+          "translation": "Development"
+        },
+        {
+          "word": "dürfte",
+          "start": 53.68,
+          "end": 54.44,
+          "translation": "should"
+        },
+        {
+          "word": "das",
+          "start": 54.44,
+          "end": 54.86,
+          "translation": "the"
+        },
+        {
+          "word": "neue",
+          "start": 54.86,
+          "end": 55.24,
+          "translation": "new"
+        },
+        {
+          "word": "Wehrdienstgesetz",
+          "start": 55.24,
+          "end": 56.5,
+          "translation": "Military Service Act"
+        },
+        {
+          "word": "sein,",
+          "start": 56.5,
+          "end": 57.12,
+          "translation": "be,"
+        },
+        {
+          "word": "das",
+          "start": 57.6,
+          "end": 57.7,
+          "translation": "the"
+        },
+        {
+          "word": "Anfang",
+          "start": 57.7,
+          "end": 58.28,
+          "translation": "Beginning"
+        },
+        {
+          "word": "2026",
+          "start": 58.28,
+          "end": 59.9,
+          "translation": "2026"
+        },
+        {
+          "word": "in",
+          "start": 59.9,
+          "end": 60.66,
+          "translation": "in"
+        },
+        {
+          "word": "Kraft",
+          "start": 60.66,
+          "end": 61.02,
+          "translation": "Power"
+        },
+        {
+          "word": "trat.",
+          "start": 61.02,
+          "end": 61.68,
+          "translation": "stepped."
+        },
+        {
+          "word": "Demnach",
+          "start": 62.78,
+          "end": 63.64,
+          "translation": "Accordingly"
+        },
+        {
+          "word": "erhalten",
+          "start": 63.64,
+          "end": 64.16,
+          "translation": "receive"
+        },
+        {
+          "word": "alle",
+          "start": 64.16,
+          "end": 64.84,
+          "translation": "all"
+        },
+        {
+          "word": "deutschen",
+          "start": 64.84,
+          "end": 65.4,
+          "translation": "German"
+        },
+        {
+          "word": "Staatsbürger",
+          "start": 65.4,
+          "end": 66.48,
+          "translation": "Citizen"
+        },
+        {
+          "word": "im",
+          "start": 66.48,
+          "end": 67.06,
+          "translation": "in the"
+        },
+        {
+          "word": "Jahr",
+          "start": 67.06,
+          "end": 67.34,
+          "translation": "Year"
+        },
+        {
+          "word": "ihrer",
+          "start": 67.34,
+          "end": 67.94,
+          "translation": "their"
+        },
+        {
+          "word": "Volljährigkeit",
+          "start": 67.94,
+          "end": 69.14,
+          "translation": "Age of Majority"
+        },
+        {
+          "word": "einen",
+          "start": 69.14,
+          "end": 69.9,
+          "translation": "one"
+        },
+        {
+          "word": "Fragebogen,",
+          "start": 69.9,
+          "end": 70.98,
+          "translation": "Questionnaire,"
+        },
+        {
+          "word": "um",
+          "start": 71.52,
+          "end": 71.74,
+          "translation": "to"
+        },
+        {
+          "word": "ihre",
+          "start": 71.74,
+          "end": 72.24,
+          "translation": "their"
+        },
+        {
+          "word": "Eignung",
+          "start": 72.24,
+          "end": 72.92,
+          "translation": "Suitability"
+        },
+        {
+          "word": "für",
+          "start": 72.92,
+          "end": 73.3,
+          "translation": "for"
+        },
+        {
+          "word": "den",
+          "start": 73.3,
+          "end": 73.58,
+          "translation": "the"
+        },
+        {
+          "word": "Dienst",
+          "start": 73.58,
+          "end": 74.1,
+          "translation": "Service"
+        },
+        {
+          "word": "an",
+          "start": 74.1,
+          "end": 74.48,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 74.48,
+          "end": 74.72,
+          "translation": "the"
+        },
+        {
+          "word": "Waffe",
+          "start": 74.72,
+          "end": 75.12,
+          "translation": "Weapon"
+        },
+        {
+          "word": "abzufragen.",
+          "start": 75.12,
+          "end": 76.24,
+          "translation": "to query."
+        },
+        {
+          "word": "Die",
+          "start": 76.97,
+          "end": 77.64,
+          "translation": "The"
+        },
+        {
+          "word": "im",
+          "start": 77.64,
+          "end": 77.94,
+          "translation": "in the"
+        },
+        {
+          "word": "Grundgesetz",
+          "start": 77.94,
+          "end": 78.66,
+          "translation": "Basic Law"
+        },
+        {
+          "word": "verankerte",
+          "start": 78.66,
+          "end": 79.76,
+          "translation": "enshrined"
+        },
+        {
+          "word": "Wehrpflicht",
+          "start": 79.76,
+          "end": 80.64,
+          "translation": "Compulsory military service"
+        },
+        {
+          "word": "ist",
+          "start": 80.64,
+          "end": 81.18,
+          "translation": "is"
+        },
+        {
+          "word": "seit",
+          "start": 81.18,
+          "end": 81.72,
+          "translation": "since"
+        },
+        {
+          "word": "2011",
+          "start": 81.72,
+          "end": 83.04,
+          "translation": "2011"
+        },
+        {
+          "word": "ausgesetzt,",
+          "start": 83.04,
+          "end": 84.28,
+          "translation": "suspended,"
+        },
+        {
+          "word": "könnte",
+          "start": 84.72,
+          "end": 85.1,
+          "translation": "could"
+        },
+        {
+          "word": "aber",
+          "start": 85.1,
+          "end": 85.64,
+          "translation": "but"
+        },
+        {
+          "word": "rasch",
+          "start": 85.64,
+          "end": 86.2,
+          "translation": "quickly"
+        },
+        {
+          "word": "reaktiviert",
+          "start": 86.2,
+          "end": 87.22,
+          "translation": "reactivated"
+        },
+        {
+          "word": "werden.",
+          "start": 87.22,
+          "end": 87.7,
+          "translation": "become."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Wahl des ersten AfD-Landtagspräsidenten ist abgemacht",
+      "words": [
+        {
+          "word": "Wahl",
+          "start": 90.04,
+          "end": 90.32,
+          "translation": "Choice"
+        },
+        {
+          "word": "des",
+          "start": 90.32,
+          "end": 90.68,
+          "translation": "of the"
+        },
+        {
+          "word": "ersten",
+          "start": 90.68,
+          "end": 91.3,
+          "translation": "first"
+        },
+        {
+          "word": "AfD-Landtagspräsidenten",
+          "start": 91.3,
+          "end": 94.08,
+          "translation": "AfD State Parliament Speakers"
+        },
+        {
+          "word": "ist",
+          "start": 94.08,
+          "end": 94.48,
+          "translation": "is"
+        },
+        {
+          "word": "abgemacht",
+          "start": 94.48,
+          "end": 95.3,
+          "translation": "agreed upon"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Genau einen Monat nach der Landtagswahl in Sachsen-Anhalt könnte erstmals ein AfD-Politiker zum Parlamentspräsidenten gewählt werden. Der neue Landtag in Magdeburg kommt an diesem Dienstag zu seiner konstituierenden Sitzung zusammen. Die vom Verfassungsschutz in Sachsen-Anhalt als gesichert rechtsextrem eingestufte AfD hat Tobias Rausch für den Posten an der Spitze des Landtags nominiert. Mit 39 Sitzen verfügt seine Partei über genauso viele Mandate wie CDU, SPD, Grüne und Die Linke zusammen. Das mit fünf Abgeordneten vertretene BSW hat allerdings angekündigt, den 35-jährigen Rausch zu unterstützen. Damit dürfte er auf Anhieb die nötige Stimmenmehrheit erhalten.",
+      "words": [
+        {
+          "word": "Genau",
+          "start": 96.3,
+          "end": 97.16,
+          "translation": "Exactly"
+        },
+        {
+          "word": "einen",
+          "start": 97.16,
+          "end": 97.82,
+          "translation": "one"
+        },
+        {
+          "word": "Monat",
+          "start": 97.82,
+          "end": 98.56,
+          "translation": "month"
+        },
+        {
+          "word": "nach",
+          "start": 98.56,
+          "end": 98.86,
+          "translation": "to"
+        },
+        {
+          "word": "der",
+          "start": 98.86,
+          "end": 99.2,
+          "translation": "the"
+        },
+        {
+          "word": "Landtagswahl",
+          "start": 99.2,
+          "end": 100.36,
+          "translation": "State election"
+        },
+        {
+          "word": "in",
+          "start": 100.36,
+          "end": 100.78,
+          "translation": "in"
+        },
+        {
+          "word": "Sachsen-Anhalt",
+          "start": 100.78,
+          "end": 101.94,
+          "translation": "Saxony-Anhalt"
+        },
+        {
+          "word": "könnte",
+          "start": 101.94,
+          "end": 102.62,
+          "translation": "could"
+        },
+        {
+          "word": "erstmals",
+          "start": 102.62,
+          "end": 103.62,
+          "translation": "for the first time"
+        },
+        {
+          "word": "ein",
+          "start": 103.62,
+          "end": 104.26,
+          "translation": "a"
+        },
+        {
+          "word": "AfD-Politiker",
+          "start": 104.26,
+          "end": 105.82,
+          "translation": "AfD politician"
+        },
+        {
+          "word": "zum",
+          "start": 105.82,
+          "end": 106.4,
+          "translation": "to the"
+        },
+        {
+          "word": "Parlamentspräsidenten",
+          "start": 106.4,
+          "end": 108.44,
+          "translation": "Speaker of Parliament"
+        },
+        {
+          "word": "gewählt",
+          "start": 108.44,
+          "end": 108.92,
+          "translation": "elected"
+        },
+        {
+          "word": "werden.",
+          "start": 108.92,
+          "end": 109.5,
+          "translation": "become."
+        },
+        {
+          "word": "Der",
+          "start": 110.54,
+          "end": 110.76,
+          "translation": "The"
+        },
+        {
+          "word": "neue",
+          "start": 110.76,
+          "end": 111.16,
+          "translation": "new"
+        },
+        {
+          "word": "Landtag",
+          "start": 111.16,
+          "end": 111.96,
+          "translation": "Parliament"
+        },
+        {
+          "word": "in",
+          "start": 111.96,
+          "end": 112.34,
+          "translation": "in"
+        },
+        {
+          "word": "Magdeburg",
+          "start": 112.34,
+          "end": 113.08,
+          "translation": "Magdeburg"
+        },
+        {
+          "word": "kommt",
+          "start": 113.08,
+          "end": 113.86,
+          "translation": "comes"
+        },
+        {
+          "word": "an",
+          "start": 113.86,
+          "end": 114.36,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 114.36,
+          "end": 114.9,
+          "translation": "this"
+        },
+        {
+          "word": "Dienstag",
+          "start": 114.9,
+          "end": 115.86,
+          "translation": "Tuesday"
+        },
+        {
+          "word": "zu",
+          "start": 115.86,
+          "end": 116.3,
+          "translation": "to"
+        },
+        {
+          "word": "seiner",
+          "start": 116.3,
+          "end": 116.76,
+          "translation": "his"
+        },
+        {
+          "word": "konstituierenden",
+          "start": 116.76,
+          "end": 118.38,
+          "translation": "constituent"
+        },
+        {
+          "word": "Sitzung",
+          "start": 118.38,
+          "end": 119.12,
+          "translation": "Session"
+        },
+        {
+          "word": "zusammen.",
+          "start": 119.12,
+          "end": 119.74,
+          "translation": "together."
+        },
+        {
+          "word": "Die",
+          "start": 120.58,
+          "end": 121.28,
+          "translation": "The"
+        },
+        {
+          "word": "vom",
+          "start": 121.28,
+          "end": 121.72,
+          "translation": "from the"
+        },
+        {
+          "word": "Verfassungsschutz",
+          "start": 121.72,
+          "end": 122.94,
+          "translation": "Protection of the constitution"
+        },
+        {
+          "word": "in",
+          "start": 122.94,
+          "end": 123.36,
+          "translation": "in"
+        },
+        {
+          "word": "Sachsen-Anhalt",
+          "start": 123.36,
+          "end": 124.46,
+          "translation": "Saxony-Anhalt"
+        },
+        {
+          "word": "als",
+          "start": 124.46,
+          "end": 125.18,
+          "translation": "as"
+        },
+        {
+          "word": "gesichert",
+          "start": 125.18,
+          "end": 125.92,
+          "translation": "secured"
+        },
+        {
+          "word": "rechtsextrem",
+          "start": 125.92,
+          "end": 126.98,
+          "translation": "extreme right"
+        },
+        {
+          "word": "eingestufte",
+          "start": 126.98,
+          "end": 128.34,
+          "translation": "classified"
+        },
+        {
+          "word": "AfD",
+          "start": 128.34,
+          "end": 129.22,
+          "translation": "AfD"
+        },
+        {
+          "word": "hat",
+          "start": 129.22,
+          "end": 130.34,
+          "translation": "has"
+        },
+        {
+          "word": "Tobias",
+          "start": 130.34,
+          "end": 131.04,
+          "translation": "Tobias"
+        },
+        {
+          "word": "Rausch",
+          "start": 131.04,
+          "end": 131.66,
+          "translation": "Intoxication"
+        },
+        {
+          "word": "für",
+          "start": 131.66,
+          "end": 132.0,
+          "translation": "for"
+        },
+        {
+          "word": "den",
+          "start": 132.0,
+          "end": 132.22,
+          "translation": "the"
+        },
+        {
+          "word": "Posten",
+          "start": 132.22,
+          "end": 133.02,
+          "translation": "Posts"
+        },
+        {
+          "word": "an",
+          "start": 133.02,
+          "end": 133.2,
+          "translation": "on"
+        },
+        {
+          "word": "der",
+          "start": 133.2,
+          "end": 133.38,
+          "translation": "the"
+        },
+        {
+          "word": "Spitze",
+          "start": 133.38,
+          "end": 134.0,
+          "translation": "Top"
+        },
+        {
+          "word": "des",
+          "start": 134.0,
+          "end": 134.36,
+          "translation": "of the"
+        },
+        {
+          "word": "Landtags",
+          "start": 134.36,
+          "end": 135.26,
+          "translation": "State Legislature"
+        },
+        {
+          "word": "nominiert.",
+          "start": 135.26,
+          "end": 136.06,
+          "translation": "nominated."
+        },
+        {
+          "word": "Mit",
+          "start": 136.78,
+          "end": 137.48,
+          "translation": "With"
+        },
+        {
+          "word": "39",
+          "start": 137.48,
+          "end": 138.26,
+          "translation": "39"
+        },
+        {
+          "word": "Sitzen",
+          "start": 138.26,
+          "end": 139.2,
+          "translation": "Sitting"
+        },
+        {
+          "word": "verfügt",
+          "start": 139.2,
+          "end": 139.92,
+          "translation": "has"
+        },
+        {
+          "word": "seine",
+          "start": 139.92,
+          "end": 140.44,
+          "translation": "his"
+        },
+        {
+          "word": "Partei",
+          "start": 140.44,
+          "end": 141.18,
+          "translation": "Party"
+        },
+        {
+          "word": "über",
+          "start": 141.18,
+          "end": 142.02,
+          "translation": "about"
+        },
+        {
+          "word": "genauso",
+          "start": 142.02,
+          "end": 142.66,
+          "translation": "just as"
+        },
+        {
+          "word": "viele",
+          "start": 142.66,
+          "end": 143.34,
+          "translation": "many"
+        },
+        {
+          "word": "Mandate",
+          "start": 143.34,
+          "end": 144.14,
+          "translation": "Mandates"
+        },
+        {
+          "word": "wie",
+          "start": 144.14,
+          "end": 144.58,
+          "translation": "like"
+        },
+        {
+          "word": "CDU,",
+          "start": 144.58,
+          "end": 145.36,
+          "translation": "CDU,"
+        },
+        {
+          "word": "SPD,",
+          "start": 145.98,
+          "end": 146.32,
+          "translation": "SPD,"
+        },
+        {
+          "word": "Grüne",
+          "start": 146.32,
+          "end": 147.6,
+          "translation": "Greens"
+        },
+        {
+          "word": "und",
+          "start": 147.6,
+          "end": 148.18,
+          "translation": "and"
+        },
+        {
+          "word": "Die",
+          "start": 148.18,
+          "end": 148.42,
+          "translation": "The"
+        },
+        {
+          "word": "Linke",
+          "start": 148.42,
+          "end": 148.82,
+          "translation": "Left"
+        },
+        {
+          "word": "zusammen.",
+          "start": 148.82,
+          "end": 149.56,
+          "translation": "together."
+        },
+        {
+          "word": "Das",
+          "start": 150.46,
+          "end": 150.96,
+          "translation": "The"
+        },
+        {
+          "word": "mit",
+          "start": 150.96,
+          "end": 151.24,
+          "translation": "with"
+        },
+        {
+          "word": "fünf",
+          "start": 151.24,
+          "end": 151.82,
+          "translation": "five"
+        },
+        {
+          "word": "Abgeordneten",
+          "start": 151.82,
+          "end": 152.92,
+          "translation": "Members of parliament"
+        },
+        {
+          "word": "vertretene",
+          "start": 152.92,
+          "end": 154.0,
+          "translation": "represented"
+        },
+        {
+          "word": "BSW",
+          "start": 154.0,
+          "end": 154.96,
+          "translation": "BSW"
+        },
+        {
+          "word": "hat",
+          "start": 154.96,
+          "end": 155.36,
+          "translation": "has"
+        },
+        {
+          "word": "allerdings",
+          "start": 155.36,
+          "end": 156.16,
+          "translation": "however"
+        },
+        {
+          "word": "angekündigt,",
+          "start": 156.16,
+          "end": 157.5,
+          "translation": "announced,"
+        },
+        {
+          "word": "den",
+          "start": 158.06,
+          "end": 158.18,
+          "translation": "the"
+        },
+        {
+          "word": "35-jährigen",
+          "start": 158.18,
+          "end": 159.8,
+          "translation": "35-year-old"
+        },
+        {
+          "word": "Rausch",
+          "start": 159.8,
+          "end": 160.32,
+          "translation": "Intoxication"
+        },
+        {
+          "word": "zu",
+          "start": 160.32,
+          "end": 160.62,
+          "translation": "to"
+        },
+        {
+          "word": "unterstützen.",
+          "start": 160.62,
+          "end": 161.44,
+          "translation": "support."
+        },
+        {
+          "word": "Damit",
+          "start": 161.44,
+          "end": 162.88,
+          "translation": "So that"
+        },
+        {
+          "word": "dürfte",
+          "start": 162.88,
+          "end": 163.54,
+          "translation": "should"
+        },
+        {
+          "word": "er",
+          "start": 163.54,
+          "end": 163.8,
+          "translation": "he"
+        },
+        {
+          "word": "auf",
+          "start": 163.8,
+          "end": 164.26,
+          "translation": "on"
+        },
+        {
+          "word": "Anhieb",
+          "start": 164.26,
+          "end": 164.96,
+          "translation": "Right away"
+        },
+        {
+          "word": "die",
+          "start": 164.96,
+          "end": 165.26,
+          "translation": "the"
+        },
+        {
+          "word": "nötige",
+          "start": 165.26,
+          "end": 165.88,
+          "translation": "necessary"
+        },
+        {
+          "word": "Stimmenmehrheit",
+          "start": 165.88,
+          "end": 167.12,
+          "translation": "Majority of votes"
+        },
+        {
+          "word": "erhalten.",
+          "start": 167.12,
+          "end": 167.76,
+          "translation": "received."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Schwarz-rote Koalition plant neue Plastiksteuer",
+      "words": [
+        {
+          "word": "Schwarz-rote",
+          "start": 167.76,
+          "end": 171.04,
+          "translation": "Black-Red"
+        },
+        {
+          "word": "Koalition",
+          "start": 171.04,
+          "end": 171.96,
+          "translation": "Coalition"
+        },
+        {
+          "word": "plant",
+          "start": 171.96,
+          "end": 172.54,
+          "translation": "plans"
+        },
+        {
+          "word": "neue",
+          "start": 172.54,
+          "end": 173.24,
+          "translation": "new"
+        },
+        {
+          "word": "Plastiksteuer",
+          "start": 173.24,
+          "end": 174.48,
+          "translation": "Plastic Tax"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Produkte mit Kunststoffverpackungen könnten in Deutschland bald teurer werden. Die Regierungskoalition plant eine neue Steuer auf Plastik, wie der Entwurf für ein entsprechendes Gesetz zeigt. Ab Juli 2027 sollen demnach für jede Tonne Kunststoff in Verpackungen 550 Euro fällig werden. Dadurch sollten „Anreize geschaffen“ werden, den Verbrauch zu verringern, heißt es in dem Gesetzentwurf. Zudem diene die Steuer der „weiteren Konsolidierung des Bundeshaushalts“. Schon im kommenden Jahr rechnet das Bundesfinanzministerium mit Mehreinnahmen von 800 Millionen Euro. 2028 soll das zusätzliche Steueraufkommen dann fast 1,5 Milliarden Euro betragen.",
+      "words": [
+        {
+          "word": "Produkte",
+          "start": 175.8,
+          "end": 176.8,
+          "translation": "Products"
+        },
+        {
+          "word": "mit",
+          "start": 176.8,
+          "end": 177.22,
+          "translation": "with"
+        },
+        {
+          "word": "Kunststoffverpackungen",
+          "start": 177.22,
+          "end": 179.12,
+          "translation": "Plastic Packaging"
+        },
+        {
+          "word": "könnten",
+          "start": 179.12,
+          "end": 179.82,
+          "translation": "could"
+        },
+        {
+          "word": "in",
+          "start": 179.82,
+          "end": 180.46,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland",
+          "start": 180.46,
+          "end": 181.06,
+          "translation": "Germany"
+        },
+        {
+          "word": "bald",
+          "start": 181.06,
+          "end": 181.74,
+          "translation": "soon"
+        },
+        {
+          "word": "teurer",
+          "start": 181.74,
+          "end": 182.34,
+          "translation": "more expensive"
+        },
+        {
+          "word": "werden.",
+          "start": 182.34,
+          "end": 182.82,
+          "translation": "become."
+        },
+        {
+          "word": "Die",
+          "start": 183.48,
+          "end": 184.06,
+          "translation": "The"
+        },
+        {
+          "word": "Regierungskoalition",
+          "start": 184.06,
+          "end": 185.62,
+          "translation": "Government coalition"
+        },
+        {
+          "word": "plant",
+          "start": 185.62,
+          "end": 186.4,
+          "translation": "plans"
+        },
+        {
+          "word": "eine",
+          "start": 186.4,
+          "end": 187.24,
+          "translation": "one"
+        },
+        {
+          "word": "neue",
+          "start": 187.24,
+          "end": 187.66,
+          "translation": "new"
+        },
+        {
+          "word": "Steuer",
+          "start": 187.66,
+          "end": 188.14,
+          "translation": "Tax"
+        },
+        {
+          "word": "auf",
+          "start": 188.14,
+          "end": 188.72,
+          "translation": "on"
+        },
+        {
+          "word": "Plastik,",
+          "start": 188.72,
+          "end": 189.48,
+          "translation": "Plastic,"
+        },
+        {
+          "word": "wie",
+          "start": 189.82,
+          "end": 190.12,
+          "translation": "like"
+        },
+        {
+          "word": "der",
+          "start": 190.12,
+          "end": 190.46,
+          "translation": "the"
+        },
+        {
+          "word": "Entwurf",
+          "start": 190.46,
+          "end": 191.02,
+          "translation": "Draft"
+        },
+        {
+          "word": "für",
+          "start": 191.02,
+          "end": 191.6,
+          "translation": "for"
+        },
+        {
+          "word": "ein",
+          "start": 191.6,
+          "end": 192.04,
+          "translation": "a"
+        },
+        {
+          "word": "entsprechendes",
+          "start": 192.04,
+          "end": 192.98,
+          "translation": "corresponding"
+        },
+        {
+          "word": "Gesetz",
+          "start": 192.98,
+          "end": 193.46,
+          "translation": "Law"
+        },
+        {
+          "word": "zeigt.",
+          "start": 193.46,
+          "end": 194.32,
+          "translation": "shows."
+        },
+        {
+          "word": "Ab",
+          "start": 194.92,
+          "end": 195.48,
+          "translation": "From"
+        },
+        {
+          "word": "Juli",
+          "start": 195.48,
+          "end": 196.0,
+          "translation": "July"
+        },
+        {
+          "word": "2027",
+          "start": 196.0,
+          "end": 198.02,
+          "translation": "2027"
+        },
+        {
+          "word": "sollen",
+          "start": 198.02,
+          "end": 198.74,
+          "translation": "should"
+        },
+        {
+          "word": "demnach",
+          "start": 198.74,
+          "end": 199.68,
+          "translation": "therefore"
+        },
+        {
+          "word": "für",
+          "start": 199.68,
+          "end": 199.92,
+          "translation": "for"
+        },
+        {
+          "word": "jede",
+          "start": 199.92,
+          "end": 200.44,
+          "translation": "each"
+        },
+        {
+          "word": "Tonne",
+          "start": 200.44,
+          "end": 200.96,
+          "translation": "metric ton"
+        },
+        {
+          "word": "Kunststoff",
+          "start": 200.96,
+          "end": 201.86,
+          "translation": "Plastic"
+        },
+        {
+          "word": "in",
+          "start": 201.86,
+          "end": 202.34,
+          "translation": "in"
+        },
+        {
+          "word": "Verpackungen",
+          "start": 202.34,
+          "end": 203.28,
+          "translation": "Packaging"
+        },
+        {
+          "word": "550",
+          "start": 203.28,
+          "end": 204.88,
+          "translation": "550"
+        },
+        {
+          "word": "Euro",
+          "start": 204.88,
+          "end": 205.58,
+          "translation": "Euro"
+        },
+        {
+          "word": "fällig",
+          "start": 205.58,
+          "end": 206.24,
+          "translation": "due"
+        },
+        {
+          "word": "werden.",
+          "start": 206.24,
+          "end": 206.58,
+          "translation": "become."
+        },
+        {
+          "word": "Dadurch",
+          "start": 207.44,
+          "end": 208.04,
+          "translation": "Thereby"
+        },
+        {
+          "word": "sollten",
+          "start": 208.04,
+          "end": 208.58,
+          "translation": "should"
+        },
+        {
+          "word": "„Anreize",
+          "start": 208.58,
+          "end": 209.74,
+          "translation": "\"Incentives"
+        },
+        {
+          "word": "geschaffen“",
+          "start": 209.74,
+          "end": 210.26,
+          "translation": "\"created\""
+        },
+        {
+          "word": "werden,",
+          "start": 210.26,
+          "end": 210.74,
+          "translation": "become,"
+        },
+        {
+          "word": "den",
+          "start": 211.28,
+          "end": 211.4,
+          "translation": "the"
+        },
+        {
+          "word": "Verbrauch",
+          "start": 211.4,
+          "end": 212.14,
+          "translation": "Consumption"
+        },
+        {
+          "word": "zu",
+          "start": 212.14,
+          "end": 212.44,
+          "translation": "to"
+        },
+        {
+          "word": "verringern,",
+          "start": 212.44,
+          "end": 213.22,
+          "translation": "reduce,"
+        },
+        {
+          "word": "heißt",
+          "start": 213.66,
+          "end": 213.86,
+          "translation": "means"
+        },
+        {
+          "word": "es",
+          "start": 213.86,
+          "end": 214.42,
+          "translation": "it"
+        },
+        {
+          "word": "in",
+          "start": 214.42,
+          "end": 214.66,
+          "translation": "in"
+        },
+        {
+          "word": "dem",
+          "start": 214.66,
+          "end": 214.88,
+          "translation": "the"
+        },
+        {
+          "word": "Gesetzentwurf.",
+          "start": 214.88,
+          "end": 215.94,
+          "translation": "Bill."
+        },
+        {
+          "word": "Zudem",
+          "start": 216.94,
+          "end": 217.68,
+          "translation": "In addition"
+        },
+        {
+          "word": "diene",
+          "start": 217.68,
+          "end": 218.14,
+          "translation": "serve"
+        },
+        {
+          "word": "die",
+          "start": 218.14,
+          "end": 218.32,
+          "translation": "the"
+        },
+        {
+          "word": "Steuer",
+          "start": 218.32,
+          "end": 218.72,
+          "translation": "Tax"
+        },
+        {
+          "word": "der",
+          "start": 218.72,
+          "end": 219.16,
+          "translation": "the"
+        },
+        {
+          "word": "„weiteren",
+          "start": 219.16,
+          "end": 220.08,
+          "translation": "\"additional"
+        },
+        {
+          "word": "Konsolidierung",
+          "start": 220.08,
+          "end": 221.36,
+          "translation": "Consolidation"
+        },
+        {
+          "word": "des",
+          "start": 221.36,
+          "end": 221.72,
+          "translation": "of the"
+        },
+        {
+          "word": "Bundeshaushalts“.",
+          "start": 221.72,
+          "end": 223.12,
+          "translation": "\"Federal Budget.\""
+        },
+        {
+          "word": "Schon",
+          "start": 224.32,
+          "end": 224.9,
+          "translation": "Already"
+        },
+        {
+          "word": "im",
+          "start": 224.9,
+          "end": 225.32,
+          "translation": "in the"
+        },
+        {
+          "word": "kommenden",
+          "start": 225.32,
+          "end": 225.92,
+          "translation": "coming"
+        },
+        {
+          "word": "Jahr",
+          "start": 225.92,
+          "end": 226.4,
+          "translation": "Year"
+        },
+        {
+          "word": "rechnet",
+          "start": 226.4,
+          "end": 226.98,
+          "translation": "calculates"
+        },
+        {
+          "word": "das",
+          "start": 226.98,
+          "end": 227.44,
+          "translation": "the"
+        },
+        {
+          "word": "Bundesfinanzministerium",
+          "start": 227.44,
+          "end": 229.78,
+          "translation": "Federal Ministry of Finance"
+        },
+        {
+          "word": "mit",
+          "start": 229.78,
+          "end": 230.4,
+          "translation": "with"
+        },
+        {
+          "word": "Mehreinnahmen",
+          "start": 230.4,
+          "end": 231.52,
+          "translation": "Additional revenue"
+        },
+        {
+          "word": "von",
+          "start": 231.52,
+          "end": 232.02,
+          "translation": "from"
+        },
+        {
+          "word": "800",
+          "start": 232.02,
+          "end": 232.84,
+          "translation": "800"
+        },
+        {
+          "word": "Millionen",
+          "start": 232.84,
+          "end": 233.46,
+          "translation": "million"
+        },
+        {
+          "word": "Euro.",
+          "start": 233.46,
+          "end": 234.24,
+          "translation": "Euro."
+        },
+        {
+          "word": "2028",
+          "start": 235.74,
+          "end": 237.14,
+          "translation": "2028"
+        },
+        {
+          "word": "soll",
+          "start": 237.14,
+          "end": 237.64,
+          "translation": "should"
+        },
+        {
+          "word": "das",
+          "start": 237.64,
+          "end": 238.0,
+          "translation": "the"
+        },
+        {
+          "word": "zusätzliche",
+          "start": 238.0,
+          "end": 239.02,
+          "translation": "additional"
+        },
+        {
+          "word": "Steueraufkommen",
+          "start": 239.02,
+          "end": 240.68,
+          "translation": "Tax revenue"
+        },
+        {
+          "word": "dann",
+          "start": 240.68,
+          "end": 240.9,
+          "translation": "then"
+        },
+        {
+          "word": "fast",
+          "start": 240.9,
+          "end": 241.3,
+          "translation": "almost"
+        },
+        {
+          "word": "1,5",
+          "start": 241.3,
+          "end": 242.68,
+          "translation": "1,5"
+        },
+        {
+          "word": "Milliarden",
+          "start": 242.68,
+          "end": 243.18,
+          "translation": "billion"
+        },
+        {
+          "word": "Euro",
+          "start": 243.18,
+          "end": 243.92,
+          "translation": "Euro"
+        },
+        {
+          "word": "betragen.",
+          "start": 243.92,
+          "end": 244.66,
+          "translation": "amount."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Sozialer Status beeinflusst Schulleistungen in EU massiv",
+      "words": [
+        {
+          "word": "Sozialer",
+          "start": 248.24,
+          "end": 249.12,
+          "translation": "Social"
+        },
+        {
+          "word": "Status",
+          "start": 249.12,
+          "end": 249.66,
+          "translation": "Status"
+        },
+        {
+          "word": "beeinflusst",
+          "start": 249.66,
+          "end": 251.02,
+          "translation": "influenced"
+        },
+        {
+          "word": "Schulleistungen",
+          "start": 251.02,
+          "end": 252.08,
+          "translation": "Academic Performance"
+        },
+        {
+          "word": "in",
+          "start": 252.08,
+          "end": 252.5,
+          "translation": "in"
+        },
+        {
+          "word": "EU",
+          "start": 252.5,
+          "end": 253.12,
+          "translation": "EU"
+        },
+        {
+          "word": "massiv",
+          "start": 253.12,
+          "end": 254.04,
+          "translation": "solid"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Kinder aus sozial benachteiligten Familien schneiden in der Europäischen Union bei ihren schulischen Leistungen eher schlecht ab. Das geht aus einer neuen Analyse der EU-Kommission auf Basis der Bildungsstudie PISA hervor. Unterprivilegierte Schüler erzielten demnach in naturwissenschaftlichen Fächern viermal so häufig unterdurchschnittliche Ergebnisse wie privilegierte Schüler. Gleichzeitig gehörten privilegierte Schüler etwa achtmal so häufig zu den Besten wie benachteiligte Schüler. Die EU-Kommission stellte zudem fest, dass der Anteil besonders leistungsstarker Schüler rückläufig ist. Auch die Spitzenleistungen nähmen ab, so die Brüsseler Behörde.",
+      "words": [
+        {
+          "word": "Kinder",
+          "start": 255.04,
+          "end": 255.92,
+          "translation": "Children"
+        },
+        {
+          "word": "aus",
+          "start": 255.92,
+          "end": 256.36,
+          "translation": "from"
+        },
+        {
+          "word": "sozial",
+          "start": 256.36,
+          "end": 256.98,
+          "translation": "social"
+        },
+        {
+          "word": "benachteiligten",
+          "start": 256.98,
+          "end": 258.3,
+          "translation": "disadvantaged"
+        },
+        {
+          "word": "Familien",
+          "start": 258.3,
+          "end": 259.14,
+          "translation": "Families"
+        },
+        {
+          "word": "schneiden",
+          "start": 259.14,
+          "end": 260.26,
+          "translation": "cut"
+        },
+        {
+          "word": "in",
+          "start": 260.26,
+          "end": 260.68,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 260.68,
+          "end": 260.96,
+          "translation": "the"
+        },
+        {
+          "word": "Europäischen",
+          "start": 260.96,
+          "end": 262.0,
+          "translation": "European"
+        },
+        {
+          "word": "Union",
+          "start": 262.0,
+          "end": 262.64,
+          "translation": "Union"
+        },
+        {
+          "word": "bei",
+          "start": 262.64,
+          "end": 263.2,
+          "translation": "with"
+        },
+        {
+          "word": "ihren",
+          "start": 263.2,
+          "end": 263.6,
+          "translation": "their"
+        },
+        {
+          "word": "schulischen",
+          "start": 263.6,
+          "end": 264.42,
+          "translation": "school-related"
+        },
+        {
+          "word": "Leistungen",
+          "start": 264.42,
+          "end": 265.14,
+          "translation": "Services"
+        },
+        {
+          "word": "eher",
+          "start": 265.14,
+          "end": 265.7,
+          "translation": "rather"
+        },
+        {
+          "word": "schlecht",
+          "start": 265.7,
+          "end": 266.18,
+          "translation": "bad"
+        },
+        {
+          "word": "ab.",
+          "start": 266.18,
+          "end": 266.58,
+          "translation": "from."
+        },
+        {
+          "word": "Das",
+          "start": 267.28,
+          "end": 267.8,
+          "translation": "The"
+        },
+        {
+          "word": "geht",
+          "start": 267.8,
+          "end": 268.06,
+          "translation": "goes"
+        },
+        {
+          "word": "aus",
+          "start": 268.06,
+          "end": 268.46,
+          "translation": "from"
+        },
+        {
+          "word": "einer",
+          "start": 268.46,
+          "end": 268.82,
+          "translation": "one"
+        },
+        {
+          "word": "neuen",
+          "start": 268.82,
+          "end": 269.28,
+          "translation": "new"
+        },
+        {
+          "word": "Analyse",
+          "start": 269.28,
+          "end": 270.3,
+          "translation": "Analysis"
+        },
+        {
+          "word": "der",
+          "start": 270.3,
+          "end": 270.68,
+          "translation": "the"
+        },
+        {
+          "word": "EU-Kommission",
+          "start": 270.68,
+          "end": 271.92,
+          "translation": "EU Commission"
+        },
+        {
+          "word": "auf",
+          "start": 271.92,
+          "end": 272.6,
+          "translation": "on"
+        },
+        {
+          "word": "Basis",
+          "start": 272.6,
+          "end": 273.2,
+          "translation": "Base"
+        },
+        {
+          "word": "der",
+          "start": 273.2,
+          "end": 273.58,
+          "translation": "the"
+        },
+        {
+          "word": "Bildungsstudie",
+          "start": 273.58,
+          "end": 274.78,
+          "translation": "Education Study"
+        },
+        {
+          "word": "PISA",
+          "start": 274.78,
+          "end": 275.36,
+          "translation": "PISA"
+        },
+        {
+          "word": "hervor.",
+          "start": 275.36,
+          "end": 276.04,
+          "translation": "out."
+        },
+        {
+          "word": "Unterprivilegierte",
+          "start": 276.04,
+          "end": 278.72,
+          "translation": "Underprivileged"
+        },
+        {
+          "word": "Schüler",
+          "start": 278.72,
+          "end": 279.2,
+          "translation": "Pupils"
+        },
+        {
+          "word": "erzielten",
+          "start": 279.2,
+          "end": 280.3,
+          "translation": "achieved"
+        },
+        {
+          "word": "demnach",
+          "start": 280.3,
+          "end": 281.12,
+          "translation": "therefore"
+        },
+        {
+          "word": "in",
+          "start": 281.12,
+          "end": 281.38,
+          "translation": "in"
+        },
+        {
+          "word": "naturwissenschaftlichen",
+          "start": 281.38,
+          "end": 283.16,
+          "translation": "scientific"
+        },
+        {
+          "word": "Fächern",
+          "start": 283.16,
+          "end": 283.84,
+          "translation": "Subjects"
+        },
+        {
+          "word": "viermal",
+          "start": 283.84,
+          "end": 284.92,
+          "translation": "four times"
+        },
+        {
+          "word": "so",
+          "start": 284.92,
+          "end": 285.18,
+          "translation": "so"
+        },
+        {
+          "word": "häufig",
+          "start": 285.18,
+          "end": 285.86,
+          "translation": "frequently"
+        },
+        {
+          "word": "unterdurchschnittliche",
+          "start": 285.86,
+          "end": 287.44,
+          "translation": "below-average"
+        },
+        {
+          "word": "Ergebnisse",
+          "start": 287.44,
+          "end": 288.38,
+          "translation": "Results"
+        },
+        {
+          "word": "wie",
+          "start": 288.38,
+          "end": 289.04,
+          "translation": "like"
+        },
+        {
+          "word": "privilegierte",
+          "start": 289.04,
+          "end": 290.14,
+          "translation": "privileged"
+        },
+        {
+          "word": "Schüler.",
+          "start": 290.14,
+          "end": 290.6,
+          "translation": "Students."
+        },
+        {
+          "word": "Gleichzeitig",
+          "start": 291.5,
+          "end": 292.48,
+          "translation": "At the same time"
+        },
+        {
+          "word": "gehörten",
+          "start": 292.48,
+          "end": 293.34,
+          "translation": "belonged"
+        },
+        {
+          "word": "privilegierte",
+          "start": 293.34,
+          "end": 294.4,
+          "translation": "privileged"
+        },
+        {
+          "word": "Schüler",
+          "start": 294.4,
+          "end": 294.86,
+          "translation": "Pupils"
+        },
+        {
+          "word": "etwa",
+          "start": 294.86,
+          "end": 295.7,
+          "translation": "about"
+        },
+        {
+          "word": "achtmal",
+          "start": 295.7,
+          "end": 296.52,
+          "translation": "eight times"
+        },
+        {
+          "word": "so",
+          "start": 296.52,
+          "end": 296.74,
+          "translation": "so"
+        },
+        {
+          "word": "häufig",
+          "start": 296.74,
+          "end": 297.44,
+          "translation": "frequently"
+        },
+        {
+          "word": "zu",
+          "start": 297.44,
+          "end": 297.74,
+          "translation": "to"
+        },
+        {
+          "word": "den",
+          "start": 297.74,
+          "end": 297.96,
+          "translation": "the"
+        },
+        {
+          "word": "Besten",
+          "start": 297.96,
+          "end": 298.44,
+          "translation": "Best"
+        },
+        {
+          "word": "wie",
+          "start": 298.44,
+          "end": 298.84,
+          "translation": "like"
+        },
+        {
+          "word": "benachteiligte",
+          "start": 298.84,
+          "end": 300.14,
+          "translation": "disadvantaged"
+        },
+        {
+          "word": "Schüler.",
+          "start": 300.14,
+          "end": 300.54,
+          "translation": "Students."
+        },
+        {
+          "word": "Die",
+          "start": 301.29,
+          "end": 301.84,
+          "translation": "The"
+        },
+        {
+          "word": "EU-Kommission",
+          "start": 301.84,
+          "end": 302.98,
+          "translation": "EU Commission"
+        },
+        {
+          "word": "stellte",
+          "start": 302.98,
+          "end": 303.88,
+          "translation": "provided"
+        },
+        {
+          "word": "zudem",
+          "start": 303.88,
+          "end": 304.48,
+          "translation": "also"
+        },
+        {
+          "word": "fest,",
+          "start": 304.48,
+          "end": 304.98,
+          "translation": "fixed,"
+        },
+        {
+          "word": "dass",
+          "start": 305.4,
+          "end": 305.74,
+          "translation": "that"
+        },
+        {
+          "word": "der",
+          "start": 305.74,
+          "end": 306.06,
+          "translation": "the"
+        },
+        {
+          "word": "Anteil",
+          "start": 306.06,
+          "end": 306.74,
+          "translation": "Share"
+        },
+        {
+          "word": "besonders",
+          "start": 306.74,
+          "end": 307.56,
+          "translation": "especially"
+        },
+        {
+          "word": "leistungsstarker",
+          "start": 307.56,
+          "end": 308.82,
+          "translation": "more powerful"
+        },
+        {
+          "word": "Schüler",
+          "start": 308.82,
+          "end": 309.26,
+          "translation": "Pupils"
+        },
+        {
+          "word": "rückläufig",
+          "start": 309.26,
+          "end": 310.42,
+          "translation": "declining"
+        },
+        {
+          "word": "ist.",
+          "start": 310.42,
+          "end": 310.82,
+          "translation": "is."
+        },
+        {
+          "word": "Auch",
+          "start": 311.74,
+          "end": 312.06,
+          "translation": "Also"
+        },
+        {
+          "word": "die",
+          "start": 312.06,
+          "end": 312.34,
+          "translation": "the"
+        },
+        {
+          "word": "Spitzenleistungen",
+          "start": 312.34,
+          "end": 313.58,
+          "translation": "Outstanding Achievements"
+        },
+        {
+          "word": "nähmen",
+          "start": 313.58,
+          "end": 314.22,
+          "translation": "take"
+        },
+        {
+          "word": "ab,",
+          "start": 314.22,
+          "end": 314.6,
+          "translation": "from,"
+        },
+        {
+          "word": "so",
+          "start": 314.94,
+          "end": 315.18,
+          "translation": "so"
+        },
+        {
+          "word": "die",
+          "start": 315.18,
+          "end": 315.36,
+          "translation": "the"
+        },
+        {
+          "word": "Brüsseler",
+          "start": 315.36,
+          "end": 316.5,
+          "translation": "Brussels"
+        },
+        {
+          "word": "Behörde.",
+          "start": 316.5,
+          "end": 317.64,
+          "translation": "Government agency."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Merz würdigt neue Nobelpreisträger aus Deutschland",
+      "words": [
+        {
+          "word": "Merz",
+          "start": 317.64,
+          "end": 318.78,
+          "translation": "Merz"
+        },
+        {
+          "word": "würdigt",
+          "start": 318.78,
+          "end": 319.92,
+          "translation": "recognizes"
+        },
+        {
+          "word": "neue",
+          "start": 319.92,
+          "end": 320.38,
+          "translation": "new"
+        },
+        {
+          "word": "Nobelpreisträger",
+          "start": 320.38,
+          "end": 321.82,
+          "translation": "Nobel laureate"
+        },
+        {
+          "word": "aus",
+          "start": 321.82,
+          "end": 322.28,
+          "translation": "from"
+        },
+        {
+          "word": "Deutschland",
+          "start": 322.28,
+          "end": 322.92,
+          "translation": "Germany"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Bundeskanzler Friedrich Merz sieht im Medizin-Nobelpreis für die deutschen Wissenschaftler Peter Hegemann und Georg Nagel einen Verdienst der hiesigen Forschung. Die Auszeichnung zeige, dass deutsche Forschung „spitze“ sei, erklärte Merz. Entscheidend in der Wissenschaft bleibe jedoch die internationale Zusammenarbeit. Hegemann und Nagel sowie ihr US-Kollege Karl Deisseroth waren am Montag für ihre Arbeiten auf dem Gebiet der sogenannten Optogenetik ausgezeichnet worden. Ihre Forschung trage zum Verständnis bei, „wie Nervenzellen im Gehirn Erinnerungen, Gefühle und Verhaltensweisen formen“, erläuterte das Nobelkomitee in Stockholm. An diesem Dienstag wird es die Preisträger für Physik verkünden.",
+      "words": [
+        {
+          "word": "Bundeskanzler",
+          "start": 323.92,
+          "end": 325.28,
+          "translation": "Federal Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 325.28,
+          "end": 325.88,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 325.88,
+          "end": 326.46,
+          "translation": "Merz"
+        },
+        {
+          "word": "sieht",
+          "start": 326.46,
+          "end": 326.9,
+          "translation": "sees"
+        },
+        {
+          "word": "im",
+          "start": 326.9,
+          "end": 327.3,
+          "translation": "in the"
+        },
+        {
+          "word": "Medizin-Nobelpreis",
+          "start": 327.3,
+          "end": 329.24,
+          "translation": "Nobel Prize in Medicine"
+        },
+        {
+          "word": "für",
+          "start": 329.24,
+          "end": 329.56,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 329.56,
+          "end": 329.8,
+          "translation": "the"
+        },
+        {
+          "word": "deutschen",
+          "start": 329.8,
+          "end": 330.3,
+          "translation": "German"
+        },
+        {
+          "word": "Wissenschaftler",
+          "start": 330.3,
+          "end": 331.5,
+          "translation": "Scientists"
+        },
+        {
+          "word": "Peter",
+          "start": 331.5,
+          "end": 332.14,
+          "translation": "Peter"
+        },
+        {
+          "word": "Hegemann",
+          "start": 332.14,
+          "end": 332.88,
+          "translation": "Hegemann"
+        },
+        {
+          "word": "und",
+          "start": 332.88,
+          "end": 333.48,
+          "translation": "and"
+        },
+        {
+          "word": "Georg",
+          "start": 333.48,
+          "end": 333.82,
+          "translation": "Georg"
+        },
+        {
+          "word": "Nagel",
+          "start": 333.82,
+          "end": 334.54,
+          "translation": "Nail"
+        },
+        {
+          "word": "einen",
+          "start": 334.54,
+          "end": 335.24,
+          "translation": "one"
+        },
+        {
+          "word": "Verdienst",
+          "start": 335.24,
+          "end": 336.12,
+          "translation": "Merit"
+        },
+        {
+          "word": "der",
+          "start": 336.12,
+          "end": 336.52,
+          "translation": "the"
+        },
+        {
+          "word": "hiesigen",
+          "start": 336.52,
+          "end": 337.14,
+          "translation": "local"
+        },
+        {
+          "word": "Forschung.",
+          "start": 337.14,
+          "end": 337.92,
+          "translation": "Research."
+        },
+        {
+          "word": "Die",
+          "start": 338.56,
+          "end": 339.08,
+          "translation": "The"
+        },
+        {
+          "word": "Auszeichnung",
+          "start": 339.08,
+          "end": 340.04,
+          "translation": "Award"
+        },
+        {
+          "word": "zeige,",
+          "start": 340.04,
+          "end": 340.62,
+          "translation": "show,"
+        },
+        {
+          "word": "dass",
+          "start": 341.14,
+          "end": 341.26,
+          "translation": "that"
+        },
+        {
+          "word": "deutsche",
+          "start": 341.26,
+          "end": 341.82,
+          "translation": "German"
+        },
+        {
+          "word": "Forschung",
+          "start": 341.82,
+          "end": 342.7,
+          "translation": "Research"
+        },
+        {
+          "word": "„spitze“",
+          "start": 342.7,
+          "end": 343.38,
+          "translation": "\"awesome\""
+        },
+        {
+          "word": "sei,",
+          "start": 343.38,
+          "end": 343.86,
+          "translation": "be,"
+        },
+        {
+          "word": "erklärte",
+          "start": 343.86,
+          "end": 344.7,
+          "translation": "explained"
+        },
+        {
+          "word": "Merz.",
+          "start": 344.7,
+          "end": 346.28,
+          "translation": "Merz."
+        },
+        {
+          "word": "Entscheidend",
+          "start": 346.28,
+          "end": 347.06,
+          "translation": "Decisive"
+        },
+        {
+          "word": "in",
+          "start": 347.06,
+          "end": 347.26,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 347.26,
+          "end": 347.48,
+          "translation": "the"
+        },
+        {
+          "word": "Wissenschaft",
+          "start": 347.48,
+          "end": 348.12,
+          "translation": "Science"
+        },
+        {
+          "word": "bleibe",
+          "start": 348.12,
+          "end": 348.98,
+          "translation": "stay"
+        },
+        {
+          "word": "jedoch",
+          "start": 348.98,
+          "end": 349.4,
+          "translation": "however"
+        },
+        {
+          "word": "die",
+          "start": 349.4,
+          "end": 349.96,
+          "translation": "the"
+        },
+        {
+          "word": "internationale",
+          "start": 349.96,
+          "end": 351.36,
+          "translation": "international"
+        },
+        {
+          "word": "Zusammenarbeit.",
+          "start": 351.36,
+          "end": 352.66,
+          "translation": "Cooperation."
+        },
+        {
+          "word": "Hegemann",
+          "start": 353.48,
+          "end": 354.14,
+          "translation": "Hegemann"
+        },
+        {
+          "word": "und",
+          "start": 354.14,
+          "end": 354.64,
+          "translation": "and"
+        },
+        {
+          "word": "Nagel",
+          "start": 354.64,
+          "end": 355.28,
+          "translation": "Nail"
+        },
+        {
+          "word": "sowie",
+          "start": 355.28,
+          "end": 356.0,
+          "translation": "and"
+        },
+        {
+          "word": "ihr",
+          "start": 356.0,
+          "end": 356.54,
+          "translation": "her"
+        },
+        {
+          "word": "US-Kollege",
+          "start": 356.54,
+          "end": 357.78,
+          "translation": "U.S. colleague"
+        },
+        {
+          "word": "Karl",
+          "start": 357.78,
+          "end": 358.38,
+          "translation": "Karl"
+        },
+        {
+          "word": "Deisseroth",
+          "start": 358.38,
+          "end": 359.32,
+          "translation": "Deisseroth"
+        },
+        {
+          "word": "waren",
+          "start": 359.32,
+          "end": 360.12,
+          "translation": "were"
+        },
+        {
+          "word": "am",
+          "start": 360.12,
+          "end": 360.54,
+          "translation": "on"
+        },
+        {
+          "word": "Montag",
+          "start": 360.54,
+          "end": 361.18,
+          "translation": "Monday"
+        },
+        {
+          "word": "für",
+          "start": 361.18,
+          "end": 361.56,
+          "translation": "for"
+        },
+        {
+          "word": "ihre",
+          "start": 361.56,
+          "end": 362.06,
+          "translation": "their"
+        },
+        {
+          "word": "Arbeiten",
+          "start": 362.06,
+          "end": 362.92,
+          "translation": "Work"
+        },
+        {
+          "word": "auf",
+          "start": 362.92,
+          "end": 363.64,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 363.64,
+          "end": 363.96,
+          "translation": "the"
+        },
+        {
+          "word": "Gebiet",
+          "start": 363.96,
+          "end": 364.64,
+          "translation": "Area"
+        },
+        {
+          "word": "der",
+          "start": 364.64,
+          "end": 365.04,
+          "translation": "the"
+        },
+        {
+          "word": "sogenannten",
+          "start": 365.04,
+          "end": 366.16,
+          "translation": "so-called"
+        },
+        {
+          "word": "Optogenetik",
+          "start": 366.16,
+          "end": 367.72,
+          "translation": "Optogenetics"
+        },
+        {
+          "word": "ausgezeichnet",
+          "start": 367.72,
+          "end": 368.86,
+          "translation": "excellent"
+        },
+        {
+          "word": "worden.",
+          "start": 368.86,
+          "end": 369.32,
+          "translation": "been."
+        },
+        {
+          "word": "Ihre",
+          "start": 370.14,
+          "end": 370.7,
+          "translation": "Your"
+        },
+        {
+          "word": "Forschung",
+          "start": 370.7,
+          "end": 371.4,
+          "translation": "Research"
+        },
+        {
+          "word": "trage",
+          "start": 371.4,
+          "end": 371.96,
+          "translation": "carry"
+        },
+        {
+          "word": "zum",
+          "start": 371.96,
+          "end": 372.44,
+          "translation": "to the"
+        },
+        {
+          "word": "Verständnis",
+          "start": 372.44,
+          "end": 373.36,
+          "translation": "Understanding"
+        },
+        {
+          "word": "bei,",
+          "start": 373.36,
+          "end": 373.68,
+          "translation": "at,"
+        },
+        {
+          "word": "„wie",
+          "start": 374.12,
+          "end": 374.42,
+          "translation": "\"like"
+        },
+        {
+          "word": "Nervenzellen",
+          "start": 374.42,
+          "end": 375.36,
+          "translation": "Nerve cells"
+        },
+        {
+          "word": "im",
+          "start": 375.36,
+          "end": 375.78,
+          "translation": "in the"
+        },
+        {
+          "word": "Gehirn",
+          "start": 375.78,
+          "end": 376.42,
+          "translation": "Brain"
+        },
+        {
+          "word": "Erinnerungen,",
+          "start": 376.62,
+          "end": 377.42,
+          "translation": "Memories,"
+        },
+        {
+          "word": "Gefühle",
+          "start": 377.88,
+          "end": 378.44,
+          "translation": "Feelings"
+        },
+        {
+          "word": "und",
+          "start": 378.44,
+          "end": 379.0,
+          "translation": "and"
+        },
+        {
+          "word": "Verhaltensweisen",
+          "start": 379.0,
+          "end": 380.16,
+          "translation": "Behaviors"
+        },
+        {
+          "word": "formen“,",
+          "start": 380.16,
+          "end": 380.88,
+          "translation": "\"shapes,\""
+        },
+        {
+          "word": "erläuterte",
+          "start": 381.5,
+          "end": 381.94,
+          "translation": "explained"
+        },
+        {
+          "word": "das",
+          "start": 381.94,
+          "end": 382.54,
+          "translation": "the"
+        },
+        {
+          "word": "Nobelkomitee",
+          "start": 382.54,
+          "end": 384.0,
+          "translation": "Nobel Committee"
+        },
+        {
+          "word": "in",
+          "start": 384.0,
+          "end": 384.16,
+          "translation": "in"
+        },
+        {
+          "word": "Stockholm.",
+          "start": 384.16,
+          "end": 384.64,
+          "translation": "Stockholm."
+        },
+        {
+          "word": "An",
+          "start": 385.66,
+          "end": 386.04,
+          "translation": "To"
+        },
+        {
+          "word": "diesem",
+          "start": 386.04,
+          "end": 386.5,
+          "translation": "this"
+        },
+        {
+          "word": "Dienstag",
+          "start": 386.5,
+          "end": 387.32,
+          "translation": "Tuesday"
+        },
+        {
+          "word": "wird",
+          "start": 387.32,
+          "end": 387.82,
+          "translation": "becomes"
+        },
+        {
+          "word": "es",
+          "start": 387.82,
+          "end": 388.22,
+          "translation": "it"
+        },
+        {
+          "word": "die",
+          "start": 388.22,
+          "end": 388.46,
+          "translation": "the"
+        },
+        {
+          "word": "Preisträger",
+          "start": 388.46,
+          "end": 389.34,
+          "translation": "Award Winners"
+        },
+        {
+          "word": "für",
+          "start": 389.34,
+          "end": 389.74,
+          "translation": "for"
+        },
+        {
+          "word": "Physik",
+          "start": 389.74,
+          "end": 390.52,
+          "translation": "Physics"
+        },
+        {
+          "word": "verkünden.",
+          "start": 390.52,
+          "end": 391.18,
+          "translation": "announce."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Deutscher Buchpreis 2026 geht an Shida Bazyar",
+      "words": [
+        {
+          "word": "Deutscher",
+          "start": 391.18,
+          "end": 394.12,
+          "translation": "German"
+        },
+        {
+          "word": "Buchpreis",
+          "start": 394.12,
+          "end": 395.0,
+          "translation": "Book price"
+        },
+        {
+          "word": "2026",
+          "start": 395.0,
+          "end": 395.98,
+          "translation": "2026"
+        },
+        {
+          "word": "geht",
+          "start": 395.98,
+          "end": 397.18,
+          "translation": "goes"
+        },
+        {
+          "word": "an",
+          "start": 397.18,
+          "end": 397.6,
+          "translation": "on"
+        },
+        {
+          "word": "Shida",
+          "start": 397.6,
+          "end": 398.77,
+          "translation": "Shida"
+        },
+        {
+          "word": "Bazyar",
+          "start": 398.77,
+          "end": 399.94,
+          "translation": "Bazyar"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die Schriftstellerin Shida Bazyar erhält in diesem Jahr den Deutschen Buchpreis. Die in Rheinland-Pfalz geborene Autorin mit iranischen Wurzeln wurde in Frankfurt für ihren Roman „Die Lücken“ ausgezeichnet. Er erzählt von jüdischen Familien, NS-Profiteuren sowie von Migranten in einem fiktiven Ort in Westdeutschland. Der Roman reflektiere anhand einzelner Schicksale fast 100 Jahre ambivalenten Lebens in Deutschland, begründete die Jury ihre Entscheidung. Bazyar nutzte ihre Dankesrede für einen Appell, sich der zunehmenden politischen Radikalisierung entgegenzustellen. Der Deutsche Buchpreis ist eine der renommiertesten Auszeichnungen für deutschsprachige Literatur.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 399.94,
+          "end": 400.18,
+          "translation": "The"
+        },
+        {
+          "word": "Schriftstellerin",
+          "start": 400.18,
+          "end": 401.34,
+          "translation": "Writer"
+        },
+        {
+          "word": "Shida",
+          "start": 401.34,
+          "end": 401.92,
+          "translation": "Shida"
+        },
+        {
+          "word": "Bazyar",
+          "start": 401.92,
+          "end": 402.5,
+          "translation": "Bazyar"
+        },
+        {
+          "word": "erhält",
+          "start": 402.5,
+          "end": 403.56,
+          "translation": "receives"
+        },
+        {
+          "word": "in",
+          "start": 403.56,
+          "end": 404.0,
+          "translation": "in"
+        },
+        {
+          "word": "diesem",
+          "start": 404.0,
+          "end": 404.44,
+          "translation": "this"
+        },
+        {
+          "word": "Jahr",
+          "start": 404.44,
+          "end": 404.88,
+          "translation": "Year"
+        },
+        {
+          "word": "den",
+          "start": 404.88,
+          "end": 405.28,
+          "translation": "the"
+        },
+        {
+          "word": "Deutschen",
+          "start": 405.28,
+          "end": 405.82,
+          "translation": "Germans"
+        },
+        {
+          "word": "Buchpreis.",
+          "start": 405.82,
+          "end": 406.44,
+          "translation": "Book Award."
+        },
+        {
+          "word": "Die",
+          "start": 407.48,
+          "end": 407.92,
+          "translation": "The"
+        },
+        {
+          "word": "in",
+          "start": 407.92,
+          "end": 408.14,
+          "translation": "in"
+        },
+        {
+          "word": "Rheinland-Pfalz",
+          "start": 408.14,
+          "end": 409.38,
+          "translation": "Rhineland-Palatinate"
+        },
+        {
+          "word": "geborene",
+          "start": 409.38,
+          "end": 410.14,
+          "translation": "born"
+        },
+        {
+          "word": "Autorin",
+          "start": 410.14,
+          "end": 410.88,
+          "translation": "Author"
+        },
+        {
+          "word": "mit",
+          "start": 410.88,
+          "end": 411.36,
+          "translation": "with"
+        },
+        {
+          "word": "iranischen",
+          "start": 411.36,
+          "end": 412.24,
+          "translation": "Iranian"
+        },
+        {
+          "word": "Wurzeln",
+          "start": 412.24,
+          "end": 413.02,
+          "translation": "Roots"
+        },
+        {
+          "word": "wurde",
+          "start": 413.02,
+          "end": 413.82,
+          "translation": "was"
+        },
+        {
+          "word": "in",
+          "start": 413.82,
+          "end": 414.26,
+          "translation": "in"
+        },
+        {
+          "word": "Frankfurt",
+          "start": 414.26,
+          "end": 414.88,
+          "translation": "Frankfurt"
+        },
+        {
+          "word": "für",
+          "start": 414.88,
+          "end": 415.36,
+          "translation": "for"
+        },
+        {
+          "word": "ihren",
+          "start": 415.36,
+          "end": 415.72,
+          "translation": "their"
+        },
+        {
+          "word": "Roman",
+          "start": 415.72,
+          "end": 416.16,
+          "translation": "Novel"
+        },
+        {
+          "word": "„Die",
+          "start": 416.16,
+          "end": 416.82,
+          "translation": "\"The"
+        },
+        {
+          "word": "Lücken“",
+          "start": 416.82,
+          "end": 417.2,
+          "translation": "\"Gaps\""
+        },
+        {
+          "word": "ausgezeichnet.",
+          "start": 417.2,
+          "end": 418.58,
+          "translation": "excellent."
+        },
+        {
+          "word": "Er",
+          "start": 419.3,
+          "end": 419.94,
+          "translation": "He"
+        },
+        {
+          "word": "erzählt",
+          "start": 419.94,
+          "end": 420.56,
+          "translation": "tells"
+        },
+        {
+          "word": "von",
+          "start": 420.56,
+          "end": 420.94,
+          "translation": "from"
+        },
+        {
+          "word": "jüdischen",
+          "start": 420.94,
+          "end": 421.58,
+          "translation": "Jewish"
+        },
+        {
+          "word": "Familien,",
+          "start": 421.58,
+          "end": 422.26,
+          "translation": "Families,"
+        },
+        {
+          "word": "NS-Profiteuren",
+          "start": 422.26,
+          "end": 424.24,
+          "translation": "Nazi profiteers"
+        },
+        {
+          "word": "sowie",
+          "start": 424.24,
+          "end": 425.02,
+          "translation": "and"
+        },
+        {
+          "word": "von",
+          "start": 425.02,
+          "end": 425.46,
+          "translation": "from"
+        },
+        {
+          "word": "Migranten",
+          "start": 425.46,
+          "end": 426.32,
+          "translation": "Migrants"
+        },
+        {
+          "word": "in",
+          "start": 426.32,
+          "end": 426.54,
+          "translation": "in"
+        },
+        {
+          "word": "einem",
+          "start": 426.54,
+          "end": 426.88,
+          "translation": "one"
+        },
+        {
+          "word": "fiktiven",
+          "start": 426.88,
+          "end": 427.68,
+          "translation": "fictitious"
+        },
+        {
+          "word": "Ort",
+          "start": 427.68,
+          "end": 428.06,
+          "translation": "Location"
+        },
+        {
+          "word": "in",
+          "start": 428.06,
+          "end": 428.5,
+          "translation": "in"
+        },
+        {
+          "word": "Westdeutschland.",
+          "start": 428.5,
+          "end": 429.4,
+          "translation": "West Germany."
+        },
+        {
+          "word": "Der",
+          "start": 430.08,
+          "end": 430.24,
+          "translation": "The"
+        },
+        {
+          "word": "Roman",
+          "start": 430.24,
+          "end": 430.6,
+          "translation": "Novel"
+        },
+        {
+          "word": "reflektiere",
+          "start": 430.6,
+          "end": 431.74,
+          "translation": "reflect"
+        },
+        {
+          "word": "anhand",
+          "start": 431.74,
+          "end": 432.4,
+          "translation": "based on"
+        },
+        {
+          "word": "einzelner",
+          "start": 432.4,
+          "end": 433.32,
+          "translation": "individual"
+        },
+        {
+          "word": "Schicksale",
+          "start": 433.32,
+          "end": 434.04,
+          "translation": "Fates"
+        },
+        {
+          "word": "fast",
+          "start": 434.04,
+          "end": 434.84,
+          "translation": "almost"
+        },
+        {
+          "word": "100",
+          "start": 434.84,
+          "end": 435.46,
+          "translation": "100"
+        },
+        {
+          "word": "Jahre",
+          "start": 435.46,
+          "end": 436.24,
+          "translation": "years"
+        },
+        {
+          "word": "ambivalenten",
+          "start": 436.24,
+          "end": 437.74,
+          "translation": "ambivalent"
+        },
+        {
+          "word": "Lebens",
+          "start": 437.74,
+          "end": 438.0,
+          "translation": "Life"
+        },
+        {
+          "word": "in",
+          "start": 438.0,
+          "end": 438.58,
+          "translation": "in"
+        },
+        {
+          "word": "Deutschland,",
+          "start": 438.58,
+          "end": 439.16,
+          "translation": "Germany,"
+        },
+        {
+          "word": "begründete",
+          "start": 439.16,
+          "end": 440.54,
+          "translation": "justified"
+        },
+        {
+          "word": "die",
+          "start": 440.54,
+          "end": 440.86,
+          "translation": "the"
+        },
+        {
+          "word": "Jury",
+          "start": 440.86,
+          "end": 441.36,
+          "translation": "Jury"
+        },
+        {
+          "word": "ihre",
+          "start": 441.36,
+          "end": 441.94,
+          "translation": "their"
+        },
+        {
+          "word": "Entscheidung.",
+          "start": 441.94,
+          "end": 442.72,
+          "translation": "Decision."
+        },
+        {
+          "word": "Bazyar",
+          "start": 442.72,
+          "end": 444.22,
+          "translation": "Bazyar"
+        },
+        {
+          "word": "nutzte",
+          "start": 444.22,
+          "end": 444.82,
+          "translation": "used"
+        },
+        {
+          "word": "ihre",
+          "start": 444.82,
+          "end": 445.28,
+          "translation": "their"
+        },
+        {
+          "word": "Dankesrede",
+          "start": 445.28,
+          "end": 446.32,
+          "translation": "Acceptance speech"
+        },
+        {
+          "word": "für",
+          "start": 446.32,
+          "end": 446.6,
+          "translation": "for"
+        },
+        {
+          "word": "einen",
+          "start": 446.6,
+          "end": 447.1,
+          "translation": "one"
+        },
+        {
+          "word": "Appell,",
+          "start": 447.1,
+          "end": 447.78,
+          "translation": "Appeal,"
+        },
+        {
+          "word": "sich",
+          "start": 448.18,
+          "end": 448.54,
+          "translation": "itself"
+        },
+        {
+          "word": "der",
+          "start": 448.54,
+          "end": 448.78,
+          "translation": "the"
+        },
+        {
+          "word": "zunehmenden",
+          "start": 448.78,
+          "end": 449.76,
+          "translation": "increasing"
+        },
+        {
+          "word": "politischen",
+          "start": 449.76,
+          "end": 450.94,
+          "translation": "political"
+        },
+        {
+          "word": "Radikalisierung",
+          "start": 450.94,
+          "end": 452.3,
+          "translation": "Radicalization"
+        },
+        {
+          "word": "entgegenzustellen.",
+          "start": 452.3,
+          "end": 453.9,
+          "translation": "to counter."
+        },
+        {
+          "word": "Der",
+          "start": 455.02,
+          "end": 455.36,
+          "translation": "The"
+        },
+        {
+          "word": "Deutsche",
+          "start": 455.36,
+          "end": 455.84,
+          "translation": "German"
+        },
+        {
+          "word": "Buchpreis",
+          "start": 455.84,
+          "end": 456.74,
+          "translation": "Book price"
+        },
+        {
+          "word": "ist",
+          "start": 456.74,
+          "end": 457.22,
+          "translation": "is"
+        },
+        {
+          "word": "eine",
+          "start": 457.22,
+          "end": 457.7,
+          "translation": "one"
+        },
+        {
+          "word": "der",
+          "start": 457.7,
+          "end": 458.06,
+          "translation": "the"
+        },
+        {
+          "word": "renommiertesten",
+          "start": 458.06,
+          "end": 459.24,
+          "translation": "most renowned"
+        },
+        {
+          "word": "Auszeichnungen",
+          "start": 459.24,
+          "end": 460.36,
+          "translation": "Awards"
+        },
+        {
+          "word": "für",
+          "start": 460.36,
+          "end": 460.8,
+          "translation": "for"
+        },
+        {
+          "word": "deutschsprachige",
+          "start": 460.8,
+          "end": 462.04,
+          "translation": "German-speaking"
+        },
+        {
+          "word": "Literatur.",
+          "start": 462.04,
+          "end": 463.04,
+          "translation": "Bibliography."
+        }
+      ]
+    }
+  ]
+}
