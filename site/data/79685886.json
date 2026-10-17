@@ -1,0 +1,3256 @@
+{
+  "id": 79685886,
+  "title": "17.10.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-10-17",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/3F0A9B6F_2.mp3",
+  "duration": 523,
+  "imageUrl": "https://static.dw.com/image/79685758_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Trump stoppt das vom US-Kongress beschlossene Sanktionspaket gegen Russland",
+      "words": [
+        {
+          "word": "Trump",
+          "start": 17.9,
+          "end": 18.6,
+          "translation": "Trump"
+        },
+        {
+          "word": "stoppt",
+          "start": 18.6,
+          "end": 19.54,
+          "translation": "stops"
+        },
+        {
+          "word": "das",
+          "start": 19.54,
+          "end": 19.78,
+          "translation": "the"
+        },
+        {
+          "word": "vom",
+          "start": 19.78,
+          "end": 20.3,
+          "translation": "from the"
+        },
+        {
+          "word": "US-Kongress",
+          "start": 20.3,
+          "end": 21.72,
+          "translation": "US Congress"
+        },
+        {
+          "word": "beschlossene",
+          "start": 21.72,
+          "end": 23.0,
+          "translation": "decided"
+        },
+        {
+          "word": "Sanktionspaket",
+          "start": 23.0,
+          "end": 24.86,
+          "translation": "Sanctions package"
+        },
+        {
+          "word": "gegen",
+          "start": 24.86,
+          "end": 25.76,
+          "translation": "vs."
+        },
+        {
+          "word": "Russland",
+          "start": 25.76,
+          "end": 26.62,
+          "translation": "Russia"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die USA setzen ihre drastischen Strafmaßnahmen gegen Russland im Zusammenhang mit dem Ukraine-Krieg vorerst nicht um. Per Dekret stoppte Präsident Donald Trump ein Sanktionspaket, das sich insbesondere gegen den russischen Energiesektor richten sollte. Die Strafmaßnahmen waren Mitte September von beiden Parlamentskammern des US-Kongresses verabschiedet worden. Trump begründete sein Vorgehen damit, dass dies „zum jetzigen Zeitpunkt im nationalen Interesse“ der USA liege.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 26.62,
+          "end": 27.4,
+          "translation": "The"
+        },
+        {
+          "word": "USA",
+          "start": 27.4,
+          "end": 28.16,
+          "translation": "USA"
+        },
+        {
+          "word": "setzen",
+          "start": 28.16,
+          "end": 29.16,
+          "translation": "set"
+        },
+        {
+          "word": "ihre",
+          "start": 29.16,
+          "end": 29.86,
+          "translation": "their"
+        },
+        {
+          "word": "drastischen",
+          "start": 29.86,
+          "end": 30.86,
+          "translation": "drastic"
+        },
+        {
+          "word": "Strafmaßnahmen",
+          "start": 30.86,
+          "end": 32.52,
+          "translation": "Penalties"
+        },
+        {
+          "word": "gegen",
+          "start": 32.52,
+          "end": 33.14,
+          "translation": "vs."
+        },
+        {
+          "word": "Russland",
+          "start": 33.14,
+          "end": 34.16,
+          "translation": "Russia"
+        },
+        {
+          "word": "im",
+          "start": 34.16,
+          "end": 34.56,
+          "translation": "in the"
+        },
+        {
+          "word": "Zusammenhang",
+          "start": 34.56,
+          "end": 35.54,
+          "translation": "Context"
+        },
+        {
+          "word": "mit",
+          "start": 35.54,
+          "end": 36.02,
+          "translation": "with"
+        },
+        {
+          "word": "dem",
+          "start": 36.02,
+          "end": 36.32,
+          "translation": "the"
+        },
+        {
+          "word": "Ukraine-Krieg",
+          "start": 36.32,
+          "end": 38.02,
+          "translation": "Ukraine war"
+        },
+        {
+          "word": "vorerst",
+          "start": 38.02,
+          "end": 39.14,
+          "translation": "for the time being"
+        },
+        {
+          "word": "nicht",
+          "start": 39.14,
+          "end": 39.6,
+          "translation": "not"
+        },
+        {
+          "word": "um.",
+          "start": 39.6,
+          "end": 40.18,
+          "translation": "um."
+        },
+        {
+          "word": "Per",
+          "start": 40.18,
+          "end": 41.38,
+          "translation": "Per"
+        },
+        {
+          "word": "Dekret",
+          "start": 41.38,
+          "end": 42.08,
+          "translation": "Decree"
+        },
+        {
+          "word": "stoppte",
+          "start": 42.08,
+          "end": 43.28,
+          "translation": "stopped"
+        },
+        {
+          "word": "Präsident",
+          "start": 43.28,
+          "end": 44.12,
+          "translation": "President"
+        },
+        {
+          "word": "Donald",
+          "start": 44.12,
+          "end": 44.78,
+          "translation": "Donald"
+        },
+        {
+          "word": "Trump",
+          "start": 44.78,
+          "end": 45.34,
+          "translation": "Trump"
+        },
+        {
+          "word": "ein",
+          "start": 45.34,
+          "end": 46.36,
+          "translation": "a"
+        },
+        {
+          "word": "Sanktionspaket,",
+          "start": 46.36,
+          "end": 48.78,
+          "translation": "Package of sanctions,"
+        },
+        {
+          "word": "das",
+          "start": 48.78,
+          "end": 49.1,
+          "translation": "the"
+        },
+        {
+          "word": "sich",
+          "start": 49.1,
+          "end": 49.46,
+          "translation": "itself"
+        },
+        {
+          "word": "insbesondere",
+          "start": 49.46,
+          "end": 50.62,
+          "translation": "in particular"
+        },
+        {
+          "word": "gegen",
+          "start": 50.62,
+          "end": 51.84,
+          "translation": "vs."
+        },
+        {
+          "word": "den",
+          "start": 51.84,
+          "end": 52.28,
+          "translation": "the"
+        },
+        {
+          "word": "russischen",
+          "start": 52.28,
+          "end": 53.14,
+          "translation": "russian"
+        },
+        {
+          "word": "Energiesektor",
+          "start": 53.14,
+          "end": 54.7,
+          "translation": "Energy sector"
+        },
+        {
+          "word": "richten",
+          "start": 54.7,
+          "end": 55.44,
+          "translation": "direct"
+        },
+        {
+          "word": "sollte.",
+          "start": 55.44,
+          "end": 56.06,
+          "translation": "should."
+        },
+        {
+          "word": "Die",
+          "start": 56.06,
+          "end": 57.42,
+          "translation": "The"
+        },
+        {
+          "word": "Strafmaßnahmen",
+          "start": 57.42,
+          "end": 59.12,
+          "translation": "Penalties"
+        },
+        {
+          "word": "waren",
+          "start": 59.12,
+          "end": 60.08,
+          "translation": "were"
+        },
+        {
+          "word": "Mitte",
+          "start": 60.08,
+          "end": 60.7,
+          "translation": "Center"
+        },
+        {
+          "word": "September",
+          "start": 60.7,
+          "end": 61.72,
+          "translation": "September"
+        },
+        {
+          "word": "von",
+          "start": 61.72,
+          "end": 62.6,
+          "translation": "from"
+        },
+        {
+          "word": "beiden",
+          "start": 62.6,
+          "end": 63.28,
+          "translation": "both"
+        },
+        {
+          "word": "Parlamentskammern",
+          "start": 63.28,
+          "end": 65.18,
+          "translation": "Parliamentary chambers"
+        },
+        {
+          "word": "des",
+          "start": 65.18,
+          "end": 65.9,
+          "translation": "of the"
+        },
+        {
+          "word": "US-Kongresses",
+          "start": 65.9,
+          "end": 68.18,
+          "translation": "US Congress"
+        },
+        {
+          "word": "verabschiedet",
+          "start": 68.18,
+          "end": 69.58,
+          "translation": "adopted"
+        },
+        {
+          "word": "worden.",
+          "start": 69.58,
+          "end": 70.12,
+          "translation": "been."
+        },
+        {
+          "word": "Trump",
+          "start": 71.02,
+          "end": 71.64,
+          "translation": "Trump"
+        },
+        {
+          "word": "begründete",
+          "start": 71.64,
+          "end": 72.84,
+          "translation": "justified"
+        },
+        {
+          "word": "sein",
+          "start": 72.84,
+          "end": 73.28,
+          "translation": "be"
+        },
+        {
+          "word": "Vorgehen",
+          "start": 73.28,
+          "end": 74.24,
+          "translation": "Procedure"
+        },
+        {
+          "word": "damit,",
+          "start": 74.24,
+          "end": 74.94,
+          "translation": "with it,"
+        },
+        {
+          "word": "dass",
+          "start": 75.62,
+          "end": 75.86,
+          "translation": "that"
+        },
+        {
+          "word": "dies",
+          "start": 75.86,
+          "end": 76.46,
+          "translation": "this"
+        },
+        {
+          "word": "„zum",
+          "start": 76.46,
+          "end": 77.14,
+          "translation": "\"to the"
+        },
+        {
+          "word": "jetzigen",
+          "start": 77.14,
+          "end": 77.96,
+          "translation": "present"
+        },
+        {
+          "word": "Zeitpunkt",
+          "start": 77.96,
+          "end": 78.92,
+          "translation": "Time"
+        },
+        {
+          "word": "im",
+          "start": 78.92,
+          "end": 79.64,
+          "translation": "in the"
+        },
+        {
+          "word": "nationalen",
+          "start": 79.64,
+          "end": 81.02,
+          "translation": "national"
+        },
+        {
+          "word": "Interesse“",
+          "start": 81.02,
+          "end": 81.94,
+          "translation": "Interest\""
+        },
+        {
+          "word": "der",
+          "start": 81.94,
+          "end": 82.6,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 82.6,
+          "end": 83.66,
+          "translation": "USA"
+        },
+        {
+          "word": "liege.",
+          "start": 83.66,
+          "end": 84.42,
+          "translation": "lie."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Selenskyj fordert 70 Milliarden Euro von der EU",
+      "words": [
+        {
+          "word": "Selenskyj",
+          "start": 84.42,
+          "end": 86.66,
+          "translation": "Selensky"
+        },
+        {
+          "word": "fordert",
+          "start": 86.66,
+          "end": 87.44,
+          "translation": "demands"
+        },
+        {
+          "word": "70",
+          "start": 87.44,
+          "end": 88.4,
+          "translation": "70"
+        },
+        {
+          "word": "Milliarden",
+          "start": 88.4,
+          "end": 89.04,
+          "translation": "billion"
+        },
+        {
+          "word": "Euro",
+          "start": 89.04,
+          "end": 90.26,
+          "translation": "Euro"
+        },
+        {
+          "word": "von",
+          "start": 90.26,
+          "end": 90.92,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 90.92,
+          "end": 91.38,
+          "translation": "the"
+        },
+        {
+          "word": "EU",
+          "start": 91.38,
+          "end": 92.32,
+          "translation": "EU"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Um sein Land gegen die russischen Angriffe zu verteidigen, setzt der ukrainische Präsident Wolodymyr Selenskyj auf zusätzliche finanzielle Unterstützung aus der Europäischen Union. Auf dem EU-Gipfel in Brüssel forderte er weitere 70 Milliarden Euro für das kommende Jahr. Deutschlands Kanzler Friedrich Merz hatte bereits zu Beginn des Gipfels eine Aufstockung der Mittel für die Ukraine gefordert, aber keine Größenordnung genannt. Auf seiner Abschluss-Pressekonferenz sagte Merz, es gebe eine große Übereinstimmung in der EU, der Ukraine auch über den Winter und im nächsten Jahr weiterzuhelfen.",
+      "words": [
+        {
+          "word": "Um",
+          "start": 92.96,
+          "end": 93.26,
+          "translation": "To"
+        },
+        {
+          "word": "sein",
+          "start": 93.26,
+          "end": 93.68,
+          "translation": "be"
+        },
+        {
+          "word": "Land",
+          "start": 93.68,
+          "end": 94.12,
+          "translation": "Country"
+        },
+        {
+          "word": "gegen",
+          "start": 94.12,
+          "end": 94.7,
+          "translation": "vs."
+        },
+        {
+          "word": "die",
+          "start": 94.7,
+          "end": 95.04,
+          "translation": "the"
+        },
+        {
+          "word": "russischen",
+          "start": 95.04,
+          "end": 95.92,
+          "translation": "russian"
+        },
+        {
+          "word": "Angriffe",
+          "start": 95.92,
+          "end": 96.9,
+          "translation": "Attacks"
+        },
+        {
+          "word": "zu",
+          "start": 96.9,
+          "end": 97.4,
+          "translation": "to"
+        },
+        {
+          "word": "verteidigen,",
+          "start": 97.4,
+          "end": 98.64,
+          "translation": "defend,"
+        },
+        {
+          "word": "setzt",
+          "start": 99.6,
+          "end": 99.74,
+          "translation": "sets"
+        },
+        {
+          "word": "der",
+          "start": 99.74,
+          "end": 100.36,
+          "translation": "the"
+        },
+        {
+          "word": "ukrainische",
+          "start": 100.36,
+          "end": 101.76,
+          "translation": "Ukrainian"
+        },
+        {
+          "word": "Präsident",
+          "start": 101.76,
+          "end": 102.54,
+          "translation": "President"
+        },
+        {
+          "word": "Wolodymyr",
+          "start": 102.54,
+          "end": 104.25,
+          "translation": "Volodymyr"
+        },
+        {
+          "word": "Selenskyj",
+          "start": 104.25,
+          "end": 105.96,
+          "translation": "Selensky"
+        },
+        {
+          "word": "auf",
+          "start": 105.96,
+          "end": 106.08,
+          "translation": "on"
+        },
+        {
+          "word": "zusätzliche",
+          "start": 106.08,
+          "end": 107.44,
+          "translation": "additional"
+        },
+        {
+          "word": "finanzielle",
+          "start": 107.44,
+          "end": 108.8,
+          "translation": "financial"
+        },
+        {
+          "word": "Unterstützung",
+          "start": 108.8,
+          "end": 110.1,
+          "translation": "Support"
+        },
+        {
+          "word": "aus",
+          "start": 110.1,
+          "end": 111.1,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 111.1,
+          "end": 111.48,
+          "translation": "the"
+        },
+        {
+          "word": "Europäischen",
+          "start": 111.48,
+          "end": 112.78,
+          "translation": "European"
+        },
+        {
+          "word": "Union.",
+          "start": 112.78,
+          "end": 113.64,
+          "translation": "Union."
+        },
+        {
+          "word": "Auf",
+          "start": 113.64,
+          "end": 115.26,
+          "translation": "On"
+        },
+        {
+          "word": "dem",
+          "start": 115.26,
+          "end": 115.68,
+          "translation": "the"
+        },
+        {
+          "word": "EU-Gipfel",
+          "start": 115.68,
+          "end": 117.26,
+          "translation": "EU summit"
+        },
+        {
+          "word": "in",
+          "start": 117.26,
+          "end": 117.68,
+          "translation": "in"
+        },
+        {
+          "word": "Brüssel",
+          "start": 117.68,
+          "end": 118.32,
+          "translation": "Brussels"
+        },
+        {
+          "word": "forderte",
+          "start": 118.32,
+          "end": 119.72,
+          "translation": "demanded"
+        },
+        {
+          "word": "er",
+          "start": 119.72,
+          "end": 120.18,
+          "translation": "he"
+        },
+        {
+          "word": "weitere",
+          "start": 120.18,
+          "end": 121.12,
+          "translation": "more"
+        },
+        {
+          "word": "70",
+          "start": 121.12,
+          "end": 122.34,
+          "translation": "70"
+        },
+        {
+          "word": "Milliarden",
+          "start": 122.34,
+          "end": 123.08,
+          "translation": "billion"
+        },
+        {
+          "word": "Euro",
+          "start": 123.08,
+          "end": 124.18,
+          "translation": "Euro"
+        },
+        {
+          "word": "für",
+          "start": 124.18,
+          "end": 125.02,
+          "translation": "for"
+        },
+        {
+          "word": "das",
+          "start": 125.02,
+          "end": 125.4,
+          "translation": "the"
+        },
+        {
+          "word": "kommende",
+          "start": 125.4,
+          "end": 126.08,
+          "translation": "coming"
+        },
+        {
+          "word": "Jahr.",
+          "start": 126.08,
+          "end": 126.54,
+          "translation": "Year."
+        },
+        {
+          "word": "Deutschlands",
+          "start": 126.54,
+          "end": 128.66,
+          "translation": "Germany"
+        },
+        {
+          "word": "Kanzler",
+          "start": 128.66,
+          "end": 129.42,
+          "translation": "Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 129.42,
+          "end": 130.28,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 130.28,
+          "end": 130.88,
+          "translation": "Merz"
+        },
+        {
+          "word": "hatte",
+          "start": 130.88,
+          "end": 131.68,
+          "translation": "had"
+        },
+        {
+          "word": "bereits",
+          "start": 131.68,
+          "end": 132.58,
+          "translation": "already"
+        },
+        {
+          "word": "zu",
+          "start": 132.58,
+          "end": 132.98,
+          "translation": "to"
+        },
+        {
+          "word": "Beginn",
+          "start": 132.98,
+          "end": 133.68,
+          "translation": "Start"
+        },
+        {
+          "word": "des",
+          "start": 133.68,
+          "end": 133.94,
+          "translation": "of the"
+        },
+        {
+          "word": "Gipfels",
+          "start": 133.94,
+          "end": 134.68,
+          "translation": "Summit"
+        },
+        {
+          "word": "eine",
+          "start": 134.68,
+          "end": 135.6,
+          "translation": "one"
+        },
+        {
+          "word": "Aufstockung",
+          "start": 135.6,
+          "end": 136.86,
+          "translation": "Extension"
+        },
+        {
+          "word": "der",
+          "start": 136.86,
+          "end": 137.2,
+          "translation": "the"
+        },
+        {
+          "word": "Mittel",
+          "start": 137.2,
+          "end": 137.64,
+          "translation": "Medium"
+        },
+        {
+          "word": "für",
+          "start": 137.64,
+          "end": 138.46,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 138.46,
+          "end": 138.86,
+          "translation": "the"
+        },
+        {
+          "word": "Ukraine",
+          "start": 138.86,
+          "end": 139.56,
+          "translation": "Ukraine"
+        },
+        {
+          "word": "gefordert,",
+          "start": 139.56,
+          "end": 141.02,
+          "translation": "required,"
+        },
+        {
+          "word": "aber",
+          "start": 141.5,
+          "end": 141.98,
+          "translation": "but"
+        },
+        {
+          "word": "keine",
+          "start": 141.98,
+          "end": 142.62,
+          "translation": "none"
+        },
+        {
+          "word": "Größenordnung",
+          "start": 142.62,
+          "end": 144.3,
+          "translation": "Order of magnitude"
+        },
+        {
+          "word": "genannt.",
+          "start": 144.3,
+          "end": 145.34,
+          "translation": "called."
+        },
+        {
+          "word": "Auf",
+          "start": 145.34,
+          "end": 146.7,
+          "translation": "On"
+        },
+        {
+          "word": "seiner",
+          "start": 146.7,
+          "end": 147.32,
+          "translation": "his"
+        },
+        {
+          "word": "Abschluss-Pressekonferenz",
+          "start": 147.32,
+          "end": 149.46,
+          "translation": "Closing Press Conference"
+        },
+        {
+          "word": "sagte",
+          "start": 149.46,
+          "end": 150.16,
+          "translation": "said"
+        },
+        {
+          "word": "Merz,",
+          "start": 150.16,
+          "end": 150.88,
+          "translation": "Merz,"
+        },
+        {
+          "word": "es",
+          "start": 151.52,
+          "end": 151.84,
+          "translation": "it"
+        },
+        {
+          "word": "gebe",
+          "start": 151.84,
+          "end": 152.16,
+          "translation": "give"
+        },
+        {
+          "word": "eine",
+          "start": 152.16,
+          "end": 152.82,
+          "translation": "one"
+        },
+        {
+          "word": "große",
+          "start": 152.82,
+          "end": 153.56,
+          "translation": "large"
+        },
+        {
+          "word": "Übereinstimmung",
+          "start": 153.56,
+          "end": 155.04,
+          "translation": "Consistency"
+        },
+        {
+          "word": "in",
+          "start": 155.04,
+          "end": 155.5,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 155.5,
+          "end": 155.84,
+          "translation": "the"
+        },
+        {
+          "word": "EU,",
+          "start": 155.84,
+          "end": 156.64,
+          "translation": "EU,"
+        },
+        {
+          "word": "der",
+          "start": 157.48,
+          "end": 157.66,
+          "translation": "the"
+        },
+        {
+          "word": "Ukraine",
+          "start": 157.66,
+          "end": 158.42,
+          "translation": "Ukraine"
+        },
+        {
+          "word": "auch",
+          "start": 158.42,
+          "end": 159.26,
+          "translation": "also"
+        },
+        {
+          "word": "über",
+          "start": 159.26,
+          "end": 159.82,
+          "translation": "about"
+        },
+        {
+          "word": "den",
+          "start": 159.82,
+          "end": 160.12,
+          "translation": "the"
+        },
+        {
+          "word": "Winter",
+          "start": 160.12,
+          "end": 160.7,
+          "translation": "Winter"
+        },
+        {
+          "word": "und",
+          "start": 160.7,
+          "end": 161.54,
+          "translation": "and"
+        },
+        {
+          "word": "im",
+          "start": 161.54,
+          "end": 162.0,
+          "translation": "in the"
+        },
+        {
+          "word": "nächsten",
+          "start": 162.0,
+          "end": 162.6,
+          "translation": "next"
+        },
+        {
+          "word": "Jahr",
+          "start": 162.6,
+          "end": 163.12,
+          "translation": "Year"
+        },
+        {
+          "word": "weiterzuhelfen.",
+          "start": 163.12,
+          "end": 166.08,
+          "translation": "to help."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Mindestens 30 Tote bei Drohnen-Attacke in Darfur",
+      "words": [
+        {
+          "word": "Mindestens",
+          "start": 166.08,
+          "end": 167.26,
+          "translation": "At least"
+        },
+        {
+          "word": "30",
+          "start": 167.26,
+          "end": 168.08,
+          "translation": "30"
+        },
+        {
+          "word": "Tote",
+          "start": 168.08,
+          "end": 169.02,
+          "translation": "Dead"
+        },
+        {
+          "word": "bei",
+          "start": 169.02,
+          "end": 169.44,
+          "translation": "with"
+        },
+        {
+          "word": "Drohnen-Attacke",
+          "start": 169.44,
+          "end": 171.14,
+          "translation": "Drone Attack"
+        },
+        {
+          "word": "in",
+          "start": 171.14,
+          "end": 171.64,
+          "translation": "in"
+        },
+        {
+          "word": "Darfur",
+          "start": 171.64,
+          "end": 172.42,
+          "translation": "Darfur"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Im Sudan ist ein Viehmarkt in der Region Darfur Ziel eines Drohnenangriffs geworden. Die Attacke in der von der RSF-Miliz kontrollierten Stadt Nyala fand am belebtesten Markttag der Woche statt. Nach Angaben aus Krankenhauskreisen wurden mindestens 30 Menschen getötet. 47 weitere seien bei dem Angriff am Freitag verletzt worden, sagte ein Vertreter des örtlichen Krankenhauses der Nachrichtenagentur AFP. Laut Emergency Lawyers, einer Organisation, die Gewalt gegen Zivilisten im Sudan dokumentiert, wird der Angriff den sudanesischen Streitkräften zugeschrieben. Die Armee und die RSF-Miliz liefern sich im persönlichen Machtkampf ihrer Anführer seit mehr als drei Jahren erbitterte Gefechte.",
+      "words": [
+        {
+          "word": "Im",
+          "start": 173.16,
+          "end": 173.48,
+          "translation": "In the"
+        },
+        {
+          "word": "Sudan",
+          "start": 173.48,
+          "end": 174.18,
+          "translation": "Sudan"
+        },
+        {
+          "word": "ist",
+          "start": 174.18,
+          "end": 174.68,
+          "translation": "is"
+        },
+        {
+          "word": "ein",
+          "start": 174.68,
+          "end": 175.12,
+          "translation": "a"
+        },
+        {
+          "word": "Viehmarkt",
+          "start": 175.12,
+          "end": 176.22,
+          "translation": "Livestock Market"
+        },
+        {
+          "word": "in",
+          "start": 176.74,
+          "end": 177.0,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 177.0,
+          "end": 177.22,
+          "translation": "the"
+        },
+        {
+          "word": "Region",
+          "start": 177.22,
+          "end": 177.82,
+          "translation": "Region"
+        },
+        {
+          "word": "Darfur",
+          "start": 177.82,
+          "end": 178.78,
+          "translation": "Darfur"
+        },
+        {
+          "word": "Ziel",
+          "start": 178.78,
+          "end": 179.94,
+          "translation": "Goal"
+        },
+        {
+          "word": "eines",
+          "start": 179.94,
+          "end": 180.46,
+          "translation": "one"
+        },
+        {
+          "word": "Drohnenangriffs",
+          "start": 180.46,
+          "end": 182.22,
+          "translation": "Drone attack"
+        },
+        {
+          "word": "geworden.",
+          "start": 182.22,
+          "end": 182.9,
+          "translation": "become."
+        },
+        {
+          "word": "Die",
+          "start": 183.62,
+          "end": 184.32,
+          "translation": "The"
+        },
+        {
+          "word": "Attacke",
+          "start": 184.32,
+          "end": 185.3,
+          "translation": "Attack"
+        },
+        {
+          "word": "in",
+          "start": 185.3,
+          "end": 185.72,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 185.72,
+          "end": 186.0,
+          "translation": "the"
+        },
+        {
+          "word": "von",
+          "start": 186.0,
+          "end": 186.5,
+          "translation": "from"
+        },
+        {
+          "word": "der",
+          "start": 186.5,
+          "end": 186.86,
+          "translation": "the"
+        },
+        {
+          "word": "RSF-Miliz",
+          "start": 186.86,
+          "end": 189.18,
+          "translation": "RSF militia"
+        },
+        {
+          "word": "kontrollierten",
+          "start": 189.18,
+          "end": 190.52,
+          "translation": "controlled"
+        },
+        {
+          "word": "Stadt",
+          "start": 190.52,
+          "end": 191.82,
+          "translation": "City"
+        },
+        {
+          "word": "Nyala",
+          "start": 191.82,
+          "end": 193.12,
+          "translation": "Nyala"
+        },
+        {
+          "word": "fand",
+          "start": 193.12,
+          "end": 193.24,
+          "translation": "found"
+        },
+        {
+          "word": "am",
+          "start": 193.24,
+          "end": 193.74,
+          "translation": "on"
+        },
+        {
+          "word": "belebtesten",
+          "start": 193.74,
+          "end": 194.86,
+          "translation": "busiest"
+        },
+        {
+          "word": "Markttag",
+          "start": 194.86,
+          "end": 195.94,
+          "translation": "Market Day"
+        },
+        {
+          "word": "der",
+          "start": 195.94,
+          "end": 196.36,
+          "translation": "the"
+        },
+        {
+          "word": "Woche",
+          "start": 196.36,
+          "end": 196.84,
+          "translation": "week"
+        },
+        {
+          "word": "statt.",
+          "start": 196.84,
+          "end": 197.4,
+          "translation": "takes place."
+        },
+        {
+          "word": "Nach",
+          "start": 198.28,
+          "end": 198.66,
+          "translation": "After"
+        },
+        {
+          "word": "Angaben",
+          "start": 198.66,
+          "end": 199.6,
+          "translation": "Details"
+        },
+        {
+          "word": "aus",
+          "start": 199.6,
+          "end": 200.26,
+          "translation": "from"
+        },
+        {
+          "word": "Krankenhauskreisen",
+          "start": 200.26,
+          "end": 202.28,
+          "translation": "Hospital Districts"
+        },
+        {
+          "word": "wurden",
+          "start": 202.28,
+          "end": 203.3,
+          "translation": "were"
+        },
+        {
+          "word": "mindestens",
+          "start": 203.3,
+          "end": 204.22,
+          "translation": "at least"
+        },
+        {
+          "word": "30",
+          "start": 204.22,
+          "end": 204.92,
+          "translation": "30"
+        },
+        {
+          "word": "Menschen",
+          "start": 204.92,
+          "end": 205.86,
+          "translation": "People"
+        },
+        {
+          "word": "getötet.",
+          "start": 205.86,
+          "end": 206.88,
+          "translation": "killed."
+        },
+        {
+          "word": "47",
+          "start": 207.88,
+          "end": 208.72,
+          "translation": "47"
+        },
+        {
+          "word": "weitere",
+          "start": 208.72,
+          "end": 210.04,
+          "translation": "more"
+        },
+        {
+          "word": "seien",
+          "start": 210.04,
+          "end": 211.08,
+          "translation": "be"
+        },
+        {
+          "word": "bei",
+          "start": 211.08,
+          "end": 211.4,
+          "translation": "with"
+        },
+        {
+          "word": "dem",
+          "start": 211.4,
+          "end": 211.72,
+          "translation": "the"
+        },
+        {
+          "word": "Angriff",
+          "start": 211.72,
+          "end": 212.42,
+          "translation": "Attack"
+        },
+        {
+          "word": "am",
+          "start": 212.42,
+          "end": 212.92,
+          "translation": "on"
+        },
+        {
+          "word": "Freitag",
+          "start": 212.92,
+          "end": 213.74,
+          "translation": "Friday"
+        },
+        {
+          "word": "verletzt",
+          "start": 213.74,
+          "end": 214.56,
+          "translation": "injured"
+        },
+        {
+          "word": "worden,",
+          "start": 214.56,
+          "end": 215.1,
+          "translation": "been,"
+        },
+        {
+          "word": "sagte",
+          "start": 215.9,
+          "end": 216.38,
+          "translation": "said"
+        },
+        {
+          "word": "ein",
+          "start": 216.38,
+          "end": 216.96,
+          "translation": "a"
+        },
+        {
+          "word": "Vertreter",
+          "start": 216.96,
+          "end": 217.88,
+          "translation": "Representative"
+        },
+        {
+          "word": "des",
+          "start": 217.88,
+          "end": 218.62,
+          "translation": "of the"
+        },
+        {
+          "word": "örtlichen",
+          "start": 218.62,
+          "end": 219.46,
+          "translation": "local"
+        },
+        {
+          "word": "Krankenhauses",
+          "start": 219.46,
+          "end": 220.9,
+          "translation": "Hospital"
+        },
+        {
+          "word": "der",
+          "start": 220.9,
+          "end": 221.58,
+          "translation": "the"
+        },
+        {
+          "word": "Nachrichtenagentur",
+          "start": 221.58,
+          "end": 223.42,
+          "translation": "News agency"
+        },
+        {
+          "word": "AFP.",
+          "start": 223.42,
+          "end": 224.84,
+          "translation": "AFP."
+        },
+        {
+          "word": "Laut",
+          "start": 225.54,
+          "end": 226.24,
+          "translation": "According to"
+        },
+        {
+          "word": "Emergency",
+          "start": 226.24,
+          "end": 227.76,
+          "translation": "Emergency"
+        },
+        {
+          "word": "Lawyers,",
+          "start": 227.76,
+          "end": 229.06,
+          "translation": "Lawyers,"
+        },
+        {
+          "word": "einer",
+          "start": 229.06,
+          "end": 229.5,
+          "translation": "one"
+        },
+        {
+          "word": "Organisation,",
+          "start": 229.5,
+          "end": 230.78,
+          "translation": "Organization,"
+        },
+        {
+          "word": "die",
+          "start": 231.38,
+          "end": 231.7,
+          "translation": "the"
+        },
+        {
+          "word": "Gewalt",
+          "start": 231.7,
+          "end": 232.42,
+          "translation": "Violence"
+        },
+        {
+          "word": "gegen",
+          "start": 232.42,
+          "end": 233.0,
+          "translation": "vs."
+        },
+        {
+          "word": "Zivilisten",
+          "start": 233.0,
+          "end": 234.1,
+          "translation": "Civilians"
+        },
+        {
+          "word": "im",
+          "start": 234.1,
+          "end": 234.56,
+          "translation": "in the"
+        },
+        {
+          "word": "Sudan",
+          "start": 234.56,
+          "end": 235.12,
+          "translation": "Sudan"
+        },
+        {
+          "word": "dokumentiert,",
+          "start": 235.12,
+          "end": 236.6,
+          "translation": "documented,"
+        },
+        {
+          "word": "wird",
+          "start": 237.24,
+          "end": 237.66,
+          "translation": "becomes"
+        },
+        {
+          "word": "der",
+          "start": 237.66,
+          "end": 238.04,
+          "translation": "the"
+        },
+        {
+          "word": "Angriff",
+          "start": 238.04,
+          "end": 238.78,
+          "translation": "Attack"
+        },
+        {
+          "word": "den",
+          "start": 238.78,
+          "end": 239.3,
+          "translation": "the"
+        },
+        {
+          "word": "sudanesischen",
+          "start": 239.3,
+          "end": 240.86,
+          "translation": "Sudanese"
+        },
+        {
+          "word": "Streitkräften",
+          "start": 240.86,
+          "end": 242.24,
+          "translation": "armed forces"
+        },
+        {
+          "word": "zugeschrieben.",
+          "start": 242.24,
+          "end": 243.42,
+          "translation": "attributed."
+        },
+        {
+          "word": "Die",
+          "start": 244.22,
+          "end": 244.92,
+          "translation": "The"
+        },
+        {
+          "word": "Armee",
+          "start": 244.92,
+          "end": 245.58,
+          "translation": "Army"
+        },
+        {
+          "word": "und",
+          "start": 245.58,
+          "end": 246.32,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 246.32,
+          "end": 246.66,
+          "translation": "the"
+        },
+        {
+          "word": "RSF-Miliz",
+          "start": 246.66,
+          "end": 248.76,
+          "translation": "RSF militia"
+        },
+        {
+          "word": "liefern",
+          "start": 248.76,
+          "end": 249.72,
+          "translation": "deliver"
+        },
+        {
+          "word": "sich",
+          "start": 249.72,
+          "end": 250.2,
+          "translation": "itself"
+        },
+        {
+          "word": "im",
+          "start": 250.2,
+          "end": 250.56,
+          "translation": "in the"
+        },
+        {
+          "word": "persönlichen",
+          "start": 250.56,
+          "end": 251.84,
+          "translation": "personal"
+        },
+        {
+          "word": "Machtkampf",
+          "start": 251.84,
+          "end": 252.92,
+          "translation": "Power Struggle"
+        },
+        {
+          "word": "ihrer",
+          "start": 252.92,
+          "end": 253.46,
+          "translation": "their"
+        },
+        {
+          "word": "Anführer",
+          "start": 253.46,
+          "end": 254.68,
+          "translation": "Leader"
+        },
+        {
+          "word": "seit",
+          "start": 255.28,
+          "end": 255.72,
+          "translation": "since"
+        },
+        {
+          "word": "mehr",
+          "start": 255.72,
+          "end": 256.16,
+          "translation": "more"
+        },
+        {
+          "word": "als",
+          "start": 256.16,
+          "end": 256.68,
+          "translation": "as"
+        },
+        {
+          "word": "drei",
+          "start": 256.68,
+          "end": 257.14,
+          "translation": "three"
+        },
+        {
+          "word": "Jahren",
+          "start": 257.14,
+          "end": 257.92,
+          "translation": "years"
+        },
+        {
+          "word": "erbitterte",
+          "start": 257.92,
+          "end": 259.54,
+          "translation": "bitter"
+        },
+        {
+          "word": "Gefechte.",
+          "start": 259.54,
+          "end": 260.46,
+          "translation": "Battles."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Frankreich stellt sich auf neue Proteste ein",
+      "words": [
+        {
+          "word": "Frankreich",
+          "start": 261.46,
+          "end": 262.58,
+          "translation": "France"
+        },
+        {
+          "word": "stellt",
+          "start": 262.58,
+          "end": 263.14,
+          "translation": "provides"
+        },
+        {
+          "word": "sich",
+          "start": 263.14,
+          "end": 263.5,
+          "translation": "itself"
+        },
+        {
+          "word": "auf",
+          "start": 263.5,
+          "end": 263.94,
+          "translation": "on"
+        },
+        {
+          "word": "neue",
+          "start": 263.94,
+          "end": 264.5,
+          "translation": "new"
+        },
+        {
+          "word": "Proteste",
+          "start": 264.5,
+          "end": 265.54,
+          "translation": "Protests"
+        },
+        {
+          "word": "ein",
+          "start": 265.54,
+          "end": 266.12,
+          "translation": "a"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "An diesem Samstag werden in Frankreich weitere Demonstrationen erwartet. Sie richten sich gegen hohe Lebenshaltungskosten und Spritpreise sowie niedrige Löhne in dem westeuropäischen Land. Zudem geht es um Forderungen, Schulen besser auszustatten. Neben Demonstrationen könnte es auch Blockadeaktionen geben. Die französische Regierung befürchtet Ausschreitungen und kündigte ein hartes Durchgreifen gegen Krawallmacher an. Der Protestaufruf ist keiner Organisation klar zuzuordnen. Die großen Gewerkschaften beteiligen sich nicht daran. Allerdings unterstützen einige Politiker aus dem linken Lager in Frankreich den Aufruf.",
+      "words": [
+        {
+          "word": "An",
+          "start": 266.76,
+          "end": 267.0,
+          "translation": "To"
+        },
+        {
+          "word": "diesem",
+          "start": 267.0,
+          "end": 267.52,
+          "translation": "this"
+        },
+        {
+          "word": "Samstag",
+          "start": 267.52,
+          "end": 268.32,
+          "translation": "Saturday"
+        },
+        {
+          "word": "werden",
+          "start": 268.32,
+          "end": 269.02,
+          "translation": "become"
+        },
+        {
+          "word": "in",
+          "start": 269.02,
+          "end": 269.42,
+          "translation": "in"
+        },
+        {
+          "word": "Frankreich",
+          "start": 269.42,
+          "end": 270.52,
+          "translation": "France"
+        },
+        {
+          "word": "weitere",
+          "start": 270.52,
+          "end": 271.6,
+          "translation": "more"
+        },
+        {
+          "word": "Demonstrationen",
+          "start": 271.6,
+          "end": 273.3,
+          "translation": "Demonstrations"
+        },
+        {
+          "word": "erwartet.",
+          "start": 273.3,
+          "end": 274.2,
+          "translation": "expected."
+        },
+        {
+          "word": "Sie",
+          "start": 274.8,
+          "end": 275.5,
+          "translation": "You"
+        },
+        {
+          "word": "richten",
+          "start": 275.5,
+          "end": 276.2,
+          "translation": "direct"
+        },
+        {
+          "word": "sich",
+          "start": 276.2,
+          "end": 276.6,
+          "translation": "itself"
+        },
+        {
+          "word": "gegen",
+          "start": 276.6,
+          "end": 277.36,
+          "translation": "vs."
+        },
+        {
+          "word": "hohe",
+          "start": 277.36,
+          "end": 278.2,
+          "translation": "high"
+        },
+        {
+          "word": "Lebenshaltungskosten",
+          "start": 278.2,
+          "end": 280.18,
+          "translation": "Cost of living"
+        },
+        {
+          "word": "und",
+          "start": 280.18,
+          "end": 281.0,
+          "translation": "and"
+        },
+        {
+          "word": "Spritpreise",
+          "start": 281.0,
+          "end": 282.38,
+          "translation": "Fuel prices"
+        },
+        {
+          "word": "sowie",
+          "start": 282.38,
+          "end": 283.4,
+          "translation": "and"
+        },
+        {
+          "word": "niedrige",
+          "start": 283.4,
+          "end": 284.24,
+          "translation": "low"
+        },
+        {
+          "word": "Löhne",
+          "start": 284.24,
+          "end": 285.0,
+          "translation": "Wages"
+        },
+        {
+          "word": "in",
+          "start": 285.0,
+          "end": 285.34,
+          "translation": "in"
+        },
+        {
+          "word": "dem",
+          "start": 285.34,
+          "end": 285.58,
+          "translation": "the"
+        },
+        {
+          "word": "westeuropäischen",
+          "start": 285.58,
+          "end": 287.32,
+          "translation": "Western European"
+        },
+        {
+          "word": "Land.",
+          "start": 287.32,
+          "end": 287.92,
+          "translation": "Country."
+        },
+        {
+          "word": "Zudem",
+          "start": 288.92,
+          "end": 289.66,
+          "translation": "In addition"
+        },
+        {
+          "word": "geht",
+          "start": 289.66,
+          "end": 289.94,
+          "translation": "goes"
+        },
+        {
+          "word": "es",
+          "start": 289.94,
+          "end": 290.38,
+          "translation": "it"
+        },
+        {
+          "word": "um",
+          "start": 290.38,
+          "end": 290.64,
+          "translation": "to"
+        },
+        {
+          "word": "Forderungen,",
+          "start": 290.64,
+          "end": 291.64,
+          "translation": "Claims,"
+        },
+        {
+          "word": "Schulen",
+          "start": 292.28,
+          "end": 292.64,
+          "translation": "Schools"
+        },
+        {
+          "word": "besser",
+          "start": 292.64,
+          "end": 293.32,
+          "translation": "better"
+        },
+        {
+          "word": "auszustatten.",
+          "start": 293.32,
+          "end": 294.78,
+          "translation": "to equip."
+        },
+        {
+          "word": "Neben",
+          "start": 295.72,
+          "end": 296.3,
+          "translation": "Besides"
+        },
+        {
+          "word": "Demonstrationen",
+          "start": 296.3,
+          "end": 298.26,
+          "translation": "Demonstrations"
+        },
+        {
+          "word": "könnte",
+          "start": 298.26,
+          "end": 298.7,
+          "translation": "could"
+        },
+        {
+          "word": "es",
+          "start": 298.7,
+          "end": 299.34,
+          "translation": "it"
+        },
+        {
+          "word": "auch",
+          "start": 299.34,
+          "end": 299.82,
+          "translation": "also"
+        },
+        {
+          "word": "Blockadeaktionen",
+          "start": 299.82,
+          "end": 301.92,
+          "translation": "Blockade actions"
+        },
+        {
+          "word": "geben.",
+          "start": 301.92,
+          "end": 302.4,
+          "translation": "give."
+        },
+        {
+          "word": "Die",
+          "start": 303.36,
+          "end": 303.66,
+          "translation": "The"
+        },
+        {
+          "word": "französische",
+          "start": 303.66,
+          "end": 305.02,
+          "translation": "French"
+        },
+        {
+          "word": "Regierung",
+          "start": 305.02,
+          "end": 305.82,
+          "translation": "Government"
+        },
+        {
+          "word": "befürchtet",
+          "start": 305.82,
+          "end": 307.06,
+          "translation": "fears"
+        },
+        {
+          "word": "Ausschreitungen",
+          "start": 307.06,
+          "end": 308.38,
+          "translation": "Riots"
+        },
+        {
+          "word": "und",
+          "start": 308.38,
+          "end": 309.26,
+          "translation": "and"
+        },
+        {
+          "word": "kündigte",
+          "start": 309.26,
+          "end": 310.18,
+          "translation": "announced"
+        },
+        {
+          "word": "ein",
+          "start": 310.18,
+          "end": 310.64,
+          "translation": "a"
+        },
+        {
+          "word": "hartes",
+          "start": 310.64,
+          "end": 311.44,
+          "translation": "hard"
+        },
+        {
+          "word": "Durchgreifen",
+          "start": 311.44,
+          "end": 312.56,
+          "translation": "crack down"
+        },
+        {
+          "word": "gegen",
+          "start": 312.56,
+          "end": 313.6,
+          "translation": "vs."
+        },
+        {
+          "word": "Krawallmacher",
+          "start": 313.6,
+          "end": 315.1,
+          "translation": "Troublemaker"
+        },
+        {
+          "word": "an.",
+          "start": 315.1,
+          "end": 315.64,
+          "translation": "to."
+        },
+        {
+          "word": "Der",
+          "start": 316.3,
+          "end": 317.0,
+          "translation": "The"
+        },
+        {
+          "word": "Protestaufruf",
+          "start": 317.0,
+          "end": 318.86,
+          "translation": "Call to Protest"
+        },
+        {
+          "word": "ist",
+          "start": 318.86,
+          "end": 319.52,
+          "translation": "is"
+        },
+        {
+          "word": "keiner",
+          "start": 319.52,
+          "end": 320.08,
+          "translation": "none"
+        },
+        {
+          "word": "Organisation",
+          "start": 320.08,
+          "end": 321.48,
+          "translation": "Organization"
+        },
+        {
+          "word": "klar",
+          "start": 321.48,
+          "end": 322.42,
+          "translation": "clear"
+        },
+        {
+          "word": "zuzuordnen.",
+          "start": 322.42,
+          "end": 323.92,
+          "translation": "to assign."
+        },
+        {
+          "word": "Die",
+          "start": 324.78,
+          "end": 325.22,
+          "translation": "The"
+        },
+        {
+          "word": "großen",
+          "start": 325.22,
+          "end": 325.88,
+          "translation": "large"
+        },
+        {
+          "word": "Gewerkschaften",
+          "start": 325.88,
+          "end": 327.54,
+          "translation": "Trade unions"
+        },
+        {
+          "word": "beteiligen",
+          "start": 327.54,
+          "end": 328.76,
+          "translation": "participate"
+        },
+        {
+          "word": "sich",
+          "start": 328.76,
+          "end": 329.12,
+          "translation": "itself"
+        },
+        {
+          "word": "nicht",
+          "start": 329.12,
+          "end": 329.58,
+          "translation": "not"
+        },
+        {
+          "word": "daran.",
+          "start": 329.58,
+          "end": 330.36,
+          "translation": "to that."
+        },
+        {
+          "word": "Allerdings",
+          "start": 331.14,
+          "end": 331.9,
+          "translation": "However"
+        },
+        {
+          "word": "unterstützen",
+          "start": 331.9,
+          "end": 333.3,
+          "translation": "support"
+        },
+        {
+          "word": "einige",
+          "start": 333.3,
+          "end": 334.24,
+          "translation": "some"
+        },
+        {
+          "word": "Politiker",
+          "start": 334.24,
+          "end": 335.34,
+          "translation": "Politicians"
+        },
+        {
+          "word": "aus",
+          "start": 335.34,
+          "end": 336.04,
+          "translation": "from"
+        },
+        {
+          "word": "dem",
+          "start": 336.04,
+          "end": 336.4,
+          "translation": "the"
+        },
+        {
+          "word": "linken",
+          "start": 336.4,
+          "end": 337.14,
+          "translation": "left"
+        },
+        {
+          "word": "Lager",
+          "start": 337.14,
+          "end": 337.62,
+          "translation": "Warehouse"
+        },
+        {
+          "word": "in",
+          "start": 337.62,
+          "end": 338.06,
+          "translation": "in"
+        },
+        {
+          "word": "Frankreich",
+          "start": 338.06,
+          "end": 339.1,
+          "translation": "France"
+        },
+        {
+          "word": "den",
+          "start": 339.1,
+          "end": 339.62,
+          "translation": "the"
+        },
+        {
+          "word": "Aufruf.",
+          "start": 339.62,
+          "end": 340.7,
+          "translation": "Call."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Eurowings streicht Flüge und prüft Kurzarbeit",
+      "words": [
+        {
+          "word": "Eurowings",
+          "start": 341.7,
+          "end": 342.96,
+          "translation": "Eurowings"
+        },
+        {
+          "word": "streicht",
+          "start": 342.96,
+          "end": 343.82,
+          "translation": "deletes"
+        },
+        {
+          "word": "Flüge",
+          "start": 343.82,
+          "end": 344.46,
+          "translation": "Flights"
+        },
+        {
+          "word": "und",
+          "start": 344.46,
+          "end": 345.0,
+          "translation": "and"
+        },
+        {
+          "word": "prüft",
+          "start": 345.0,
+          "end": 345.68,
+          "translation": "checks"
+        },
+        {
+          "word": "Kurzarbeit",
+          "start": 345.68,
+          "end": 347.02,
+          "translation": "Short-time work"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Hohe Kerosinpreise setzen die Lufthansa-Tochter Eurowings unter Druck. Die Fluggesellschaft prüft, ob sie Beschäftigte im Winter in Kurzarbeit schickt. Um Entlassungen zu vermeiden, können Unternehmen mit dieser Maßnahme in einer Ausnahmesituation die Arbeitszeit ihrer Beschäftigten vorübergehend reduzieren, während der deutsche Staat einen Teil des dadurch entstehenden Lohnausfalls übernimmt. Nach eigenen Angaben ist Eurowings bereits mit der Bundesagentur für Arbeit in Sachen Kurzarbeitsregelung im Gespräch. Zudem hat die Airline erste Flüge gestrichen. Insgesamt will Eurowings fünf Prozent des geplanten Flugangebots kürzen.",
+      "words": [
+        {
+          "word": "Hohe",
+          "start": 347.64,
+          "end": 348.28,
+          "translation": "High"
+        },
+        {
+          "word": "Kerosinpreise",
+          "start": 348.28,
+          "end": 349.94,
+          "translation": "Kerosene prices"
+        },
+        {
+          "word": "setzen",
+          "start": 349.94,
+          "end": 350.54,
+          "translation": "set"
+        },
+        {
+          "word": "die",
+          "start": 350.54,
+          "end": 350.94,
+          "translation": "the"
+        },
+        {
+          "word": "Lufthansa-Tochter",
+          "start": 350.94,
+          "end": 352.44,
+          "translation": "Lufthansa subsidiary"
+        },
+        {
+          "word": "Eurowings",
+          "start": 352.44,
+          "end": 354.06,
+          "translation": "Eurowings"
+        },
+        {
+          "word": "unter",
+          "start": 354.06,
+          "end": 354.92,
+          "translation": "under"
+        },
+        {
+          "word": "Druck.",
+          "start": 354.92,
+          "end": 355.46,
+          "translation": "Print."
+        },
+        {
+          "word": "Die",
+          "start": 356.14,
+          "end": 356.54,
+          "translation": "The"
+        },
+        {
+          "word": "Fluggesellschaft",
+          "start": 356.54,
+          "end": 358.02,
+          "translation": "Airline"
+        },
+        {
+          "word": "prüft,",
+          "start": 358.02,
+          "end": 358.96,
+          "translation": "checks,"
+        },
+        {
+          "word": "ob",
+          "start": 359.52,
+          "end": 359.68,
+          "translation": "whether"
+        },
+        {
+          "word": "sie",
+          "start": 359.68,
+          "end": 360.1,
+          "translation": "them"
+        },
+        {
+          "word": "Beschäftigte",
+          "start": 360.1,
+          "end": 361.24,
+          "translation": "Employees"
+        },
+        {
+          "word": "im",
+          "start": 361.24,
+          "end": 361.7,
+          "translation": "in the"
+        },
+        {
+          "word": "Winter",
+          "start": 361.7,
+          "end": 362.24,
+          "translation": "Winter"
+        },
+        {
+          "word": "in",
+          "start": 362.24,
+          "end": 362.76,
+          "translation": "in"
+        },
+        {
+          "word": "Kurzarbeit",
+          "start": 362.76,
+          "end": 364.0,
+          "translation": "Short-time work"
+        },
+        {
+          "word": "schickt.",
+          "start": 364.0,
+          "end": 364.64,
+          "translation": "sends."
+        },
+        {
+          "word": "Um",
+          "start": 365.14,
+          "end": 365.8,
+          "translation": "To"
+        },
+        {
+          "word": "Entlassungen",
+          "start": 365.8,
+          "end": 366.96,
+          "translation": "Dismissals"
+        },
+        {
+          "word": "zu",
+          "start": 366.96,
+          "end": 367.38,
+          "translation": "to"
+        },
+        {
+          "word": "vermeiden,",
+          "start": 367.38,
+          "end": 368.32,
+          "translation": "avoid,"
+        },
+        {
+          "word": "können",
+          "start": 368.78,
+          "end": 369.2,
+          "translation": "can"
+        },
+        {
+          "word": "Unternehmen",
+          "start": 369.2,
+          "end": 370.2,
+          "translation": "The company"
+        },
+        {
+          "word": "mit",
+          "start": 370.2,
+          "end": 370.84,
+          "translation": "with"
+        },
+        {
+          "word": "dieser",
+          "start": 370.84,
+          "end": 371.5,
+          "translation": "this"
+        },
+        {
+          "word": "Maßnahme",
+          "start": 371.5,
+          "end": 372.48,
+          "translation": "Measure"
+        },
+        {
+          "word": "in",
+          "start": 372.48,
+          "end": 373.22,
+          "translation": "in"
+        },
+        {
+          "word": "einer",
+          "start": 373.22,
+          "end": 373.78,
+          "translation": "one"
+        },
+        {
+          "word": "Ausnahmesituation",
+          "start": 373.78,
+          "end": 375.66,
+          "translation": "Exceptional Situation"
+        },
+        {
+          "word": "die",
+          "start": 376.26,
+          "end": 376.68,
+          "translation": "the"
+        },
+        {
+          "word": "Arbeitszeit",
+          "start": 376.68,
+          "end": 378.08,
+          "translation": "Working hours"
+        },
+        {
+          "word": "ihrer",
+          "start": 378.08,
+          "end": 378.72,
+          "translation": "their"
+        },
+        {
+          "word": "Beschäftigten",
+          "start": 378.72,
+          "end": 379.88,
+          "translation": "Employees"
+        },
+        {
+          "word": "vorübergehend",
+          "start": 379.88,
+          "end": 381.6,
+          "translation": "Temporary"
+        },
+        {
+          "word": "reduzieren,",
+          "start": 381.6,
+          "end": 382.62,
+          "translation": "reduce,"
+        },
+        {
+          "word": "während",
+          "start": 383.24,
+          "end": 383.8,
+          "translation": "while"
+        },
+        {
+          "word": "der",
+          "start": 383.8,
+          "end": 384.24,
+          "translation": "the"
+        },
+        {
+          "word": "deutsche",
+          "start": 384.24,
+          "end": 384.92,
+          "translation": "German"
+        },
+        {
+          "word": "Staat",
+          "start": 384.92,
+          "end": 385.5,
+          "translation": "State"
+        },
+        {
+          "word": "einen",
+          "start": 385.5,
+          "end": 386.38,
+          "translation": "one"
+        },
+        {
+          "word": "Teil",
+          "start": 386.38,
+          "end": 386.94,
+          "translation": "Part"
+        },
+        {
+          "word": "des",
+          "start": 386.94,
+          "end": 387.42,
+          "translation": "of the"
+        },
+        {
+          "word": "dadurch",
+          "start": 387.42,
+          "end": 388.04,
+          "translation": "thereby"
+        },
+        {
+          "word": "entstehenden",
+          "start": 388.04,
+          "end": 389.36,
+          "translation": "arising"
+        },
+        {
+          "word": "Lohnausfalls",
+          "start": 389.36,
+          "end": 390.78,
+          "translation": "Loss of Wages"
+        },
+        {
+          "word": "übernimmt.",
+          "start": 390.78,
+          "end": 392.2,
+          "translation": "takes over."
+        },
+        {
+          "word": "Nach",
+          "start": 392.8,
+          "end": 393.5,
+          "translation": "After"
+        },
+        {
+          "word": "eigenen",
+          "start": 393.5,
+          "end": 394.3,
+          "translation": "own"
+        },
+        {
+          "word": "Angaben",
+          "start": 394.3,
+          "end": 395.36,
+          "translation": "Details"
+        },
+        {
+          "word": "ist",
+          "start": 395.36,
+          "end": 396.14,
+          "translation": "is"
+        },
+        {
+          "word": "Eurowings",
+          "start": 396.14,
+          "end": 397.34,
+          "translation": "Eurowings"
+        },
+        {
+          "word": "bereits",
+          "start": 397.34,
+          "end": 398.2,
+          "translation": "already"
+        },
+        {
+          "word": "mit",
+          "start": 398.2,
+          "end": 398.74,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 398.74,
+          "end": 399.04,
+          "translation": "the"
+        },
+        {
+          "word": "Bundesagentur",
+          "start": 399.04,
+          "end": 400.66,
+          "translation": "Federal Agency"
+        },
+        {
+          "word": "für",
+          "start": 400.66,
+          "end": 401.06,
+          "translation": "for"
+        },
+        {
+          "word": "Arbeit",
+          "start": 401.06,
+          "end": 401.76,
+          "translation": "Work"
+        },
+        {
+          "word": "in",
+          "start": 401.76,
+          "end": 402.62,
+          "translation": "in"
+        },
+        {
+          "word": "Sachen",
+          "start": 402.62,
+          "end": 403.0,
+          "translation": "Things"
+        },
+        {
+          "word": "Kurzarbeitsregelung",
+          "start": 403.0,
+          "end": 405.42,
+          "translation": "Short-Time Work Program"
+        },
+        {
+          "word": "im",
+          "start": 405.42,
+          "end": 406.02,
+          "translation": "in the"
+        },
+        {
+          "word": "Gespräch.",
+          "start": 406.02,
+          "end": 407.0,
+          "translation": "Conversation."
+        },
+        {
+          "word": "Zudem",
+          "start": 407.9,
+          "end": 408.6,
+          "translation": "In addition"
+        },
+        {
+          "word": "hat",
+          "start": 408.6,
+          "end": 408.82,
+          "translation": "has"
+        },
+        {
+          "word": "die",
+          "start": 408.82,
+          "end": 409.16,
+          "translation": "the"
+        },
+        {
+          "word": "Airline",
+          "start": 409.16,
+          "end": 410.06,
+          "translation": "Airline"
+        },
+        {
+          "word": "erste",
+          "start": 410.06,
+          "end": 410.98,
+          "translation": "first"
+        },
+        {
+          "word": "Flüge",
+          "start": 410.98,
+          "end": 411.6,
+          "translation": "Flights"
+        },
+        {
+          "word": "gestrichen.",
+          "start": 411.6,
+          "end": 412.64,
+          "translation": "deleted."
+        },
+        {
+          "word": "Insgesamt",
+          "start": 413.38,
+          "end": 414.42,
+          "translation": "Total"
+        },
+        {
+          "word": "will",
+          "start": 414.42,
+          "end": 414.96,
+          "translation": "wants"
+        },
+        {
+          "word": "Eurowings",
+          "start": 414.96,
+          "end": 416.32,
+          "translation": "Eurowings"
+        },
+        {
+          "word": "fünf",
+          "start": 416.32,
+          "end": 417.12,
+          "translation": "five"
+        },
+        {
+          "word": "Prozent",
+          "start": 417.12,
+          "end": 417.92,
+          "translation": "Percent"
+        },
+        {
+          "word": "des",
+          "start": 417.92,
+          "end": 418.52,
+          "translation": "of the"
+        },
+        {
+          "word": "geplanten",
+          "start": 418.52,
+          "end": 419.54,
+          "translation": "planned"
+        },
+        {
+          "word": "Flugangebots",
+          "start": 419.54,
+          "end": 421.04,
+          "translation": "Flight Offers"
+        },
+        {
+          "word": "kürzen.",
+          "start": 421.04,
+          "end": 422.06,
+          "translation": "shorten."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "München darf Vergabepraxis für Oktoberfest-Zelte beibehalten",
+      "words": [
+        {
+          "word": "München",
+          "start": 423.06,
+          "end": 423.92,
+          "translation": "Munich"
+        },
+        {
+          "word": "darf",
+          "start": 423.92,
+          "end": 424.46,
+          "translation": "may"
+        },
+        {
+          "word": "Vergabepraxis",
+          "start": 424.46,
+          "end": 426.4,
+          "translation": "Procurement Practices"
+        },
+        {
+          "word": "für",
+          "start": 426.4,
+          "end": 427.14,
+          "translation": "for"
+        },
+        {
+          "word": "Oktoberfest-Zelte",
+          "start": 427.14,
+          "end": 429.44,
+          "translation": "Oktoberfest Tents"
+        },
+        {
+          "word": "beibehalten",
+          "start": 429.44,
+          "end": 431.74,
+          "translation": "maintain"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die Festzelte beim Münchner Oktoberfest müssen nicht europaweit ausgeschrieben werden. Das Bayerische Oberste Landesgericht wies am Freitag die Beschwerde eines Wirts zurück. Er hatte für dieses Jahr keinen Standplatz auf dem Volksfest in der Metropole im Süden Deutschlands bekommen und sah seine Rechte verletzt. Mit dem Gerichtsbeschluss kann die Vergabe der Festzelte wie üblich weiterlaufen. Das Prozedere stützt sich auf eine historisch gewachsene Tradition, ergänzt durch ein vom Stadtrat verabschiedetes Bewertunssystem. Münchens Oberbürgermeister Dominik Krause reagierte erleichtert: Das Volksfest bleibe damit so, wie es weltweit geliebt werde.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 431.74,
+          "end": 431.96,
+          "translation": "The"
+        },
+        {
+          "word": "Festzelte",
+          "start": 431.96,
+          "end": 433.24,
+          "translation": "Festival Tents"
+        },
+        {
+          "word": "beim",
+          "start": 433.24,
+          "end": 433.6,
+          "translation": "at the"
+        },
+        {
+          "word": "Münchner",
+          "start": 433.6,
+          "end": 434.48,
+          "translation": "Munich"
+        },
+        {
+          "word": "Oktoberfest",
+          "start": 434.48,
+          "end": 436.0,
+          "translation": "Oktoberfest"
+        },
+        {
+          "word": "müssen",
+          "start": 436.0,
+          "end": 436.88,
+          "translation": "must"
+        },
+        {
+          "word": "nicht",
+          "start": 436.88,
+          "end": 437.54,
+          "translation": "not"
+        },
+        {
+          "word": "europaweit",
+          "start": 437.54,
+          "end": 439.14,
+          "translation": "across Europe"
+        },
+        {
+          "word": "ausgeschrieben",
+          "start": 439.14,
+          "end": 440.34,
+          "translation": "advertised"
+        },
+        {
+          "word": "werden.",
+          "start": 440.34,
+          "end": 441.0,
+          "translation": "become."
+        },
+        {
+          "word": "Das",
+          "start": 441.0,
+          "end": 442.4,
+          "translation": "The"
+        },
+        {
+          "word": "Bayerische",
+          "start": 442.4,
+          "end": 443.3,
+          "translation": "Bavarian"
+        },
+        {
+          "word": "Oberste",
+          "start": 443.3,
+          "end": 444.26,
+          "translation": "Supreme"
+        },
+        {
+          "word": "Landesgericht",
+          "start": 444.26,
+          "end": 445.68,
+          "translation": "Regional court"
+        },
+        {
+          "word": "wies",
+          "start": 445.68,
+          "end": 446.86,
+          "translation": "as"
+        },
+        {
+          "word": "am",
+          "start": 446.86,
+          "end": 447.06,
+          "translation": "on"
+        },
+        {
+          "word": "Freitag",
+          "start": 447.06,
+          "end": 447.96,
+          "translation": "Friday"
+        },
+        {
+          "word": "die",
+          "start": 447.96,
+          "end": 448.38,
+          "translation": "the"
+        },
+        {
+          "word": "Beschwerde",
+          "start": 448.38,
+          "end": 449.42,
+          "translation": "Complaint"
+        },
+        {
+          "word": "eines",
+          "start": 449.42,
+          "end": 450.14,
+          "translation": "one"
+        },
+        {
+          "word": "Wirts",
+          "start": 450.14,
+          "end": 450.72,
+          "translation": "Innkeeper"
+        },
+        {
+          "word": "zurück.",
+          "start": 450.72,
+          "end": 451.54,
+          "translation": "back."
+        },
+        {
+          "word": "Er",
+          "start": 452.62,
+          "end": 452.96,
+          "translation": "He"
+        },
+        {
+          "word": "hatte",
+          "start": 452.96,
+          "end": 453.4,
+          "translation": "had"
+        },
+        {
+          "word": "für",
+          "start": 453.4,
+          "end": 453.88,
+          "translation": "for"
+        },
+        {
+          "word": "dieses",
+          "start": 453.88,
+          "end": 454.46,
+          "translation": "this"
+        },
+        {
+          "word": "Jahr",
+          "start": 454.46,
+          "end": 454.98,
+          "translation": "Year"
+        },
+        {
+          "word": "keinen",
+          "start": 454.98,
+          "end": 455.66,
+          "translation": "none"
+        },
+        {
+          "word": "Standplatz",
+          "start": 455.66,
+          "end": 457.0,
+          "translation": "Location"
+        },
+        {
+          "word": "auf",
+          "start": 457.0,
+          "end": 457.84,
+          "translation": "on"
+        },
+        {
+          "word": "dem",
+          "start": 457.84,
+          "end": 458.14,
+          "translation": "the"
+        },
+        {
+          "word": "Volksfest",
+          "start": 458.14,
+          "end": 459.08,
+          "translation": "Folk Festival"
+        },
+        {
+          "word": "in",
+          "start": 459.08,
+          "end": 459.9,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 459.9,
+          "end": 460.14,
+          "translation": "the"
+        },
+        {
+          "word": "Metropole",
+          "start": 460.14,
+          "end": 461.22,
+          "translation": "Metropolis"
+        },
+        {
+          "word": "im",
+          "start": 461.22,
+          "end": 461.68,
+          "translation": "in the"
+        },
+        {
+          "word": "Süden",
+          "start": 461.68,
+          "end": 462.34,
+          "translation": "South"
+        },
+        {
+          "word": "Deutschlands",
+          "start": 462.34,
+          "end": 463.28,
+          "translation": "Germany"
+        },
+        {
+          "word": "bekommen",
+          "start": 463.28,
+          "end": 463.82,
+          "translation": "get"
+        },
+        {
+          "word": "und",
+          "start": 463.82,
+          "end": 464.92,
+          "translation": "and"
+        },
+        {
+          "word": "sah",
+          "start": 464.92,
+          "end": 465.54,
+          "translation": "saw"
+        },
+        {
+          "word": "seine",
+          "start": 465.54,
+          "end": 465.96,
+          "translation": "his"
+        },
+        {
+          "word": "Rechte",
+          "start": 465.96,
+          "end": 466.56,
+          "translation": "Rights"
+        },
+        {
+          "word": "verletzt.",
+          "start": 466.56,
+          "end": 467.23,
+          "translation": "injured."
+        },
+        {
+          "word": "Mit",
+          "start": 468.01,
+          "end": 468.71,
+          "translation": "With"
+        },
+        {
+          "word": "dem",
+          "start": 468.71,
+          "end": 469.17,
+          "translation": "the"
+        },
+        {
+          "word": "Gerichtsbeschluss",
+          "start": 469.17,
+          "end": 470.59,
+          "translation": "Court Order"
+        },
+        {
+          "word": "kann",
+          "start": 470.59,
+          "end": 471.47,
+          "translation": "can"
+        },
+        {
+          "word": "die",
+          "start": 471.47,
+          "end": 471.85,
+          "translation": "the"
+        },
+        {
+          "word": "Vergabe",
+          "start": 471.85,
+          "end": 472.75,
+          "translation": "Awarding"
+        },
+        {
+          "word": "der",
+          "start": 472.75,
+          "end": 473.15,
+          "translation": "the"
+        },
+        {
+          "word": "Festzelte",
+          "start": 473.15,
+          "end": 474.35,
+          "translation": "Festival Tents"
+        },
+        {
+          "word": "wie",
+          "start": 474.35,
+          "end": 474.97,
+          "translation": "like"
+        },
+        {
+          "word": "üblich",
+          "start": 474.97,
+          "end": 475.81,
+          "translation": "common"
+        },
+        {
+          "word": "weiterlaufen.",
+          "start": 475.81,
+          "end": 477.01,
+          "translation": "continue running."
+        },
+        {
+          "word": "Das",
+          "start": 477.57,
+          "end": 478.27,
+          "translation": "The"
+        },
+        {
+          "word": "Prozedere",
+          "start": 478.27,
+          "end": 479.63,
+          "translation": "Procedure"
+        },
+        {
+          "word": "stützt",
+          "start": 479.63,
+          "end": 480.39,
+          "translation": "supports"
+        },
+        {
+          "word": "sich",
+          "start": 480.39,
+          "end": 480.71,
+          "translation": "itself"
+        },
+        {
+          "word": "auf",
+          "start": 480.71,
+          "end": 481.15,
+          "translation": "on"
+        },
+        {
+          "word": "eine",
+          "start": 481.15,
+          "end": 481.65,
+          "translation": "one"
+        },
+        {
+          "word": "historisch",
+          "start": 481.65,
+          "end": 482.75,
+          "translation": "historical"
+        },
+        {
+          "word": "gewachsene",
+          "start": 482.75,
+          "end": 483.85,
+          "translation": "grown"
+        },
+        {
+          "word": "Tradition,",
+          "start": 483.85,
+          "end": 484.85,
+          "translation": "Tradition,"
+        },
+        {
+          "word": "ergänzt",
+          "start": 485.55,
+          "end": 486.37,
+          "translation": "supplemented"
+        },
+        {
+          "word": "durch",
+          "start": 486.37,
+          "end": 486.79,
+          "translation": "through"
+        },
+        {
+          "word": "ein",
+          "start": 486.79,
+          "end": 487.33,
+          "translation": "a"
+        },
+        {
+          "word": "vom",
+          "start": 487.33,
+          "end": 487.65,
+          "translation": "from the"
+        },
+        {
+          "word": "Stadtrat",
+          "start": 487.65,
+          "end": 488.59,
+          "translation": "City Council Member"
+        },
+        {
+          "word": "verabschiedetes",
+          "start": 488.59,
+          "end": 490.25,
+          "translation": "adopted"
+        },
+        {
+          "word": "Bewertunssystem.",
+          "start": 490.25,
+          "end": 493.55,
+          "translation": "Rating system."
+        },
+        {
+          "word": "Münchens",
+          "start": 493.55,
+          "end": 494.51,
+          "translation": "Munich's"
+        },
+        {
+          "word": "Oberbürgermeister",
+          "start": 494.51,
+          "end": 496.33,
+          "translation": "Lord Mayor"
+        },
+        {
+          "word": "Dominik",
+          "start": 496.33,
+          "end": 497.39,
+          "translation": "Dominik"
+        },
+        {
+          "word": "Krause",
+          "start": 497.39,
+          "end": 498.09,
+          "translation": "Krause"
+        },
+        {
+          "word": "reagierte",
+          "start": 498.09,
+          "end": 499.51,
+          "translation": "reacted"
+        },
+        {
+          "word": "erleichtert:",
+          "start": 499.51,
+          "end": 500.73,
+          "translation": "simplified:"
+        },
+        {
+          "word": "Das",
+          "start": 501.51,
+          "end": 501.59,
+          "translation": "The"
+        },
+        {
+          "word": "Volksfest",
+          "start": 501.59,
+          "end": 502.43,
+          "translation": "Folk Festival"
+        },
+        {
+          "word": "bleibe",
+          "start": 502.43,
+          "end": 503.41,
+          "translation": "stay"
+        },
+        {
+          "word": "damit",
+          "start": 503.41,
+          "end": 504.05,
+          "translation": "so that"
+        },
+        {
+          "word": "so,",
+          "start": 504.05,
+          "end": 504.63,
+          "translation": "So,"
+        },
+        {
+          "word": "wie",
+          "start": 504.87,
+          "end": 505.25,
+          "translation": "like"
+        },
+        {
+          "word": "es",
+          "start": 505.25,
+          "end": 505.57,
+          "translation": "it"
+        },
+        {
+          "word": "weltweit",
+          "start": 505.57,
+          "end": 506.55,
+          "translation": "Worldwide"
+        },
+        {
+          "word": "geliebt",
+          "start": 506.55,
+          "end": 507.31,
+          "translation": "loved"
+        },
+        {
+          "word": "werde.",
+          "start": 507.31,
+          "end": 507.83,
+          "translation": "will."
+        }
+      ]
+    }
+  ]
+}
