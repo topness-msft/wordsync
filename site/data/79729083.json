@@ -1,0 +1,3310 @@
+{
+  "id": 79729083,
+  "title": "22.10.2026 – Langsam Gesprochene Nachrichten",
+  "date": "2026-10-22",
+  "audioUrl": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/dira/mp3/deutschkurse/langsamenachrichten/CECB15FB_2.mp3",
+  "duration": 417,
+  "imageUrl": "https://static.dw.com/image/79728954_303.jpg",
+  "paragraphs": [
+    {
+      "isHeadline": true,
+      "text": "Anbieter drosseln Internetseiten wegen gravierender Schwachstelle in der Programmierung",
+      "words": [
+        {
+          "word": "Anbieter",
+          "start": 16.7,
+          "end": 17.78,
+          "translation": "Provider"
+        },
+        {
+          "word": "drosseln",
+          "start": 17.78,
+          "end": 18.42,
+          "translation": "throttle"
+        },
+        {
+          "word": "Internetseiten",
+          "start": 18.42,
+          "end": 19.52,
+          "translation": "Websites"
+        },
+        {
+          "word": "wegen",
+          "start": 19.52,
+          "end": 19.92,
+          "translation": "because of"
+        },
+        {
+          "word": "gravierender",
+          "start": 19.92,
+          "end": 21.0,
+          "translation": "more serious"
+        },
+        {
+          "word": "Schwachstelle",
+          "start": 21.0,
+          "end": 21.78,
+          "translation": "Vulnerability"
+        },
+        {
+          "word": "in",
+          "start": 21.78,
+          "end": 22.28,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 22.28,
+          "end": 22.5,
+          "translation": "the"
+        },
+        {
+          "word": "Programmierung",
+          "start": 22.5,
+          "end": 23.4,
+          "translation": "Programming"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Die schwerwiegende Sicherheitslücke bei der Programmiersprache PHP hat weltweit das Fundament zahlreicher Webseiten und Onlinedienste ins Wanken gebracht. Wegen eines dringend empfohlenen Updates sind viele Internetangebote zeitweise nicht erreichbar. Durch die bisherige Sicherheitslücke bei PHP ist es Kriminellen möglich, die vollständige Kontrolle über eine Website zu übernehmen, sensible Daten abzugreifen und Cyberattacken zu starten. Für normale Internetnutzer besteht kein Handlungsbedarf, da die Sicherheitslücke nicht Endgeräte wie PCs und Handys betrifft.",
+      "words": [
+        {
+          "word": "Die",
+          "start": 24.32,
+          "end": 25.02,
+          "translation": "The"
+        },
+        {
+          "word": "schwerwiegende",
+          "start": 25.02,
+          "end": 25.98,
+          "translation": "serious"
+        },
+        {
+          "word": "Sicherheitslücke",
+          "start": 25.98,
+          "end": 27.24,
+          "translation": "Security vulnerability"
+        },
+        {
+          "word": "bei",
+          "start": 27.24,
+          "end": 27.74,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 27.74,
+          "end": 27.96,
+          "translation": "the"
+        },
+        {
+          "word": "Programmiersprache",
+          "start": 27.96,
+          "end": 29.28,
+          "translation": "Programming Language"
+        },
+        {
+          "word": "PHP",
+          "start": 29.28,
+          "end": 30.0,
+          "translation": "PHP"
+        },
+        {
+          "word": "hat",
+          "start": 30.0,
+          "end": 30.94,
+          "translation": "has"
+        },
+        {
+          "word": "weltweit",
+          "start": 30.94,
+          "end": 31.66,
+          "translation": "Worldwide"
+        },
+        {
+          "word": "das",
+          "start": 31.66,
+          "end": 32.08,
+          "translation": "the"
+        },
+        {
+          "word": "Fundament",
+          "start": 32.08,
+          "end": 32.78,
+          "translation": "Foundation"
+        },
+        {
+          "word": "zahlreicher",
+          "start": 32.78,
+          "end": 33.84,
+          "translation": "more numerous"
+        },
+        {
+          "word": "Webseiten",
+          "start": 33.84,
+          "end": 34.62,
+          "translation": "Websites"
+        },
+        {
+          "word": "und",
+          "start": 34.62,
+          "end": 35.26,
+          "translation": "and"
+        },
+        {
+          "word": "Onlinedienste",
+          "start": 35.26,
+          "end": 36.42,
+          "translation": "Online Services"
+        },
+        {
+          "word": "ins",
+          "start": 36.42,
+          "end": 36.82,
+          "translation": "ins"
+        },
+        {
+          "word": "Wanken",
+          "start": 36.82,
+          "end": 37.14,
+          "translation": "Wanken"
+        },
+        {
+          "word": "gebracht.",
+          "start": 37.14,
+          "end": 37.8,
+          "translation": "brought."
+        },
+        {
+          "word": "Wegen",
+          "start": 38.72,
+          "end": 39.2,
+          "translation": "Because of"
+        },
+        {
+          "word": "eines",
+          "start": 39.2,
+          "end": 39.68,
+          "translation": "one"
+        },
+        {
+          "word": "dringend",
+          "start": 39.68,
+          "end": 40.44,
+          "translation": "urgent"
+        },
+        {
+          "word": "empfohlenen",
+          "start": 40.44,
+          "end": 41.44,
+          "translation": "recommended"
+        },
+        {
+          "word": "Updates",
+          "start": 41.44,
+          "end": 42.1,
+          "translation": "Updates"
+        },
+        {
+          "word": "sind",
+          "start": 42.1,
+          "end": 42.66,
+          "translation": "are"
+        },
+        {
+          "word": "viele",
+          "start": 42.66,
+          "end": 43.12,
+          "translation": "many"
+        },
+        {
+          "word": "Internetangebote",
+          "start": 43.12,
+          "end": 44.58,
+          "translation": "Online Services"
+        },
+        {
+          "word": "zeitweise",
+          "start": 44.58,
+          "end": 45.34,
+          "translation": "at times"
+        },
+        {
+          "word": "nicht",
+          "start": 45.34,
+          "end": 45.78,
+          "translation": "not"
+        },
+        {
+          "word": "erreichbar.",
+          "start": 45.78,
+          "end": 46.54,
+          "translation": "available."
+        },
+        {
+          "word": "Durch",
+          "start": 47.13,
+          "end": 47.68,
+          "translation": "Through"
+        },
+        {
+          "word": "die",
+          "start": 47.68,
+          "end": 47.98,
+          "translation": "the"
+        },
+        {
+          "word": "bisherige",
+          "start": 47.98,
+          "end": 48.72,
+          "translation": "previous"
+        },
+        {
+          "word": "Sicherheitslücke",
+          "start": 48.72,
+          "end": 49.8,
+          "translation": "Security vulnerability"
+        },
+        {
+          "word": "bei",
+          "start": 49.8,
+          "end": 50.22,
+          "translation": "with"
+        },
+        {
+          "word": "PHP",
+          "start": 50.22,
+          "end": 50.72,
+          "translation": "PHP"
+        },
+        {
+          "word": "ist",
+          "start": 50.72,
+          "end": 51.68,
+          "translation": "is"
+        },
+        {
+          "word": "es",
+          "start": 51.68,
+          "end": 51.92,
+          "translation": "it"
+        },
+        {
+          "word": "Kriminellen",
+          "start": 51.92,
+          "end": 52.62,
+          "translation": "Criminals"
+        },
+        {
+          "word": "möglich,",
+          "start": 52.62,
+          "end": 53.14,
+          "translation": "possible,"
+        },
+        {
+          "word": "die",
+          "start": 53.58,
+          "end": 53.68,
+          "translation": "the"
+        },
+        {
+          "word": "vollständige",
+          "start": 53.68,
+          "end": 54.58,
+          "translation": "complete"
+        },
+        {
+          "word": "Kontrolle",
+          "start": 54.58,
+          "end": 55.28,
+          "translation": "Control"
+        },
+        {
+          "word": "über",
+          "start": 55.28,
+          "end": 55.78,
+          "translation": "about"
+        },
+        {
+          "word": "eine",
+          "start": 55.78,
+          "end": 56.18,
+          "translation": "one"
+        },
+        {
+          "word": "Website",
+          "start": 56.18,
+          "end": 56.7,
+          "translation": "Website"
+        },
+        {
+          "word": "zu",
+          "start": 56.7,
+          "end": 57.0,
+          "translation": "to"
+        },
+        {
+          "word": "übernehmen,",
+          "start": 57.0,
+          "end": 57.62,
+          "translation": "take over,"
+        },
+        {
+          "word": "sensible",
+          "start": 58.34,
+          "end": 58.76,
+          "translation": "sensitive"
+        },
+        {
+          "word": "Daten",
+          "start": 58.76,
+          "end": 59.34,
+          "translation": "Data"
+        },
+        {
+          "word": "abzugreifen",
+          "start": 59.34,
+          "end": 60.34,
+          "translation": "to access"
+        },
+        {
+          "word": "und",
+          "start": 60.34,
+          "end": 61.08,
+          "translation": "and"
+        },
+        {
+          "word": "Cyberattacken",
+          "start": 61.08,
+          "end": 62.12,
+          "translation": "Cyberattacks"
+        },
+        {
+          "word": "zu",
+          "start": 62.12,
+          "end": 62.34,
+          "translation": "to"
+        },
+        {
+          "word": "starten.",
+          "start": 62.34,
+          "end": 62.96,
+          "translation": "start."
+        },
+        {
+          "word": "Für",
+          "start": 63.84,
+          "end": 64.22,
+          "translation": "For"
+        },
+        {
+          "word": "normale",
+          "start": 64.22,
+          "end": 64.86,
+          "translation": "normal"
+        },
+        {
+          "word": "Internetnutzer",
+          "start": 64.86,
+          "end": 66.06,
+          "translation": "Internet users"
+        },
+        {
+          "word": "besteht",
+          "start": 66.06,
+          "end": 66.5,
+          "translation": "exists"
+        },
+        {
+          "word": "kein",
+          "start": 66.5,
+          "end": 67.0,
+          "translation": "none"
+        },
+        {
+          "word": "Handlungsbedarf,",
+          "start": 67.0,
+          "end": 68.16,
+          "translation": "Need for action,"
+        },
+        {
+          "word": "da",
+          "start": 68.54,
+          "end": 68.76,
+          "translation": "there"
+        },
+        {
+          "word": "die",
+          "start": 68.76,
+          "end": 68.96,
+          "translation": "the"
+        },
+        {
+          "word": "Sicherheitslücke",
+          "start": 68.96,
+          "end": 69.94,
+          "translation": "Security vulnerability"
+        },
+        {
+          "word": "nicht",
+          "start": 69.94,
+          "end": 70.44,
+          "translation": "not"
+        },
+        {
+          "word": "Endgeräte",
+          "start": 70.44,
+          "end": 71.52,
+          "translation": "End Devices"
+        },
+        {
+          "word": "wie",
+          "start": 71.52,
+          "end": 71.86,
+          "translation": "like"
+        },
+        {
+          "word": "PCs",
+          "start": 71.86,
+          "end": 72.44,
+          "translation": "PCs"
+        },
+        {
+          "word": "und",
+          "start": 72.44,
+          "end": 73.14,
+          "translation": "and"
+        },
+        {
+          "word": "Handys",
+          "start": 73.14,
+          "end": 73.58,
+          "translation": "Cell phones"
+        },
+        {
+          "word": "betrifft.",
+          "start": 73.58,
+          "end": 74.32,
+          "translation": "concerns."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Beratungen über Konsequenzen nach Krawallen in Frankreich",
+      "words": [
+        {
+          "word": "Beratungen",
+          "start": 76.54,
+          "end": 77.6,
+          "translation": "Consultations"
+        },
+        {
+          "word": "über",
+          "start": 77.6,
+          "end": 78.1,
+          "translation": "about"
+        },
+        {
+          "word": "Konsequenzen",
+          "start": 78.1,
+          "end": 79.16,
+          "translation": "Consequences"
+        },
+        {
+          "word": "nach",
+          "start": 79.16,
+          "end": 79.66,
+          "translation": "to"
+        },
+        {
+          "word": "Krawallen",
+          "start": 79.66,
+          "end": 80.32,
+          "translation": "Riots"
+        },
+        {
+          "word": "in",
+          "start": 80.32,
+          "end": 80.78,
+          "translation": "in"
+        },
+        {
+          "word": "Frankreich",
+          "start": 80.78,
+          "end": 81.56,
+          "translation": "France"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Nach den gewalttätigen Protesten im ganzen Land beschäftigt sich die Politik in Frankreich mit den möglichen Folgen. In der Hauptstadt Paris kommen an diesem Donnerstag Präsident Emmanuel Macron und Regierungschef Sébastien Lecornu mit Ministern und Geheimdienstvertretern zusammen, um über die Ereignisse vom vergangenen Wochenende zu sprechen. In Paris und vielen anderen französischen Städten war es am Rande von Demonstrationen gegen hohe Lebenshaltungskosten und Missstände im Bildungswesen zu massiven Ausschreitungen gekommen. Am kommenden Wochenende wird es voraussichtlich zu neuen Protesten in Frankreich kommen.",
+      "words": [
+        {
+          "word": "Nach",
+          "start": 82.84,
+          "end": 83.18,
+          "translation": "After"
+        },
+        {
+          "word": "den",
+          "start": 83.18,
+          "end": 83.62,
+          "translation": "the"
+        },
+        {
+          "word": "gewalttätigen",
+          "start": 83.62,
+          "end": 84.86,
+          "translation": "violent"
+        },
+        {
+          "word": "Protesten",
+          "start": 84.86,
+          "end": 85.88,
+          "translation": "Protests"
+        },
+        {
+          "word": "im",
+          "start": 85.88,
+          "end": 86.1,
+          "translation": "in the"
+        },
+        {
+          "word": "ganzen",
+          "start": 86.1,
+          "end": 86.6,
+          "translation": "whole"
+        },
+        {
+          "word": "Land",
+          "start": 86.6,
+          "end": 87.06,
+          "translation": "Country"
+        },
+        {
+          "word": "beschäftigt",
+          "start": 87.06,
+          "end": 88.3,
+          "translation": "busy"
+        },
+        {
+          "word": "sich",
+          "start": 88.3,
+          "end": 88.58,
+          "translation": "itself"
+        },
+        {
+          "word": "die",
+          "start": 88.58,
+          "end": 88.92,
+          "translation": "the"
+        },
+        {
+          "word": "Politik",
+          "start": 88.92,
+          "end": 89.52,
+          "translation": "Politics"
+        },
+        {
+          "word": "in",
+          "start": 89.52,
+          "end": 90.06,
+          "translation": "in"
+        },
+        {
+          "word": "Frankreich",
+          "start": 90.06,
+          "end": 90.9,
+          "translation": "France"
+        },
+        {
+          "word": "mit",
+          "start": 90.9,
+          "end": 91.48,
+          "translation": "with"
+        },
+        {
+          "word": "den",
+          "start": 91.48,
+          "end": 91.92,
+          "translation": "the"
+        },
+        {
+          "word": "möglichen",
+          "start": 91.92,
+          "end": 92.68,
+          "translation": "possible"
+        },
+        {
+          "word": "Folgen.",
+          "start": 92.68,
+          "end": 93.18,
+          "translation": "Episodes."
+        },
+        {
+          "word": "In",
+          "start": 93.92,
+          "end": 94.52,
+          "translation": "In"
+        },
+        {
+          "word": "der",
+          "start": 94.52,
+          "end": 94.74,
+          "translation": "the"
+        },
+        {
+          "word": "Hauptstadt",
+          "start": 94.74,
+          "end": 95.3,
+          "translation": "Capital city"
+        },
+        {
+          "word": "Paris",
+          "start": 95.3,
+          "end": 95.82,
+          "translation": "Paris"
+        },
+        {
+          "word": "kommen",
+          "start": 95.82,
+          "end": 96.44,
+          "translation": "come"
+        },
+        {
+          "word": "an",
+          "start": 96.44,
+          "end": 96.9,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 96.9,
+          "end": 97.34,
+          "translation": "this"
+        },
+        {
+          "word": "Donnerstag",
+          "start": 97.34,
+          "end": 98.32,
+          "translation": "Thursday"
+        },
+        {
+          "word": "Präsident",
+          "start": 98.78,
+          "end": 99.28,
+          "translation": "President"
+        },
+        {
+          "word": "Emmanuel",
+          "start": 99.28,
+          "end": 100.18,
+          "translation": "Emmanuel"
+        },
+        {
+          "word": "Macron",
+          "start": 100.18,
+          "end": 100.74,
+          "translation": "Macron"
+        },
+        {
+          "word": "und",
+          "start": 100.74,
+          "end": 101.4,
+          "translation": "and"
+        },
+        {
+          "word": "Regierungschef",
+          "start": 101.4,
+          "end": 102.44,
+          "translation": "Head of government"
+        },
+        {
+          "word": "Sébastien",
+          "start": 102.44,
+          "end": 103.44,
+          "translation": "Sebastien"
+        },
+        {
+          "word": "Lecornu",
+          "start": 103.44,
+          "end": 104.44,
+          "translation": "Lecornu"
+        },
+        {
+          "word": "mit",
+          "start": 104.44,
+          "end": 104.58,
+          "translation": "with"
+        },
+        {
+          "word": "Ministern",
+          "start": 104.58,
+          "end": 105.18,
+          "translation": "Ministers"
+        },
+        {
+          "word": "und",
+          "start": 105.18,
+          "end": 105.8,
+          "translation": "and"
+        },
+        {
+          "word": "Geheimdienstvertretern",
+          "start": 105.8,
+          "end": 107.34,
+          "translation": "Intelligence officials"
+        },
+        {
+          "word": "zusammen,",
+          "start": 107.34,
+          "end": 107.96,
+          "translation": "together,"
+        },
+        {
+          "word": "um",
+          "start": 108.64,
+          "end": 108.8,
+          "translation": "to"
+        },
+        {
+          "word": "über",
+          "start": 108.8,
+          "end": 109.3,
+          "translation": "about"
+        },
+        {
+          "word": "die",
+          "start": 109.3,
+          "end": 109.6,
+          "translation": "the"
+        },
+        {
+          "word": "Ereignisse",
+          "start": 109.6,
+          "end": 110.48,
+          "translation": "Events"
+        },
+        {
+          "word": "vom",
+          "start": 110.48,
+          "end": 111.02,
+          "translation": "from the"
+        },
+        {
+          "word": "vergangenen",
+          "start": 111.02,
+          "end": 111.88,
+          "translation": "past"
+        },
+        {
+          "word": "Wochenende",
+          "start": 111.88,
+          "end": 112.54,
+          "translation": "Weekend"
+        },
+        {
+          "word": "zu",
+          "start": 112.54,
+          "end": 112.86,
+          "translation": "to"
+        },
+        {
+          "word": "sprechen.",
+          "start": 112.86,
+          "end": 113.3,
+          "translation": "speak."
+        },
+        {
+          "word": "In",
+          "start": 114.3,
+          "end": 115.16,
+          "translation": "In"
+        },
+        {
+          "word": "Paris",
+          "start": 115.16,
+          "end": 115.62,
+          "translation": "Paris"
+        },
+        {
+          "word": "und",
+          "start": 115.62,
+          "end": 116.22,
+          "translation": "and"
+        },
+        {
+          "word": "vielen",
+          "start": 116.22,
+          "end": 116.66,
+          "translation": "many"
+        },
+        {
+          "word": "anderen",
+          "start": 116.66,
+          "end": 117.28,
+          "translation": "other"
+        },
+        {
+          "word": "französischen",
+          "start": 117.28,
+          "end": 118.4,
+          "translation": "French"
+        },
+        {
+          "word": "Städten",
+          "start": 118.4,
+          "end": 119.0,
+          "translation": "Cities"
+        },
+        {
+          "word": "war",
+          "start": 119.0,
+          "end": 119.62,
+          "translation": "was"
+        },
+        {
+          "word": "es",
+          "start": 119.62,
+          "end": 120.1,
+          "translation": "it"
+        },
+        {
+          "word": "am",
+          "start": 120.1,
+          "end": 120.36,
+          "translation": "on"
+        },
+        {
+          "word": "Rande",
+          "start": 120.36,
+          "end": 120.8,
+          "translation": "Edge"
+        },
+        {
+          "word": "von",
+          "start": 120.8,
+          "end": 121.16,
+          "translation": "from"
+        },
+        {
+          "word": "Demonstrationen",
+          "start": 121.16,
+          "end": 122.76,
+          "translation": "Demonstrations"
+        },
+        {
+          "word": "gegen",
+          "start": 122.76,
+          "end": 123.32,
+          "translation": "vs."
+        },
+        {
+          "word": "hohe",
+          "start": 123.32,
+          "end": 123.98,
+          "translation": "high"
+        },
+        {
+          "word": "Lebenshaltungskosten",
+          "start": 123.98,
+          "end": 125.66,
+          "translation": "Cost of living"
+        },
+        {
+          "word": "und",
+          "start": 125.66,
+          "end": 126.28,
+          "translation": "and"
+        },
+        {
+          "word": "Missstände",
+          "start": 126.28,
+          "end": 127.2,
+          "translation": "Abuses"
+        },
+        {
+          "word": "im",
+          "start": 127.2,
+          "end": 127.5,
+          "translation": "in the"
+        },
+        {
+          "word": "Bildungswesen",
+          "start": 127.5,
+          "end": 128.6,
+          "translation": "Education System"
+        },
+        {
+          "word": "zu",
+          "start": 128.6,
+          "end": 129.27,
+          "translation": "to"
+        },
+        {
+          "word": "massiven",
+          "start": 129.27,
+          "end": 129.94,
+          "translation": "massive"
+        },
+        {
+          "word": "Ausschreitungen",
+          "start": 129.94,
+          "end": 131.0,
+          "translation": "Riots"
+        },
+        {
+          "word": "gekommen.",
+          "start": 131.0,
+          "end": 131.44,
+          "translation": "come."
+        },
+        {
+          "word": "Am",
+          "start": 132.02,
+          "end": 133.04,
+          "translation": "On"
+        },
+        {
+          "word": "kommenden",
+          "start": 133.04,
+          "end": 133.62,
+          "translation": "coming"
+        },
+        {
+          "word": "Wochenende",
+          "start": 133.62,
+          "end": 134.54,
+          "translation": "Weekend"
+        },
+        {
+          "word": "wird",
+          "start": 134.54,
+          "end": 134.94,
+          "translation": "becomes"
+        },
+        {
+          "word": "es",
+          "start": 134.94,
+          "end": 135.32,
+          "translation": "it"
+        },
+        {
+          "word": "voraussichtlich",
+          "start": 135.32,
+          "end": 136.28,
+          "translation": "probably"
+        },
+        {
+          "word": "zu",
+          "start": 136.28,
+          "end": 136.94,
+          "translation": "to"
+        },
+        {
+          "word": "neuen",
+          "start": 136.94,
+          "end": 137.32,
+          "translation": "new"
+        },
+        {
+          "word": "Protesten",
+          "start": 137.32,
+          "end": 138.28,
+          "translation": "Protests"
+        },
+        {
+          "word": "in",
+          "start": 138.28,
+          "end": 138.5,
+          "translation": "in"
+        },
+        {
+          "word": "Frankreich",
+          "start": 138.5,
+          "end": 139.08,
+          "translation": "France"
+        },
+        {
+          "word": "kommen.",
+          "start": 139.08,
+          "end": 139.6,
+          "translation": "come."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Gespräche über Annäherung der Westbalkan-Staaten an die EU werden fortgesetzt",
+      "words": [
+        {
+          "word": "Gespräche",
+          "start": 139.6,
+          "end": 142.78,
+          "translation": "Conversations"
+        },
+        {
+          "word": "über",
+          "start": 142.78,
+          "end": 143.36,
+          "translation": "about"
+        },
+        {
+          "word": "Annäherung",
+          "start": 143.36,
+          "end": 144.34,
+          "translation": "Approach"
+        },
+        {
+          "word": "der",
+          "start": 144.34,
+          "end": 144.78,
+          "translation": "the"
+        },
+        {
+          "word": "Westbalkan-Staaten",
+          "start": 144.78,
+          "end": 146.42,
+          "translation": "Western Balkan states"
+        },
+        {
+          "word": "an",
+          "start": 146.42,
+          "end": 146.82,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 146.82,
+          "end": 147.08,
+          "translation": "the"
+        },
+        {
+          "word": "EU",
+          "start": 147.08,
+          "end": 147.66,
+          "translation": "EU"
+        },
+        {
+          "word": "werden",
+          "start": 147.66,
+          "end": 148.36,
+          "translation": "become"
+        },
+        {
+          "word": "fortgesetzt",
+          "start": 148.36,
+          "end": 149.32,
+          "translation": "continued"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Deutschlands Kanzler Friedrich Merz nimmt an diesem Donnerstag am jährlichen Gipfeltreffen des sogenannten Berlin-Prozesses in Montenegro teil. Merz und andere europäische Spitzenpolitiker wollen dort mit Vertretern der Westbalkanstaaten zusammenkommen, um über deren weitere Annäherung an die Europäische Union zu beraten. Deutschland hatte den Berlin-Prozess 2014 initiiert. Zum Westbalkan gehören Albanien, Bosnien und Herzegowina, Kosovo, Montenegro, Nordmazedonien und Serbien. Alle sechs Staaten bewerben sich um eine Mitgliedschaft in der EU.",
+      "words": [
+        {
+          "word": "Deutschlands",
+          "start": 150.7,
+          "end": 151.5,
+          "translation": "Germany"
+        },
+        {
+          "word": "Kanzler",
+          "start": 151.5,
+          "end": 152.1,
+          "translation": "Chancellor"
+        },
+        {
+          "word": "Friedrich",
+          "start": 152.1,
+          "end": 152.7,
+          "translation": "Frederick"
+        },
+        {
+          "word": "Merz",
+          "start": 152.7,
+          "end": 153.28,
+          "translation": "Merz"
+        },
+        {
+          "word": "nimmt",
+          "start": 153.28,
+          "end": 153.58,
+          "translation": "takes"
+        },
+        {
+          "word": "an",
+          "start": 153.58,
+          "end": 154.14,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 154.14,
+          "end": 154.64,
+          "translation": "this"
+        },
+        {
+          "word": "Donnerstag",
+          "start": 154.64,
+          "end": 155.6,
+          "translation": "Thursday"
+        },
+        {
+          "word": "am",
+          "start": 155.6,
+          "end": 156.24,
+          "translation": "on"
+        },
+        {
+          "word": "jährlichen",
+          "start": 156.24,
+          "end": 156.94,
+          "translation": "annual"
+        },
+        {
+          "word": "Gipfeltreffen",
+          "start": 156.94,
+          "end": 158.02,
+          "translation": "Summit meeting"
+        },
+        {
+          "word": "des",
+          "start": 158.02,
+          "end": 158.38,
+          "translation": "of the"
+        },
+        {
+          "word": "sogenannten",
+          "start": 158.38,
+          "end": 159.42,
+          "translation": "so-called"
+        },
+        {
+          "word": "Berlin-Prozesses",
+          "start": 159.42,
+          "end": 160.82,
+          "translation": "Berlin Trial"
+        },
+        {
+          "word": "in",
+          "start": 160.82,
+          "end": 161.34,
+          "translation": "in"
+        },
+        {
+          "word": "Montenegro",
+          "start": 161.34,
+          "end": 162.24,
+          "translation": "Montenegro"
+        },
+        {
+          "word": "teil.",
+          "start": 162.24,
+          "end": 162.72,
+          "translation": "part."
+        },
+        {
+          "word": "Merz",
+          "start": 162.72,
+          "end": 164.3,
+          "translation": "Merz"
+        },
+        {
+          "word": "und",
+          "start": 164.3,
+          "end": 164.58,
+          "translation": "and"
+        },
+        {
+          "word": "andere",
+          "start": 164.58,
+          "end": 165.12,
+          "translation": "other"
+        },
+        {
+          "word": "europäische",
+          "start": 165.12,
+          "end": 166.18,
+          "translation": "european"
+        },
+        {
+          "word": "Spitzenpolitiker",
+          "start": 166.18,
+          "end": 167.58,
+          "translation": "Top politicians"
+        },
+        {
+          "word": "wollen",
+          "start": 167.58,
+          "end": 168.36,
+          "translation": "want"
+        },
+        {
+          "word": "dort",
+          "start": 168.36,
+          "end": 168.82,
+          "translation": "there"
+        },
+        {
+          "word": "mit",
+          "start": 168.82,
+          "end": 169.2,
+          "translation": "with"
+        },
+        {
+          "word": "Vertretern",
+          "start": 169.2,
+          "end": 170.1,
+          "translation": "Representatives"
+        },
+        {
+          "word": "der",
+          "start": 170.1,
+          "end": 170.46,
+          "translation": "the"
+        },
+        {
+          "word": "Westbalkanstaaten",
+          "start": 170.46,
+          "end": 172.12,
+          "translation": "Western Balkan countries"
+        },
+        {
+          "word": "zusammenkommen,",
+          "start": 172.12,
+          "end": 173.14,
+          "translation": "get together,"
+        },
+        {
+          "word": "um",
+          "start": 173.9,
+          "end": 174.2,
+          "translation": "to"
+        },
+        {
+          "word": "über",
+          "start": 174.2,
+          "end": 174.7,
+          "translation": "about"
+        },
+        {
+          "word": "deren",
+          "start": 174.7,
+          "end": 175.14,
+          "translation": "their"
+        },
+        {
+          "word": "weitere",
+          "start": 175.14,
+          "end": 176.0,
+          "translation": "more"
+        },
+        {
+          "word": "Annäherung",
+          "start": 176.0,
+          "end": 177.02,
+          "translation": "Approach"
+        },
+        {
+          "word": "an",
+          "start": 177.02,
+          "end": 177.5,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 177.5,
+          "end": 177.8,
+          "translation": "the"
+        },
+        {
+          "word": "Europäische",
+          "start": 177.8,
+          "end": 178.82,
+          "translation": "European"
+        },
+        {
+          "word": "Union",
+          "start": 178.82,
+          "end": 179.24,
+          "translation": "Union"
+        },
+        {
+          "word": "zu",
+          "start": 179.24,
+          "end": 179.74,
+          "translation": "to"
+        },
+        {
+          "word": "beraten.",
+          "start": 179.74,
+          "end": 180.28,
+          "translation": "advise."
+        },
+        {
+          "word": "Deutschland",
+          "start": 181.28,
+          "end": 181.9,
+          "translation": "Germany"
+        },
+        {
+          "word": "hatte",
+          "start": 181.9,
+          "end": 182.3,
+          "translation": "had"
+        },
+        {
+          "word": "den",
+          "start": 182.3,
+          "end": 182.8,
+          "translation": "the"
+        },
+        {
+          "word": "Berlin-Prozess",
+          "start": 182.8,
+          "end": 183.8,
+          "translation": "Berlin Trial"
+        },
+        {
+          "word": "2014",
+          "start": 183.8,
+          "end": 185.26,
+          "translation": "2014"
+        },
+        {
+          "word": "initiiert.",
+          "start": 185.26,
+          "end": 186.64,
+          "translation": "initiated."
+        },
+        {
+          "word": "Zum",
+          "start": 187.54,
+          "end": 187.72,
+          "translation": "To the"
+        },
+        {
+          "word": "Westbalkan",
+          "start": 187.72,
+          "end": 188.96,
+          "translation": "Western Balkans"
+        },
+        {
+          "word": "gehören",
+          "start": 188.96,
+          "end": 189.66,
+          "translation": "belong to"
+        },
+        {
+          "word": "Albanien,",
+          "start": 189.66,
+          "end": 190.84,
+          "translation": "Albania,"
+        },
+        {
+          "word": "Bosnien",
+          "start": 191.34,
+          "end": 191.78,
+          "translation": "Bosnia"
+        },
+        {
+          "word": "und",
+          "start": 191.78,
+          "end": 192.08,
+          "translation": "and"
+        },
+        {
+          "word": "Herzegowina,",
+          "start": 192.08,
+          "end": 193.58,
+          "translation": "Herzegovina,"
+        },
+        {
+          "word": "Kosovo,",
+          "start": 193.58,
+          "end": 194.16,
+          "translation": "Kosovo,"
+        },
+        {
+          "word": "Montenegro,",
+          "start": 194.66,
+          "end": 195.52,
+          "translation": "Montenegro,"
+        },
+        {
+          "word": "Nordmazedonien",
+          "start": 195.52,
+          "end": 197.34,
+          "translation": "North Macedonia"
+        },
+        {
+          "word": "und",
+          "start": 197.34,
+          "end": 197.84,
+          "translation": "and"
+        },
+        {
+          "word": "Serbien.",
+          "start": 197.84,
+          "end": 198.42,
+          "translation": "Serbia."
+        },
+        {
+          "word": "Alle",
+          "start": 199.36,
+          "end": 199.84,
+          "translation": "All"
+        },
+        {
+          "word": "sechs",
+          "start": 199.84,
+          "end": 200.16,
+          "translation": "six"
+        },
+        {
+          "word": "Staaten",
+          "start": 200.16,
+          "end": 200.72,
+          "translation": "States"
+        },
+        {
+          "word": "bewerben",
+          "start": 200.72,
+          "end": 201.66,
+          "translation": "apply"
+        },
+        {
+          "word": "sich",
+          "start": 201.66,
+          "end": 202.04,
+          "translation": "itself"
+        },
+        {
+          "word": "um",
+          "start": 202.04,
+          "end": 202.42,
+          "translation": "to"
+        },
+        {
+          "word": "eine",
+          "start": 202.42,
+          "end": 202.8,
+          "translation": "one"
+        },
+        {
+          "word": "Mitgliedschaft",
+          "start": 202.8,
+          "end": 203.62,
+          "translation": "Membership"
+        },
+        {
+          "word": "in",
+          "start": 203.62,
+          "end": 204.18,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 204.18,
+          "end": 204.42,
+          "translation": "the"
+        },
+        {
+          "word": "EU.",
+          "start": 204.42,
+          "end": 204.9,
+          "translation": "EU."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Russische Führung sendet unterschiedliche Signale nach Witkoff-Besuch",
+      "words": [
+        {
+          "word": "Russische",
+          "start": 206.54,
+          "end": 207.62,
+          "translation": "Russian"
+        },
+        {
+          "word": "Führung",
+          "start": 207.62,
+          "end": 208.24,
+          "translation": "Guidance"
+        },
+        {
+          "word": "sendet",
+          "start": 208.24,
+          "end": 208.74,
+          "translation": "broadcasts"
+        },
+        {
+          "word": "unterschiedliche",
+          "start": 208.74,
+          "end": 209.88,
+          "translation": "different"
+        },
+        {
+          "word": "Signale",
+          "start": 209.88,
+          "end": 210.54,
+          "translation": "Signals"
+        },
+        {
+          "word": "nach",
+          "start": 210.54,
+          "end": 210.94,
+          "translation": "to"
+        },
+        {
+          "word": "Witkoff-Besuch",
+          "start": 210.94,
+          "end": 212.92,
+          "translation": "Witkoff's Visit"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Russland hat sich nach einem Treffen von Präsident Wladimir Putin mit dem US-Gesandten Steve Witkoff ablehnend zu Plänen für ein Ende des Ukraine-Kriegs gezeigt. Die von Witkoff übermittelten Vorschläge der Europäer und der Ukraine enthielten „nicht viel Substanz“, sagte Kreml-Berater Juri Uschakow nach der Begegnung in Sankt Petersburg. Zugleich machte Uschakow deutlich, dass die Regierung in Moskau „im Prinzip“ bereit sei, Mitte November wieder Verhandlungen mit der Ukraine und den USA aufzunehmen. Diese sollten sich auf Sicherheitsgarantien für Russland und die Ukraine konzentrieren. Solche Gespräche gab es zuletzt im Februar.",
+      "words": [
+        {
+          "word": "Russland",
+          "start": 212.92,
+          "end": 213.94,
+          "translation": "Russia"
+        },
+        {
+          "word": "hat",
+          "start": 213.94,
+          "end": 214.14,
+          "translation": "has"
+        },
+        {
+          "word": "sich",
+          "start": 214.14,
+          "end": 214.4,
+          "translation": "itself"
+        },
+        {
+          "word": "nach",
+          "start": 214.4,
+          "end": 214.7,
+          "translation": "to"
+        },
+        {
+          "word": "einem",
+          "start": 214.7,
+          "end": 215.12,
+          "translation": "one"
+        },
+        {
+          "word": "Treffen",
+          "start": 215.12,
+          "end": 215.64,
+          "translation": "Meeting"
+        },
+        {
+          "word": "von",
+          "start": 215.64,
+          "end": 216.1,
+          "translation": "from"
+        },
+        {
+          "word": "Präsident",
+          "start": 216.1,
+          "end": 216.78,
+          "translation": "President"
+        },
+        {
+          "word": "Wladimir",
+          "start": 216.78,
+          "end": 217.58,
+          "translation": "Vladimir"
+        },
+        {
+          "word": "Putin",
+          "start": 217.58,
+          "end": 218.16,
+          "translation": "Putin"
+        },
+        {
+          "word": "mit",
+          "start": 218.16,
+          "end": 218.92,
+          "translation": "with"
+        },
+        {
+          "word": "dem",
+          "start": 218.92,
+          "end": 219.28,
+          "translation": "the"
+        },
+        {
+          "word": "US-Gesandten",
+          "start": 219.28,
+          "end": 220.5,
+          "translation": "U.S. Envoys"
+        },
+        {
+          "word": "Steve",
+          "start": 220.5,
+          "end": 220.8,
+          "translation": "Steve"
+        },
+        {
+          "word": "Witkoff",
+          "start": 220.8,
+          "end": 221.76,
+          "translation": "Witkoff"
+        },
+        {
+          "word": "ablehnend",
+          "start": 221.76,
+          "end": 222.72,
+          "translation": "rejecting"
+        },
+        {
+          "word": "zu",
+          "start": 222.72,
+          "end": 223.16,
+          "translation": "to"
+        },
+        {
+          "word": "Plänen",
+          "start": 223.16,
+          "end": 223.82,
+          "translation": "Plans"
+        },
+        {
+          "word": "für",
+          "start": 223.82,
+          "end": 224.1,
+          "translation": "for"
+        },
+        {
+          "word": "ein",
+          "start": 224.1,
+          "end": 224.4,
+          "translation": "a"
+        },
+        {
+          "word": "Ende",
+          "start": 224.4,
+          "end": 224.84,
+          "translation": "End"
+        },
+        {
+          "word": "des",
+          "start": 224.84,
+          "end": 225.22,
+          "translation": "of the"
+        },
+        {
+          "word": "Ukraine-Kriegs",
+          "start": 225.22,
+          "end": 226.48,
+          "translation": "Ukraine war"
+        },
+        {
+          "word": "gezeigt.",
+          "start": 226.48,
+          "end": 227.02,
+          "translation": "shown."
+        },
+        {
+          "word": "Die",
+          "start": 227.5,
+          "end": 228.04,
+          "translation": "The"
+        },
+        {
+          "word": "von",
+          "start": 228.04,
+          "end": 228.38,
+          "translation": "from"
+        },
+        {
+          "word": "Witkoff",
+          "start": 228.38,
+          "end": 229.06,
+          "translation": "Witkoff"
+        },
+        {
+          "word": "übermittelten",
+          "start": 229.06,
+          "end": 230.18,
+          "translation": "transmitted"
+        },
+        {
+          "word": "Vorschläge",
+          "start": 230.18,
+          "end": 231.08,
+          "translation": "Suggestions"
+        },
+        {
+          "word": "der",
+          "start": 231.08,
+          "end": 231.34,
+          "translation": "the"
+        },
+        {
+          "word": "Europäer",
+          "start": 231.34,
+          "end": 232.3,
+          "translation": "Europeans"
+        },
+        {
+          "word": "und",
+          "start": 232.3,
+          "end": 232.74,
+          "translation": "and"
+        },
+        {
+          "word": "der",
+          "start": 232.74,
+          "end": 233.0,
+          "translation": "the"
+        },
+        {
+          "word": "Ukraine",
+          "start": 233.0,
+          "end": 233.54,
+          "translation": "Ukraine"
+        },
+        {
+          "word": "enthielten",
+          "start": 233.54,
+          "end": 234.98,
+          "translation": "contained"
+        },
+        {
+          "word": "„nicht",
+          "start": 234.98,
+          "end": 235.44,
+          "translation": "\"not"
+        },
+        {
+          "word": "viel",
+          "start": 235.44,
+          "end": 235.86,
+          "translation": "much"
+        },
+        {
+          "word": "Substanz“,",
+          "start": 235.86,
+          "end": 236.58,
+          "translation": "\"Substance,\""
+        },
+        {
+          "word": "sagte",
+          "start": 237.12,
+          "end": 237.34,
+          "translation": "said"
+        },
+        {
+          "word": "Kreml-Berater",
+          "start": 237.34,
+          "end": 238.29,
+          "translation": "Kremlin advisor"
+        },
+        {
+          "word": "Juri",
+          "start": 238.29,
+          "end": 239.23,
+          "translation": "Yuri"
+        },
+        {
+          "word": "Uschakow",
+          "start": 239.23,
+          "end": 240.18,
+          "translation": "Ushakov"
+        },
+        {
+          "word": "nach",
+          "start": 240.18,
+          "end": 240.68,
+          "translation": "to"
+        },
+        {
+          "word": "der",
+          "start": 240.68,
+          "end": 241.04,
+          "translation": "the"
+        },
+        {
+          "word": "Begegnung",
+          "start": 241.04,
+          "end": 241.74,
+          "translation": "Encounter"
+        },
+        {
+          "word": "in",
+          "start": 241.74,
+          "end": 242.06,
+          "translation": "in"
+        },
+        {
+          "word": "Sankt",
+          "start": 242.06,
+          "end": 242.54,
+          "translation": "Saint"
+        },
+        {
+          "word": "Petersburg.",
+          "start": 242.54,
+          "end": 243.14,
+          "translation": "St. Petersburg."
+        },
+        {
+          "word": "Zugleich",
+          "start": 244.14,
+          "end": 244.88,
+          "translation": "At the same time"
+        },
+        {
+          "word": "machte",
+          "start": 244.88,
+          "end": 245.68,
+          "translation": "made"
+        },
+        {
+          "word": "Uschakow",
+          "start": 245.68,
+          "end": 246.44,
+          "translation": "Ushakov"
+        },
+        {
+          "word": "deutlich,",
+          "start": 246.44,
+          "end": 247.16,
+          "translation": "clearly,"
+        },
+        {
+          "word": "dass",
+          "start": 247.8,
+          "end": 247.92,
+          "translation": "that"
+        },
+        {
+          "word": "die",
+          "start": 247.92,
+          "end": 248.16,
+          "translation": "the"
+        },
+        {
+          "word": "Regierung",
+          "start": 248.16,
+          "end": 248.72,
+          "translation": "Government"
+        },
+        {
+          "word": "in",
+          "start": 248.72,
+          "end": 249.08,
+          "translation": "in"
+        },
+        {
+          "word": "Moskau",
+          "start": 249.08,
+          "end": 249.78,
+          "translation": "Moscow"
+        },
+        {
+          "word": "„im",
+          "start": 250.0,
+          "end": 250.22,
+          "translation": "\"im"
+        },
+        {
+          "word": "Prinzip“",
+          "start": 250.22,
+          "end": 250.84,
+          "translation": "\"Principle\""
+        },
+        {
+          "word": "bereit",
+          "start": 250.84,
+          "end": 251.44,
+          "translation": "ready"
+        },
+        {
+          "word": "sei,",
+          "start": 251.44,
+          "end": 251.88,
+          "translation": "be,"
+        },
+        {
+          "word": "Mitte",
+          "start": 252.3,
+          "end": 252.62,
+          "translation": "Center"
+        },
+        {
+          "word": "November",
+          "start": 252.62,
+          "end": 253.3,
+          "translation": "november"
+        },
+        {
+          "word": "wieder",
+          "start": 253.3,
+          "end": 253.92,
+          "translation": "again"
+        },
+        {
+          "word": "Verhandlungen",
+          "start": 253.92,
+          "end": 254.78,
+          "translation": "Negotiations"
+        },
+        {
+          "word": "mit",
+          "start": 254.78,
+          "end": 255.26,
+          "translation": "with"
+        },
+        {
+          "word": "der",
+          "start": 255.26,
+          "end": 255.6,
+          "translation": "the"
+        },
+        {
+          "word": "Ukraine",
+          "start": 255.6,
+          "end": 256.1,
+          "translation": "Ukraine"
+        },
+        {
+          "word": "und",
+          "start": 256.1,
+          "end": 256.92,
+          "translation": "and"
+        },
+        {
+          "word": "den",
+          "start": 256.92,
+          "end": 257.18,
+          "translation": "the"
+        },
+        {
+          "word": "USA",
+          "start": 257.18,
+          "end": 257.66,
+          "translation": "USA"
+        },
+        {
+          "word": "aufzunehmen.",
+          "start": 257.66,
+          "end": 259.12,
+          "translation": "record."
+        },
+        {
+          "word": "Diese",
+          "start": 260.04,
+          "end": 260.54,
+          "translation": "These"
+        },
+        {
+          "word": "sollten",
+          "start": 260.54,
+          "end": 261.0,
+          "translation": "should"
+        },
+        {
+          "word": "sich",
+          "start": 261.0,
+          "end": 261.46,
+          "translation": "itself"
+        },
+        {
+          "word": "auf",
+          "start": 261.46,
+          "end": 261.82,
+          "translation": "on"
+        },
+        {
+          "word": "Sicherheitsgarantien",
+          "start": 261.82,
+          "end": 263.26,
+          "translation": "Safety guarantees"
+        },
+        {
+          "word": "für",
+          "start": 263.26,
+          "end": 263.74,
+          "translation": "for"
+        },
+        {
+          "word": "Russland",
+          "start": 263.74,
+          "end": 264.3,
+          "translation": "Russia"
+        },
+        {
+          "word": "und",
+          "start": 264.3,
+          "end": 264.78,
+          "translation": "and"
+        },
+        {
+          "word": "die",
+          "start": 264.78,
+          "end": 265.12,
+          "translation": "the"
+        },
+        {
+          "word": "Ukraine",
+          "start": 265.12,
+          "end": 265.64,
+          "translation": "Ukraine"
+        },
+        {
+          "word": "konzentrieren.",
+          "start": 265.64,
+          "end": 266.94,
+          "translation": "concentrate."
+        },
+        {
+          "word": "Solche",
+          "start": 267.8,
+          "end": 268.34,
+          "translation": "Such"
+        },
+        {
+          "word": "Gespräche",
+          "start": 268.34,
+          "end": 269.08,
+          "translation": "Conversations"
+        },
+        {
+          "word": "gab",
+          "start": 269.08,
+          "end": 269.64,
+          "translation": "gave"
+        },
+        {
+          "word": "es",
+          "start": 269.64,
+          "end": 269.92,
+          "translation": "it"
+        },
+        {
+          "word": "zuletzt",
+          "start": 269.92,
+          "end": 270.52,
+          "translation": "last"
+        },
+        {
+          "word": "im",
+          "start": 270.52,
+          "end": 270.94,
+          "translation": "in the"
+        },
+        {
+          "word": "Februar.",
+          "start": 270.94,
+          "end": 271.68,
+          "translation": "February."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Papst Leo braucht keine weitere Krebsbehandlung",
+      "words": [
+        {
+          "word": "Papst",
+          "start": 273.48,
+          "end": 274.36,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 274.36,
+          "end": 274.64,
+          "translation": "Leo"
+        },
+        {
+          "word": "braucht",
+          "start": 274.64,
+          "end": 275.12,
+          "translation": "needs"
+        },
+        {
+          "word": "keine",
+          "start": 275.12,
+          "end": 275.46,
+          "translation": "none"
+        },
+        {
+          "word": "weitere",
+          "start": 275.46,
+          "end": 276.16,
+          "translation": "more"
+        },
+        {
+          "word": "Krebsbehandlung",
+          "start": 276.16,
+          "end": 277.32,
+          "translation": "Cancer treatment"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Der bei einer Operation entfernte Krebs in der Lunge von Papst Leo XIV. hat nicht gestreut. Es sei keine weitere Krebsbehandlung erforderlich, teilte der Vatikan unter Berufung auf die behandelnden Ärzte mit. Die finalen Untersuchungen des entnommenen Gewebes hätten bestätigt, dass die Erkrankung lokal begrenzt war. Dem katholischen Kirchenoberhaupt waren am Dienstag vergangener Woche ein bösartiger Tumor und ein Teil des rechten Lungenflügels entfernt worden. Mit der aktuellen Diagnose dürfte der geplanten Südamerikareise des Papstes nach Uruguay, Argentinien und Peru im November aus medizinischer Sicht nichts mehr im Wege stehen.",
+      "words": [
+        {
+          "word": "Der",
+          "start": 278.16,
+          "end": 278.54,
+          "translation": "The"
+        },
+        {
+          "word": "bei",
+          "start": 278.54,
+          "end": 278.8,
+          "translation": "with"
+        },
+        {
+          "word": "einer",
+          "start": 278.8,
+          "end": 279.2,
+          "translation": "one"
+        },
+        {
+          "word": "Operation",
+          "start": 279.2,
+          "end": 280.04,
+          "translation": "Operation"
+        },
+        {
+          "word": "entfernte",
+          "start": 280.04,
+          "end": 281.0,
+          "translation": "removed"
+        },
+        {
+          "word": "Krebs",
+          "start": 281.0,
+          "end": 281.6,
+          "translation": "Cancer"
+        },
+        {
+          "word": "in",
+          "start": 281.6,
+          "end": 281.92,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 281.92,
+          "end": 282.1,
+          "translation": "the"
+        },
+        {
+          "word": "Lunge",
+          "start": 282.1,
+          "end": 282.42,
+          "translation": "Lung"
+        },
+        {
+          "word": "von",
+          "start": 282.42,
+          "end": 282.8,
+          "translation": "from"
+        },
+        {
+          "word": "Papst",
+          "start": 282.8,
+          "end": 283.5,
+          "translation": "Pope"
+        },
+        {
+          "word": "Leo",
+          "start": 283.5,
+          "end": 283.82,
+          "translation": "Leo"
+        },
+        {
+          "word": "XIV.",
+          "start": 283.82,
+          "end": 284.98,
+          "translation": "XIV."
+        },
+        {
+          "word": "hat",
+          "start": 284.98,
+          "end": 285.38,
+          "translation": "has"
+        },
+        {
+          "word": "nicht",
+          "start": 285.38,
+          "end": 285.72,
+          "translation": "not"
+        },
+        {
+          "word": "gestreut.",
+          "start": 285.72,
+          "end": 286.56,
+          "translation": "scattered."
+        },
+        {
+          "word": "Es",
+          "start": 287.34,
+          "end": 287.48,
+          "translation": "It"
+        },
+        {
+          "word": "sei",
+          "start": 287.48,
+          "end": 287.7,
+          "translation": "be"
+        },
+        {
+          "word": "keine",
+          "start": 287.7,
+          "end": 288.12,
+          "translation": "none"
+        },
+        {
+          "word": "weitere",
+          "start": 288.12,
+          "end": 288.78,
+          "translation": "more"
+        },
+        {
+          "word": "Krebsbehandlung",
+          "start": 288.78,
+          "end": 289.86,
+          "translation": "Cancer treatment"
+        },
+        {
+          "word": "erforderlich,",
+          "start": 289.86,
+          "end": 290.88,
+          "translation": "required,"
+        },
+        {
+          "word": "teilte",
+          "start": 290.88,
+          "end": 291.64,
+          "translation": "shared"
+        },
+        {
+          "word": "der",
+          "start": 291.64,
+          "end": 292.0,
+          "translation": "the"
+        },
+        {
+          "word": "Vatikan",
+          "start": 292.0,
+          "end": 292.62,
+          "translation": "Vatican"
+        },
+        {
+          "word": "unter",
+          "start": 292.62,
+          "end": 293.6,
+          "translation": "under"
+        },
+        {
+          "word": "Berufung",
+          "start": 293.6,
+          "end": 294.46,
+          "translation": "Appeal"
+        },
+        {
+          "word": "auf",
+          "start": 294.46,
+          "end": 294.72,
+          "translation": "on"
+        },
+        {
+          "word": "die",
+          "start": 294.72,
+          "end": 295.02,
+          "translation": "the"
+        },
+        {
+          "word": "behandelnden",
+          "start": 295.02,
+          "end": 296.04,
+          "translation": "treating"
+        },
+        {
+          "word": "Ärzte",
+          "start": 296.04,
+          "end": 296.54,
+          "translation": "Doctors"
+        },
+        {
+          "word": "mit.",
+          "start": 296.54,
+          "end": 296.7,
+          "translation": "with."
+        },
+        {
+          "word": "Die",
+          "start": 297.46,
+          "end": 298.12,
+          "translation": "The"
+        },
+        {
+          "word": "finalen",
+          "start": 298.12,
+          "end": 298.8,
+          "translation": "final"
+        },
+        {
+          "word": "Untersuchungen",
+          "start": 298.8,
+          "end": 299.94,
+          "translation": "Studies"
+        },
+        {
+          "word": "des",
+          "start": 299.94,
+          "end": 300.46,
+          "translation": "of the"
+        },
+        {
+          "word": "entnommenen",
+          "start": 300.46,
+          "end": 301.32,
+          "translation": "taken from"
+        },
+        {
+          "word": "Gewebes",
+          "start": 301.32,
+          "end": 302.06,
+          "translation": "Fabrics"
+        },
+        {
+          "word": "hätten",
+          "start": 302.06,
+          "end": 302.4,
+          "translation": "would have"
+        },
+        {
+          "word": "bestätigt,",
+          "start": 302.4,
+          "end": 303.4,
+          "translation": "confirmed,"
+        },
+        {
+          "word": "dass",
+          "start": 303.86,
+          "end": 304.08,
+          "translation": "that"
+        },
+        {
+          "word": "die",
+          "start": 304.08,
+          "end": 304.34,
+          "translation": "the"
+        },
+        {
+          "word": "Erkrankung",
+          "start": 304.34,
+          "end": 305.04,
+          "translation": "Illness"
+        },
+        {
+          "word": "lokal",
+          "start": 305.04,
+          "end": 305.66,
+          "translation": "local"
+        },
+        {
+          "word": "begrenzt",
+          "start": 305.66,
+          "end": 306.36,
+          "translation": "limited"
+        },
+        {
+          "word": "war.",
+          "start": 306.36,
+          "end": 306.64,
+          "translation": "was."
+        },
+        {
+          "word": "Dem",
+          "start": 307.68,
+          "end": 307.96,
+          "translation": "The"
+        },
+        {
+          "word": "katholischen",
+          "start": 307.96,
+          "end": 308.82,
+          "translation": "catholic"
+        },
+        {
+          "word": "Kirchenoberhaupt",
+          "start": 308.82,
+          "end": 309.98,
+          "translation": "Head of the Church"
+        },
+        {
+          "word": "waren",
+          "start": 309.98,
+          "end": 310.64,
+          "translation": "were"
+        },
+        {
+          "word": "am",
+          "start": 310.64,
+          "end": 311.06,
+          "translation": "on"
+        },
+        {
+          "word": "Dienstag",
+          "start": 311.06,
+          "end": 311.74,
+          "translation": "Tuesday"
+        },
+        {
+          "word": "vergangener",
+          "start": 311.74,
+          "end": 312.62,
+          "translation": "past"
+        },
+        {
+          "word": "Woche",
+          "start": 312.62,
+          "end": 313.0,
+          "translation": "week"
+        },
+        {
+          "word": "ein",
+          "start": 313.0,
+          "end": 314.0,
+          "translation": "a"
+        },
+        {
+          "word": "bösartiger",
+          "start": 314.0,
+          "end": 314.88,
+          "translation": "more malignant"
+        },
+        {
+          "word": "Tumor",
+          "start": 314.88,
+          "end": 315.54,
+          "translation": "Tumor"
+        },
+        {
+          "word": "und",
+          "start": 315.54,
+          "end": 316.06,
+          "translation": "and"
+        },
+        {
+          "word": "ein",
+          "start": 316.06,
+          "end": 316.34,
+          "translation": "a"
+        },
+        {
+          "word": "Teil",
+          "start": 316.34,
+          "end": 316.7,
+          "translation": "Part"
+        },
+        {
+          "word": "des",
+          "start": 316.7,
+          "end": 317.04,
+          "translation": "of the"
+        },
+        {
+          "word": "rechten",
+          "start": 317.04,
+          "end": 317.48,
+          "translation": "right"
+        },
+        {
+          "word": "Lungenflügels",
+          "start": 317.48,
+          "end": 318.58,
+          "translation": "Lung"
+        },
+        {
+          "word": "entfernt",
+          "start": 318.58,
+          "end": 319.26,
+          "translation": "removed"
+        },
+        {
+          "word": "worden.",
+          "start": 319.26,
+          "end": 319.6,
+          "translation": "been."
+        },
+        {
+          "word": "Mit",
+          "start": 319.6,
+          "end": 320.98,
+          "translation": "With"
+        },
+        {
+          "word": "der",
+          "start": 320.98,
+          "end": 321.38,
+          "translation": "the"
+        },
+        {
+          "word": "aktuellen",
+          "start": 321.38,
+          "end": 322.2,
+          "translation": "current"
+        },
+        {
+          "word": "Diagnose",
+          "start": 322.2,
+          "end": 322.96,
+          "translation": "Diagnosis"
+        },
+        {
+          "word": "dürfte",
+          "start": 322.96,
+          "end": 324.0,
+          "translation": "should"
+        },
+        {
+          "word": "der",
+          "start": 324.0,
+          "end": 324.42,
+          "translation": "the"
+        },
+        {
+          "word": "geplanten",
+          "start": 324.42,
+          "end": 325.36,
+          "translation": "planned"
+        },
+        {
+          "word": "Südamerikareise",
+          "start": 325.36,
+          "end": 326.8,
+          "translation": "Trip to South America"
+        },
+        {
+          "word": "des",
+          "start": 326.8,
+          "end": 327.04,
+          "translation": "of the"
+        },
+        {
+          "word": "Papstes",
+          "start": 327.04,
+          "end": 327.76,
+          "translation": "Pope"
+        },
+        {
+          "word": "nach",
+          "start": 327.76,
+          "end": 328.42,
+          "translation": "to"
+        },
+        {
+          "word": "Uruguay,",
+          "start": 328.42,
+          "end": 329.34,
+          "translation": "Uruguay,"
+        },
+        {
+          "word": "Argentinien",
+          "start": 329.7,
+          "end": 330.56,
+          "translation": "Argentina"
+        },
+        {
+          "word": "und",
+          "start": 330.56,
+          "end": 330.96,
+          "translation": "and"
+        },
+        {
+          "word": "Peru",
+          "start": 330.96,
+          "end": 331.42,
+          "translation": "Peru"
+        },
+        {
+          "word": "im",
+          "start": 331.42,
+          "end": 331.86,
+          "translation": "in the"
+        },
+        {
+          "word": "November",
+          "start": 331.86,
+          "end": 332.5,
+          "translation": "november"
+        },
+        {
+          "word": "aus",
+          "start": 332.5,
+          "end": 333.24,
+          "translation": "from"
+        },
+        {
+          "word": "medizinischer",
+          "start": 333.24,
+          "end": 334.28,
+          "translation": "more medical"
+        },
+        {
+          "word": "Sicht",
+          "start": 334.28,
+          "end": 334.74,
+          "translation": "View"
+        },
+        {
+          "word": "nichts",
+          "start": 334.74,
+          "end": 335.2,
+          "translation": "nothing"
+        },
+        {
+          "word": "mehr",
+          "start": 335.2,
+          "end": 335.66,
+          "translation": "more"
+        },
+        {
+          "word": "im",
+          "start": 335.66,
+          "end": 336.02,
+          "translation": "in the"
+        },
+        {
+          "word": "Wege",
+          "start": 336.02,
+          "end": 336.34,
+          "translation": "Paths"
+        },
+        {
+          "word": "stehen.",
+          "start": 336.34,
+          "end": 336.7,
+          "translation": "stand."
+        }
+      ]
+    },
+    {
+      "isHeadline": true,
+      "text": "Messe „Spiel Essen“ startet",
+      "words": [
+        {
+          "word": "Messe",
+          "start": 338.14,
+          "end": 339.5,
+          "translation": "Trade fair"
+        },
+        {
+          "word": "„Spiel",
+          "start": 339.5,
+          "end": 340.08,
+          "translation": "\"Game"
+        },
+        {
+          "word": "Essen“",
+          "start": 340.08,
+          "end": 340.66,
+          "translation": "\"Food\""
+        },
+        {
+          "word": "startet",
+          "start": 340.66,
+          "end": 341.58,
+          "translation": "starts"
+        }
+      ]
+    },
+    {
+      "isHeadline": false,
+      "text": "Weit über 200.000 Spiele-Fans werden in der westdeutschen Stadt Essen erwartet. Dort startet an diesem Donnerstag die Messe „Spiel Essen“. Die Ausstellung ist nach Angaben der Veranstalter die weltgrößte Publikumsmesse für Brettspiele. Diesmal kommen für die vier Tage fast 1000 Aussteller aus 53 Ländern nach Essen. Die Spielehersteller und Erfinder wollen rund 1800 Neuheiten zeigen. Alle Spiele dürfen getestet werden. Mit dem alljährlich vergebenen Deutschen Spiele Preis wird in Essen diesmal „Artengarten“ von Mathias Wigge ausgezeichnet. Ziel des Brettspiels für bis zu fünf Teilnehmer ist es, unter Artenschutzaspekten einen wissenschaftlich geführten Zoo zu bauen.",
+      "words": [
+        {
+          "word": "Weit",
+          "start": 342.76,
+          "end": 343.32,
+          "translation": "Far"
+        },
+        {
+          "word": "über",
+          "start": 343.32,
+          "end": 343.68,
+          "translation": "about"
+        },
+        {
+          "word": "200.000",
+          "start": 343.68,
+          "end": 345.0,
+          "translation": "200.000"
+        },
+        {
+          "word": "Spiele-Fans",
+          "start": 345.0,
+          "end": 346.04,
+          "translation": "Gaming Fans"
+        },
+        {
+          "word": "werden",
+          "start": 346.04,
+          "end": 346.56,
+          "translation": "become"
+        },
+        {
+          "word": "in",
+          "start": 346.56,
+          "end": 347.0,
+          "translation": "in"
+        },
+        {
+          "word": "der",
+          "start": 347.0,
+          "end": 347.22,
+          "translation": "the"
+        },
+        {
+          "word": "westdeutschen",
+          "start": 347.22,
+          "end": 348.02,
+          "translation": "West German"
+        },
+        {
+          "word": "Stadt",
+          "start": 348.02,
+          "end": 348.34,
+          "translation": "City"
+        },
+        {
+          "word": "Essen",
+          "start": 348.34,
+          "end": 348.8,
+          "translation": "Food"
+        },
+        {
+          "word": "erwartet.",
+          "start": 348.8,
+          "end": 349.46,
+          "translation": "expected."
+        },
+        {
+          "word": "Dort",
+          "start": 350.08,
+          "end": 350.76,
+          "translation": "There"
+        },
+        {
+          "word": "startet",
+          "start": 350.76,
+          "end": 351.48,
+          "translation": "starts"
+        },
+        {
+          "word": "an",
+          "start": 351.48,
+          "end": 351.72,
+          "translation": "on"
+        },
+        {
+          "word": "diesem",
+          "start": 351.72,
+          "end": 352.12,
+          "translation": "this"
+        },
+        {
+          "word": "Donnerstag",
+          "start": 352.12,
+          "end": 352.96,
+          "translation": "Thursday"
+        },
+        {
+          "word": "die",
+          "start": 352.96,
+          "end": 353.2,
+          "translation": "the"
+        },
+        {
+          "word": "Messe",
+          "start": 353.2,
+          "end": 353.6,
+          "translation": "Trade fair"
+        },
+        {
+          "word": "„Spiel",
+          "start": 353.6,
+          "end": 354.52,
+          "translation": "\"Game"
+        },
+        {
+          "word": "Essen“.",
+          "start": 354.52,
+          "end": 355.44,
+          "translation": "\"Food.\""
+        },
+        {
+          "word": "Die",
+          "start": 355.44,
+          "end": 355.98,
+          "translation": "The"
+        },
+        {
+          "word": "Ausstellung",
+          "start": 355.98,
+          "end": 356.7,
+          "translation": "Exhibition"
+        },
+        {
+          "word": "ist",
+          "start": 356.7,
+          "end": 357.04,
+          "translation": "is"
+        },
+        {
+          "word": "nach",
+          "start": 357.04,
+          "end": 357.36,
+          "translation": "to"
+        },
+        {
+          "word": "Angaben",
+          "start": 357.36,
+          "end": 358.06,
+          "translation": "Details"
+        },
+        {
+          "word": "der",
+          "start": 358.06,
+          "end": 358.4,
+          "translation": "the"
+        },
+        {
+          "word": "Veranstalter",
+          "start": 358.4,
+          "end": 359.36,
+          "translation": "Organizer"
+        },
+        {
+          "word": "die",
+          "start": 359.36,
+          "end": 360.06,
+          "translation": "the"
+        },
+        {
+          "word": "weltgrößte",
+          "start": 360.06,
+          "end": 361.08,
+          "translation": "world's largest"
+        },
+        {
+          "word": "Publikumsmesse",
+          "start": 361.08,
+          "end": 362.24,
+          "translation": "Public Trade Show"
+        },
+        {
+          "word": "für",
+          "start": 362.24,
+          "end": 362.64,
+          "translation": "for"
+        },
+        {
+          "word": "Brettspiele.",
+          "start": 362.64,
+          "end": 363.42,
+          "translation": "Board games."
+        },
+        {
+          "word": "Diesmal",
+          "start": 364.42,
+          "end": 365.06,
+          "translation": "This time"
+        },
+        {
+          "word": "kommen",
+          "start": 365.06,
+          "end": 365.36,
+          "translation": "come"
+        },
+        {
+          "word": "für",
+          "start": 365.36,
+          "end": 365.76,
+          "translation": "for"
+        },
+        {
+          "word": "die",
+          "start": 365.76,
+          "end": 366.0,
+          "translation": "the"
+        },
+        {
+          "word": "vier",
+          "start": 366.0,
+          "end": 366.3,
+          "translation": "four"
+        },
+        {
+          "word": "Tage",
+          "start": 366.3,
+          "end": 366.8,
+          "translation": "days"
+        },
+        {
+          "word": "fast",
+          "start": 366.8,
+          "end": 367.2,
+          "translation": "almost"
+        },
+        {
+          "word": "1000",
+          "start": 367.2,
+          "end": 368.04,
+          "translation": "1000"
+        },
+        {
+          "word": "Aussteller",
+          "start": 368.04,
+          "end": 368.92,
+          "translation": "Exhibitor"
+        },
+        {
+          "word": "aus",
+          "start": 368.92,
+          "end": 369.28,
+          "translation": "from"
+        },
+        {
+          "word": "53",
+          "start": 369.28,
+          "end": 370.08,
+          "translation": "53"
+        },
+        {
+          "word": "Ländern",
+          "start": 370.08,
+          "end": 370.66,
+          "translation": "Countries"
+        },
+        {
+          "word": "nach",
+          "start": 370.66,
+          "end": 371.1,
+          "translation": "to"
+        },
+        {
+          "word": "Essen.",
+          "start": 371.1,
+          "end": 371.38,
+          "translation": "Essen."
+        },
+        {
+          "word": "Die",
+          "start": 372.44,
+          "end": 372.64,
+          "translation": "The"
+        },
+        {
+          "word": "Spielehersteller",
+          "start": 372.64,
+          "end": 373.72,
+          "translation": "Game Developer"
+        },
+        {
+          "word": "und",
+          "start": 373.72,
+          "end": 374.14,
+          "translation": "and"
+        },
+        {
+          "word": "Erfinder",
+          "start": 374.14,
+          "end": 374.6,
+          "translation": "Inventor"
+        },
+        {
+          "word": "wollen",
+          "start": 374.6,
+          "end": 375.44,
+          "translation": "want"
+        },
+        {
+          "word": "rund",
+          "start": 375.44,
+          "end": 375.76,
+          "translation": "round"
+        },
+        {
+          "word": "1800",
+          "start": 375.76,
+          "end": 376.94,
+          "translation": "1800"
+        },
+        {
+          "word": "Neuheiten",
+          "start": 376.94,
+          "end": 378.06,
+          "translation": "What's New"
+        },
+        {
+          "word": "zeigen.",
+          "start": 378.06,
+          "end": 378.58,
+          "translation": "show."
+        },
+        {
+          "word": "Alle",
+          "start": 379.34,
+          "end": 379.58,
+          "translation": "All"
+        },
+        {
+          "word": "Spiele",
+          "start": 379.58,
+          "end": 380.08,
+          "translation": "Games"
+        },
+        {
+          "word": "dürfen",
+          "start": 380.08,
+          "end": 380.48,
+          "translation": "may"
+        },
+        {
+          "word": "getestet",
+          "start": 380.48,
+          "end": 381.26,
+          "translation": "tested"
+        },
+        {
+          "word": "werden.",
+          "start": 381.26,
+          "end": 381.56,
+          "translation": "become."
+        },
+        {
+          "word": "Mit",
+          "start": 382.58,
+          "end": 382.84,
+          "translation": "With"
+        },
+        {
+          "word": "dem",
+          "start": 382.84,
+          "end": 383.22,
+          "translation": "the"
+        },
+        {
+          "word": "alljährlich",
+          "start": 383.22,
+          "end": 384.18,
+          "translation": "annually"
+        },
+        {
+          "word": "vergebenen",
+          "start": 384.18,
+          "end": 384.92,
+          "translation": "awarded"
+        },
+        {
+          "word": "Deutschen",
+          "start": 384.92,
+          "end": 385.48,
+          "translation": "Germans"
+        },
+        {
+          "word": "Spiele",
+          "start": 385.48,
+          "end": 386.07,
+          "translation": "Games"
+        },
+        {
+          "word": "Preis",
+          "start": 386.07,
+          "end": 386.66,
+          "translation": "Price"
+        },
+        {
+          "word": "wird",
+          "start": 386.66,
+          "end": 387.28,
+          "translation": "becomes"
+        },
+        {
+          "word": "in",
+          "start": 387.28,
+          "end": 387.52,
+          "translation": "in"
+        },
+        {
+          "word": "Essen",
+          "start": 387.52,
+          "end": 387.94,
+          "translation": "Food"
+        },
+        {
+          "word": "diesmal",
+          "start": 387.94,
+          "end": 388.76,
+          "translation": "this time"
+        },
+        {
+          "word": "„Artengarten“",
+          "start": 388.76,
+          "end": 389.96,
+          "translation": "\"Species Garden\""
+        },
+        {
+          "word": "von",
+          "start": 389.96,
+          "end": 390.56,
+          "translation": "from"
+        },
+        {
+          "word": "Mathias",
+          "start": 390.56,
+          "end": 391.03,
+          "translation": "Mathias"
+        },
+        {
+          "word": "Wigge",
+          "start": 391.03,
+          "end": 391.5,
+          "translation": "Wigge"
+        },
+        {
+          "word": "ausgezeichnet.",
+          "start": 391.5,
+          "end": 392.6,
+          "translation": "excellent."
+        },
+        {
+          "word": "Ziel",
+          "start": 393.42,
+          "end": 393.8,
+          "translation": "Goal"
+        },
+        {
+          "word": "des",
+          "start": 393.8,
+          "end": 394.06,
+          "translation": "of the"
+        },
+        {
+          "word": "Brettspiels",
+          "start": 394.06,
+          "end": 394.94,
+          "translation": "Board games"
+        },
+        {
+          "word": "für",
+          "start": 394.94,
+          "end": 395.4,
+          "translation": "for"
+        },
+        {
+          "word": "bis",
+          "start": 395.4,
+          "end": 395.64,
+          "translation": "to"
+        },
+        {
+          "word": "zu",
+          "start": 395.64,
+          "end": 395.9,
+          "translation": "to"
+        },
+        {
+          "word": "fünf",
+          "start": 395.9,
+          "end": 396.22,
+          "translation": "five"
+        },
+        {
+          "word": "Teilnehmer",
+          "start": 396.22,
+          "end": 396.98,
+          "translation": "Participants"
+        },
+        {
+          "word": "ist",
+          "start": 396.98,
+          "end": 397.4,
+          "translation": "is"
+        },
+        {
+          "word": "es,",
+          "start": 397.4,
+          "end": 397.76,
+          "translation": "it,"
+        },
+        {
+          "word": "unter",
+          "start": 398.28,
+          "end": 398.56,
+          "translation": "under"
+        },
+        {
+          "word": "Artenschutzaspekten",
+          "start": 398.56,
+          "end": 400.12,
+          "translation": "Species conservation considerations"
+        },
+        {
+          "word": "einen",
+          "start": 400.12,
+          "end": 400.88,
+          "translation": "one"
+        },
+        {
+          "word": "wissenschaftlich",
+          "start": 400.88,
+          "end": 402.02,
+          "translation": "scientific"
+        },
+        {
+          "word": "geführten",
+          "start": 402.02,
+          "end": 402.82,
+          "translation": "guided"
+        },
+        {
+          "word": "Zoo",
+          "start": 402.82,
+          "end": 403.18,
+          "translation": "Zoo"
+        },
+        {
+          "word": "zu",
+          "start": 403.18,
+          "end": 403.54,
+          "translation": "to"
+        },
+        {
+          "word": "bauen.",
+          "start": 403.54,
+          "end": 403.88,
+          "translation": "build."
+        }
+      ]
+    }
+  ]
+}
